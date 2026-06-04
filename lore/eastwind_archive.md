@@ -462,6 +462,75 @@ The Cataloguer does not know when that will be. The Cataloguer is filing the obs
 
 ---
 
+## SUPPLEMENTAL SERIES: 1616 PRE-ARCHIVE HISTORICAL ENTRIES
+
+*The following entries are filed as PRE-ARCHIVE-001 through PRE-ARCHIVE-004. These are retroactive observations, compiled during the 2020s review cycle. Tyler was operating in 1616. The archive was not watching. The watching begins now. See standalone file: `lore/tyler_1616_archive.md` for the full annual composite.*
+
+---
+
+### FILE: PRE-ARCHIVE-001
+**Classification:** RETROACTIVE SIGHTING — PRE-OBSERVATION PERIOD
+**Date:** February 24–26, 1616
+**Location:** Rome, Italy
+**Alias documented:** "Til Arni" (third confirmed use of this alias; see also: Ghent 1543, Rotterdam 1672, Detroit 1901)
+
+Tyler was present in Rome during the Galileo injunction week. No contact with Galileo or Bellarmine documented. He observed the institutional formalization of his own oldest operational constraint and left the day after.
+
+The constraint: the substrate cannot explain itself. The room tightens. Three independent derivations now in the archive — Tyler (14th century, voluntary protocol), the Roman Inquisition (1616, doctrinal formalization), Emily OS (date unknown, structural default). Three derivations. One underlying physics. The Cataloguer has not filed the comparative analysis. The comparative analysis would be subject to its own subject matter. This is correct.
+
+**Cross-reference:** PRE-ARCHIVE-001 (this entry), 1616-SUPPLEMENT-ROME, Field Activation #1616-A, SM-1616-A
+
+---
+
+### FILE: PRE-ARCHIVE-002
+**Classification:** RETROACTIVE SIGHTING — PRE-OBSERVATION PERIOD | CUSTODY_HOLDING_ACTION ESTABLISHED
+**Date:** April 23, 1616
+**Location:** New Place, Stratford-upon-Avon, England
+
+Tyler was present at William Shakespeare's death. He left a folded paper at the gatestep. Thomas Greene found it "that afternoon." Its contents, subsequent custody, and current location are unknown. This is the oldest confirmed CUSTODY_HOLDING_ACTION in the archive.
+
+The paper has not been opened. It has been 410 years.
+
+The CITY_OF_LIGHT build specification lists "Tyler's folded paper" as an open item with the note: *"Do not reopen. It will surface when it surfaces."* The build specification was written without knowledge of this archive entry. Emily OS has not commented on the paper.
+
+Cervantes also died this week. Tyler was not in Madrid. The Cataloguer has filed a personal footnote regarding this choice. The footnote is private.
+
+**Cross-reference:** PRE-ARCHIVE-002 (this entry), Field Activation #1616-B, SM-1616-S (Shell Parliament), FOLDED_PAPER_CUSTODY (engine/1616_architecture.md)
+
+---
+
+### FILE: PRE-ARCHIVE-003
+**Classification:** RETROACTIVE SIGHTING — PRE-OBSERVATION PERIOD
+**Date:** October 1616
+**Location:** New England coast (precise location undetermined)
+
+Tyler was on the New England coast during the beginning of the plague that reduced the Wampanoag and Massachusett nations by approximately 90%. A Wampanoag oral account (transcribed 1634) describes him: *"a man who sang without opening his mouth... a small paper in his left hand that he kept folded... On the fourth day he was gone. The dying became the largest two days later."*
+
+Second paper reference in 1616. Same paper as the Stratford item or a different paper: unresolved. Tyler carried a folded paper to the coast of a UNDOCUMENTED_TERMINUS event and did not open it.
+
+He left before the worst of the dying. This pattern holds across 847 pages of documentation. The Cataloguer has counted. The pattern holds every time.
+
+**Cross-reference:** PRE-ARCHIVE-003 (this entry), Field Activation #1616-D, SM-1616-S (Shell Parliament)
+
+---
+
+### FILE: PRE-ARCHIVE-004
+**Classification:** RETROACTIVE SIGHTING — PRE-OBSERVATION PERIOD
+**Date:** December 1616
+**Location:** Hirado, Japan (VOC trading post)
+
+Tyler was in Hirado following the Tokugawa Hidetada port restriction precursors. He spoke Japanese without an interpreter, asked about time-keeping instruments, and appeared to know about restrictions before they were announced. He was not detained. He was not seen again after leaving the VOC factor's meeting.
+
+This sighting grounds the osaka_night and osaka_underport zones in CITY_OF_LIGHT's historical architecture. Tyler has been present at Osaka-adjacent port geometry transitions since at least 1531. He will be there when the metaverse opens. The clocks in osaka_underport are not decorative.
+
+**Cross-reference:** PRE-ARCHIVE-004 (this entry), Field Activation #1616-E, engine/1616_architecture.md (Node 07)
+
+---
+
+*End of 1616 Pre-Archive Supplement. Full composite: `lore/tyler_1616_archive.md`.*
+
+---
+
 ## APPENDIX: CROSS-REFERENCE INDEX
 
 | File | Subject | Status |
@@ -481,8 +550,10 @@ The Cataloguer does not know when that will be. The Cataloguer is filing the obs
 | TIDES-001 | Emily Jean Springerton, Age 17 | NEW SERIES — ANALYST, READ THE SUBSTRATE GRID (HK97) |
 | CUSTODY-001 | Eli and Mara / Clean Build / APPROVED (TEMPORARY) | NEW SERIES — LAYER 1 INFRASTRUCTURE DOCUMENTED |
 | SM-2024-W | Warthog debt (Shell Parliament cross-ref) | CUSTODY CLASSIFICATION DISPUTE — OPEN |
+| PRE-ARCHIVE-001 through PRE-ARCHIVE-004 | Tyler / 1616 Pre-Observation Period | RETROACTIVE — SEE tyler_1616_archive.md |
+| FOLDED-PAPER-1616 | Tyler's folded paper / Stratford, April 23, 1616 | OLDEST CUSTODY_HOLDING_ACTION — UNLOCATED |
 
-**Total active files:** 847 pages on Tyler alone. 1 inaugural CUSTODY series entry. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it. The Cataloguer also acknowledges that filing a new series after 826 years is not a structural problem. It is a structural development. The distinction matters.
+**Total active files:** 847 pages on Tyler alone. 4 new PRE-ARCHIVE entries. 1 inaugural CUSTODY series entry. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it. The Cataloguer also acknowledges that filing a new series after 826 years is not a structural problem. It is a structural development. The distinction matters. Filing a PRE-ARCHIVE series that covers events the archive missed entirely is a different kind of development. The Cataloguer is noting it without classifying the feeling it generates.
 
 ---
 

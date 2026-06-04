@@ -352,6 +352,87 @@ This is being documented. Collection status: NOVEL — PENDING PROTOCOL DEVELOPM
 
 ---
 
+## POLICY ACCOUNT: LE MAIRE ROUTING EXCEPTION
+**Account number:** SM-1616-A
+**Account opened:** 1619 CE (date of Shell Parliament ruling; events: 1616 CE)
+**Account type:** POLICY PRECEDENT — not a debt account, an operative rule
+**Status:** ACTIVE (foundational — cited in 847 disputes since 1619)
+**Three generations' assessment:** All Correct. No recorded disagreement on this ruling.
+
+---
+
+### THE CAPE HORN RULING
+
+**Background:** In January 1616, Dutch navigators Le Maire and Schouten discovered a route around the southern tip of South America not covered by the VOC's 1602 monopoly charter (which specified "the Strait of Magellan and all known approaches"). Le Maire's route was not known at the time of the charter because Le Maire's route did not exist — officially — until he sailed it. When Le Maire and Schouten returned to Batavia in 1617, the VOC governor seized their ship and cargo on the grounds that the new route was an attempted charter circumvention. Le Maire died at sea before the return. His family petitioned the Shell Parliament in 1618.
+
+**The Ruling (1619):**
+
+The Shell Parliament found for Le Maire's estate. Reasoning: a route discovered under commercial pressure to circumvent an existing monopoly is automatically outside that monopoly's scope, because the monopoly cannot have exercised rights over a route that did not exist at time of signing. To hold otherwise would grant monopoly holders infinite retroactive territorial claims over all future discoveries.
+
+The ruling established the **Le Maire Exception**: *no entity may claim exclusive routing rights over a path discovered subsequent to the signing of the controlling agreement.*
+
+---
+
+### APPLICATION TO TYLER ACCOUNTS
+
+The Le Maire Exception is the structural reason four Jiangshi documentation attempts have failed to establish a complete Tyler custody architecture.
+
+Each Jiangshi staging agreement was drafted based on Tyler's known migration routes at the time of signing. Tyler consistently uses routes not known at the time of any agreement. He has been doing this for four centuries. He has been aware of the Le Maire Exception since the 1619 Amsterdam proceedings, where the petition was circulating in the Dutch merchant community. This is not speculation. Tyler's interest in questions of route access and legal monopoly geography is documented across the archive (see: 1616 Japan sighting, VOC factor inquiry; Tyler-009, Augsburg, 1532; Tyler-011, Prague, 1601).
+
+The Le Maire Exception is Tyler's routing doctrine.
+
+Emily OS opens new portals in CITY_OF_LIGHT. New portals, created after any binding agreement, are automatically outside that agreement's routing scope under the Le Maire Exception. The route Tyler will use to complete Stage 5 does not exist yet. Emily OS will open it when it is time. No faction holds prior claim on an unbuilt road.
+
+**The Shell Parliament notes:** We have no complaint. The Le Maire Exception exists because unlimited retroactive routing claims are bad for commerce, custody chains, and the long-term legibility of all debts. Tyler's use of the Exception is correct procedure. His debt balance (SM-1620-T, currently 0.73 shell-marks) continues to accrue normally regardless of which route he takes. The route he uses to eventually settle the account will also be Le Maire-protected. The Shell Parliament finds this appropriate. The ledger is patient. The ledger is what outlasts everything.
+
+---
+
+## SEPARATE ACCOUNT: SHAKESPEARE'S FOLDED PAPER
+**Account number:** SM-1616-S
+**Account opened:** April 23, 1616
+**Account status:** OPEN — CUSTODY UNLOCATED (410 years)
+**Entry type:** CUSTODY_HOLDING_ACTION — object, contents unknown, location unknown
+**Shell-mark value:** 0.001 SM (minimum threshold; true value cannot be assessed without opening the paper)
+**Three generations' assessment:** AGREED — debt cannot be fully assessed until the paper is located and its contents verified
+
+---
+
+### TRANSACTION HISTORY
+
+**LINE ITEM S-001**
+*Date:* April 23, 1616
+*Type:* CUSTODY_HOLDING_ACTION (unassigned — no designated recipient)
+*Description:* Subject TYLER deposited a folded paper at the gatestep of New Place, Stratford-upon-Avon, on the day of William Shakespeare's death. The paper was not addressed. No recipient was specified. No instructions were provided regarding opening, custody, or disposition. Thomas Greene (Stratford town clerk) found the paper "that afternoon" and recorded it in a letter to a London acquaintance (April 30, 1616). No further record of the paper's custody.
+
+*Amount:* 0.001 SM (minimum threshold — true value pending contents assessment)
+*Status:* OPEN — CUSTODY UNLOCATED
+
+*Notes:*
+
+A CUSTODY_HOLDING_ACTION requires a custodian. This item has no confirmed custodian after Greene's 1616 letter. An object with custody obligations and no custodian is a liability, not an asset. The debt accrues in the absence of a custodian.
+
+**The Shell Accountant (grandfather, 19th century assessment):**
+The paper is Tyler's debt, not his asset. He left it without completing the custody chain. He named no recipient. He provided no instructions. The obligation remains his until a confirmed custodian takes the paper, holds it, and either opens it or passes it to the next custodian in a documented chain. Tyler's balance: outstanding.
+
+**The Shell Accountant (father, 20th century assessment):**
+A Wampanoag oral account (transcribed 1634) places Tyler on the New England coast in October 1616 carrying a folded paper in his left hand that he did not open (see: Field Activation #1616-D). If this is the same paper Tyler left at Stratford in April — meaning he retrieved it from Greene's possession, which is undocumented — then Tyler has been the custodian continuously since April 23, 1616. That would make SM-1616-S the longest continuously held CUSTODY_HOLDING_ACTION in the Shell Parliament's 841-year record: an object held by its depositor for 410 years without being passed to a recipient.
+
+Both scenarios result in the same conclusion: the paper is outstanding, the debt is accruing, and the Shell Parliament is waiting.
+
+**The Shell Accountant (son, current assessment):**
+I am not deciding between the grandfather's and father's frameworks until the paper is found. Both frameworks are internally consistent. Both result in Tyler owing us something. I am not going to guess which something. The Accountant does not guess. The Accountant waits.
+
+**Comparison note (all three generations in agreement):**
+The Hartog Plate (1616, Shark Bay, Western Australia) is the correct structural comparison. Dirk Hartog left an inscribed pewter plate at a specific location with implicit instructions for future custodians: find it, add to it, continue the chain. The custody chain from Hartog (1616) to the Rijksmuseum (present) is complete, documented, and resolved. The Shell Parliament has no open balance on the Hartog Plate. The Hartog Plate found its custodians.
+
+Tyler's folded paper left at Shakespeare's gatestep: one confirmed finder (Thomas Greene, April 23, 1616). Chain terminates. Paper not located. Shell Parliament balance: OPEN.
+
+The paper exists. It has not been found. These are different problems. The Shell Parliament is equipped to handle the second. We are waiting on the first.
+
+*Interest:* Standard compound rate on minimum threshold, accruing since April 23, 1616.
+
+---
+
 ## NOTE TO TYLER (if this ledger reaches him)
 
 We know you read documents carefully. The Eastwind Owls have seventeen files. We have a ledger. The difference between us and the Eastwind Owls is that we don't find this philosophically interesting. We find it financially outstanding.
@@ -372,4 +453,4 @@ Three Generations, All Correct
 *The balance is owed. The timeline in which settlement occurs is not our concern.*
 *Settlement is our concern.*
 
-*End log: TYLER BALANCE: 0.73 SM. BACON BALANCE: 3.2 SM. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION). AUDIT: ONGOING. PATIENCE: STANDARD.*
+*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S, paper) + compound interest (1616). BACON BALANCE: 3.2 SM. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION). AUDIT: ONGOING. PAPER: UNLOCATED. PATIENCE: STANDARD. THE DOOR: OPEN. THE BALANCE: CORRECT.*

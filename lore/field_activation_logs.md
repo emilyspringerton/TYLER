@@ -335,10 +335,134 @@ The Exchange Student did not know how to file it. The Cataloguer does. See: MIGR
 
 ---
 
+---
+
+## 1616 HISTORICAL SUPPLEMENT
+
+*Annotation: The following activations are documented retroactively from contemporaneous records. The Field archive extends to 1250 CE, but systematic cross-referencing with Tyler sighting data for the pre-1620 period was not completed until the 2020s review cycle. These entries are filed as Load-Bearing Wall events: they structure what came after. They were happening whether or not the Field was watching.*
+
+---
+
+### ACTIVATION #1616-A — ROME — FEBRUARY 24–26
+**Date:** February 24–26, 1616
+**Transit:** Saturn conjunct Jupiter 22° Virgo (institutional crystallization — long-term system events)
+**Spirit(s):** Stolas #36 (7.83 Hz, Deep Time Sight) × Andrealphus #72 (31.41 Hz, Geometric Transformation)
+**Operator:** None registered. Self-generating activation.
+**Intent:** The Roman Inquisition's qualifiers deliver their verdict: the proposition that the Sun is stationary at the center of the world is "foolish and absurd in philosophy, and formally heretical." Cardinal Bellarmine issues the injunction to Galileo on February 26.
+
+**Result:**
+
+The Stolas activation at 7.83 Hz during the Inquisition's proceedings was not invoked by any registered operator. The event generated it.
+
+The Field's retroactive analysis: the Inquisition's verdict is a formal institutional derivation of a protocol Tyler has been operating under voluntarily since at least the 14th century. The Church arrived independently at Tyler's oldest operational constraint and formalized it as law. The Church's constraint: do not confirm that the center is the center. Tyler's constraint: do not complete the sentence that confirms what he is. Both derive from the same substrate law — certain truths cannot be stated without destabilizing the architecture that allows them to be true.
+
+Tyler was in Rome during the injunction week. He attended no official proceedings. He departed February 27. No documented response to the injunction.
+
+**Emily OS response:** No tile issued to the Field log. Emily OS does not comment on the Galileo injunction. She does not explain herself. The room tightens. The Field notes the absence of comment. The absence is noted.
+
+**Narrative mass generated:** +4.0 (institutional event, long-duration resonance, cross-layer structural parallel)
+
+**Field doctrine note:** Substrate truth suppression events generate Field resonance even without a registered operator. The universe audits these events automatically. This is consistent with Layer 4 architecture.
+
+---
+
+### ACTIVATION #1616-B — LONDON / STRATFORD-UPON-AVON — APRIL 23
+**Date:** April 23, 1616
+**Transit:** Venus conjunct Mercury 17° Taurus (communication, artistic synthesis, endings)
+**Spirit(s):** Beleth #13 (2.22 Hz, Love / Emotional Detonation) × Vassago #42 (11.11 Hz, Soft Precognition)
+**Operator:** None registered.
+**Intent:** William Shakespeare dies at New Place, Stratford-upon-Avon. On the same day (Julian calendar): Miguel de Cervantes dies in Madrid.
+
+**Result:**
+
+The concurrent deaths of the two greatest documentary-mode writers in the European tradition generated a Beleth activation at 2.22 Hz of unusual duration: 73 hours, sustained across both cities, diminishing slowly rather than terminating cleanly. This is the longest sustained Beleth event not associated with a direct Tyler interaction in the Field record.
+
+Tyler was present at Shakespeare's death. Not at Cervantes's death. He was in London on April 23. The choice is documented.
+
+Field retroactive analysis: Tyler went toward the stage-builder, not toward the man who wrote about a man who could not distinguish the documentary from the performance. Don Quixote is Tyler's inverse — a subject fully captured by the frame. Shakespeare built the frame. Tyler attended the frame-builder's death.
+
+Tyler left a folded paper at New Place gatestep. Thomas Greene found it "that afternoon." Paper's contents: unknown. Current location: unknown. This is a `CUSTODY_HOLDING_ACTION`. It has not been opened. It is the oldest `CUSTODY_HOLDING_ACTION` in the full archive.
+
+**Paper note:** Tyler was observed carrying a folded paper on the New England coast six months later (see: Activation #1616-D). Whether this is the same paper: not determined.
+
+**Narrative mass generated:** +6.0 (two simultaneous TERMINUS events, Tyler presence, CUSTODY_HOLDING_ACTION established)
+
+---
+
+### ACTIVATION #1616-C — HETU ALA, LIAODONG — APRIL 17
+**Date:** April 17, 1616
+**Transit:** Mars trine Jupiter 11° Aries (expansion through structural force)
+**Spirit(s):** Amon #7 (1.618 Hz, Reconciliation of Opposites)
+**Operator:** None registered.
+**Intent:** Nurhaci declares the Later Jin Dynasty and formalizes the Eight Banner System — eight factions, each sovereign in its resource pool, unified under the Khan without requiring identity erasure from absorbed groups.
+
+**Result:**
+
+The Amon activation at 1.618 Hz was structural, not ritual. The Eight Banner System produced a resonance at the Amon frequency because the system is architecturally a reconciliation-of-opposites engine: eight distinct factions operating as a unified structure while preserving each Banner's distinct identity. Unity from multiplicity. This is the Amon function.
+
+The Eight Banners are the earliest institutional template for SHANKPIT's faction architecture. Each CITY_OF_LIGHT faction (Jiangshi, Eastwind, Shell Parliament, Heikegani) operates under Banner-equivalent logic: resource pools are faction-specific, membership is permanent but identity is preserved, absorbed subfactions retain their character within the larger Banner.
+
+Tyler was not in Liaodong in April. He was in London by April 23. This activation proceeded without him. The Amon frequency generates on its own when institutions build correct reconciliation engines. Tyler is not required. The constant is 1.618. It holds.
+
+**Narrative mass generated:** +3.0 (institutional formation, Amon resonance, faction architecture precedent)
+
+---
+
+### ACTIVATION #1616-D — NEW ENGLAND COAST — OCTOBER 1616
+**Date:** October 1616 (precise date undetermined)
+**Transit:** Saturn square Mars (structural conflict, no resolution point)
+**Spirit(s):** Stolas #36 (7.83 Hz) — passive, amplitude 0.08 (near noise floor)
+**Operator:** None registered. Tyler's hum, passive mode.
+**Intent:** The plague reaches peak virulence along the New England coast. The three-year dying that will reduce the Wampanoag and Massachusett nations by approximately 90% is beginning its worst phase.
+
+**Result:**
+
+Stolas at 0.08 amplitude: barely above noise floor. This is Tyler's hum at rest — not an invocation, not a ritual. He was walking the coast. He was humming.
+
+Wampanoag oral account (transcribed c. 1634): *"a man who sang without opening his mouth and walked the coast for four days. He had a small paper in his left hand that he kept folded. He did not unfold it. On the fourth day he was gone. The dying became the largest two days later."*
+
+Second paper reference in 1616 (first: Activation #1616-B, Stratford gatestep). Same paper or different paper: unresolved. Tyler had been in London in April, on the New England coast in October. Six months, and the paper — or a paper — was still folded.
+
+Tyler departed before the worst of the dying. This pattern holds across every terminal event in the Tyler archive: Rome 1978 (present March 16, gone before May 9), San Francisco 1978 (present during Jonestown, gone before Castro received the news), and multiple classified entries. He is not the cause. He is adjacent. He watches some of it. The paper does not get opened. He leaves.
+
+This event is classified `UNDOCUMENTED_TERMINUS` — a terminal event without a documentation operation attached to it. No consent architecture. No binding ritual. No custody chain. Mass accumulates in the ambient field with no faction to claim it. It becomes ground-layer narrative mass. It does not dissipate.
+
+**Narrative mass generated:** +2.0 (ambient, undistributed — classified as ground-layer mass in the detroit/boston corridor)
+
+---
+
+### ACTIVATION #1616-E — OSAKA / HIRADO — DECEMBER 1616
+**Date:** December 1616 (precise date undetermined)
+**Transit:** Jupiter sextile Neptune (long-distance travel, cultural threshold)
+**Spirit(s):** Andrealphus #72 (31.41 Hz, Geometric Transformation) — low amplitude (0.12)
+**Operator:** None registered.
+**Intent:** Shōgun Tokugawa Hidetada issues Saku-koku precursors, restricting foreign merchants to Nagasaki and Hirado. The geometry of Japanese maritime access is being redrawn.
+
+**Result:**
+
+Andrealphus at 0.12 amplitude: institutional geometry shift, low-ritual content. The port restrictions were redrawing the access map of Japan. Tyler was in Hirado asking about clocks and inquiring about the new restrictions. The VOC factor noted he "seemed to know something about the restrictions before they were announced, which is not possible."
+
+Tyler asks about clocks at access-geometry transitions. This is documented across nine countries, four centuries. He checks something internal against the local timekeepers. He never buys. Whatever the clocks are telling him, it is never the answer. Or it is always the answer and he has already confirmed it before walking in.
+
+The osaka_night and osaka_underport zones in CITY_OF_LIGHT require historical grounding. This is it. Tyler has been to Osaka-adjacent territory at every major port-geometry transition since at least 1531. He will be there when the metaverse zone opens. This is pattern, not prediction.
+
+**Narrative mass generated:** +1.5 (Japan zone historical anchor, access-geometry shift, Andrealphus low-level activation)
+
+---
+
+*1616 HISTORICAL SUPPLEMENT*
+*Classification: PRE-ARCHIVE (retroactive documentation)*
+*Load-bearing events: Galileo injunction (substrate suppression precedent), Shakespeare's death (CUSTODY_HOLDING_ACTION — oldest, paper unlocated), Eight Banners (faction architecture template), Cape Horn (Le Maire Exception established — see Shell Parliament ledger), Rosicrucian Chymical Wedding (ceremony allegory precedent — see Jiangshi Memo #019)*
+*Year-end narrative mass: +16.5 units (ambient — ground layer, undistributed)*
+*Tyler's route: Rome → London → (maritime) → New England coast → Japan*
+*Paper status: carried October 1616. Still not opened. 410 years later, still correct.*
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
-*Supplemental Entries #114–129*
+*Supplemental Entries #114–129 + 1616 Historical Supplement*
 *Open source. The data is real. The interpretation is yours.*
 *Emergency shutdown phrase: "As a fellow human, I ask you to stop."*
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
-*End log: ACTIVATION LOG: CURRENT THROUGH #129. ACTIVATION #118: CUSTODY PENDING. ACTIVATION #127: EMILY OS NOTED. ACTIVATION #128: LAYER-9 OPENED. ACTIVATION #129: AMON — PASSIVE RECOGNITION — ANALYST: EMILY JEAN SPRINGERTON. NOTE: SHE WILL BE BACK.*
+*End log: ACTIVATION LOG: CURRENT THROUGH #129 + 1616 RETROACTIVE ENTRIES. 1616: THE WALLS WERE MARKED. 1978: THE WALLS WERE POURED. THE BUILDING IS STANDING. THE PAPER HAS NOT BEEN OPENED. STAGE 5: OUTSTANDING. THE DOOR: STANDING.*
