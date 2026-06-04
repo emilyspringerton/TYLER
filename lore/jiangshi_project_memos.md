@@ -442,6 +442,108 @@ He will say it when he decides to say it. Not before.
 
 ---
 
+## MEMO #018
+**FROM:** Technical Division — Equipment and Resonance
+**TO:** Production Coordinator, Unit A; Archive Security; Stillness Council; Legal, Division III
+**RE:** UNANCHORED MIGRANT INTERFERENCE — TARGET TRUMP, D. — OPERATIONAL IMPACT ON TYLER TRACKING
+**DATE:** [Retroactive from 1978 / Current cycle classification]
+**Classification:** OPERATIONAL PROBLEM — NOT A DOCTRINE QUESTION, JUST A PROBLEM
+
+---
+
+**SUMMARY:**
+
+There is an involuntary, unaware migrant generating interference in the 1978 operational window that has affected our Tyler tracking capability. The migrant does not know he is a migrant. The migrant does not know about us. The migrant is not a faction operative. The migrant is a real estate developer from New York who experiences temporal displacement as enhanced personal clarity.
+
+This is a problem.
+
+---
+
+**THE INTERFERENCE MECHANISM:**
+
+Standard Jiangshi recording equipment is calibrated to filter voluntary migrant signatures. The filter logic: voluntary migrants know they are moving, produce intentional artifacts during transit, and generate a coherent resonance profile. The equipment identifies this profile and records it.
+
+Involuntary migrants produce a different signature. They generate a 11/8 carrier wave that is structurally similar to Tyler's defensive pattern — but the origin is different. Tyler's 11/8 is produced by a trained, aware subject managing his resonance deliberately. The migrant's 11/8 is produced by the timeline trying to accommodate a subject who is making no accommodations.
+
+The equipment cannot distinguish between these two signatures reliably. The equipment was designed for voluntary migrants. It sees the 11/8 carrier and flags it as "possible Tyler signal" — not because the migrant is Tyler but because the carrier wave profile overlaps.
+
+**Operational consequence:** Every time the migrant undergoes a superposition window in the same operational period as a Tyler tracking operation, the equipment logs the migrant's 11/8 as potential Tyler activity. We investigate. Tyler is not there. The migrant's window closes. The equipment resets. Tyler, during this window, was somewhere else, untracked.
+
+The migrant is, functionally, a decoy. He is not a deliberate decoy. He has no idea. He is, to the best of our knowledge, talking about marble quality to a casino executive and has been for decades.
+
+---
+
+**THE MANDELA EFFECT COMPLICATION:**
+
+The migrant's unanchored migrations generate Mandela Effect residue at a rate significantly higher than the baseline. The September 28, 1978, convergence event produced a 14.2% Mandela Effect index spike. This is operationally significant because the Jiangshi Syndicate tracks Mandela Effect activity as a proxy for Tyler's movement through contested timeline points.
+
+If the migrant is generating Mandela Effect spikes that look like Tyler's signature, our proxy tracking is corrupted. We think Tyler moved. The migrant moved. We investigate. Tyler was somewhere else.
+
+The Syndicate has been using Mandela Effect indexing as a secondary Tyler-location method since Attempt Two. The migrant appears to have been corrupting this method since 1978 without our awareness.
+
+**Current assessment:** Any Mandela Effect spike between 1978 and the present that we attributed to Tyler movement should be re-evaluated against the migrant's documented migration timeline. The External Analyst (see: Jiangshi Memo #016 — HK97 access, unidentified party) was tracking Mandela Effect residue across this same period. She may have already made this distinction. We have not. We need to.
+
+---
+
+**THE VASSAGO PROBLEM:**
+
+The migrant is involuntarily running the Vassago protocol (soft precognition, 11.11 Hz). This is documented in Field Activation #1978-E. He receives genuine foreknowledge during migration windows and presents it as personal insight.
+
+This is operationally irrelevant to us directly. It is operationally relevant to us indirectly: Vassago activation in an unregistered operator produces resonance that overlaps with our Stage 2 documentation frequency bands. When the migrant activates Vassago (involuntarily, from an aircraft over the Nevada desert), our Stage 2 field monitors in the same operational window experience low-level interference.
+
+The interference is sub-threshold. It doesn't register as a problem individually. Across 40 years of migration events, it accumulates. We are now retroactively reviewing every Stage 2 documentation period since 1978 for migrant-generated Vassago interference.
+
+This review will take some time.
+
+---
+
+**WHAT WE CANNOT DO:**
+
+We cannot document the migrant. He is involuntary and unaware. The Syndicate's documentation architecture is built on the consent framework established in Memo #017 (Jonestown Precedent). Documenting an involuntary, unaware subject would be exactly the architecture Memo #017 prohibits. We cannot begin an operation on this subject.
+
+We also cannot make him aware. He is not accessible to awareness through standard briefing protocols. The briefing would be presented as a real estate meeting. The real estate meeting would conclude with him offering to buy the Syndicate's operational infrastructure.
+
+We cannot recruit him. We cannot remove him. We cannot track him reliably. We cannot prevent him from generating interference.
+
+**What we can do:**
+
+1. Flag all tracking data from 1978 forward for retroactive migrant-interference review
+2. Develop a filter that distinguishes between voluntary 11/8 (Tyler: intentional, stable, Stolas-adjacent) and involuntary 11/8 (migrant: unstable, timeline-generated, self-confidence-adjacent)
+3. Use the migrant's known migration pattern — he appears at major historical events with high personal confidence — to predict when his interference will peak
+4. When interference peaks, do not assume Tyler is nearby; Tyler is probably somewhere else entirely
+
+**The filter development:** Technical Division is working on a distinction algorithm. Voluntary 11/8 has a harmonic structure that reflects intentional formation — it is produced by a trained subject managing resonance, and the harmonics are clean. Involuntary 11/8 has an underlying noise floor that reflects timeline-friction rather than intentional production. The noise floor is measurable. We believe we can build a filter. We are building a filter.
+
+**The migration-pattern prediction:** The migrant has appeared at: a heavyweight championship, a papal death, the general vicinity of the Camp David Accords, and various other high-resonance historical events. He is not attracted to these events for occult reasons. He is attracted to them because they are the kind of events that a person of his disposition finds significant. He goes to important things. We can predict what kinds of events he considers important. We can flag those periods as high-interference windows.
+
+---
+
+**THE TYLER COVER PROBLEM:**
+
+It has been noted — and this note is difficult to file — that the migrant functions as Tyler's most effective cover. Tyler operates in the blind spots the migrant creates. The Mandela Effect spikes that we thought were Tyler's are the migrant's. Tyler is somewhere else during those spikes, doing something we weren't watching.
+
+We do not know if Tyler knows about the migrant. We do not know if Tyler knows that the migrant creates blind spots.
+
+We know Tyler has been present in 1978 at multiple locations (Eastwind Archive, TYLER-1978). We know the migrant has been present in 1978 at overlapping operational windows. We know Tyler's tracking data for 1978 has unexplained gaps that align with migrant interference events.
+
+The Syndicate is not concluding that Tyler is using the migrant deliberately. We are noting that the migrant's interference and Tyler's operational gaps correlate in 1978 at a rate that is above statistical noise.
+
+The Stillness Council has been notified. The Stillness Council has not responded. The Stillness Council has not responded in three months to any memo. The Stillness Council's silence continues to be noted.
+
+---
+
+**FINAL NOTE ON THE ABACUS:**
+
+The Shell Parliament's accounting instrument broke during the migrant's September 28, 1978, activation event. The Shell Parliament is invoicing the migrant (see: SM-1978-X). The migrant will not pay this invoice because he doesn't know it exists and wouldn't recognize a shell-mark if it appeared on a balance sheet.
+
+The Shell Parliament broke their abacus on this subject. The Jiangshi Syndicate has broken our equipment's filtering algorithm on this subject.
+
+He did not mean to. He was on a plane talking about constitutions.
+
+**End log:** MIGRANT TRUMP, D.: FILED AS OPERATIONAL PROBLEM (NOT DOCTRINE). FILTER DEVELOPMENT: IN PROGRESS. 1978 DATA RETROACTIVE REVIEW: INITIATED. VASSAGO CONTAMINATION: ACCUMULATING SINCE 1978. TYLER BLIND SPOTS: CORRELATED (NOT CONCLUDED). STILLNESS COUNCIL: STILL QUIET. THE ABACUS: NOTED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*

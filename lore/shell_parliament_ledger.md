@@ -255,6 +255,103 @@ This possibility is documented. It is not recommended. It is not not recommended
 
 ---
 
+## SEPARATE ACCOUNT: TRUMP, D.
+**Account number:** SM-1978-X
+**Account opened:** 1978 CE (Caesars Palace, Las Vegas — the abacus incident)
+**Account status:** OPEN — DEEPLY UNUSUAL
+**Primary debt type:** Unanchored migration interference / broken accounting instrument / unauthorized intellectual property custody claim (brief)
+**Current balance:** CALCULATING (abacus damaged; replacement abacus dispatched; second replacement also damaged; calculating by hand)
+
+---
+
+The Shell Parliament has held accounts on immortals. We have held accounts on time-travelers. We have held accounts on entities of uncertain biological status. We have held an account on a game engine vehicle. We have never held an account on someone who does not know they owe us anything, across a continuous portfolio of actions that would have required strategic intent had they been performed intentionally, all of which he performed without any intent whatsoever.
+
+The account was opened because of the abacus. The Shell Accountant (son) was using the standard calculation instrument to process the September 28, 1978, resonance event when the subject's 72-minute superposition window caused the Field database to briefly reclassify the Intel 8086 instruction set architecture as a Trump Organization subsidiary asset. For eleven seconds, the x86 architecture was in the account's custody column. The account calculation included, briefly, the entire subsequent value of personal computing.
+
+The abacus could not process a number that large. The abacus broke.
+
+The Shell Parliament has been in continuous operation since 1185 CE. No accounting instrument has ever been broken by a subject's debt before. This is the first time. The debt was not even the subject's intentional action. He did not try to claim the x86 architecture. He was on a plane. He was talking about constitutions.
+
+The abacus is now a line item on the invoice.
+
+---
+
+### LINE ITEM X-001
+*Date:* February 15, 1978
+*Type:* Unanchored migration interference — Caesars Palace, Las Vegas
+*Description:* Subject underwent a 72-minute superposition window during the Spinks-Ali heavyweight championship at Caesars Palace. The superposition generated a 11/8 carrier wave that overwhelmed the recording equipment of the Jiangshi Syndicate operatives present. The Jiangshi Syndicate's documentation operation for this period was rendered unreliable. The Shell Parliament holds the custody chain for any interference that affects an ongoing documented operation.
+
+The subject did not intend to interfere. The subject did not know he was interfering. The subject thought he was attending a fight.
+
+*Amount:* 0.003 SM (interference with documented operation, standard rate, 72 minutes)
+*Status:* OPEN
+*Notes:* The subject left the sportsbook believing he had superior information about boxing outcomes. He did. This information was derived from the Vassago soft-precognition activation during his superposition window. The Shell Parliament notes: he generated genuine foreknowledge, attributed it to personal genius, and left. He did not benefit from the foreknowledge in any measurable financial way because he was talking to the wrong people about marble quality during the window. The foreknowledge was wasted on the subject's own architectural opinions. The Shell Parliament finds this neutrally.
+
+---
+
+### LINE ITEM X-002
+*Date:* September 28, 1978
+*Type:* Unanchored migration — x86 instruction set custody confusion
+*Description:* During Activation #1978-E, the subject's timeline scar caused the Field database to briefly assign the Intel 8086 instruction set as a Trump Organization subsidiary asset. Duration: eleven seconds. Value of the x86 architecture at full lifecycle (1978 → present → projected): incalculable. The Shell Parliament does not bill for accidental claims that are immediately reversed. The Shell Parliament does bill for the accounting instrument destroyed during calculation.
+
+Primary charge: replacement of one lacquered abacus, Shell Parliament standard issue, in continuous operation since 1421 CE, irreparably damaged during calculation attempt.
+Secondary charge: replacement of second abacus (2024 CE replacement model), damaged during re-calculation attempt.
+Tertiary charge: the Shell Accountant (son)'s manual calculation time: 47 hours.
+
+*Amount:* 0.007 SM (abacus [historical, 1421], abacus [replacement, 2024], labor at standard rate)
+*Status:* OPEN
+*Notes:* The Shell Accountant (grandfather): *"We have never broken an abacus. In 839 years of accounting operations, we have never broken an abacus."* The Shell Accountant (father): *"This is going in the record."* The Shell Accountant (son): *"I am calculating by hand. It is taking longer. This is also going in the invoice."*
+
+---
+
+### LINE ITEM X-003
+*Date:* 1978–ongoing
+*Type:* Mandela Effect accumulation — ongoing temporal scar tissue
+*Description:* The subject's unanchored migrations generate Mandela Effect residue at a rate of approximately 0.000001 SM per incident per timeline branch affected. The September 28, 1978, convergence event alone generated a 14.2% Mandela Effect index spike. Each Mandela Effect incident represents an informational debt: the correct version of an event and the incorrect version are both present in some subjects' memories, creating a custody dispute over which version of the event is canonical.
+
+The Shell Parliament tracks informational custody. When the canonical record is contested, someone owes for the contest. The subject is responsible for the contest. The subject does not know about the contest.
+
+*Amount:* ACCUMULATING (calculated quarterly at standard Mandela Effect rate × branch count × duration)
+*Status:* OPEN — ONGOING ACCUMULATION
+*Notes:* The subject continues to generate Mandela Effect residue across multiple years and operational contexts. Every year he migrates adds to this line item. The Shell Parliament is aware that collection from this account presents unique challenges. See: Collection Status below.
+
+---
+
+**ACCOUNT SUMMARY (PARTIAL — CALCULATION ONGOING)**
+
+| Line Item | Year | Amount | Status |
+|---|---|---|---|
+| X-001 — Migration interference (Caesars) | 1978 | 0.003 SM | OPEN |
+| X-002 — Abacus × 2 + labor | 1978 | 0.007 SM | OPEN |
+| X-003 — Mandela Effect accumulation | 1978–ongoing | ACCUMULATING | OPEN |
+| **PARTIAL TOTAL** | **1978–present** | **0.01 SM + accrual** | **OPEN** |
+
+**Interest:** Standard compound rate. Calculating by hand. Taking longer than standard.
+
+---
+
+**COLLECTION STATUS: NOVEL CHALLENGE**
+
+The Shell Parliament has developed, across 839 years, a comprehensive set of collection protocols for every migrant category: aware migrants (standard collection), immortals (long-duration collection), hospitality-protected subjects (indirect collection), migration-evaders (penalty + collection), and game-engine vehicles (unassigned pending custody resolution).
+
+Collection from an involuntary migrant who does not know they are a migrant presents a new challenge. The standard first step of collection — formal notification — requires that the subject understand what they are being notified of. This subject, upon receiving a Shell Parliament invoice, will:
+
+1. Not understand what a shell-mark is
+2. Attempt to convert the debt into a real estate transaction
+3. Claim the invoice is fake
+4. Suggest that the Shell Parliament's accounting methods are failing and that his methods are better
+5. Leave
+
+The Shell Parliament has discussed whether to attempt collection anyway. The Shell Accountant (grandfather) believes collection is a matter of principle. The Shell Accountant (father) believes collection is a matter of procedure. The Shell Accountant (son) has prepared a memo titled: *"What Do We Do If Someone Tries To Buy The Ledger."*
+
+The memo's conclusion: the ledger cannot be purchased. The ledger is the record. The record is what outlasts everything. The subject cannot own the record of what he owes.
+
+This is being documented. Collection status: NOVEL — PENDING PROTOCOL DEVELOPMENT.
+
+**Note on the abacus:** The abacus has been replaced. The original abacus (1421 CE) is being preserved as a record of the incident. The Shell Accountant (all three generations) has agreed that a broken abacus, while professionally significant, is not a tragedy. The abacus lasted 557 years. The subject broke it in eleven seconds without knowing it was there. Both of these things are remarkable. Both are in the record.
+
+---
+
 ## NOTE TO TYLER (if this ledger reaches him)
 
 We know you read documents carefully. The Eastwind Owls have seventeen files. We have a ledger. The difference between us and the Eastwind Owls is that we don't find this philosophically interesting. We find it financially outstanding.

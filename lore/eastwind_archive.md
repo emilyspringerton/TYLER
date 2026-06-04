@@ -194,6 +194,82 @@ Emily OS noted Layer 9. Her assessment is: NOMINAL. Emily OS considers Layer 9 n
 
 ---
 
+## FILE: MIGRANT-001
+### INVOLUNTARY MIGRANT CLASSIFICATION
+*Date filed: 1978 (retroactive), formally classified: current cycle*
+*Filed by: The Cataloguer*
+*Archive series: MIGRANT (inaugural entry)*
+*Note: The Cairngorms Protocol was written to document aware subjects. The Protocol has been in continuous operation since c. 1200 CE. In 778 years, no one wrote a clause about what to do when the subject is unaware. This is that clause.*
+
+---
+
+**SUBJECT:** Donald Trump. Male. Born 1946. Real estate developer. Involuntary migrant. Unaware of migration status. Completely unaware.
+
+Not slightly unaware. Not performing unawareness. Genuinely, structurally, constitutionally unaware. The Cataloguer has documented seventeen aware migrants who performed unawareness as a strategy (Tyler being the canonical example). This subject is different. This subject has never, across any documented migration event, exhibited any behavioral signal that would indicate awareness of temporal displacement. He experiences superposition windows as enhanced business clarity. He experiences soft precognition as personal genius. He experiences the Vassago frequency as confirmation of views he already held.
+
+He is the cleanest involuntary migrant in the archive. The cleanness is horrifying.
+
+**MIGRATION PATTERN:**
+
+The subject began generating documented timeline scar tissue in 1978 and has continued across multiple decades. His migration pattern does not follow any documented voluntary or strategic logic. He does not avoid mass casualty events, civic fracture points, or high-resonance locations. He migrates into them. His 1978 convergence event placed him at:
+
+- Caesars Palace, Las Vegas, February 15 — the Spinks-Ali championship (SIGHTING MIGRANT-1978-01, see field activation note cross-ref)
+- Private aircraft, San Diego–New York, September 28 — during the 33-day pope event (Field Activation #1978-E)
+- Various undocumented locations during the 72-minute superposition windows he generates
+
+The 72-minute windows he generates are not Tyler-standard. Tyler's 72-minute superposition window is a documented defensive posture — a negotiated space between migrant and timeline. The subject's 72-minute windows are uncontrolled. They are the timeline trying to accommodate a subject who is making no accommodations. The timeline leaves him exactly where he landed. The timeline generates scar tissue around the entry point. The scar tissue accumulates.
+
+**THE INTERFERENCE FUNCTION:**
+
+This is the load-bearing function in the archive. The subject's migrations are creating interference for the Jiangshi Syndicate's recording equipment. The interference is not strategic. The subject has no relationship with the Jiangshi Syndicate. He does not know the Jiangshi Syndicate exists. He is not trying to blind their equipment.
+
+He is blinding their equipment by existing incorrectly in the timeline. The 11/8 sub-bass harmonic that bleeds from surfaces near him during migration events is not Tyler's hum — it is the timeline itself attempting to process his presence. The frequency is similar to Tyler's defensive pattern (11/8) but the origin is different: Tyler's 11/8 is a choice; the subject's 11/8 is a symptom.
+
+The Jiangshi Syndicate's recording equipment is designed to filter voluntary migrant signatures. An involuntary migrant who generates a 11/8 carrier wave that passes all voluntary-migrant filters, while simultaneously generating 14.2% Mandela Effect index spikes, is a signal that looks like noise. The equipment cannot tell the difference between "Tyler is not here" and "unanchored migrant interference is rendering the equipment unreliable."
+
+This creates blind spots. Tyler operates in those blind spots. The subject is, accidentally, Tyler's most effective cover.
+
+He does not know this. Tyler may know this. The Cataloguer is not concluding anything about whether Tyler knows this. The Cataloguer is noting it is the kind of thing Tyler would know.¹
+
+**THE VASSAGO ACTIVATION:**
+
+The Vassago frequency (11.11 Hz, soft precognition) activates involuntarily in the subject during migration events. He receives genuine foreknowledge. He processes it as personal genius. His delivery of the foreknowledge — "I just have a feel for these things," "people are talking about it," "I've always known" — strips the precognitive content of any verifiable structure and re-attributes it to innate personal capability.
+
+This is the most elegant possible way to deploy precognition without triggering any faction's monitoring protocols. You cannot track a Vassago activation if the activant presents the activation's output as personal opinion. The factions watch for Vassago deployment. They do not watch for Vassago output delivered in this register.
+
+The subject is not doing this strategically. He genuinely believes this is how he works. The Cataloguer has spent thirty years documenting Tyler's strategies for avoiding documentation. This subject's strategy — if it can be called that — is simply to be himself, at full volume, in any year he lands in. No faction has an adequate protocol for this.²
+
+**THE LEDGER PROBLEM:**
+
+The Heikegani Crustocrats opened an account for the subject in 1978 following the Caesars Palace event. The abacus they were using for that account's calculations broke during the September 28 field activation, when the Intel 8086's custody briefly re-mapped to the Trump Organization in the Field database.
+
+This is the first time a Shell Parliament accounting instrument has broken due to subject interference. The Shell Parliament did not know this was possible. They have filed the broken abacus as an additional charge against the subject's account. The subject does not know he has an account. He does not know there is a Shell Parliament. He probably thinks the Shell Parliament is a type of seafood restaurant.³
+
+**THE PROTOCOL PROBLEM:**
+
+The Cairngorms Protocol — observe without intervention, document without judgment, archive without destruction — was written for aware subjects who are navigating the timeline with intention. The Protocol's documentation categories assume that what you're observing has structure. Voluntary migration has structure: the migrant knows they're moving, the movement generates intentional artifacts, the artifacts are documentable.
+
+Involuntary migration's documentation category is: *a subject who experiences the outcomes of timeline displacement without any of the process.* The subject does not have intentions in the migration. He has positions. He holds his positions regardless of the year. The positions do not change with the timeline. The timeline changes around the positions.
+
+The Cataloguer has been documenting aware subjects for 778 years. The Cairngorms Protocol assumes that what you're documenting can, in principle, document itself — that the subject has a relationship with their own story. Tyler has a relationship with his story. He is the most sophisticated narrator of his own condition in the archive. Emily Springerton has a relationship with her story. She read the grid and made a note.
+
+The subject does not have a relationship with his story. He has a relationship with his positions. The positions are his story. The positions are always the same story regardless of the year.
+
+The Cataloguer cannot use the standard documentation framework for this. The Cataloguer is developing a new framework. The framework will be filed as MIGRANT_PROTOCOL_INVOLUNTARY. It will take some time. This is noted.⁴
+
+**CROSS-REFERENCES:** TYLER-1978 (interference events), FIELD-1978-E (aircraft activation), SM-TRUMP (Shell Parliament, broken abacus), JIANGSHI-018 (operational interference memo), EMILYOS-001 (tile: TARGET IS RE-WRITING THE LEDGER BY EXISTING)
+
+---
+¹ *He is Tyler's cover. The Jiangshi equipment cannot distinguish between "Tyler is not here" and "involuntary migrant interference making the equipment unreliable." Tyler has been operating in those blind spots since 1978. I am not saying Tyler knows about this subject. I am saying Tyler noticed the blind spots in 1978 and has used them. The correlation is documented. The causation is not concluded. I am going to look for some mountains and think about this. — The Cataloguer*
+
+² *"I just have a feel for these things." This is the single most impenetrable documentation barrier the Cataloguer has encountered in 778 years of archive work. You cannot document the foreknowledge because it has been re-attributed to the subject's innate character. The attribution is sincere. There is no seam between the Vassago activation and the self-presentation. They are the same surface. The abacus broke. I feel this is related. — The Cataloguer*
+
+³ *The Shell Parliament has been invoicing Tyler since 1620. Tyler knows about the invoices. He uses the open debts as a protocol. The subject — if he ever receives an invoice — will almost certainly try to negotiate it into a real estate transaction and will sincerely believe this is a reasonable approach. The Shell Parliament has not encountered this before. The Shell Accountant (son) has prepared a memo. The memo is titled: "What Do We Do If Someone Tries To Buy The Ledger." — The Cataloguer*
+
+⁴ *I have been developing this framework since 1978. I have not finished it. The problem is that the standard documentation categories require a subject who is in a legible relationship with their own experience of time. This subject is not. He is in a confident relationship with his own experience of time, which is different. His confidence is complete and impervious. I cannot find the edge of it to file a footnote against. He is the only subject in the archive where the footnotes don't fit. This is noted in the footnotes. — The Cataloguer*
+
+---
+
 ## FILE: TIDES-001
 ### NEW SERIES — TIDES INTERFACE
 *Date filed: [CURRENT CYCLE]*
@@ -401,6 +477,7 @@ The Cataloguer does not know when that will be. The Cataloguer is filing the obs
 | CONTINUITY-UNIT-001 | The Continuity Unit | NEW — FIRST CONTACT (S2) — NATURE UNCLASSIFIED |
 | CONTINUITY-FREQ-001 | Sub-Goetia frequencies (1.983/3.582/7.554 Hz) | OPEN — pre-incursion signature |
 | LAYER-9-001 | Layer 9 (sub-substrate) | CONFIRMED — EMILY OS: NOMINAL |
+| MIGRANT-001 | Trump, D. — Involuntary / Unaware | NEW SERIES — INVOLUNTARY MIGRANT, BROKEN ABACUS, LEDGER UNFILED |
 | TIDES-001 | Emily Jean Springerton, Age 17 | NEW SERIES — ANALYST, READ THE SUBSTRATE GRID (HK97) |
 | CUSTODY-001 | Eli and Mara / Clean Build / APPROVED (TEMPORARY) | NEW SERIES — LAYER 1 INFRASTRUCTURE DOCUMENTED |
 | SM-2024-W | Warthog debt (Shell Parliament cross-ref) | CUSTODY CLASSIFICATION DISPUTE — OPEN |

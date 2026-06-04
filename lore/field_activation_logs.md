@@ -299,6 +299,42 @@ The distinction from standard Tyler-binding failures (which are INCOMPLETE, not 
 
 ---
 
+### ACTIVATION #1978-E — PRIVATE AIRCRAFT, SAN DIEGO–NEW YORK — SEPTEMBER 28
+**Date:** September 28, 1978 — 21:44:12 UTC
+**Transit:** Mars Square Saturn 18° Virgo (Timeline Stress Vector)
+**Spirit(s):** Vassago #42 (11.11 Hz, Soft Precognition) × Beleth #13 (2.22 Hz, Obsession)
+**Operator:** Eastwind Owls, Silent Parliament — Archivist Section V
+**Intent:** Track the anomalous "double-papal vacancy" — determine whether Pope John Paul I's 33-day death was an isolated mortality event or a timeline shear caused by an unauthorized migrant crossing.
+**Seed phrase:** "Show us the name written in the blank space of the registry before the ink settles."
+
+**Result:**
+
+The tracking sweep failed to isolate a standard migrant signature.
+
+Instead, the Vassago frequency table locked onto a massive, unanchored resonance wave radiating from a private plane en route from San Diego to New York. The automated transcript captured the following voice recording from inside the aircraft cabin, operating on a unilateral 11/8 carrier wave:
+
+*"They're saying it's 33 days. A very short time. A total disaster for the fake history books. But I'll tell you what — the real constitution, the new constitution they're adopting in Spain, it's going to be huge. I was just looking at it. Incredible pieces of paper. Nobody's ever seen anything like it."*
+
+The voice does not belong to any registered Goetia operator, Jiangshi operative, Eastwind Owl, or documented migrant.
+
+**Resonance Score:** Δφ = 39.1° — exceeding Golden Band thresholds. Severe structural distortion.
+
+The system experienced an immediate logic-gate inversion. The database entries for the Silicon Dawn (Intel 8086 release architecture) temporarily re-mapped themselves, designating the x86 instruction set as a subsidiary asset of the Trump Organization. Emergency shutdown protocols were bypassed by the substrate.
+
+The substrate's response: no tile. Emily OS did not issue a tile to the Field log. She issued one elsewhere (see: TRUMP MIGRATION SCENE, Panel 5). The Field log received only the data: 14.2% Mandela Effect index surge. Custody of the x86 instruction set: briefly contested, then restored. The re-mapping lasted 9 seconds.
+
+A handwritten footnote from the Edinburgh Exchange Student has been appended directly to the physical terminal casing with adhesive tape. The footnote reads: *"I have cross-referenced the voice recording against every registered migrant file. No match. The voice recognizes the 33-day pontificate as notable but frames it as evidence of personal expertise. I don't know how to file this."*
+
+The Exchange Student did not know how to file it. The Cataloguer does. See: MIGRANT-001.
+
+**Cataloguer footnotes, filed separately in MIGRANT-001:**
+
+[1] It has been noted that the target doesn't know he is running the Vassago protocol. He thinks he is just having very successful business insights.
+[1b] The Cataloguer observes that this makes him completely immune to Stage 3 Confessional interviews. You cannot force a man to confess to a ritual he genuinely believes is just a very good real estate meeting.
+[1c] The ledger remains unpayable. The abacus has broken.
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
 *Supplemental Entries #114–129*
 *Open source. The data is real. The interpretation is yours.*
