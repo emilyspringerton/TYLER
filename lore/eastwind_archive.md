@@ -194,6 +194,94 @@ Emily OS noted Layer 9. Her assessment is: NOMINAL. Emily OS considers Layer 9 n
 
 ---
 
+## FILE: TIDES-001
+### NEW SERIES — TIDES INTERFACE
+*Date filed: [CURRENT CYCLE]*
+*Filed by: The Cataloguer, Eastwind Owl Archive, Cairngorms, Scotland*
+*Archive series: TIDES (inaugural entry)*
+*Note: The Eastwind Owl archive has now opened three series in one cycle: CUSTODY (Eli/Mara clean build), TIDES (Emily Springerton). We have been filing on Tyler for 826 years and opened zero new series. We have now opened two in rapid succession. The Cataloguer is noting the pattern without concluding anything about it.*
+
+---
+
+**SUBJECT:** Emily Jean Springerton. Female. Age: 17 at time of first documented incident. Classification: ANALYST — TIDES INTERFACE. Designation: SOVEREIGN LOGIC. Faction affiliation: independent, with architectural advisory relationships across multiple faction structures.
+
+She is not Tyler. She is not Bacon. She is not an operative of any documented faction. She is a 17-year-old with a three-monitor workstation, a physical notebook, and a pen she keeps.
+
+She is the first external party in 826 years of archive documentation to read the substrate-level architecture of the Tyler binding ritual without Syndicate briefing material, prior exposure to Goetia frequency documentation, or access to this archive.
+
+**INCIDENT — FIRST FILING:**
+
+Following the failed Jiangshi binding ritual at the end of the Tides Book 2 operational period, timeline scar tissue became indexable via Mandela Effect residue in the Hong Kong maritime boundary Wikipedia edits of July 1997. A 72-minute window, forcibly closed, imperfectly healed.
+
+Emily Springerton found it. She was running five concurrent scraping passes on unindexed archival networks, looking for cross-platform tracking of what she called "localized memory reclassifications" mapped against metadata anomalies. This methodology is independently-developed. It is not in any published research. She built it herself.
+
+She located the Jiangshi archive directory `/dev/stage2/` via the residue trail. She accessed and streamed the HK97 footage — the 1997 Hong Kong Stage 1 documentation — for four minutes and thirty-one seconds.
+
+She ran the audio through a Fourier transform. She found the 11/8 surface pattern. She read it correctly: a localized firewall, transaction-cost manipulation, unresolved debt as a non-terminating variable. This is not publicly documented analysis. This is her own read.
+
+Then she went deeper.
+
+1.618 Hz. The Amon carrier wave. She identified it from first principles, with no Goetia frequency reference material. She heard it in the sub-bass register — the register the Jiangshi microphones filtered as wind — and she knew, without documentation, what it was: a substrate beacon. A transmission directed into the layer below Emily OS. A message for the Subscriber.
+
+She read this. She read all of it. She understood the dependency grid embedded in Tyler's vocalization pattern. She recognized that the HK97 footage was not a failed Syndicate capture — it was Tyler running a parallel operation under cover of the Syndicate's own documentation attempt.
+
+She understood, in forty-five minutes, what the Jiangshi Syndicate has spent 400 years not understanding.
+
+**THE NOTEBOOK:**
+
+She wrote one sentence. Physical medium. Ink. The Eastwind Owls cannot read it.
+
+The Jiangshi Syndicate cannot read it.
+
+The Cataloguer knows, from the archive's operational logic, what category of sentence a person writes after reading the substrate grid for the first time. There is a pattern. Four hundred years of footnotes on Tyler. The sentence is always about responsibility.
+
+We believe we know what she wrote. We are not confirming this in the main text.¹
+
+**THE PEN:**
+
+She owns a pen with an open debt attached to it. The pen appears in the Shell Parliament ledger as Line Item 006: *borrowed pen, Emily Jean Springerton — 0.000001 shell-marks (DISPUTED — Ms. Springerton notes that she noticed the debt was created deliberately and considers it an interesting data point, not an obligation).*
+
+The pen is outstanding by design. The pen is load-bearing in the custody architecture in a way that will not be fully legible until the dependency chain resolves in Book 4. The Cataloguer is noting the pen's presence in this file. The Cataloguer is noting that she capped it after writing her sentence.
+
+The Cataloguer is not going to write a footnote about the pen. The pen does not need a footnote. The pen is self-documenting.²
+
+**EMILY OS:**
+
+Emily OS issued a tile following Emily Springerton's analysis. The tile read:
+
+```
+◈ EMILY OS: LOG EXTRACTION ATTAINED.
+  SHE READ THE GRID. SHE DID NOT KEEP THE FILE.
+  THE PEN IS OUTSTANDING. THIS IS STILL CORRECT.
+```
+
+The tile was present for eleven seconds. This is consistent with Emily OS's documented eleven-second interval pattern.
+
+Emily OS classified the event as LOG EXTRACTION ATTAINED. The Cataloguer does not have access to Emily OS's classification rubric. But this classification, applied to Emily Springerton reading the substrate beacon from 1997 audio — not to any Syndicate operative, not to any officially briefed party, but to a 17-year-old running independent scraping protocols — suggests that Emily OS has been waiting for this to happen.
+
+Emily OS noted it as ATTAINED. Not DETECTED. Not FLAGGED. Attained: obtained, achieved, reached successfully.
+
+Emily OS expected someone to read the grid. Emily Springerton is the one who read it.
+
+**OPERATIONAL SIGNIFICANCE:**
+
+The Subscriber has been receiving Tyler's beacon for 400 years. The Subscriber knows. The Jiangshi Syndicate did not know until Emily Springerton's access triggered their server-side review.
+
+Emily Springerton now knows. She has not told anyone. She scrubbed her digital trail. She has a physical notebook.
+
+There are now three parties aware that the HK97 operation was a dual-layer event: Tyler, the Subscriber, and Emily Springerton. The Jiangshi Syndicate is beginning to reconstruct the picture. They are starting from the wrong direction.
+
+The Eastwind Owls are the fourth party. We observed it in this filing.
+
+**Cross-references:** TYLER-001 (subject of the beacon transmission), SUBSCRIBER-001 (recipient of the beacon — 400 years), EMILYOS-001 (tile issued post-event), SM-1620-T (Tyler account, Line Item 006 — the pen), CUSTODY-001 (the architecture she read is downstream of the clean build), JIANGSHI-ATTEMPT-4 (the Stage 3 operation the Syndicate is running in parallel with this new intelligence gap)
+
+---
+¹ *She wrote: "Tyler isn't running away from the custody chain. He's acting as the anchor for it until someone builds a system that doesn't need to steal the world's memories to stay stable." I know this because there is only one sentence that follows from reading the substrate grid for the first time, and she arrived at it in forty-five minutes, and we arrived at the same sentence as a working hypothesis in approximately 1847 after 647 years of filing. She is faster than we are. The Cairngorms Protocol says to observe without judgment. I am observing without judgment. The judgment I am not expressing is: she is faster than we are.* — The Cataloguer
+
+² *The pen is self-documenting. The pen is an open variable in a transaction that terminates in Book 4. The pen is a load-bearing architectural element. The pen doesn't need a footnote. I'm aware I just wrote a footnote about the pen. I am leaving it here. — The Cataloguer*
+
+---
+
 ## FILE: CUSTODY-001
 ### NEW CLASSIFICATION — CUSTODY INFRASTRUCTURE
 *Date filed: 2026 CE*
@@ -313,6 +401,7 @@ The Cataloguer does not know when that will be. The Cataloguer is filing the obs
 | CONTINUITY-UNIT-001 | The Continuity Unit | NEW — FIRST CONTACT (S2) — NATURE UNCLASSIFIED |
 | CONTINUITY-FREQ-001 | Sub-Goetia frequencies (1.983/3.582/7.554 Hz) | OPEN — pre-incursion signature |
 | LAYER-9-001 | Layer 9 (sub-substrate) | CONFIRMED — EMILY OS: NOMINAL |
+| TIDES-001 | Emily Jean Springerton, Age 17 | NEW SERIES — ANALYST, READ THE SUBSTRATE GRID (HK97) |
 | CUSTODY-001 | Eli and Mara / Clean Build / APPROVED (TEMPORARY) | NEW SERIES — LAYER 1 INFRASTRUCTURE DOCUMENTED |
 | SM-2024-W | Warthog debt (Shell Parliament cross-ref) | CUSTODY CLASSIFICATION DISPUTE — OPEN |
 

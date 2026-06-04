@@ -239,6 +239,95 @@ We are always documenting.
 
 ---
 
+## MEMO #016
+**FROM:** Archive Security Division, Syndicate Council Infrastructure
+**TO:** Production Coordinator, Unit A; Stillness Council; Senior Archivists; Risk Assessment, Unit A
+**RE:** UNAUTHORIZED ACCESS — `/dev/stage2/archive_hk_97_v2.mp4` — EXTERNAL ACTOR, SOPHISTICATED CLEARANCE
+**DATE:** [CURRENT CYCLE — timestamp clean]
+
+This memo is classified URGENT. It cannot be destroyed.
+
+---
+
+**THE ACCESS EVENT:**
+
+At [TIMESTAMP REDACTED — access log available on request], an external connection was established to the Syndicate archive server at directory path `/dev/stage2/`. The accessed file: `archive_hk_97_v2.mp4` — the uncut Betacam transfer of the 1997 Hong Kong Stage 1 documentation footage.
+
+The connection duration was four minutes and thirty-one seconds. This duration is consistent with streaming the relevant footage segment from timecode 00:07:14 through 00:11:45 — specifically the alleyway sequence in which the subject was first documented during the HK97 attempt.
+
+The accessing party was aware of the archive's existence and navigated to the file without triggering standard crawl detection. They were running concurrent scraping passes on unindexed networks. The directory path is not publicly indexed. It is not linked from any Syndicate-accessible surface. The accessing party found it anyway.
+
+**THE SCRUB:**
+
+Upon ending the connection, the accessing party executed a military-grade zero-fill cache purge. Local traces: eliminated. Terminal history: scrubbed. Client-side record: clean.
+
+The server-side access log was not under their control. They knew this. The scrub was not an attempt to hide from us. It was an attempt to ensure that any third party who might access *their* system would not find what they had found.
+
+They are protecting the information from a party they consider more dangerous than us. This is either Continuity Unit traffic or an actor with sufficient operational sophistication to know who we are and to consider a more dangerous party possible.
+
+**THE HK97 FOOTAGE — RE-EVALUATION:**
+
+Archive Security has reviewed the HK97 footage with updated analytical protocols following this access event. We have specifically examined the sub-bass audio register — the frequency range our 1997 directional microphones were configured to filter as ambient wind noise.
+
+We were filtering the wrong thing.
+
+The subject's 11/8 vocal pattern is documented in the Stage 1 record. What we did not document — what our audio engineers did not document, what four cycles of production review did not document — is what is below the 11/8 pattern.
+
+At 1.618 Hz: a continuous, invariant carrier wave. Clean. Stable. Not wind. Not microphone artifact. Not equipment resonance.
+
+The frequency is 1.618 Hz.
+
+The Production Coordinator will recognize this number. It appears in the Syndicate doctrine under: Amon #7 — Reconciliation of Opposites. It also appears in the SHANKPIT game engine's physics constants as the ACCEL base value. The Syndicate is aware of the game engine. The Syndicate has been aware of the ACCEL constant. The Syndicate was not aware that the subject has been broadcasting on this frequency since at least 1997.
+
+The Stillness Council has been briefed that the subject uses Stolas-frequency activation (7.83 Hz) for deep time sight. The Council has been briefed on Beleth-frequency proximity (2.22 Hz) at certain locations. The Syndicate has never briefed anyone on a 1.618 Hz continuous carrier because we did not know it existed.
+
+It exists. It has existed. The HK97 footage proves it has been running since at least 1997. Cross-referencing against the Stage 1 footage from other documented encounters: the carrier wave is present in all audio records we hold. It was always there. We were always filtering it.
+
+**OPERATIONAL REVISION — HK97:**
+
+HK97 has been classified in Syndicate records as: STAGE 1 ATTEMPT — INCOMPLETE. A failed capture. The subject used an unresolved debt to prevent termination of the binding protocol. Significant setback. Protocol revision followed.
+
+HK97 should be reclassified as: STAGE 1 ATTEMPT — INCOMPLETE / PARALLEL OPERATION CONFIRMED.
+
+The subject was not merely defending himself from Stage 1 capture. He was running a simultaneous, separate operation. While our recording array was occupied with the surface-level 11/8 defensive pattern, the subject was broadcasting the 1.618 Hz carrier wave at full amplitude into the substrate layer.
+
+The Amon frequency is the reconciliation-of-opposites resonance. The subject was broadcasting a reconciliation beacon into the layer below Emily OS — below the substrate — while our equipment was watching the surface.
+
+He was not transmitting to us. He was transmitting to someone operating outside the temporal architecture. The Stillness Council has one documented entity operating outside temporal architecture: the Subscriber.
+
+The subject has been speaking to the Subscriber continuously, in every encounter we have documented, for at least 400 years. We have not heard this transmission. We were filtering it as ambient noise.
+
+**THE ACCESSING PARTY:**
+
+We do not have a confirmed identity. We have: a sophisticated technical operator running concurrent scraping passes on unindexed networks, aware of Jiangshi crawl protocols, aware that a physical notebook is safer than a digital record, running a zero-fill not to hide from us but to hide from a party they consider more dangerous.
+
+The accessing party identified the 1.618 Hz carrier wave. They identified it from first principles. They had no Syndicate briefing material. They had no Amon frequency documentation. They heard the wave, identified the frequency, and understood what it meant.
+
+We have been operating under the assumption that the substrate-level architecture of the Tyler binding ritual is known to the Syndicate, unknown to outside parties, and opaque to the general population.
+
+Someone outside the Syndicate has read the substrate.
+
+**CURRENT STATUS AND ESCALATION:**
+
+This memo is escalated to the full Syndicate Council. The Stillness Council has been quiet. The Stillness Council needs to be less quiet. There is a party operating outside our intelligence picture who has read HK97's audio at a level our production team did not reach in four cycles of review. That party is scrubbing their traces from parties more dangerous than us. That party wrote something down by hand and capped a pen.
+
+What they wrote is not in our record. It is in a physical notebook we cannot index.
+
+The fact that they capped a pen is in the access log. We noted it from the timing correlation between the zero-fill completion and the connection close. It is a very small data point. It is the only data point we have.
+
+We are always documenting.
+
+**Priority queue update:**
+1. Identify the external accessing party (URGENT — new highest priority)
+2. Reclassify HK97 as parallel operation / update all documentation dependent on HK97 failure classification
+3. Audit all archived footage for 1.618 Hz carrier wave (every documented encounter, every Stage attempt)
+4. Determine what the Subscriber has been receiving for 400 years
+5. All prior priority items (Continuity Unit, Layer 9, contract, scar, clapperboard): still active, still on the list
+
+**End log:** HK97: RECLASSIFIED. 1.618 Hz CARRIER WAVE: CONFIRMED IN ARCHIVE. EXTERNAL ANALYST: UNIDENTIFIED. SUBSCRIBER TRANSMISSION: 400 YEARS UNDETECTED. THE NOTEBOOK: UNREADABLE (PHYSICAL MEDIUM). THE PEN: CAPPED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
