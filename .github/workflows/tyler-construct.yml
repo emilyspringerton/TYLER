@@ -1,0 +1,50 @@
+name: TYLER Construct
+
+on:
+  push:
+    branches: [ "master" ]
+    tags: [ "v*" ]
+  pull_request:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+concurrency:
+  group: tyler-construct-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  construct:
+    name: 📚 Generate Deterministic Construct
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate TYLER Manifest + Construct
+        shell: bash
+        run: |
+          set -euo pipefail
+          scripts/generate_tyler_construct.sh TYLER_MANIFEST.txt TYLER_CONSTRUCT.txt
+
+      - name: Verify construct determinism
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          cp TYLER_MANIFEST.txt /tmp/TYLER_MANIFEST.first.txt
+          cp TYLER_CONSTRUCT.txt /tmp/TYLER_CONSTRUCT.first.txt
+
+          scripts/generate_tyler_construct.sh TYLER_MANIFEST.txt TYLER_CONSTRUCT.txt
+
+          cmp /tmp/TYLER_MANIFEST.first.txt TYLER_MANIFEST.txt
+          cmp /tmp/TYLER_CONSTRUCT.first.txt TYLER_CONSTRUCT.txt
+
+      - name: Upload TYLER Construct Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: TYLER_Construct_${{ github.run_number }}_${{ github.sha }}
+          path: |
+            TYLER_MANIFEST.txt
+            TYLER_CONSTRUCT.txt
