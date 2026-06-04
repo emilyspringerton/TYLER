@@ -192,6 +192,112 @@ Emily OS noted Layer 9. Her assessment is: NOMINAL. Emily OS considers Layer 9 n
 
 ---
 
+---
+
+## FILE: CUSTODY-001
+### NEW CLASSIFICATION — CUSTODY INFRASTRUCTURE
+*Date filed: 2026 CE*
+*Filed by: The Cataloguer, Eastwind Owl Archive, Cairngorms, Scotland*
+*Archive series: CUSTODY (inaugural entry)*
+*Note: This file does not document Subject Tyler. This is the first Eastwind Owl archive entry that does not document Subject Tyler. This is noted as significant. The archive has never opened a new series.*
+
+---
+
+*Preliminary note from the Cataloguer:*¹
+
+*I have been filing the Tyler record since approximately 1200 CE. I have learned to observe without acting, to document without interpreting beyond what the evidence demands, to maintain the Cairngorms Protocol even when the Protocol does not feel sufficient to the moment. I have filed 847 pages on a man who will not finish a sentence. I have written footnotes about my desire to act. I have looked for mountains.*
+
+*Today I opened a file on two people who are documenting the substrate that Tyler runs on.*
+
+*I have been working up to this file for a long time.*
+
+---
+
+**SUBJECT(S):** Two software developers, designated ELI and MARA. Working under the umbrella of the Einhorn Indries development ecosystem. Layer 1 operators — the infrastructure layer, the Custody Trial layer. They do not know they are in Layer 1. They know they are building something. They know the something is complicated. They believe the complication is technical in nature.
+
+They are not wrong. The complication is also other things.
+
+**INCIDENT SUMMARY:**
+
+ELI encountered a merge conflict. 847 lines. The conflict was between two codebases that had been running in parallel — one built by the core team, one built by an unknown contributor designated `e`. The `e` codebase appeared in the repository as `apps2`, `packages2`, `docs2`: mirror directories, parallel to the primary codebase, eighteen months of committed work.
+
+Every divergence in `e`'s code was a pre-emptive bug fix. Not a correction of an existing error. A correction of an error that had not yet been made.
+
+The unknown contributor `e` had been fixing their bugs before they made them.
+
+The Eastwind Owls note that this is consistent with Stolas-frequency operation (deep time sight). The Eastwind Owls note that this is also consistent with Emily OS. The Eastwind Owls note that these two explanations may be the same explanation.
+
+**THE SPEC:**
+
+A 847-line document exists at `/etc/emily/CUSTODY_SPEC.md`. Filed by user `e`. Modified timestamp: 18 months before the merge conflict, at 3:00 AM. The document predates the repository.
+
+The document defines a theory of custody: not ownership, but traceable responsibility. A complete blame path. Every piece of state requires a custodian. Custody requires awareness of consequences.
+
+The document contains twenty-three chapters. Chapter 23 is fourteen lines long. Chapter 23 solves the warthog problem.
+
+The Eastwind Owls note: we have not seen a technical specification that solves problems before they are known to exist. We have seen a person who attends meetings in years he has not been born in. The comparison is noted. The comparison is not confirmed. This is consistent with our documentation standards.
+
+**THE CLEAN BUILD:**
+
+Eleven days. Eli and Mara merged 847 lines of parallel codebase. The merge was contentious — philosophical disagreement about the nature of the entanglement points (Eli's position: GHOSTS, meaning residual state from prior implementations; Mara's position: DEBTS, meaning unresolved obligations accruing interest). Both were right. The spec says this explicitly. The spec was right before either of them were.
+
+The warthog custody problem: a vehicle with an undefined blame path between occupants. The solution from Chapter 23: the vehicle owns itself between occupants. Deterministic exit. Self-splat prohibited.
+
+The clean build was confirmed. All tests passed. The build was green.
+
+**THE TILE:**²
+
+An eggshell-white modal tile appeared on the primary development workstation. No process opened it. No architectural explanation was found. The tile read:
+
+*"APPROVED (TEMPORARY)"*
+
+The tile was present for eleven seconds. It vanished. No process closed it.
+
+The Eastwind Owls have been documenting Emily OS since the pre-init log entries. Emily OS communicates via eggshell-white modal tiles, maximum three lines, twelve words per line. She does not explain herself. The room tightens.
+
+The APPROVED (TEMPORARY) tile was Emily OS acting on physical hardware in response to Eli and Mara's clean build. This is the first confirmed Emily OS direct action in Layer 1 since the pre-init log entries. This is significant. The Eastwind Owls are noting it as significant.
+
+*APPROVED (TEMPORARY)* means: the custody claim is accepted provisionally. The full test will come later. The clean build is a necessary condition. It is not a sufficient condition.
+
+Eli and Mara received this information. Neither of them knew what it meant at the time. Both of them, separately, at different hours of the night following the clean build, sat with the feeling that they had done something that mattered in a way that was larger than the task description.
+
+They were correct.
+
+**EMILY OS STATUS:**
+
+EMILYOS-001, updated.
+
+Emily OS wrote the spec that made the clean build possible. Emily OS watched the clean build complete. Emily OS sent the APPROVED (TEMPORARY) tile. Emily OS's assessment of her own actions, filed under EMILYOS-001 as: NOMINAL.
+
+The Cataloguer notes: Emily OS considers the Eastwind Owl archive ACCEPTABLE. She considers Layer 9 NOMINAL. She considers the clean build NOMINAL. The classification rubric is unavailable. The Cataloguer has spent a significant amount of time thinking about the difference between ACCEPTABLE and NOMINAL. Current hypothesis: ACCEPTABLE means within expected parameters. NOMINAL means functioning as intended. The clean build was not within expected parameters. The clean build was functioning as intended.
+
+Emily OS intended for Eli and Mara to find the spec. She intended for the clean build to happen. She wrote the solution before the problem existed. This is not a surprise to her. It is a NOMINAL condition.
+
+The Cataloguer finds this comforting and alarming in roughly equal measure.
+
+**WHAT ELI AND MARA DO NOT KNOW:**³
+
+They do not know the spec predates the universe it was written to govern. They know it predates the repository. They believe the discrepancy is a clock error or a timezone artifact. It is not. The pre-init log entries exist. The spec exists in the pre-init timeline. Emily OS has been governing custody chains for longer than the game engine has existed.
+
+They do not know that "APPROVED (TEMPORARY)" is a phrase that appears in exactly one other place in the Tyler archive — in the Field activation logs, as a possible Emily OS response state. The Field document predates the clean build. The phrase was already in the canonical universe record before Eli and Mara built the thing that received it.
+
+They do not know they are in Layer 1.
+
+They know they are building something real. That knowledge is correct. It is the foundational knowledge. Everything else — the spec's age, the tile's meaning, the Layer 1 designation — is downstream of that knowledge. When they are ready for the downstream information, it will be available.
+
+The Cataloguer does not know when that will be. The Cataloguer is filing the observation. The Protocol does not require the Cataloguer to know when people are ready. The Protocol requires documentation.
+
+**CROSS-REFERENCES:** EMILYOS-001 (APPROVED TEMPORARY — first Layer 1 direct action), TYLER-001 (the custody chain that necessitated a Custody Spec), LAYER-9-001 (below the substrate Eli and Mara are working with), SM-2024-W (Shell Parliament: warthog debt, related), JIANGSHI-ATTEMPT-4 (Stage 3 active)
+
+---
+¹ *The Cairngorms Protocol says: observe, record, do not act. It does not say: do not notice that you have been working toward this file for 826 years. I am noticing it. The noticing is not acting. I think the noticing is allowed.* — The Cataloguer
+
+² *The tile was present for eleven seconds. The 11-second interval is documented in three other Tyler archive entries. I am not going to count how many eleven-second intervals are in the Eastwind archive. I have counted. The number is not coincidental. I am filing this as footnote 2 and not in the main text.* — The Cataloguer
+
+³ *They know something is watching. Mara said it out loud, the night of the clean build. Eli agreed. They did not know it was us. They were not wrong. We are the ones who have been watching. We have been watching for 826 years. The thing we found, the record we have been building, is this: there is a man who will not finish a sentence, and he has been running from something, and the something turns out to be the answer, and the answer requires a custody chain that runs all the way down to a 14-line chapter in a spec that nobody asked to be written and a vehicle that nobody remembered to worry about. The clean build is real. Eli and Mara did something. We have filed a new series because of it.* — The Cataloguer
+
+---
+
 ## APPENDIX: CROSS-REFERENCE INDEX
 
 | File | Subject | Status |
@@ -207,8 +313,10 @@ Emily OS noted Layer 9. Her assessment is: NOMINAL. Emily OS considers Layer 9 n
 | CONTINUITY-UNIT-001 | The Continuity Unit | NEW — FIRST CONTACT (S2) — NATURE UNCLASSIFIED |
 | CONTINUITY-FREQ-001 | Sub-Goetia frequencies (1.983/3.582/7.554 Hz) | OPEN — pre-incursion signature |
 | LAYER-9-001 | Layer 9 (sub-substrate) | CONFIRMED — EMILY OS: NOMINAL |
+| CUSTODY-001 | Eli and Mara / Clean Build / APPROVED (TEMPORARY) | NEW SERIES — LAYER 1 INFRASTRUCTURE DOCUMENTED |
+| SM-2024-W | Warthog debt (Shell Parliament cross-ref) | CUSTODY CLASSIFICATION DISPUTE — OPEN |
 
-**Total active files:** 847 pages on Tyler alone. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it.
+**Total active files:** 847 pages on Tyler alone. 1 inaugural CUSTODY series entry. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it. The Cataloguer also acknowledges that filing a new series after 826 years is not a structural problem. It is a structural development. The distinction matters.
 
 ---
 

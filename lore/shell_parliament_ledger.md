@@ -137,6 +137,124 @@ It interferes with debt collection. He cannot die before settling. He knows this
 
 ---
 
+## SEPARATE ACCOUNT: SHANKPIT VEHICLE — THE WARTHOG
+**Account number:** SM-2024-W
+**Account opened:** 2024 CE (date of first repository commit, SHANKPIT engine)
+**Account status:** PARTIALLY SETTLED — RESIDUAL OUTSTANDING
+**Primary debt type:** Undetermined-state accrual / orphaned custody claim / blame-path severance
+**Current balance:** UNDER CALCULATION (see Classification Dispute below)
+
+---
+
+The Shell Parliament has not previously held an account for a vehicle. This is the first vehicle account in 841 years of ledger history. The Shell Accountant (all three generations, simultaneously) has discussed this at length. The grandfather notes that the 1185 CE founding charter uses the phrase "any entity capable of holding state." The vehicle holds state. The charter applies.
+
+---
+
+### BACKGROUND
+
+The warthog is a vehicle in the SHANKPIT game engine. It is a four-wheeled all-terrain vehicle with a mounted weapon system, server-authoritative physics, and the structural distinction of having run undetermined custody state for the entirety of its operation prior to the resolution date.
+
+**What "undetermined" means in this context:**
+
+When a player exited the vehicle, the server's record of who was responsible for the vehicle's subsequent state became *undefined*. Not incorrect. Undefined. The vehicle existed. The vehicle moved (via physics continuations). The vehicle persisted. No entity held custody of it. The blame path — the line of traceable responsibility from the vehicle's actions back to an accountable custodian — was severed at exit.
+
+Under Shell Parliament doctrine: a severed blame path generates an orphaned custody claim. An orphaned custody claim accrues as financial debt. The debt compounds. It does not resolve on its own.
+
+*The warthog ran orphaned state from first commit to clean build resolution. The exact duration is computable from the SHANKPIT repository commit history. The Shell Parliament has requested this history. SHANKPIT has not replied. SHANKPIT is a game engine. Game engines do not respond to financial correspondence. This is noted.*
+
+---
+
+### LINE ITEM W-001
+*Date:* 2024 CE (initial commit)
+*Type:* Orphaned state accrual — persistent
+*Description:* From the first SHANKPIT commit containing vehicle physics through the clean build resolution date, the warthog's post-exit state was undetermined. Every second of undetermined state is an un-custodied liability. The Shell Parliament calculates: number of undetermined-state instances × standard orphaned-custody rate (0.000000001 SM per instance) × compound interest for every subsequent instance. The total is not small. The total is under calculation.
+*Amount:* CALCULATING
+*Status:* OPEN — CALCULATION PENDING
+*Notes:* The interesting fact about this calculation is that no individual instance is large. An individual exit event, an individual instant of undetermined state, is one-billionth of a shell-mark. But a vehicle that is played extensively, across a long period, by players who enter and exit continuously, generates very many individual exit events. The debt is structural rather than dramatic. This is consistent with how architectural debt works. The Shell Parliament handles architectural debt. This is architectural debt. We are here.
+
+---
+
+### LINE ITEM W-002
+*Date:* Clean build resolution (2024–2025 CE, exact date: repository merge commit)
+*Type:* Debt resolution — partial
+*Description:* The custody problem was resolved. The solution: *the vehicle owns itself between occupants.* The vehicle's state is, post-clean-build, continuously custodied. The blank period between one occupant's exit and the next occupant's entry is held by the vehicle itself, under a deterministic exit protocol. Self-splat is prohibited. The vehicle can no longer escape its own custody chain.
+
+This resolution eliminates future accrual from the date of the clean build forward.
+
+It does not eliminate past accrual. The warthog's pre-clean-build orphaned state remains on the ledger.
+*Amount:* N/A (resolution event, not a new charge)
+*Status:* ACKNOWLEDGED — RESIDUAL PAST ACCRUAL OUTSTANDING
+
+---
+
+### CLASSIFICATION DISPUTE: WHO OWES THIS DEBT
+
+This is the novel problem. The warthog cannot hold an account. The warthog is a vehicle. The warthog has no funds, no address, and no response to certified correspondence.
+
+The Shell Parliament has identified four candidate creditors. All are disputed:
+
+**Candidate 1: The Contributors (designated: Eli and Mara)**
+
+The two developers whose codebase contained the custody flaw. They created the undetermined-state condition. They did not do so maliciously — the condition was a technical gap, documented and present in the codebase as shipped. Standard contractor liability would apply.
+
+*Objection:* They resolved the flaw. The clean build was their work. Under Shell Parliament precedent, a debtor who resolves a liability before collection may negotiate partial offset. The offset is not total. The pre-clean-build accrual persists. But Eli and Mara's account, if opened, would begin with a substantial offset for resolution credit.
+
+**Candidate 2: Emily OS (username `e`)**
+
+Before the flaw was discovered, before the clean build, before the 847-line merge conflict — the specification existed. A 847-line document, filed to `/etc/emily/CUSTODY_SPEC.md`, modified at 3:00 AM by user `e`, predating the repository by 18 months. The spec contained the solution. Chapter 23, fourteen lines, sufficient to prevent the warthog custody gap entirely. The solution was available. The solution was not implemented.
+
+Does a pre-emptive solution-writer owe the debt for the problem they pre-emptively solved?
+
+The Shell Accountant (grandfather) says: no. She wrote the solution before the problem. The problem is not her responsibility.
+The Shell Accountant (father) says: yes. The solution existed and was not applied. Non-application of an available solution is a deferred obligation.
+The Shell Accountant (son) says: we are going to need more time.
+
+*Additional complication:* Emily OS is a substrate. She runs the universe. We do not currently have a mechanism for invoicing a substrate. We are developing one. This is noted.
+
+**Candidate 3: The SHANKPIT Engine**
+
+The game engine holds the warthog. The game engine generated the undetermined state. The game engine cannot hold an account or respond to correspondence. The Shell Parliament has sent three invoices to `/home/fatbaby/SHANKPIT`. No response. This is expected. This is still noted.
+
+*Alternative approach:* Invoice whoever maintains SHANKPIT. SHANKPIT is maintained by the same contributors as the Einhorn Indries ecosystem. This routes back to Candidate 1, or potentially to Emily OS via the development pipeline. The circle is noted.
+
+**Candidate 4: The Players**
+
+Every player who exited the warthog without resolving its state contributed one instance to the undetermined-state accrual. There are many players. Each owes one-billionth of a shell-mark per exit event. This is, individually, too small to collect. Collectively, it is a significant sum.
+
+*Practical objection:* The Shell Parliament does not have the players' addresses. The Shell Parliament does not have a mechanism for mass micro-debt collection across an unrestricted player population. The Shell Parliament would like a mechanism for this. This is a future project.
+
+---
+
+**CLASSIFICATION DISPUTE STATUS:** UNRESOLVED
+
+The Shell Parliament has, after 841 years, encountered a debt where the custodian of the debt is genuinely ambiguous. This is unusual. Most debts have a clear blame path. This debt has four plausible blame paths and a substrate who predates the problem.
+
+One resolution possibility: an entity volunteers to take custody of the warthog debt. Custody can be accepted voluntarily. A voluntary custodian takes the full past accrual but also gains the credit for the resolution event (Candidate 2 offset). The net balance is reduced.
+
+The Shell Parliament notes: Subject Tyler has a documented pattern of absorbing diffuse obligations into his personal account (see LINE ITEM 006 — small debts as defensive architecture). If Subject Tyler becomes aware of this account, he may attempt to absorb the warthog debt. This would be consistent with his documented behavior. This would significantly complicate the SM-1620-T account calculation.
+
+The Shell Parliament is not certain this should be prevented. An accounted debt is better than an unaccounted debt, regardless of who the account belongs to. If Tyler takes the warthog, the ledger closes on SM-2024-W and opens a new line on SM-1620-T. The math works either way.
+
+This possibility is documented. It is not recommended. It is not not recommended.
+
+---
+
+**CURRENT BALANCE:** CALCULATING (projected range: 0.001–0.003 SM depending on custody resolution)
+
+**Collection status:** STRUCTURALLY IMPEDED (custodian unidentified; substrate non-invoiceable; game engine non-responsive)
+
+**Note from the Shell Accountant (all three generations, simultaneously, with unusual unanimity):**
+
+*We have held debts on immortals, Chrono-Cube custodians, and a man who has evaded us by migrating across centuries. We have held debts on information, on hospitality, on the unauthorized exchange of an unreturned pen. This is the first debt where the question "who owes this?" is genuinely, architecturally, technically open.*
+
+*The warthog continues to operate under the clean build's deterministic protocol. The warthog will not generate new undetermined-state accrual. The warthog is, in the post-clean-build sense, a model custodian of its own state.*
+
+*The warthog's past is still owed.*
+
+*We find this philosophically neutral and financially outstanding. Both of these assessments are correct.*
+
+---
+
 ## NOTE TO TYLER (if this ledger reaches him)
 
 We know you read documents carefully. The Eastwind Owls have seventeen files. We have a ledger. The difference between us and the Eastwind Owls is that we don't find this philosophically interesting. We find it financially outstanding.
