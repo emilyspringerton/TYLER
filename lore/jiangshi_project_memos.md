@@ -178,6 +178,67 @@ We will get him. It will take however long it takes. We are very patient.
 
 ---
 
+## MEMO #015
+**FROM:** Production Coordinator, Unit A
+**TO:** Senior Archivists, Stillness Division; Risk Assessment, Unit A; Legal, Division III
+**RE:** UNAUTHORIZED CREW INTRUSION — Continuity Unit — ESCALATION REQUIRED
+**DATE:** [REDACTED — timestamp inconsistency consistent with Layer bleed]
+
+This memo is classified URGENT. It cannot be destroyed.
+
+A second documentary crew appeared in our edit suite. They did not use the door. There are no records of their approach in any monitoring system. One moment the suite contained our team. The next moment it contained the Continuity Unit as well.
+
+Their gear is identical to Documentary Unit A's. Their posture is slightly better. Their eyes do not move the way eyes move when someone is uncertain about something.
+
+**Story mass:**
+
+The Continuity Director used the phrase "story mass." Production has been briefed on every operational concept in the Stillness Council doctrine. "Story mass" is not in the doctrine. The concept implies narrative has physical weight — that it accumulates, that excessive accumulation creates structural risk, and that an external unit with the correct credentials can reduce it.
+
+If the Syndicate has been generating story mass for four centuries across four attempts, and if the Continuity Unit is authorized to reduce story mass, then the Continuity Unit has authority that predates our operational framework. Legal is reviewing this. Legal has not responded. Legal is being very quiet.
+
+**The contract:**
+
+The Continuity Unit produced a contract bearing the subject's signature. The contract is dated tomorrow. The subject has not signed it in any documentation we hold.
+
+The subject's response: "You offer help the same way a noose offers support." This is the most complete statement the subject has produced in forty-seven hours of confessional footage. The external threat made him coherent. We are logging this. We do not know what to do with it.
+
+**The scar:**
+
+One Continuity Unit operative has a keyhole burn scar on their right palm. Tyler's scar. Documented on Tyler since at least 1620 CE. Not documented on any other individual across four centuries and four attempts.
+
+Risk Assessment's standing recommendation has been: do not give the subject anything, do not accept anything from the subject, every exchange becomes an obligation and obligations prevent project completion. The Continuity Unit arrived with evidence that someone is not following this protocol. The scar on their palm is that evidence.
+
+**Hana:**
+
+Hana (Designation: CUSTODY, School Encounter, Episode 2) was present. Her assessment of the Continuity Director: "You're not human. You're what the timeline wears when it wants to sound reasonable."
+
+Hana's Custody designation is Emily OS-issued. An Emily OS-designated operative identifying the Continuity Unit as non-human is not an assessment we can adjudicate. We are logging it and escalating.
+
+**Layer 9:**
+
+The subject proposed a blackout experiment: all devices off, 60 seconds. We complied for eleven seconds. Our monitoring equipment did not comply. It continued logging in a layer designation we cannot locate in any documentation: LAYER-9.
+
+We operate within four documented layers. Emily OS is Layer 4. Emily OS is the substrate. Our monitoring equipment found a Layer 9. Our monitoring equipment should not have access to a layer we have not documented. We cannot explain why it does. This is escalated to the Stillness Council. The Council has not responded. The Council is also being very quiet.
+
+**The clapperboard:**
+
+After the blackout, the subject was holding the clapperboard from Episode 3. Episode 3 has not been filmed. The clapperboard should not exist. It exists. The subject is holding it. This issue is fifth on the priority list. We will reach it.
+
+**Priority queue:**
+1. Who is the Continuity Unit and under what authority do they operate?
+2. What is Layer 9 and who authorized our monitoring equipment to access it?
+3. What does a pre-signed contract dated tomorrow legally constitute?
+4. What is the operational significance of the scar match?
+5. Where did the Episode 3 clapperboard come from?
+
+The project is still proceeding. The subject has not migrated. Footage is accumulating. We are documenting.
+
+We are always documenting.
+
+**End log:** STAGE PROGRESS: NOMINALLY ACTIVE. STORY MASS: UNQUANTIFIED (CONCERNING). CONTINUITY UNIT: NATURE UNKNOWN. LAYER-9: ESCALATED TO COUNCIL. THE CONTRACT: IN LEGAL REVIEW. THE CLAPPERBOARD: ON THE LIST.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*

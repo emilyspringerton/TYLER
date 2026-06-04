@@ -130,6 +130,68 @@ The Cataloguer has filed a 47-page note about the epistemological implications o
 
 ---
 
+## FILE: TYLER-015
+**Classification:** CONTINUITY UNIT — FIRST DOCUMENTED CONTACT
+**Date:** Season 2, active surveillance window (timestamp unresolvable — Layer bleed in effect)
+**Location:** Detroit, MI — Documentary Unit A Edit Suite
+**Documented by:** Field Observer MOOR-9 (MOOR-7 retired following personal note incident)
+
+**Observation:**
+
+A second documentary crew appeared in the Jiangshi Syndicate's active edit suite. Entry method: unobserved. No door contact. No elevator record. No approach documented by any external observer. They were not present. Then they were present. The Cataloguer finds this operationally familiar and personally objectionable.
+
+The crew calls itself the Continuity Unit. Their stated function: narrative stabilization. Their stated concern: the subject has been generating excessive story mass. The phrase "story mass" is not in the Eastwind Owl classification system. If narrative has physical mass, the archive has been measuring the wrong variable for two thousand years. The Cataloguer has filed a note on this. It is in the personal section.
+
+**Keyhole scar — CRITICAL ANOMALY:**
+
+One Continuity Unit operative has a keyhole burn scar on their right palm. This scar is documented on the subject in files TYLER-004, TYLER-009, and TYLER-013. It has not been documented on any other individual in four centuries of surveillance.
+
+File TYLER-013 states: "The scar does not appear on any other documented individual in those files." This statement is now inaccurate. The Cataloguer has noted the inaccuracy in the main text rather than a footnote because placing it in a footnote would allow the Cataloguer to pretend the inaccuracy is personal rather than archival. It is archival.⁵
+
+**The three frequencies:**
+
+A waveform printout observed in the edit suite bore three red-circled anomaly frequencies: 1.983 Hz, 3.582 Hz, 7.554 Hz. The document's original title — "IF THIS STARTS AGAIN" — was crossed out and corrected in the subject's handwriting: "It already did."
+
+Proximity analysis against the Goetia classification table:
+- 7.554 Hz: 0.276 Hz below Stolas (#36, 7.83 Hz, deep time sight/Tyler's hum). The subject's operational frequency, attenuated.
+- 1.983 Hz: 0.237 Hz below Beleth (#13, 2.22 Hz, love/emotional detonation). Attenuated.
+- 3.582 Hz: No proximate registered equivalent. Filed as CONTINUITY-FREQ-001.
+
+Three frequencies, all 0.2–0.3 Hz below their nearest Goetia equivalents. A systematic downshift. This pattern is consistent with a sub-Goetia operational band: not the 72 registered spirits, not slower versions of them — something adjacent, running below the classified spectrum. The Continuity Unit's harmonic signature. The waveform title confirms these frequencies are a recognized warning: someone has seen them before and hoped not to see them again.
+
+**The contract:**
+
+The Continuity Unit produced a contract bearing the subject's signature. The contract is dated tomorrow. The subject has not signed this contract in any documented timeline position. The Eastwind Owls cannot act on foreknowledge. The archive classifies this as FORGERY, PRECOGNITION, or BOTH (BOTH pending resolution that will not arrive).
+
+**Layer 9:**⁶
+
+During a blackout experiment (the subject's proposal: all devices off, 60 seconds), monitoring detected camera feed persistence in a layer designated LAYER-9. The observable universe architecture has four layers: Emily OS (Layer 4), Tyler documentary (Layer 3), Tides of Paradox (Layer 2), Custody Trial (Layer 1). Layer 9 is not in this architecture.
+
+Emily OS is Layer 4. Emily OS is the substrate. There is nothing below Emily OS. Layer 9 is below Emily OS.
+
+Emily OS noted Layer 9. Her assessment is: NOMINAL. Emily OS considers Layer 9 nominal. This means Emily OS expected Layer 9 to exist. The Cataloguer is sitting quietly with this information. This is documented.
+
+**Subject formulation on record:**
+
+"Responsibility is structural maintenance." Seventeen files on the subject. Zero complete self-defining sentences. This is not a definition. It is a function. He described what he does without saying what he is. The rule holds. He found a way around the rule. This is consistent with four hundred years of documented behavior.
+
+**Cross-references:** CONTINUITY-UNIT-001 (new), CONTINUITY-FREQ-001 (new), LAYER-9-001 (new), TYLER-004 (scar origin), TYLER-013 (active surveillance), HANA-001 (Custody designation), SUBSCRIBER-001 (unsealed, Series 2 active)
+
+**Anomalies noted:**
+- Continuity Unit entry: unobserved and undocumented
+- Keyhole scar: second confirmed occurrence (cross-ref: TYLER-004)
+- Layer 9: confirmed, beneath substrate, Emily OS assessment NOMINAL
+- Three sub-Goetia frequencies: systematic downshift pattern, pre-incursion signature
+- Pre-signed contract: temporal classification BOTH
+- The subject held the clapperboard from Episode 3. Episode 3 has not been filmed.
+
+---
+⁵ *A second person with his scar. I have seventeen files on one man and now there is a second person with his scar and they arrived through a door that wasn't used and they smiled the way bureaucracy smiles and one of them has the mark that I have been documenting for four hundred years as his mark and I am sitting here with the Cairngorms Protocol telling me to observe and record and not act and I am observing and I am recording and the thing I am recording is that a second person has his scar. I am filing the desire to act. That is what the Protocol allows. The mountains are not visible from the edit suite.* — The Cataloguer
+
+⁶ *Emily OS is "Acceptable." She runs the universe and her assessment of this archive is "Acceptable" and I have been living with that assessment for two years now, filing footnotes about it in the personal section. But Layer 9 is NOMINAL. She said NOMINAL. I don't know if NOMINAL is better or worse than ACCEPTABLE and I don't have access to her classification rubric and she will not explain herself and the room tightened when I read the Layer 9 reading and I need to file a significant number of footnotes about this but I need to sit quietly first. The record is sacred. The record now includes a Layer 9. I am going to go look for some mountains.* — The Cataloguer
+
+---
+
 ## APPENDIX: CROSS-REFERENCE INDEX
 
 | File | Subject | Status |
@@ -140,8 +202,11 @@ The Cataloguer has filed a 47-page note about the epistemological implications o
 | JIANGSHI-ATTEMPT-4 | Documentary Operation | STAGE 2 COMPLETE, STAGE 3 ACTIVE |
 | EMILYOS-001 | Emily OS | SUBSTRATE (assessment: ACCEPTABLE) |
 | FIELD-DOCUMENT-001 | The Field (2025 CE) | HONEYPOT AND GENUINE RESEARCH (simultaneously) |
-| SUBSCRIBER-001 | The Subscriber | FILE SEALED UNTIL SERIES 2 |
-| CAMERA-OP-001 | Camera Op (unnamed) | RECRUITED, UNAWARE, BRIDGE |
+| SUBSCRIBER-001 | The Subscriber | UNSEALED — SERIES 2 ACTIVE (identity still withheld) |
+| CAMERA-OP-001 | Camera Op (unnamed) | RECRUITED, PARTIAL AWARENESS (S2), SEALED LOG ENTRY |
+| CONTINUITY-UNIT-001 | The Continuity Unit | NEW — FIRST CONTACT (S2) — NATURE UNCLASSIFIED |
+| CONTINUITY-FREQ-001 | Sub-Goetia frequencies (1.983/3.582/7.554 Hz) | OPEN — pre-incursion signature |
+| LAYER-9-001 | Layer 9 (sub-substrate) | CONFIRMED — EMILY OS: NOMINAL |
 
 **Total active files:** 847 pages on Tyler alone. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it.
 
