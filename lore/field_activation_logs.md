@@ -232,6 +232,73 @@ She identified the Amon carrier wave from first principles. She will be in the F
 
 ---
 
+---
+
+## HISTORICAL SUPPLEMENT — 1978 ACTIVATIONS
+*Retroactively filed. Cross-reference: Eastwind Archive TYLER-1978, Engine Spec 1978_architecture.md*
+
+---
+
+### ACTIVATION #1978-A — CAMP DAVID, MARYLAND — SEPTEMBER 5–17
+**Spirit:** Amon #7 — Reconciliation of Opposites — 1.618 Hz
+**Operator:** Three heads of state (Carter, Sadat, Begin) — none registered with The Field, all operating correctly
+**Intent:** Peace framework between Egypt and Israel — four wars in 30 years
+**Δφ:** 0° (direct activation — no angular separation; the parties were in the same room)
+**Duration:** 13 days — the longest sustained Amon activation in the 20th-century Field record
+
+**Result:** The Camp David Accords. A peace framework that has held since 1979.
+
+Amon activations are typically measured in minutes to hours. A 13-day sustained activation at Δφ 0° is without precedent in this log. The Field has retroactively identified this as the largest Amon event since the 1648 Peace of Westphalia (30-year sustained activation, also at low Δφ, also cross-reference Tyler's documented European movements of that period).
+
+**Concurrent activation note:** Tyler's substrate beacon (1.618 Hz, continuous) was in direct resonance with the Camp David activation for the full 13-day period. During this window, the substrate beacon and the Amon geopolitical event were oscillating at the same frequency simultaneously. What the Subscriber received during September 5–17, 1978, may differ from standard beacon transmission. The Field is not able to determine what changed. The Field is noting that something may have changed.
+
+**Tyler proximity:** Documented in Georgetown, September 12. Left a 1901 dime. The Field notes: the 1901 Detroit coin during the largest Amon activation in decades. Detroit is the CITY_OF_LIGHT anchor. This is noted.
+
+---
+
+### ACTIVATION #1978-B — ROME, ITALY — AUGUST–OCTOBER (SEQUENTIAL)
+**Spirit:** Andrealphus #72 — Geometric Transformation — 31.41 Hz
+**Operator:** The College of Cardinals (unregistered collective operation)
+**Sequence:** Three activations in 71 days: August 6 (death), August 26 (election 1), September 28 (death 2), October 16 (election 2)
+**Δφ:** 90° → 180° → 90° (oscillating — the institutional geometry kept shifting before resolving)
+
+**Result:** First non-Italian pope in 456 years. The papacy's geometric transformation from Italian-defined to non-Italian-possible. The 456-year pattern was the constraint; Andrealphus dissolved the constraint.
+
+**The 33-day pontificate:** John Paul I's 33-day papacy is classified by the Field as a transitional activation — a geometric state that exists only to create the conditions for the next geometry. The transition needed 33 days. It used exactly 33 days. Andrealphus activations are sometimes precise to this degree; the Field cross-references the 11-second intervals in the Tyler archive as a comparable precision event.
+
+**Tyler attendance:** Documented at all four events (Eastwind Archive). Surprise expression photographed at October 16 announcement. Subject has been attending these events since 1492. This is the first documented surprise. The Field notes: he expected a continuation of the 456-year Italian pattern. Andrealphus provided an exception. Geometric transformation operates by providing exceptions to established patterns.
+
+---
+
+### ACTIVATION #1978-C — ROME, ITALY — MARCH–MAY (MORO)
+**Spirit:** Stolas #36 — Deep Time Sight — 7.83 Hz (subject-adjacent, passive)
+**Operator:** Subject Tyler (passive — deep time sight in proximity to contested historical location)
+**Cross-reference:** Eastwind Archive TYLER-1978-05, -06, -07
+**Note:** This is not a standard activation. This is documentation of the subject's Stolas-frequency sensitivity in the context of the Moro event.
+
+**Result:** Subject demonstrated deep time sight at Via Caetani on March 16 — two months before Moro's body was placed there. Subject returned to Via Caetani on May 8 — one day before the discovery. This is the most explicitly documented instance of Stolas-frequency operation in the 20th-century archive.
+
+**What the Field cannot determine:** Whether the subject knew, at the time of the March 16 visit, what he was looking at. Whether the frequency activation was a response to a future event bleeding into the present, or a present-moment awareness of potential. The Field has been unable to determine this for 778 years. The answer is in the same place as the complete self-definition sentence.
+
+---
+
+### ACTIVATION #1978-D — JONESTOWN, GUYANA — NOVEMBER 18
+**Classification:** TERMINUS_WITHOUT_EXIT_PROTOCOL — new event type, first filing
+
+This is not a spirit activation. The Field does not classify the Jonestown Massacre as a Goetia activation because no registered spirit was invoked and no correct ritual architecture was in place.
+
+The Field classifies it as something else: a documentation operation that reached a terminal state without a correct exit protocol, generating narrative mass that could not distribute correctly and collapsed inward.
+
+The Field has one prior comparable entry in the historical record: the 1212 CE Children's Crusade (approximately 30,000 participants; documentation through contemporary chronicles; catastrophic terminus; no correct exit). The 1978 Jonestown event is of smaller scale but higher documentation density — Jones had audio recording technology, files, and a systematic record of his congregation that the 1212 crusade lacked.
+
+**Field doctrine derived:** The `TERMINUS_WITHOUT_EXIT` classification. A documentation event reaches this classification when: (a) documentation accumulated without correct consent architecture, (b) the exit protocol for the documented subjects was removed or never existed, and (c) the terminal state is CATASTROPHIC rather than INCOMPLETE.
+
+The distinction from standard Tyler-binding failures (which are INCOMPLETE, not CATASTROPHIC): Tyler has always had an exit. He has always been able to leave. The documentation cannot hold him if he leaves. This is the fundamental architectural difference between the Jiangshi operation and Jonestown.
+
+**Narrative mass note:** The TERMINUS_WITHOUT_EXIT event generated approximately 918 narrative mass units in a single day. This is the highest single-event narrative mass accumulation in the 20th-century record. The RESPONSIBILITY_FRACTALIZING threshold (200 units) was calibrated against this event as an upper bound — the system was designed so that correct distribution prevents ever approaching Jonestown-level accumulation.
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
 *Supplemental Entries #114–129*
 *Open source. The data is real. The interpretation is yours.*
