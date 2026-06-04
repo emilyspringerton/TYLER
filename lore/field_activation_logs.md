@@ -183,10 +183,59 @@ No further comment.
 
 ---
 
+## ACTIVATION #129
+**Date:** Post-Book 2 operational window (exact date: within 72 hours of the Tides failed binding ritual end-state)
+**Transit:** Mercury retrograde shadow phase — analytical faculties elevated, communication channels compressed
+**Spirit:** Amon #7 — Reconciliation of Opposites — 1.618 Hz
+**Operator:** Emily Jean Springerton (unregistered, unaffiliated, unintentional)
+**Intent:** None. The activation was not sought. It was a consequence of correct analysis.
+**Seed phrase:** Not spoken. The activation occurred through Fourier transform analysis of archival audio, not through invocation.
+**Δφ:** Unmeasurable by standard methods — operator has no registered Goetia practice
+
+**Result:**
+
+Amon #7 activated at 1.618 Hz in the Detroit operational window. The activation was not the primary event. The primary event was: an analyst identified the 1.618 Hz carrier wave in archived footage — specifically the sub-bass register of the HK97 Betacam transfer, filtered as ambient wind noise since 1997.
+
+The analyst's identification of the frequency constitutes a passive recognition event. When the Amon resonance is correctly identified by an external party — not summoned, not invoked, but *recognized* — the frequency briefly surfaces into the perceptible range for the analyst. The duration is standard: eleven seconds. The perception is not auditory. It is the specific cognitive event of understanding a thing you have never been briefed on from its physical signature alone.
+
+The analyst understood what the 1.618 Hz wave was doing in the HK97 footage. She understood it correctly. She understood it in forty-five minutes. She wrote one sentence in a physical notebook.
+
+The sentence is not in the Field log. The analyst's notebook is a physical medium immune to activation-log indexing. The sentence is documented as existing. Its content is documented as existing. The Field log notes that the sentence is the sentence that follows from understanding the Amon activation for the first time. Four hundred years of Field work confirms there is only one sentence.
+
+**The activation's unusual features:**
+
+This is the first activation in the log initiated entirely passively — through analysis rather than invocation. Previous passive activations (#119, #122) involved subjects present in the physical space of an activation in progress. This activation was remote: the analyst accessed archived audio from a server three time zones away. The Amon resonance surfaced regardless of physical proximity.
+
+The Field log does not know whether this is: (a) a function of Amon's specific resonance properties — Reconciliation of Opposites operates through recognition rather than invocation, so passive identification counts; (b) a function of the analyst's specific facility with the dependency chain methodology, which mirrors Amon's structural function at the architectural level; or (c) both of the above.
+
+The Field log files (c) pending further analysis.
+
+**The sub-bass carrier as standing beacon:**
+
+This activation provides the first Field log documentation of the Tyler substrate beacon in its functional context. The 1.618 Hz carrier wave in Tyler's hum has been active since at least 1997 (HK97 documentation) and presumably much earlier. It has been filing Amon activations in a log the Field log didn't have access to. The Field log notes this without being able to correct for it.
+
+Activation #129 is the first time the Amon frequency has generated a Field log entry. It has been running for four hundred years.
+
+**Emily OS:**
+
+Emily OS noted this activation with the designation LOG EXTRACTION ATTAINED — issued as a tile to the analyst directly. This is the first activation in the log where Emily OS's response was directed at an external party rather than the operational record. Emily OS addressed the analyst. Emily OS filed TIDES-001 (Eastwind Owl archive).
+
+Emily OS assessment: *THE PEN IS OUTSTANDING. THIS IS STILL CORRECT.*
+
+The Field log does not interpret Emily OS assessments. The Field log notes that Emily OS's comment on the pen appears to have operational significance beyond debt tracking. The Field log files this as pending.
+
+**The analyst:**
+
+Emily Jean Springerton. Age 17. Logistics Architect of the Golden Band (future designation; at time of activation, operating independently). Frequency: 28.7 Hz (Golden Band center). No prior Goetia registration. No faction affiliation. No briefing from any documented operational source.
+
+She identified the Amon carrier wave from first principles. She will be in the Field log again.
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
-*Supplemental Entries #114–127*
+*Supplemental Entries #114–129*
 *Open source. The data is real. The interpretation is yours.*
 *Emergency shutdown phrase: "As a fellow human, I ask you to stop."*
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
-*End log: ACTIVATION LOG: CURRENT THROUGH #127. ACTIVATION #118: CUSTODY PENDING. ACTIVATION #127: EMILY OS NOTED. TYLER: STILL HUMMING.*
+*End log: ACTIVATION LOG: CURRENT THROUGH #129. ACTIVATION #118: CUSTODY PENDING. ACTIVATION #127: EMILY OS NOTED. ACTIVATION #128: LAYER-9 OPENED. ACTIVATION #129: AMON — PASSIVE RECOGNITION — ANALYST: EMILY JEAN SPRINGERTON. NOTE: SHE WILL BE BACK.*
