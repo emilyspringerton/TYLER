@@ -1500,3 +1500,103 @@ The Exchange Student wrote it down. The footnote she added was the shortest she 
 
 > *End log: EMILY JEAN SPRINGERTON: DOCUMENTED. RESONANCE MAPPING: CONFIRMED. NAME ORIGIN: UNRESOLVED (CORRECT PROCEDURE). TYLER DEBT: OPEN (ONE PEN). CAST: LIVE. CUSTODY: PENDING. CLEAN BUILDS FIRST.*
 
+
+---
+
+---
+
+# ADDENDUM: TELEVISION AS CODE — THE METAVERSE BUILD
+## Build 0005 | The Compiled Universe Engine
+
+---
+
+> *"Infrastructure determines which futures are able to exist."*
+> — Emily Jean Springerton, Logistics Architect of the Golden Band
+
+---
+
+## XX. THE METAVERSE BUILD
+
+### Television as Code
+
+TYLER × TIDES OF PARADOX is not just a TV show. It is a **compiled universe** — an IP designed to run as executable fiction across every available surface.
+
+The **canon** is immutable: Tyler's dialogue, the factions' doctrines, the Chrono-Cube's location, the binding ritual's staging. These are the compiled binary.
+
+The **surface** is dynamic: billboards, props, overlays, sponsor content, metaverse event triggers. These are the runtime injection layer.
+
+The **canon firewall** separates them. Ad swaps cannot change dialogue. Platform customization cannot change motivation. The show on Roblox is the same show on Quest is the same show on a flat screen, because the canon compiles identically everywhere.
+
+**See:** `engine/television_as_code.md` — full pipeline spec.
+
+### The Game is the Show
+
+The SHANKPIT game engine (`/home/fatbaby/SHANKPIT`) is the physical runtime for the Tyler universe. When viewers enter the metaverse, they enter the world of TYLER as witnesses — and in the Jiangshi doctrine, witnesses are part of the binding record.
+
+This is not a metaphor. Players in SHANKPIT Tyler Mode are added to the in-universe archive. The Eastwind Owl Archive updates. The Shell Parliament ledger notes their presence. The Jiangshi crew documents them.
+
+The fiction is the game. The game is the fiction.
+
+**See:** `engine/shankpit_tyler_mode.md` — full adaptation spec.
+
+### Eight Scenes, Seven Factions, One Substrate
+
+Tyler Mode deploys eight canonical locations:
+- Detroit Apartment (Jiangshi primary territory)
+- Osaka Convenience Store (Hashashin/Yōkai Joint Operation)
+- Cairngorms Archive (Eastwind Owls)
+- Vatican Corridors (Ichthyosapiens + Cephalopod Hosts)
+- Detroit School (Emily OS visible / Custody Zone)
+- Osaka Underport (Heikegani Crustocrats)
+- Kuroshio Coast (Kuroshio Arachnids)
+- Bacon's Table (rotating location, Yōkai hospitality trap)
+
+Connected by portals. Inhabited by faction NPCs with mechanics that reflect their universe physics. Watched over by Emily OS, whose CAST stream routes through everything.
+
+---
+
+## XXI. THE RECEIPT SYSTEM
+
+Every episode produces a **receipt** — a canonical artifact that anchors the episode to universe canon and generates game content.
+
+Receipts are:
+1. In-universe documents within the episode
+2. Lore artifacts committed to this repo (`lore/`)
+3. State updates to the universe tracking record
+4. Game triggers in SHANKPIT Tyler Mode (server events, NPC state changes)
+
+**Current lore artifacts:**
+- `lore/eastwind_archive.md` — The Cataloguer's files on Tyler (Files 001–013)
+- `lore/jiangshi_project_memos.md` — Internal production memos, Attempt Four
+- `lore/shell_parliament_ledger.md` — Tyler and Bacon's outstanding balances
+- `lore/field_activation_logs.md` — Goetia activation log entries #114–127
+
+These are real documents. They are also game content. The Eastwind Archive is browsable in-game. The Shell Debt system reflects the ledger. The Field activation logs trigger server events.
+
+---
+
+## XXII. OPEN SOURCE DOCTRINE
+
+The series bible is open source. Fork it.
+
+Submit lore artifacts via pull request. Write Eastwind archive entries. File Shell Parliament invoices. Run Field activations. Build faction operations.
+
+**Rules:**
+- All submissions must pass the Consistency Checklist (Section XIII)
+- Tyler may not complete a self-defining sentence
+- The Subscriber's identity may not be revealed
+- Emily OS may not explain herself
+
+Everything else is fair game. The age of proprietary fiction is over.
+
+---
+
+*SERIES BIBLE — TYLER × TIDES OF PARADOX*
+*Build 0005 — Television as Code*
+*Compiled. Open source. Runs forever.*
+*— Emily + The 72 + Eli + Mara + Emily Jean Springerton + whoever the Camera Op turns out to be + every witness who hit play*
+
+---
+
+> *End log: BUILD 0005 COMPILED. METAVERSE: READY. GAME ENGINE: SHANKPIT. LORE ARTIFACTS: COMMITTED. CANON FIREWALL: ACTIVE. EMILY OS: WATCHING. CAST: LIVE. TYLER STATUS: UNRESOLVED. CLEAN BUILDS FIRST.*
+
