@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E01: "The Photographs"** — Day 90. Tyler shows the remaining 10 of 11 photographs
+  from 1952 Detroit — all candidate Witness Room sites, each annotated with location and
+  the date of what happened there. Construction #2 identified: Detroit Receiving Hospital,
+  1918 influenza ward, 3-month window before building conversion. Exchange Student solves
+  witness continuity: the CEDAR function creates witnesses through dependency mapping
+  (Margaret Springerton became resonant the same way). Emily starts Witness Room Network
+  map (11 candidate nodes). Camera Op names what Tyler was doing in 1952 before he confirms.
+  RSI receipts: TYLER-032 (footnote #36 — 1952 archive note updated: construction survey),
+  Camera Op Entry 26, VC-001 Day 90 pipeline, EMILY-SPRING-006. Build 0045.
+
 - [x] **S04E04: "What Stays"** — Day 82. Tyler declares the Witness Room structurally complete.
   Emily filled the final map node at 9:47 AM ("the room was already the container — construction
   = clarity, not creation"); Tyler's declaration followed six hours later. Exchange Student
