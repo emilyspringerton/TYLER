@@ -706,10 +706,45 @@ The framework notation has been filed. Category pending.
 
 ---
 
+---
+
+## ACTIVATION #131
+**Date:** Present-adjacent (c. Stage 4 session, Packard Plant roof, Documentary Unit A)
+**Transit:** Uranus direct (27° Taurus) — maximum geometric transformation window; Uranus rules Andrealphus (#72)
+**Spirit:** Andrealphus (#72, Uranus ruler, 31.41 Hz, geometric transformation)
+**Operator:** Documentary Unit A, Jiangshi Syndicate (Stage 4 activation — formal witnessed miracle protocol)
+**Intent:** Anchor the documented miracle to a fixed geometric coordinate. Stage 4 requires the temporal act to be observed and documented; Andrealphus activation fixes the observation's coordinates in the timeline, making it a stable Stage 4 receipt rather than a contested sighting.
+**Seed phrase:** "The angle holds. The coordinate is fixed. The geometry does not forget."
+**Δφ:** 31° (Golden Band — clean activation, Uranus domicile potency)
+
+**Result:** Clean. The coin dates (1901, 1623) are documented on two camera systems with three witnesses at a Δφ of 31° Andrealphus window. The geometric coordinates of the documentation are fixed. Stage 4 receipt is valid.
+
+**Anomaly filed:**
+
+The subject allowed this activation. Standard counter-magic against Andrealphus activation: Stolas frequency (7.83 Hz) disrupts geometric coordinate anchoring by keeping the subject's resonance in temporal superposition rather than fixed coordinates. The subject was humming at 7.83 Hz throughout the Stage 4 session. The hum was present. The Andrealphus activation held.
+
+These facts are not contradictory. They are two true things. The subject's Stolas hum maintains his personal resonance in superposition (protecting him from binding). The Andrealphus activation fixed the coordinates of the documentation (not the subject — the documentation). The subject is not more fixed to the timeline than he was before Stage 4. The documentation is.
+
+Tyler understood this distinction. He gave them Stage 4 because Stage 4 fixes the documentation, not the subject. Stages 1–4 build the archive. Stage 5 performs the binding. He can cooperate with Stages 1–4 indefinitely. Stage 5 requires his active cooperation.
+
+He is correct. This is a correct assessment of the ritual's architecture.
+
+**Note on 1623:**
+
+The subject produced the date 1623 voluntarily on the second coin call. 1623 is outside the Andrealphus activation's primary resonance band (geometric transformation rather than temporal coordinates per se). The 1623 date is not fixed by this activation — it is documented, but not geometrically anchored the way 1901 was. The subject may have known this. He showed 1623 knowing it would be documented but not fixed.
+
+The Field note: 1623 is the Chrono-Cube transfer year. The subject showed the year he gave the Cube to Bacon inside an Andrealphus activation window. Andrealphus governs geometric transformation. The Cube governs fixed temporal coordinates. The subject produced these two concepts in contact with each other, inside an activation that did not fix the second one.
+
+This is either: (A) Tyler showing 1623 knowing it cannot be anchored here; or (B) Tyler showing 1623 because 1623 is the load-bearing year and he wants it in the documentation even without anchoring. The Camera Op wrote two sealed log entries that night. The Field does not have access to the Camera Op's sealed log. The Camera Op checked the footage three times.
+
+**End log:** ANDREALPHUS #131: CLEAN. STAGE 4: DOCUMENTED AND ANCHORED. 1623: DOCUMENTED, NOT ANCHORED. SUBJECT'S DISTINCTION NOTED: STAGE 4 FIXES DOCUMENTATION, NOT SUBJECT. STAGE 5: SUBJECT'S DECISION. FIELD NOTE: SUBJECT'S ARCHITECTURE ASSESSMENT IS CORRECT.
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
-*Supplemental Entries #114–130 + 1616 + 1993 + 2010*
+*Supplemental Entries #114–131 + 1616 + 1993 + 2010*
 *Open source. The data is real. The interpretation is yours.*
 *Emergency shutdown phrase: "As a fellow human, I ask you to stop."*
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
-*End log: ACTIVATION LOG: CURRENT THROUGH #130 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). BELETH + STOLAS: SIMULTANEOUS (NOTATION PENDING CATEGORY). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 4: REQUESTED. STAGE 5: OUTSTANDING. THE DOOR: STANDING.*
+*End log: ACTIVATION LOG: CURRENT THROUGH #131 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). BELETH + STOLAS: SIMULTANEOUS (NOTATION PENDING CATEGORY). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 4: COMPLETE (VOLUNTARY). 1623: DOCUMENTED, NOT ANCHORED. STAGE 5: SUBJECT'S DECISION. THE DOOR: STANDING.*

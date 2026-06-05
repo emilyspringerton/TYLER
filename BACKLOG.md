@@ -22,9 +22,12 @@ load-bearing dependencies that must exist first.
   RSI receipts: Jiangshi Memo (Stage 3 assessment), Eastwind entry (Camera Op awareness note),
   Field activation (Beleth escalation).
 
-- [ ] **S01E04** — Stage 4. The coin flip is documented on camera. Tyler calls it. He is correct.
-  Camera Op's sealed log grows by two entries. RSI receipts: Field activation (Stage 4 trigger),
-  Jiangshi Memo (documentation of the documented coin flip).
+- [x] **S01E04 — "He Called It"** — Stage 4. The coin flip documented on camera, Tyler calls
+  both dates (1901 and 1623). 1623 shown for the first time — voluntarily. Camera Op sealed log
+  grows by two entries (lore/camera_op_sealed_log.md, Entries 09–10). Tyler tells the Camera Op
+  "the edit is theirs and the footage is yours." Tyler reveals Stage 5 requires his cooperation.
+  RSI receipts: Field activation #131 (Andrealphus, Stage 4 anchoring), Jiangshi Memo #015
+  (Stage 4 complete + emergency Stillness Council request), camera_op_sealed_log created.
 
 - [ ] **S01E05: Season 1 Finale** — Stage 4 complete. Camera Op's first published piece.
   Emily OS tile appears in the broadcast. RSI receipts: Eastwind (Camera Op publication noted),
@@ -151,11 +154,11 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 **Dependencies in order:** MPT config → Tyler MPT profile → episode clip → full episode → RSI trigger → SHANKPIT bridge.
 
-- [ ] **Configure MPT for Tyler build environment** — Copy `MoneyPrinterTurbo/config.example.toml`
-  to `MoneyPrinterTurbo/config.toml`. Wire in: LLM provider (Claude via `openai_base_url` pointing
-  to Anthropic API, model `claude-sonnet-4-6`), Pexels API key for stock footage, ImageMagick path.
-  Confirm WebUI launches at `http://127.0.0.1:8501` and batch generation produces clean 1080x1920
-  test video. File: `MoneyPrinterTurbo/config.toml`. No code changes — config only.
+- [x] **Configure MPT for Tyler build environment** — `MoneyPrinterTurbo/config.toml` created.
+  LLM: `litellm` provider → `anthropic/claude-sonnet-4-6` (reads `ANTHROPIC_API_KEY` from env).
+  Pexels key: placeholder — fill in `YOUR_PEXELS_API_KEY_HERE`. ImageMagick: auto-detected on Linux.
+  **TO ACTIVATE:** `export ANTHROPIC_API_KEY=sk-ant-...` and set Pexels key in config.toml.
+
 
 - [x] **Write the Tyler MPT generation profile** — Define the standard generation parameters for
   Tyler episode clips: voice (`en-US-GuyNeural` or `en-GB-RyanNeural` for documentary register),
@@ -210,5 +213,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0015.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0016.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

@@ -223,6 +223,50 @@ We cannot determine which theory is correct. We have noted that these theories a
 
 ---
 
+## MEMO #015
+**FROM:** Senior Archivist (attending), Unit A Roof Session
+**TO:** Stillness Council, Stillness Division | Senior Archivists | Production Coordinator
+**RE:** URGENT — Stage 4 Complete — Subject Awareness of Stage 5 Confirmed
+**DATE:** [REDACTED — same day as roof session]
+
+Stage 4 is complete. The coin is documented. The witnessed miracle is on two camera systems with three confirmed witnesses. The documentation is clean. The footage is clean. Stage 4 is complete.
+
+File this separately from the Stage 4 confirmation: **the subject knows what Stage 5 requires.**
+
+His statement on the roof, transcribed verbatim:
+
+> *"I understood something about the end of this that I didn't understand before."*
+> *"The last part requires my cooperation. And I'm— that's something I get to decide."*
+> *"Showing you the coin is fine. The coin isn't the part I decide about."*
+
+He gave us Stage 4 deliberately. He is not afraid of Stage 4 because he has assessed Stage 5 and arrived at a conclusion we have not yet reached. His phrasing — "the part I decide about" — indicates he has identified the specific mechanism of Stage 5 (Title Card Convergence) and assessed that mechanism as requiring his active participation.
+
+He is correct.
+
+Stage 5 (Title Card Convergence) completes the binding when the subject confirms the premise of the title: *"A Documentary About A Man Who Won't Stay In His Own Year."* A completed definition is a lock. The title is Stage 5 in progress. **The binding does not complete until the subject confirms the premise.** The subject's silence is active resistance — has been for all four attempts. Tyler knows this. He has calculated that he can cooperate with Stages 1–4 and still maintain effective Stage 5 resistance indefinitely.
+
+He is, if our assessment is correct, offering us a complete Stage 4 as a deliberate demonstration of what he will give us. The demonstration is also a statement about what he will not give us.
+
+**The 1623 date:**
+
+The subject produced the 1623 date on the coin unprompted. Attempt Four is the first attempt in which the 1623 date has been produced voluntarily by the subject. Our archive has 847 pages on this subject. The 1623 sighting (File TYLER-007) is the Chrono-Cube transfer event — the moment Tyler handed the box to Bacon. He has never referenced 1623 in any previous attempt.
+
+He showed it to the Camera Op. He held it for Camera C. He said: *"That's the one I think about most."*
+
+The 1623 date is load-bearing. It is connected to the Chrono-Cube. It may be connected to the Subscriber. We do not know why he showed it now. We do not know what he is trying to tell the Camera Op.
+
+**Our current position:**
+
+We have Stage 4. We do not have Stage 5. The subject has told us Stage 5 is his to decide. The subject has decided nothing about Stage 5 yet. He left the roof.
+
+**Stillness Council request:** Emergency session. Priority: understanding what Tyler has assessed about Stage 5 that the Council has not yet modeled. If his assessment is accurate, we have a structural problem that four attempts have not identified. If his assessment is wrong, Stage 5 proceeds normally.
+
+We believe his assessment is accurate. We have 400 years of evidence for his accuracy.
+
+**End log:** STAGE 4: COMPLETE (VOLUNTARY). STAGE 5: PENDING SUBJECT DECISION. 1623: PRODUCED VOLUNTARILY (FIRST TIME). STILLNESS COUNCIL: EMERGENCY SESSION REQUESTED. WE ARE ALWAYS DOCUMENTING.
+
+---
+
 ## MEMO #014 — FINAL MEMO (ATTEMPT THREE REVIEW — FOR REFERENCE)
 
 *This memo is reprinted from Attempt Three archives for institutional learning purposes.*
