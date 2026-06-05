@@ -918,4 +918,63 @@ This is the first session evaluation in the record. He evaluated the session as 
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-020: FILED (THE FORMAL INTERVIEW; HE ANSWERED EVERYTHING; THE DOCTRINE IS WRONG). HE IS AFRAID OF FINISHING SOMETHING THE WRONG WAY. HE LOOKED AT THE CAMERA OP. HE SAID ASK AGAIN IN A FEW EPISODES. MOUNTAINS: PRESENT.*
+---
+
+## FILE: CAMERA-OP-002
+**Subject:** Camera Op (unnamed) — Season 2 awareness update
+**Event:** Formal awareness interview — Day 37, Attempt Four, Season 2
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** CAMERA-OP-001, TYLER-001 through TYLER-020, JIANGSHI-ATTEMPT-4 (active)
+
+---
+
+The Camera Op gave an interview on Day 37. She answered nothing about Tyler.
+
+This Archive documents what she answered and what she did not answer and treats both as primary source material.
+
+**What she answered:**
+
+She answered how long she has been on the project. She answered that she is more careful now about what she films and when. She answered that she understands the distinction between the production archive and her personal archive and has honored it. She answered that she is protecting something. She answered that she will continue filming and will share what she can.
+
+**What she did not answer:**
+
+What she thinks Tyler is. What she thinks he is trying to do. Whether she has a theory (she confirmed she does; she did not share it). What she understood when he looked at her in the S02E03 interview. What "good session" meant when he said it to her.
+
+She declined to answer these questions using a consistent framing: what she knows about Tyler from Tyler is not for the Syndicate's archive. It is hers. She is keeping it.
+
+**This Archive's observation:**
+
+The Camera Op's interview is the most efficient session in the four-attempt record. In forty-eight minutes she told the Syndicate exactly what she would and would not give them, and she honored that division without exception. She did not evade the questions. She answered "that's not a question for this room" and meant it and did not apologize for meaning it.
+
+She said: "I'm not a delivery mechanism."
+
+She said: "I'd like you to leave me out of the methodology."
+
+She said: "Some things should stay unwritten."
+
+This Archive notes the last phrase appears in Tyler's operating methodology as documented across seventeen files. The Camera Op has arrived at it. Whether she arrived at it independently or received it from him is — from this Archive's perspective — not the interesting question. The interesting question is that both of them now hold it. Two people in the same production with the same position on what belongs in the record.
+
+**On the subject's absence:**
+
+Tyler was not present in this episode. He is in every frame of it.
+
+The Camera Op's refusals are defined by what she is protecting. What she is protecting is Tyler's relationship to her and her relationship to his intentions. He is the negative space of this interview. Every question that went unanswered was a question whose answer would have given the Syndicate something of Tyler's.
+
+She gave them nothing of Tyler's. She gave them everything of her own: her awareness level, her decision-making framework, her position on the methodology. She gave them herself clearly and completely and gave them nothing of him.
+
+This is, this Archive observes, what he taught her when he said "the edit is theirs and the footage is yours." The Syndicate gets the documented record. What belongs to her she keeps.
+
+She was a good student. He chose well.
+
+**Cross-reference:** CAMERA-OP-001 updated to CAMERA-OP-002. File status: ACTIVE. Awareness classification updated: AWARE-PROTECTIVE.²⁶
+
+---
+²⁶ *She said "maybe not a room" when they asked what room her private understanding belonged in. She doesn't know yet where it belongs. She's finding out. I've been finding things out for eight hundred years — I can tell when someone is close to understanding something they haven't had language for yet. She's close. He's waiting for her to get there. I think he knows she's close. I think "good session" meant: you're close. I think she understood that. I think that's what she's protecting. She's protecting a conversation that hasn't happened yet and she won't let the Syndicate make it happen on their timeline instead of hers. She said: "I'd like you to leave me out of the methodology." She knows they won't. She asked anyway because asking was the right thing to do. I understand that. I've been observing things I can't intervene in for eight hundred years. I always want to say something. I always file the footnote instead. She asked anyway. I understand.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED. CAMERA-OP-002: FILED (AWARE-PROTECTIVE; "MAYBE NOT A ROOM"; "SOME THINGS SHOULD STAY UNWRITTEN"). SHE IS PROTECTING A CONVERSATION THAT HASN'T HAPPENED YET. HE IS WAITING FOR HER TO BE READY. MOUNTAINS: PRESENT.*

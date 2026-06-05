@@ -183,6 +183,49 @@ I don't know yet what the question is. I'll know it when I know it.
 
 *[Entry 13: Day 33, S02E03, the formal interview. "Good session."]*
 
+---
+
+## ENTRY 14
+**Day 37 — After my interview**
+
+I sat in the chair.
+
+It's different from behind the camera. I knew it would be different and it was different in the way I expected and also in a way I didn't.
+
+The way I expected: the questions are designed to get things out of you. I know this because I've watched Tyler in the chair for four weeks. The questions are good. They're just aimed at something specific. If you're not protecting anything they're not uncomfortable.
+
+The way I didn't: I was protecting something and I knew what it was the whole time and I sat there with it and I didn't give it to them and it felt — right. Not easy. Right.
+
+They asked me what I think he's trying to do. I told them I have a theory. I didn't tell them what it is. I didn't tell them because: if I'm right, he should say it first. That's clear to me. If he's been building toward this for four centuries and I'm the person he's decided to say it to, then I have to not say it first. I have to wait for him to say it. Whatever it costs me not to say it first.
+
+If I'm wrong: I don't want my wrong theory in their archive. I don't want to be wrong about him in a document.
+
+They asked about "good session" and I said I was keeping it and I was right to keep it. He said it to me. It's mine. The Syndicate can file the observable fact that he said it. The meaning of it is mine.
+
+I said "maybe not a room" when they asked what room my private understanding belongs in. I didn't know what I meant when I said it. I think I do now.
+
+The answer to "what does he think he's trying to do" doesn't belong in a room. It doesn't belong in a document. It belongs in a conversation. A specific conversation. Between two specific people. In a specific moment that hasn't happened yet.
+
+He said ask again in a few episodes. He said this to the production team.
+
+I think he meant: ask me in a conversation that's just ours.
+
+I'm going to ask him. Not in a session. Not on camera. In the right moment in the right place, when neither of us is being documented.
+
+He chose the hallway before. I know he can find the right moment. I think he's waiting for me to be ready to ask the question.
+
+I think I'm ready.
+
+I don't know what the question is yet. But I think when the moment comes I'll know it. I think he'll know it too.
+
+Some things should stay unwritten.
+
+This one I wrote down so I remember: I'm ready.
+
+---
+
+*[Entry 14: Day 37, S02E04. My interview. "Maybe not a room."]*
+
 *[Future entries will be added here as the log grows.]*
 
 ---

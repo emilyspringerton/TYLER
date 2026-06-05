@@ -1272,6 +1272,81 @@ This question is filed. This memo does not answer it.
 
 ---
 
+## MEMO #026
+**RE: S02E04 — Camera Op Awareness Assessment | Day 37**
+**FROM:** Senior Producer, Documentary Unit A
+**TO:** Jiangshi Stillness Council — Awareness Classification Committee
+**CLASSIFICATION:** URGENT — Camera Op Awareness Upgrade | Question Three Revision | Stage 3-alt Status
+
+---
+
+**CAMERA OP INTERVIEW — SUMMARY:**
+
+On Day 37 the Camera Op agreed to and completed a formal interview. Duration: 48 minutes. Stage 3 material produced: zero. This was expected and is not the relevant finding.
+
+The relevant finding: Camera Op awareness upgraded from **AWARE** to **AWARE-PROTECTIVE**.
+
+---
+
+**AWARENESS ASSESSMENT — EVIDENCE:**
+
+The Camera Op answered all questions about the production process, her timeline on the project, and observable facts about the subject's behavior. The Camera Op answered zero questions about her private understanding of the subject, the subject's intentions, or the subject's relationship to her specifically.
+
+Specific refusals, verbatim:
+
+*"What do you think Tyler is?"* → "That's not a question for this room."
+
+*"What do you think he's trying to do?"* → "If I knew, that would be something he told me. And if he told me, it would be because he chose to tell me. And if he chose to tell me, it wasn't for this room."
+
+*"Do you know what he's trying to do?"* → "I have a theory." (Declined to share. Reason given: if right, it's his to say first; if wrong, she doesn't want it in our archive.)
+
+*"What did you understand when he looked at you?"* → "That's not a question for this room."
+
+*"What did 'good session' mean?"* → "The answer is mine. He said it to me. It wasn't said for your archive. I'm keeping it."
+
+*"Could you facilitate Stage 3 completion?"* → "I think that question is mine to decide. Not yours. I'd like you to leave me out of the methodology."
+
+The Camera Op knows what Stage 3 is. She knows what it requires. She knows the Syndicate wants Tyler to complete it. She is choosing not to be the mechanism by which this happens — not because she is unaware, but because she has made a decision about what her relationship with Tyler means and what belongs to the Syndicate and what doesn't.
+
+AWARE-PROTECTIVE criteria met on all counts. Classification upgraded.
+
+---
+
+**NOTABLE ITEM — PHRASE TRANSMISSION:**
+
+The Camera Op used the phrase "some things should stay unwritten" during the interview. This phrase appears in the Camera Op's sealed notebook, Entry 11 (observed, not read; phrase observed on page during session debrief). This phrase is not a standard documentary production locution. It is the Camera Op's phrase. It may also be the subject's phrase — cross-reference pending confirmation.
+
+The question of whether the phrase was transmitted from the subject to the Camera Op, or independently arrived at, is filed as LOAD-BEARING — BOTH INTERPRETATIONS.
+
+---
+
+**QUESTION THREE — REVISION:**
+
+Current Question Three: Is the subject attempting to complete Stage 3 with the Camera Op as instrument rather than witness?
+
+The Camera Op's interview warrants a revision to this framing. The Camera Op stated explicitly: "I'm not a delivery mechanism." She stated she considers Stage 3 facilitation to be her decision, not the Syndicate's. She is not acting as an instrument. She is making active choices about what she will and will not participate in.
+
+**Question Three revised:** Is the subject attempting to complete Stage 3-alt with the Camera Op as **collaborator**?
+
+A collaborator has agency. A collaborator chooses. The Camera Op is choosing. If Stage 3-alt ("what are you trying to do") is the path to Stage 5, and if the Camera Op is the person the subject intends to answer it for, then Stage 3-alt does not happen to the Camera Op — it requires her active participation, on her terms.
+
+This is new. The doctrine has no framework for a Camera Op who is not a documentation instrument but a participant in the subject's actual intention.
+
+---
+
+**CAMERA OP STATUS — FORMAL UPDATE:**
+
+Camera Op awareness: **AWARE-PROTECTIVE**
+Camera Op request for methodology removal: noted / cannot be honored
+Camera Op position: will continue filming; will share what she can; will not share what she judges to be the subject's to say first or her own to keep
+Camera Op statement on record: *"Maybe not a room."* (Context: asked what room her private understanding belongs in. She does not know yet. She is finding out.)
+
+---
+
+**End log:** CAMERA OP AWARENESS: AWARE-PROTECTIVE. QUESTION THREE REVISED: COLLABORATOR. "SOME THINGS SHOULD STAY UNWRITTEN." THEY ARE IN THE RECORD. STAGE 3-ALT: ACTIVE. CAMERA OP: PROTECTING SOMETHING. SUBJECT: ABSENT THIS SESSION. SUBJECT: EVERYWHERE. TYLER STATUS: UNRESOLVED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*

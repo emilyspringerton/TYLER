@@ -64,8 +64,13 @@ load-bearing dependencies that must exist first.
   filed), Eastwind TYLER-020 (Cataloguer footnote #25 — "I want him to get to finish it the
   right way"), Camera Op sealed log Entry 13.
 
-- [ ] **S02E04: "The Camera Op Gives an Interview (And Doesn't)"** — The inverse episode.
-  RSI receipts: Camera Op sealed log update, Jiangshi assessment of Camera Op awareness level.
+- [x] **S02E04: "The Camera Op Gives an Interview (And Doesn't)"** — The inverse episode.
+  Camera Op answers nothing about Tyler. Awareness upgraded: AWARE → AWARE-PROTECTIVE.
+  Question Three revised: collaborator, not instrument. Camera Op: "I'm not a delivery
+  mechanism. Leave me out of the methodology." Camera Op sealed log Entry 14: "I'm ready."
+  RSI receipts: Jiangshi Memo #026 (awareness upgrade, Question Three revision), Eastwind
+  CAMERA-OP-002 (Cataloguer footnote #26 — "she's protecting a conversation that hasn't
+  happened yet"), Camera Op sealed log Entry 14.
 
 - [ ] **S02E06: "Stage Five (The Title Card)"** — Season 2 finale. Tyler begins a sentence.
   The camera is running. He does not finish the sentence this episode. The title card appears.
