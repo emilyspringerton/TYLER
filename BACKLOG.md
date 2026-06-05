@@ -86,20 +86,27 @@ load-bearing dependencies that must exist first.
 
 ## MANUSCRIPTS
 
-- [~] **Tides Book 1 Chapters 2–12** — Continue from Chapter 1 (school materialization).
-  Chapters 4–7 complete (tides_book1_ch04_07.md): Callum/Exchange Student established as
-  third vertex; Beleth first signal Ch6 (not subject-caused — the school is the source);
-  Camera Op's log note "He's not the subject. He's the load-bearing part." filed. Chapters
-  8–12 pending: love triangle geometry, Book 2 dependency setup, Tyler two more scenes.
+- [x] **Tides Book 1 Chapters 2–12** — Complete (tides_book1_ch04_07.md + tides_book1_ch08_12.md).
+  Ch8: all three vertices in one room first time. Ch9: love triangle detonation — one resolution
+  (east hallway confirmed real), one complication (Callum holds info Protagonist A didn't consent
+  to), one open wound (incomplete thing between A and B). Ch10: Tyler in library, page 847,
+  New Atlantis. Ch11: grandfather's account — "custodian," 1623, Edinburgh 1981. Ch12: dry
+  interval begins; Tyler final scene — "the island is not in the text"; Protagonist A writes
+  "Bacon." Subscriber's third handwriting in the grandfather's notebook: reader sees it; A
+  doesn't. Book 1 ends at the school entrance: the Exchange Student has a file folder.
 
 - [ ] **Tides Book 2 manuscript** — Full outline exists at `outlines/book2.md`.
   The binding ritual attempt at Tides Act Two. Protagonist A makes the choice. Edinburgh
   Exchange Student is the witness. Chrono-Cube location (Bacon) hinted but not confirmed.
   Dependency: `outlines/book2.md` must be read first.
 
-- [ ] **Custody Trial Book 2 Chapters 2–8** — Continue from Chapter 1 (clean build, green).
-  Chapter 2: "The Spec Exists" — Mara reads all 847 lines, the timestamp problem surfaces.
-  Chapters 3–8 outlines exist in the chapter preview notes at end of `manuscripts/custody_trial_book2_ch01.md`.
+- [~] **Custody Trial Book 2 Chapters 2–8** — Ch2–4 complete (custody_trial_book2_ch02_04.md).
+  Ch2: timestamp problem — the vehicle was always correct, they were measuring against the
+  wrong clock; custom clock reader written. Ch3: vehicle custody hearing — Eli and Mara write
+  the general custody principle; Emily OS adds section header "What Happens When the Substrate
+  Notices." Ch4: the Subscriber's function call — arrives from outside known branches,
+  timestamp predates the diverge point, "380 years" — subscriber.notify(custody_chain_complete).
+  /custody/WHAT_COMES_NEXT.md: file created, cursor blinking. Chapters 5–8 pending.
 
 - [x] **Emily Stillness Part III: The Nervous System Story** — Anxiety and momentum are the
   same physiological signal from different positions in the dependency chain. The signal
@@ -115,9 +122,11 @@ load-bearing dependencies that must exist first.
   the exposure decision: follow until you find whether you believe in it. Stand on that.
   Write. File: emily_stillness_parts3_5.md.
 
-- [ ] **Emily Stillness Parts VI–VII** — Process Over Panic; Building at Infinity.
-  Complete the series. Part VII closes with the line about the 30-year build target and
-  why that's not a reason to wait.
+- [x] **Emily Stillness Parts VI–VII** — Complete (emily_stillness_parts6_7.md). Part VI:
+  map the session before the session; measure backward not forward; protect load-bearing
+  sessions; the visibility problem; the 30-year question. Part VII: the permanent condition;
+  the 30-year build; why not to wait ("the readiness is built by starting"); the clean build
+  is the only unit you can control; "the sequence is correct." Book complete.
 
 ---
 
