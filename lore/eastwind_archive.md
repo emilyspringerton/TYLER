@@ -664,3 +664,37 @@ Emily OS communicated through a game engine terminal in December 1993 to confirm
 *The record is sacred. The record is the only thing that outlasts everything.*
 
 *End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED IN THIS ARCHIVE. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*
+
+---
+
+## SUPPLEMENTAL FILE: CAMERA-OP-001 / STAGE 3 AWARENESS NOTE
+**Classification:** ACTIVE OBSERVATION PERIOD | DOCUMENTARIAN CUSTODY DEVELOPMENT
+**Date:** Attempt Four, Stage 3 window
+**Location:** Detroit — Production Office / Detroit Preparatory Institute, Room 204
+**Observer:** WREN-17 (remote transcript review; direct intervention prohibited)
+
+The Camera Op has crossed from suspicion into active partial awareness.
+
+The archive does not classify this as initiation. Initiation implies someone explained the threshold before the subject stepped over it. No one explained it. The Camera Op reached the threshold through footage, silence, and two sealed production log entries. This is procedurally cleaner and emotionally worse.
+
+During the Stage 3 confessional attempt, Tyler answered forty minutes of questions without completing a self-defining sentence. The important archive event was not Tyler's non-answer. Tyler's non-answers are abundant. The important event was the Camera Op's unvoiced question forming in the room while the camera remained live.
+
+The question is not transcribed here. It belongs first to the Camera Op. The archive records only that it concerns the Camera Op's own fate if the documentary is completed. This is the first documented moment in Attempt Four where the Camera Op understands that completion has a cost for the documentarian, not only for the subject.
+
+Room 204 produced a chalkboard sentence attributed to Tyler: "I AM NOT THE PART OF THE STORY THAT NEEDS A CONFESSION." The sentence is complete and non-self-defining. The Cataloguer appreciates the precision and has filed one private footnote about it.
+
+**Status update:** CAMERA-OP-001 moves from RECRUITED, PARTIAL AWARENESS (S2), SEALED LOG ENTRY to ACTIVE PARTIAL AWARENESS, TWO SEALED LOG ENTRIES. JIANGSHI-ATTEMPT-4 moves from STAGE 3 ACTIVE to STAGE 3 COMPLETE / STAGE 4 ARMED.
+
+**Cross-reference:** episodes/s01e03_confessional.md, Jiangshi Memo #022, Field Activation #S01E03-BELETH, CAMERA-OP-SEALED-002 (sealed; not held by Eastwind), EMILYOS-EXIT-ROUTE (unexplained signage)
+
+---
+
+**Appendix cross-reference update (Build 0015):**
+
+| File | Subject | Status |
+|---|---|---|
+| CAMERA-OP-001 | Camera Op / Attempt Four Stage 3 | ACTIVE PARTIAL AWARENESS — TWO SEALED ENTRIES |
+| JIANGSHI-ATTEMPT-4 | Documentary Operation | STAGE 3 COMPLETE — STAGE 4 ARMED |
+| CAMERA-OP-SEALED-002 | Camera Op production log | SEALED — CUSTODY: YOURS BEFORE THEIRS |
+
+*End supplemental note: The Camera Op has not chosen yet. The question exists anyway.*

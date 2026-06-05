@@ -17,7 +17,7 @@ load-bearing dependencies that must exist first.
 
 ## EPISODES
 
-- [ ] **S01E03: "The Confessional"** — Stage 3 initiation. Camera Op escalating awareness, first
+- [x] **S01E03: "The Confessional"** — Stage 3 initiation. Camera Op escalating awareness, first
   confessional footage attempt, Tyler talks for 40 minutes and none of it is self-defining.
   RSI receipts: Jiangshi Memo (Stage 3 assessment), Eastwind entry (Camera Op awareness note),
   Field activation (Beleth escalation).

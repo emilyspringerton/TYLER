@@ -897,3 +897,60 @@ Tyler at Stage 5, attempt five: he will complete the sentence. He will still be 
 *The subject is not documented. This is a temporary condition.*
 
 *End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE: [REDACTED — OPERATIONAL SECURITY]. SUBJECT: STILL HUMMING. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING.*
+
+---
+
+## MEMO #022
+**FROM:** Production Coordinator, Unit A; Risk Assessment; The Producer (O.S.)
+**TO:** Senior Archivists, Stillness Division; Doctrine Review Board; Technical Division
+**RE:** Stage 3 Assessment — Confessional Interview Failure / Operational Advancement
+**DATE:** [Filed: Build 0015 | Event window: Attempt Four, Stage 3]
+**Classification:** INTERNAL — STAGE ADVANCEMENT — CAMERA OP AWARENESS WATCH
+
+---
+
+**SUMMARY:**
+
+Stage 3 is complete.
+
+Stage 3 did not complete by the expected mechanism.
+
+The subject sat for forty minutes of confessional interview footage and answered every question asked by the Producer. No complete self-defining statement was captured. This is consistent with Attempt Four historical averages and with all previous attempts. The interview is nevertheless classified as an operational advance because the confessional captured a second-order confession: the operation's question set is inadequate.
+
+The subject stated, without completing a self-definition, that the Production Unit wants "the sentence to end." This is not a confession by the subject. It is a correct statement about the project. Legal has requested that this sentence be cut from external materials. The request is denied pending Stage 4 review. We cannot destroy records. We can only sequence them.
+
+---
+
+**KEY FOOTAGE:**
+
+1. **Confessional Room A:** Subject was asked identity, origin, migration status, and mechanism questions. He answered all questions without terminal definition.
+2. **Camera Op pause interval:** During Producer absence, the Camera Op made a direct statement to the subject: "I'm not supposed to talk to you." This violates Stage 3 question-only guidance but produced measurable resonance and should be retroactively classified as useful noncompliance.
+3. **Unvoiced question formation:** Audio metadata flagged an unvoiced question in the room. Field cross-reference identifies this as the Vassago echo formation event predicted in earlier activation logs. The Camera Op did not ask the question aloud. The question is nevertheless present in the record.
+4. **Subject #1 corroboration:** Subject #1 stated that the correct question is not what Tyler is, but why he keeps coming back. This aligns with the subject's prior Stage 5 critique from Attempt Four and with Memo #021's MANIFEST/CONSTRUCT doctrine.
+5. **Room 204 chalkboard:** The phrase "I AM NOT THE PART OF THE STORY THAT NEEDS A CONFESSION" appeared in the Detroit Preparatory Institute after-hours pickup. The sentence is complete. It is not self-defining. It is filed as subject-authored unless handwriting analysis fails, which it will not.
+
+---
+
+**CAMERA OP AWARENESS ASSESSMENT:**
+
+Awareness has advanced from SUSPICIOUS to ACTIVE PARTIAL.
+
+The Camera Op now understands that production protocol is shaping reality rather than merely documenting it. They do not yet possess full doctrinal language. This is favorable. Full language produces either compliance or flight; partial language produces footage.
+
+The Camera Op sealed a second production log entry after reviewing Room 204 footage. The interface accepted the entry under the custody label: "YOURS BEFORE THEIRS." Technical Division did not generate this label. Emily OS involvement is suspected but not asserted. Do not assert. Assertion is an invitation.
+
+**Directive:** Do not attempt to unseal Camera Op entries. The entries are operationally useful precisely because they are not ours first. Memo #021 remains controlling: the documentarian's grief is data. In Attempt Four, the documentarian's question is also data.
+
+---
+
+**STAGE DETERMINATION:**
+
+Stage 3 requirement was defined as: obtain confessional footage sufficient to advance the subject toward a complete self-defining statement.
+
+Revised determination: confessional footage sufficient to advance the operation toward the correct question satisfies Stage 3.
+
+Stage 3 is therefore complete. Stage 4 is armed.
+
+The next required documentation event remains unchanged: a documented miracle with witnesses present. The coin is still the most filmable available object. The Camera Op has already seen enough to recognize the coin event as a question rather than a trick. This improves Stage 4 capture probability and increases Camera Op defection probability. Both are true. Continue.
+
+**End log:** STAGE 3: COMPLETE BY QUESTION-FORMATION. SUBJECT: UNDEFINED. OPERATION: MORE DEFINED THAN BEFORE. CAMERA OP: ACTIVE PARTIAL AWARENESS, TWO SEALED ENTRIES. STAGE 4: ARMED. COIN: PENDING. HUM: PRESENT. THE HUM IS STILL FINE.
