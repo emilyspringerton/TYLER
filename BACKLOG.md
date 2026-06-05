@@ -255,6 +255,17 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E03: "Day Twenty-Five"** — Day 119. Construction #2 past midpoint; revised
+  estimate Day 130–132 (buffer 44–46 days). Camera Op shows split-screen footage:
+  clips from the nurse's position look qualitatively older. Tyler confirms and names the
+  Camera Op's position-finding function — 6 confirmed instances since S1E03, he noticed
+  first but waited for the footage to change before naming it. Exchange Student's
+  comparative dependency map flags missing Subscriber notation at Detroit Receiving:
+  maintenance implication = higher witness frequency required. Eastwind footnote #38:
+  archive honest about missing what Tyler noticed first. CAMERA-OP-ARCHIVE/Eastwind
+  cross-filed. RSI receipts: TYLER-034/CAMERA-OP-ARCHIVE-25 (cross-filed), Camera Op
+  Entry 28, VC-001 Day 119, EMILY-SPRING-008. Build 0047.
+
 - [x] **S05E02: "Detroit Receiving"** — Day 94. Construction #2 begins: Detroit Receiving
   Hospital, Ward C (1918 influenza ward), 82 days before building conversion. Tyler reads
   the layered event (hundreds of patients, one nurse who stayed to 1919). Camera Op finds
