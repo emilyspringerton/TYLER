@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push*)",
+      "Bash(git pull*)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git rebase*)",
+      "Bash(mkdir -p *)",
+      "Bash(chmod +x *)",
+      "Bash(grep * BACKLOG.md)",
+      "Bash(grep * activity.md)",
+      "Bash(ls *)"
+    ],
+    "deny": []
+  }
+}
