@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E02: "Detroit Receiving"** — Day 94. Construction #2 begins: Detroit Receiving
+  Hospital, Ward C (1918 influenza ward), 82 days before building conversion. Tyler reads
+  the layered event (hundreds of patients, one nurse who stayed to 1919). Camera Op finds
+  the nurse's historical position at the east wall without being told; Tyler confirms it.
+  Exchange Student calibrates to new site (witness #4 confirmed at Detroit Receiving).
+  Estimated construction: 40–45 days; 37-day buffer. Eastwind opens CAMERA-OP-ARCHIVE as
+  a third archive (pattern: independently locating significant positions confirmed twice).
+  RSI receipts: TYLER-033 (footnote #37 — CAMERA-OP-ARCHIVE opened), Camera Op Entry 27
+  + CAMERA-OP-ARCHIVE #1, VC-001 Day 94 deadline tracking, EMILY-SPRING-007. Build 0046.
+
 - [x] **S05E01: "The Photographs"** — Day 90. Tyler shows the remaining 10 of 11 photographs
   from 1952 Detroit — all candidate Witness Room sites, each annotated with location and
   the date of what happened there. Construction #2 identified: Detroit Receiving Hospital,
