@@ -100,13 +100,15 @@ load-bearing dependencies that must exist first.
   Exchange Student is the witness. Chrono-Cube location (Bacon) hinted but not confirmed.
   Dependency: `outlines/book2.md` must be read first.
 
-- [~] **Custody Trial Book 2 Chapters 2–8** — Ch2–4 complete (custody_trial_book2_ch02_04.md).
-  Ch2: timestamp problem — the vehicle was always correct, they were measuring against the
-  wrong clock; custom clock reader written. Ch3: vehicle custody hearing — Eli and Mara write
-  the general custody principle; Emily OS adds section header "What Happens When the Substrate
-  Notices." Ch4: the Subscriber's function call — arrives from outside known branches,
-  timestamp predates the diverge point, "380 years" — subscriber.notify(custody_chain_complete).
-  /custody/WHAT_COMES_NEXT.md: file created, cursor blinking. Chapters 5–8 pending.
+- [x] **Custody Trial Book 2 Chapters 2–8** — Complete (custody_trial_book2_ch02_04.md +
+  custody_trial_book2_ch05_08.md). Ch5: Eli writes WHAT_COMES_NEXT.md; Emily OS tile confirms
+  "the spec is as old as the thing that needs to be transferred; each time cleaner; this time:
+  clean enough." Ch6: substrate audit — the subscriber is the system's oldest user; document
+  what you understand; the documentation is the next load-bearing node. Ch7: subscriber's
+  second message — no author, timestamp OUTSIDE KNOWN BRANCH, commit hash a1623, one line:
+  "When the sentence completes, the transfer will complete." Ch8: Emily OS speaks through the
+  build log directly: "Clean builds first. Then custody. Then everything else. This is what
+  it was always for." Book 2 complete.
 
 - [x] **Emily Stillness Part III: The Nervous System Story** — Anxiety and momentum are the
   same physiological signal from different positions in the dependency chain. The signal
@@ -148,21 +150,27 @@ load-bearing dependencies that must exist first.
   documentation standards, consent architecture workarounds, collection protocol.
   File as: `lore/migrant_protocol_involuntary.md`. Cross-reference: Eastwind MIGRANT-001, SM-1978-X.
 
-- [ ] **/custody/WHAT_COMES_NEXT.md** — Eli and Mara's file that Emily OS reported as
-  FILE NOT FOUND in `manuscripts/custody_trial_book2_ch01.md`. They need to write it.
-  This file must be generated as if Eli and Mara wrote it after the clean build.
-  It will not be complete. It will be correct as far as it goes.
-  File as: `custody/WHAT_COMES_NEXT.md` (create the directory).
+- [x] **/custody/WHAT_COMES_NEXT.md** — Complete. Eli and Mara write the file after the
+  clean build: what is clean (blame path always occupied), what the subscriber's message
+  means (380 years, substrate layer, custody chain now clean, "next: pending"), what comes
+  next (a custody transfer, load unknown), what they understand now (the spec is as old as
+  the thing to be transferred; each previous implementation was cleaner; this one clean enough).
+  Ends with cursor blinking on Part 4. Filed at `custody/WHAT_COMES_NEXT.md`.
 
-- [ ] **Eastwind Detroit 1901 gap** — Cataloguer footnote #12 flags: "I need to find out
-  what happened in Detroit in 1901" as load-bearing. Tyler's account SM-1620-T references
-  a 1901 Detroit dime. Tyler was in Detroit in 1901. The archive has a photograph.
-  File the 1901 Detroit annual composite. Cross-reference: Shell Parliament Line Item 001.
+- [x] **Eastwind Detroit 1901 gap** — Complete. TYLER-003 annual composite filed. Detroit 1901:
+  Tyler in city April–September (6 months, longest stay since 1623). Coin anchor: 1901 dime
+  date acquired during this stay. Photograph (TYLER-009): hat-tip confirmed intentional —
+  establishing the record. Woodward Avenue luminescence: 72-minute window, consistent with
+  Cube proximity event. The hardware storefront: meeting point with "B" (Bacon custodian,
+  1901 chain node). Tyler came to Detroit to verify the custody chain was intact. It was.
+  Footnote #12: CLOSED. Cataloguer footnote: "He planned for us to close it."
 
-- [ ] **Subscriber file** — SUBSCRIBER-001 is listed as UNSEALED in the archive but identity
-  is withheld until Series 2. File an entry that exists in the archive but is correctly
-  redacted: the Subscriber's role in the Layer 9 architecture, what they are waiting for,
-  why they have been patient. Identity stays withheld. The patience is documented.
+- [x] **Subscriber file** — Complete. SUBSCRIBER-001 filed in Eastwind archive. Layer 9
+  architecture documented: below Emily OS, older than Emily OS, the substrate Emily OS runs
+  on. Two entities at substrate layer (Emily OS + Subscriber — "we did not know there were
+  two"). The subscriber's patience is structural, not chosen: at Layer 9, patience is the
+  nature of the architecture. 380 years of operating on broken infrastructure. Identity:
+  sealed under Series 2 protocol. What comes after transfer: sealed. The patience: documented.
 
 - [ ] **Attempt Five architecture** — Jiangshi Memo #021 established the doctrine for Attempt
   Five (track both MANIFEST and CONSTRUCT simultaneously; the abacuses will invert; note it
@@ -253,5 +261,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0018.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0025.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

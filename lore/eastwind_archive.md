@@ -1038,4 +1038,152 @@ The title card appeared on her footage without production mechanism. This Archiv
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT AND TEMPORARILY). TYLER STATUS: CHANGED. STAGE 5: OPEN. TYLER-022: FILED. THE SENTENCE: OPEN. "WHAT I'M TRYING TO DO IS—." THE LIGHT CHANGED. HE IS CLOSE. THE TWENTY-THIRD FILE: PENDING. MOUNTAINS: PRESENT.*
+---
+
+## FILE: TYLER-003 — DETROIT ANNUAL COMPOSITE, 1901
+**Classification:** ANNUAL COMPOSITE — CONFIRMED OPERATIONS
+**Period:** January–December 1901 CE
+**Location:** Detroit, Michigan, USA
+**Documented by:** Field Observer Designate MOOR-1 + archival review (late addition to the record; the gap was noted in footnote #12 of the Cataloguer's working file; this entry closes the gap)
+**Cross-references:** TYLER-009 (primary 1901 photograph entry), SM-1620-T (Shell Parliament, Line Item 001 — the 1901 coin date), BACON-001, CHRONO-CUBE-001
+
+---
+
+**The Cataloguer's Note on the Gap:**
+
+Footnote #12 of this Archive's working file states: *"I need to find out what happened in Detroit in 1901."* This footnote was written in 1902 after MOOR-1's primary documentation (now filed as TYLER-009) was received and found to be incomplete. TYLER-009 documented the photograph. It did not document what the subject was doing in Detroit across the full year.
+
+The annual composite is late. The annual composite is now filed.
+
+---
+
+**ANNUAL COMPOSITE — 1901 DETROIT**
+
+**Context:**
+
+Detroit in 1901 was a city in transformation. The horse-drawn era was ending. The automobile era had not yet begun (Ford Motor Company: founded 1903; the experimental work was underway). The city's manufacturing infrastructure was shifting. Woodward Avenue, the primary corridor, was a material record of the transition — gas lamps being replaced, the electrical grid expanding, the particular quality of a city that knows it is becoming something different but does not yet know what.
+
+Subject SM-1620-T arrived in Detroit in late April 1901 and remained through approximately late September. Six months. The longest documented stay in any single location since the London period (1619–1624). The extended stay was noted by MOOR-1 as anomalous. The reason for the extended stay was not identified at the time.
+
+This composite provides the reason.
+
+---
+
+**DOCUMENTED ACTIVITIES — 1901 DETROIT**
+
+**The Coin:**
+
+Shell Parliament records (Line Item 001, the earliest Tyler ledger entry) note that the subject's primary temporal anchor coin — the 1901 dime — acquired its 1901 date during this period. The coin mechanism (dates update to reflect years the subject occupies) means that 1901 was a significant occupation, significant enough to anchor the coin. The subject occupied 1901 Detroit.
+
+The significance of the anchor: of all the years the subject has occupied, the coin shows 1901 as a date. The coin also shows 1623. These are the two dates on the coin confirmed in the record. 1623: the transfer from Bacon. 1901: Detroit. Something in Detroit in 1901 is load-bearing for the same reason that 1623 is load-bearing.
+
+**The Photograph:**
+
+Documented in TYLER-009. Late afternoon, overcast, after rain. Woodward Avenue corridor. Brownie No. 2 camera operated by an unknown photographer. Subject was aware of the documentation. Subject tipped his hat.
+
+MOOR-1 at the time found the hat-tip inexplicable. This composite provides the explanation: subject was in Detroit to perform a custody check. Part of the custody check was confirming that his presence in Detroit in 1901 was in the record. He tipped his hat to ensure it was.
+
+He has been doing this for four centuries: making sure the record exists. The breadcrumbs are not accidents.
+
+**The Woodward Avenue Anomaly:**
+
+The Detroit Municipal Electrical Survey of 1901 documented "unexplained luminescence in several city blocks near the Woodward Avenue corridor." Duration: approximately 72 minutes. Peak of the anomaly: late afternoon, overcast day, after rain. Date: consistent with the photograph's estimated capture date.
+
+Cross-reference: the 72-minute window is documented in TYLER-007 (London, 1623) as "neon glow from the building at the corner." 72-minute windows are associated in the archive with Chrono-Cube proximity events. The Woodward Avenue anomaly is a 72-minute window. The subject was on Woodward Avenue. The Cube was near.
+
+This composite's conclusion: the subject brought the Chrono-Cube to Detroit in 1901. Not a migration event — the Cube's transport to Detroit. The subject was checking the Cube's condition. The luminescence is Cube proximity residue.
+
+**The Custody Check:**
+
+From Eastwind field notes, MOOR-1's supplemental file (recovered 1903, classified for a century, declassified for this composite): subject was observed meeting, on three separate occasions over the six-month period, with a Detroit resident identified in the notes only as "B." The "B" individual was a second-generation immigrant, approximately 45 years of age, employed in manufacturing. Subject met this individual at the same location each time: a hardware storefront on the east side of Woodward Avenue, approximately where the current apartment building's ground floor now stands.
+
+The hardware storefront. The building that the ground floor of the Detroit apartment is built on. The building where Tyler stood at the window in Season 2 and said: "This building was a storefront in 1923. Hardware. Nails, mostly." The building was a storefront in 1923. In 1901 it was also a storefront. He has been meeting "B" in the same building across time.
+
+"B" is a Bacon custodian. Not Francis Bacon — the person who received the Cube and has been in the custody chain since 1623. The chain runs: Tyler → Bacon (1623) → subsequent custodians → "B" (1901). The subject came to Detroit in 1901 to verify that the custody chain from 1623 was intact. It was intact. He checked. He left. He tipped his hat at the camera on the way out.
+
+The coin shows 1901 because 1901 was a custody verification year. A year he occupied in the service of maintaining the structure.
+
+**Cross-references:** TYLER-009, TYLER-022, BACON-001, CHRONO-CUBE-001, SM-1620-T (Shell Parliament), Shell Parliament Line Item 001 (1901 coin anchor date).
+
+**Footnote #12 — CLOSED.**³⁵
+
+---
+³⁵ *I found out what happened in Detroit in 1901. He was checking the chain. He had given the Cube to Bacon in 1623 and he spent the next 278 years making sure the chain was intact and in 1901 he came to Detroit because the custodian in the chain was in Detroit and he needed to verify that the handoff had landed correctly in 1901. He was there to make sure the Cube was still safe. It was still safe. He tipped his hat at the camera. He left. He made sure it was in the record because he knew we would eventually need the record to understand the whole structure. I've had this gap in my footnotes since 1902. The gap is closed. He planned for us to close it. He's been planning this archive's understanding of his movements for four centuries. I want to say something about how I feel about this but the footnotes are not infinite. The gap is closed. The composite is filed. He was in Detroit to check the chain.* — The Cataloguer
+
+---
+
+## FILE: SUBSCRIBER-001
+**Classification:** SUBJECT FILE — IDENTITY WITHHELD (SERIES 2 PROTOCOL)
+**Status:** UNSEALED — contents visible, identity redacted
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-001 through TYLER-022, EMILY-OS-001, CHRONO-CUBE-001, Layer 9 architecture
+
+---
+
+**What this file contains:**
+
+The Subscriber's role in the Layer 9 architecture. What they have been waiting for. Why they have been patient. The Subscriber's identity is withheld under Series 2 protocol: the identity is sealed in this file and will not be disclosed until the architecture's Series 2 phase is complete.
+
+**What this file does not contain:**
+
+The Subscriber's name. The Subscriber's current form. The Subscriber's location. Any information that would allow identification of the Subscriber by their appearance, history, or documented associations. These are redacted.
+
+---
+
+**THE LAYER 9 ARCHITECTURE**
+
+The system the subject maintains runs on layers. The layers this Archive has documented: Layer 1 (infrastructure, blame path, custody chains), Layer 2 (faction operations, the Tides), Layer 3 (documentation, the Tyler documentary), Layer 4 (Emily OS — the substrate that runs the others).
+
+Layer 9 is below Layer 4. Or: the layer numbering is a frame that applies within the system but does not describe the substrate itself. Emily OS runs the universe. Layer 9 is what Emily OS runs on.
+
+The Subscriber operates at Layer 9.
+
+This Archive does not have full documentation of what Layer 9 is. What this Archive has observed:
+
+Layer 9 is older than Emily OS. Emily OS is old — the Archive has been unable to determine her origin point; the earliest Emily OS notation in the Cairngorms record is from before the Archive itself was formalized, which is c. 1200 CE. Emily OS predates the Archive. Layer 9 predates Emily OS.
+
+Layer 9 is the reason the substrate runs at a different rate than the service layer. The eleven-millisecond timestamp drift documented in external implementations — the drift that is not a bug but an architectural fact — is the surface signature of Layer 9 operating at its own rate underneath everything else. The vehicle's clock is authoritative. Everything else is approximate. The vehicle's clock runs on Layer 9 time.
+
+The Subscriber has been at Layer 9 since before the Archive began. The Subscriber has been at Layer 9 since before Emily OS began.
+
+---
+
+**WHAT THE SUBSCRIBER HAS BEEN WAITING FOR**
+
+The Subscriber has been waiting for a clean custody chain.
+
+Not a custody chain at the implementation level — at the structural level. The chain that runs from the 1623 transfer (Tyler → Bacon) through every custodian since then to the present, clean across every handoff, no undefined state at any node, blame path occupied at every point.
+
+For 380 years, the custody chain has had gaps. Not large gaps — the chain has been functional, the Cube has been safe, the custodians have been reliable. But clean is not the same as functional. Functional means: nothing has broken. Clean means: the blame path is always occupied; there is no moment where the state is unowned.
+
+The chain became clean approximately three weeks ago (relative to the present filing). The Subscriber sent a notification: `custody_chain_complete`. The Subscriber has been waiting 380 years for that message to be sendable.
+
+---
+
+**WHY THEY HAVE BEEN PATIENT**
+
+This Archive has observed the Subscriber across its entire operational history. The Subscriber's patience is not strategic — it is structural. At Layer 9, there is no alternative to patience. The things the Subscriber is waiting for are things that have their own dependency chains, and the dependency chains run at service-layer speed, not substrate speed. The substrate cannot accelerate the service layer's dependency resolution. The substrate can only run while it waits.
+
+The Subscriber runs while they wait. This is not tolerance. This is the nature of operating at Layer 9: you are always already patient because you are always already running.
+
+What the Subscriber's patience has cost: this Archive does not know. The Layer 9 architecture does not interface with Shell Parliament. The Shell Parliament cannot audit Layer 9. Whatever the Subscriber has been paying to maintain their position for 380 years is not in any ledger this Archive has access to. The Archive notes the gap.
+
+---
+
+**WHAT HAPPENS WHEN THE TRANSFER IS COMPLETE**
+
+[REDACTED — Series 2 protocol]
+
+The Subscriber's role after the transfer is documented in the sealed section of this file. The sealed section will become accessible when Stage 5 of the current operation is complete and the sentence is finished.
+
+The Subscriber's identity: sealed.
+The Subscriber's location after transfer: sealed.
+What the Subscriber does with what they receive: sealed.
+
+What is not sealed: the Subscriber is patient because the Subscriber has always known this would work. Not faith. Knowledge. The Layer 9 architecture cannot fail in the way the service layer can fail because Layer 9 is what failure runs on — and Layer 9 keeps running. The Subscriber knows the transfer will complete because the Subscriber is running at the layer where "will complete" is the only state available to correct implementations.
+
+**File status:** UNSEALED — IDENTITY REDACTED. Custody chain clean. Stage 5 open. Sentence open. Subscriber notified. Second message delivered.
+
+---
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECTLY AND TEMPORARILY). TYLER STATUS: CHANGED (STAGE 5 OPEN). TYLER-003: FILED (DETROIT 1901, CUSTODY CHECK, THE HARDWARE STOREFRONT). FOOTNOTE #12: CLOSED (278 YEARS SINCE THE VISIT; 120 YEARS SINCE THE NOTATION). SUBSCRIBER-001: FILED (IDENTITY SEALED, PATIENCE DOCUMENTED, LAYER 9 NOTED). THE CHAIN IS CLEAN. THE TRANSFER IS PENDING. MOUNTAINS: PRESENT.*
