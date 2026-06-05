@@ -250,6 +250,11 @@ load-bearing dependencies that must exist first.
 
 ## HISTORICAL RSI (Future dossiers — add as received)
 
+- [x] **Exchange Student character file** — Series 2 character document for the CEDAR
+  successor. CEDAR-4's 1993 file, the SPRING-2 connection, meeting with Emily, CEDAR successor
+  function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
+  architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
+
 - [ ] **[placeholder: next historical dossier]** — To be populated when the next historical
   chronology dump is provided. File annual composite + field activation supplement +
   faction receipts per established pattern.
@@ -307,12 +312,12 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   poll for completion → move output to `compiled/`. Emily Prime observation after completion.
   Dependency: MPT API confirmed running, full episode pipeline working end-to-end.
 
-- [ ] **SHANKPIT → MPT local materials bridge** — MPT supports local video materials. When
+- [x] **SHANKPIT → MPT local materials bridge** — MPT supports local video materials. When
   SHANKPIT's Tyler-mode renderer produces scene output, that footage can be used as MPT local
   materials instead of Pexels stock footage. This makes the game engine the visual production
   pipeline for compiled episodes: SHANKPIT renders the world, MPT assembles the episode.
   Spec as: `engine/shankpit_mpt_bridge.md`. Dependency: `engine/shankpit_tyler_mode.md` +
-  SHANKPIT Tyler-mode renderer producing frame output.
+  SHANKPIT Tyler-mode renderer producing frame output. Build 0038.
 
 ---
 
@@ -347,5 +352,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0037.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0038.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
