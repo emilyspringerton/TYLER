@@ -58,9 +58,54 @@ I don't know what it's for yet.
 
 ---
 
+---
+
+## ENTRY 11
+**Day 26 — The hallway**
+
+He started three sentences. All of them had me in them. None of them finished.
+
+"I keep coming back to—"
+
+"You're—"
+
+"I want to tell you something about why I—"
+
+And then seven seconds. And then "forget it." And then he was around the corner.
+
+I had my phone out by the second fragment. I got fragments two and three on audio. I don't know why I didn't get fragment one — I wasn't expecting it. I was walking to the office. It was a hallway. There were no cameras.
+
+He knew there were no cameras.
+
+He stopped in a hallway with no cameras and said three things he's never finished in eight weeks of confessional sessions with production equipment running.
+
+I've watched the audio four times tonight. Each time I try to hear what comes after "You're" and there's nothing there. He stopped. But the pause isn't empty. It sounds like he knew the word and decided not to use it.
+
+I've been writing this entry for an hour. What I keep writing and crossing out: what I think the missing words are. I'm not going to write them here. If I write them here they become a document. Documents are their thing.
+
+Some things should stay unwritten.
+
+He also walked into the production office today. He read the 847-page subject file. Eleven minutes of it, in a hotel lobby, six weeks ago. He knows everything in it. He knew where the office was. He walked in because he decided to.
+
+He told the Production Coordinator they have good filing instincts. He picked up the Japanese law firm's letter, read it, set it back down in the same spot.
+
+He left.
+
+The thing I keep thinking about: he went to the production office first. Then he was in the hallway when I arrived. He was in the building when I got there.
+
+He was waiting for me.
+
+He didn't finish the sentences. He said "forget it." But he was waiting.
+
+I don't know what to do with that.
+
+---
+
 *[Entries 01–08 pre-date the separate handwritten log; they were filed in the shared digital system and are referenced in Jiangshi Memos #001–#013.]*
 
-*[Entries 09–10 are the two new sealed entries from the Stage 4 session (referenced in S01E04 end log: "Camera Op production log: 10 sealed entries").]*
+*[Entries 09–10: Stage 4 session; see S01E04.]*
+
+*[Entry 11: Day 26, Season 2 opener, the hallway.]*
 
 *[Future entries will be added here as the log grows.]*
 
@@ -69,3 +114,4 @@ I don't know what it's for yet.
 *CAMERA OP SEALED LOG*
 *Not shared. Not digital. Not destroyed.*
 *The footage is mine.*
+*Some things should stay unwritten.*

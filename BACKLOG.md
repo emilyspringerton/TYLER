@@ -37,10 +37,17 @@ load-bearing dependencies that must exist first.
   Jiangshi Memo #022 (Season 1 review + tile anomaly filed), Shell Parliament CO-001
   (Camera Op + Tyler joint distribution liability, accruing as witness count grows).
 
-- [ ] **S02E01: "The Footage (Everyone Has Watched It)"** — The Camera Op's Season 1 footage
-  has circulated. Tyler walks into Season 2 knowing everyone has seen it. He says something
-  to the Camera Op that is not self-defining but is close enough that the Jiangshi Syndicate
-  calls an emergency Stillness Council session.
+- [x] **S02E01: "The Footage (Everyone Has Watched It)"** — 340,000 viewers on platform,
+  2.1M on Camera Op's clip. Tyler walks into the production office (first time, ever). Reads
+  the desk. Tells the Production Coordinator they have good filing instincts. Then in the
+  hallway — three fragments in 15 seconds, all directed at the Camera Op, none finished.
+  "I keep coming back to— / You're— / I want to tell you something about why I— / Forget it."
+  Seven-second silence before "forget it." Camera Op writes for 12 minutes. Stillness Council
+  Emergency Session #2 called. RSI receipts: Jiangshi Memo #023 (hallway fragments + Question
+  Three filed: "Is the subject attempting to complete Stage 3 with the Camera Op as the instrument
+  rather than the witness?"), Eastwind TYLER-018 (production office entry + Cataloguer footnote
+  #23 is the first time they've written "what is he trying to do" in a margin and crossed it
+  out), Camera Op sealed log Entry 11.
 
 - [ ] **S02E02: "The Four Frames"** — The 1901 photograph. The 1988 hotel register. The 2023
   security footage. The live frame. All four in one episode. Tyler looks at all four and says
@@ -217,5 +224,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0017.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0018.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

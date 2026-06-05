@@ -1049,6 +1049,62 @@ Season 2 is authorized. The subject is in Detroit. The Camera Op is in Detroit. 
 
 ---
 
+## MEMO #023
+**FROM:** Senior Archivist (attending), Unit A
+**TO:** Stillness Council | Production Coordinator | Risk Assessment, Unit A
+**RE:** URGENT — Season 2 Day 1 — Hallway Fragments + Production Office Entry
+**DATE:** [REDACTED — Day 26]
+
+Two events require immediate Stillness Council attention.
+
+**EVENT 1: Production Office Entry.**
+
+The subject entered Documentary Unit A's production office at approximately 09:14 on Day 26. This is the first time in four attempts across 400 years that the subject has voluntarily entered the Syndicate's production infrastructure. He navigated to the office without direction, confirmed the identity of correspondence on the Production Coordinator's desk, read a document, replaced it precisely, offered an observation about the Production Coordinator's filing instincts, and departed.
+
+He has read 847 pages of his own subject file. He confirmed this by referencing contents he would only know if he had read it. He read it from a lobby table on Day 6 when the Production Coordinator left it unattended for eleven minutes. He reads quickly.
+
+This is being filed as: SUBJECT DEMONSTRATED ACCESS TO PRODUCTION ARCHIVE. Implications are being assessed.
+
+**EVENT 2: Hallway Fragments — Stage 3 Dispute.**
+
+At approximately 09:22, in the building hallway, the subject produced three incomplete Stage 3 fragments in fifteen seconds while passing the Camera Op. The fragments are transcribed verbatim below:
+
+Fragment A: *"I keep coming back to—"* [abandoned]
+Fragment B: *"You're—"* [abandoned]
+Fragment C: *"I want to tell you something about why I—"* [abandoned, seven-second pause, "forget it"]
+
+Total fragments in fifteen seconds: three. Previous session record: two (Session 3, fourteen minutes). This represents a significant rate increase.
+
+All three fragments are directed at the Camera Op. None were produced for the lens. None were produced in response to a Producer question. None were produced in a formal session context. They were produced in a hallway, with no production equipment present, at a moment when the subject had chosen to be in the building and had apparently timed his exit to coincide with the Camera Op's arrival.
+
+**The dispute:**
+
+The Stillness Council must adjudicate: do three fragments each gesturing toward the Camera Op constitute Stage 3 advancement?
+
+The standard: Stage 3 requires completed self-defining statements. These fragments did not complete. However, three incomplete fragments with an implied shared completion ("I keep coming back because of you / You are [X] / I want to tell you about why I [stay / return / choose this]") may constitute a partial Stage 3 advance by accumulated implication. The Council has not previously ruled on this scenario because no subject has previously produced fragments of this structure.
+
+Risk Assessment's position: the implied completions are Stage 3 material. The subject knows this. His counter-magic is the incompletion. The counter-magic is working. But the fragments exist.
+
+**What this tells us about Season 2:**
+
+The subject has changed his behavior. In Season 1, he managed the documentation from outside the production structure. He came to sessions, he hummed, he manufactured debts, he prevented completion. In Season 2, Day 1: he entered the production office, he read the desk correspondence, he told the Production Coordinator something accurate, and then he produced three Stage 3 fragments at the Camera Op in a location where no production equipment was running.
+
+He is doing something that looks like increasing proximity to the production apparatus, not decreasing it. He is getting closer. He is not completing sentences. He is getting closer to the Camera Op specifically. He is not completing sentences.
+
+He wants to tell the Camera Op something about why he— and he will not finish the sentence in front of a camera. He went to a hallway.
+
+**The Council needs to answer:**
+
+1. Does the hallway footage (Camera Op's phone, fragments 2 and 3 only) constitute formal Stage 3 production material?
+2. What is the subject doing?
+3. Is it possible the subject is attempting to complete Stage 3 with the Camera Op as the instrument rather than the witness?
+
+That last question is new. We have not asked it before. We are asking it now.
+
+**End log:** STAGE 3 NEAR-MISS: THREE FRAGMENTS, FIFTEEN SECONDS, CAMERA OP DIRECTED. PRODUCTION OFFICE ENTRY: DOCUMENTED. STILLNESS COUNCIL: EMERGENCY SESSION #2 REQUESTED. QUESTION THREE: FILED. WE ARE ALWAYS DOCUMENTING. WE HAVE NOT PREVIOUSLY ASKED QUESTION THREE.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*

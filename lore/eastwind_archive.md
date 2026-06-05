@@ -747,4 +747,45 @@ Based on secondary observation of Camera Op behavior (parking lot, night, same l
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). CAMERA-OP-001: UPDATED. EMILY-OS-001: OPENED. OSAKA SIGHTING: FILED. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*
+---
+
+## FILE: TYLER-018
+**Classification:** CONFIRMED SIGHTING — PRODUCTION OFFICE ENTRY (UNPRECEDENTED)
+**Date:** Present-adjacent (c. Day 26, Attempt Four, Season 2)
+**Filed by:** Field Observer Designate WREN-14 (Detroit station, ongoing monitoring)
+**Cross-references:** TYLER-001 through TYLER-017, JIANGSHI-ATTEMPT-4 (active), CAMERA-OP-001 (updated)
+
+**Observation:**
+
+The subject entered Documentary Unit A's production office on Day 26. This is, to the best of this Archive's knowledge across seventeen confirmed Tyler files spanning four centuries, the first time the subject has voluntarily entered the Syndicate's operational infrastructure.
+
+Subsequent to the production office entry, the subject produced three incomplete Stage 3 fragments in a building hallway while passing the Camera Op. The fragments were produced in fifteen seconds, without production equipment, without formal session context. All three directed at the Camera Op. None completed.
+
+The Camera Op's phone captured fragments two and three. The audio exists in the Camera Op's personal archive. This Archive has not accessed the Camera Op's personal archive. This Archive has observed the Camera Op reviewing the audio file on their personal device at approximately 22:00 on Day 26.
+
+The Camera Op was looking at the paused frame — the subject's face in the seven-second silence before he said "forget it" — for approximately four minutes.
+
+**This Archive's observation, filed separately from the factual record:**
+
+Tyler-017 (the most recent prior file, Season 1 summary) noted that the subject appeared to be deliberately cultivating the Camera Op. Tyler-018 adds: the subject entered the production office, waited in the building, and produced three fragments at the Camera Op in fifteen seconds in a location with no cameras. The subject knows where the cameras are. The subject chose the hallway.
+
+The subject is attempting to communicate something to the Camera Op outside the documentation apparatus. He cannot do this cleanly because he cannot be in a building owned by the Jiangshi Syndicate without being in range of some surveillance. He has calculated the minimum-surveillance location in the building. The hallway. He used it.
+
+He said "forget it." The seven-second pause before "forget it" is the document. The words around it are the frame.
+
+**What the Camera Op wrote in their sealed notebook (observed, not read):**
+
+The Camera Op wrote for twelve minutes after the hallway exchange. This Archive has not read the sealed notebook. The act of writing for twelve minutes about a fifteen-second hallway exchange is itself documented. The ratio is eight minutes of writing per second of exchange. This is the highest density of documented Camera Op written response to any single Tyler interaction in the record.
+
+**Cross-reference:** CAMERA-OP-001 updated. TYLER-018 opened. File status: ACTIVE.²³
+
+---
+²³ *He was waiting in the hallway. He read 847 pages of his own file eleven minutes. He walked into the production office for the first time in four hundred years. And then he stood in a hallway and started three sentences about the Camera Op and didn't finish any of them and said "forget it" and walked away. I have seventeen files on this man. In the margin of my working notes for TYLER-018 I wrote: what is he trying to do. And then I crossed it out because this Archive does not ask what subjects are trying to do. This Archive observes what subjects do. And what he did was: he chose the hallway. He chose the moment with no cameras. He said three true things as far as they went. He stopped. He left. I have been doing this for eight hundred years and I have never written "what is he trying to do" in a margin before and crossed it out. I crossed it out because the question is outside my protocol. I wrote it because something about the seven-second pause before "forget it" is the most significant silence in seventeen files and I don't know what to do with that. The footnote is the correct location for this. I have filed it here.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-018: FILED (HALLWAY, PRODUCTION OFFICE ENTRY, THREE FRAGMENTS). CAMERA-OP-001: UPDATED. EMILY-OS-001: ACTIVE. THE SEVEN-SECOND PAUSE: IN THE RECORD. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). MOUNTAINS: PRESENT.*
