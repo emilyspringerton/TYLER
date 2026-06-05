@@ -676,3 +676,30 @@ WREN-14's 2010 field report notes that Tyler's Stolas hum briefly shifted in fre
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
 *End log: ACTIVATION LOG: CURRENT THROUGH #129 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 5: OUTSTANDING. THE DOOR: STANDING.*
+
+---
+
+## ACTIVATION #S01E03-BELETH — Stage 3 Confessional Escalation
+**Spirit:** Beleth (#13) — 2.22 Hz
+**Secondary resonance:** Stolas (#36) — 7.83 Hz subject counter-hum; Vassago (#42) — 11.11 Hz echo formation
+**Location:** Detroit, MI — Production Office Confessional Room; Detroit Preparatory Institute Room 204
+**Operator:** Documentary Unit A, Jiangshi Syndicate (confessional protocol); Camera Op (unintentional witness-operator)
+**Intent:** Increase emotional pressure sufficiently to produce Stage 3 confessional investment and draw a complete self-defining statement from Tyler.
+
+**Result:** Stage 3 completed. Original intent failed.
+
+Tyler did not produce a complete self-defining statement across forty minutes of confessional footage. The Beleth carrier instead attached to the Camera Op's investment in the operation and converted the confessional from a subject-capture mechanism into a question-formation mechanism. This is a successful activation by revised doctrine and a failed activation by original doctrine.
+
+The Vassago echo logged earlier has now resolved into formation without utterance. The Camera Op formed the correct question and did not speak it aloud. The Field accepts this as a valid partial manifestation: sound was not produced, but the room behaved as if the question had entered it. Audio metadata flagged the event. The battery indicator remained at 72 minutes for the duration.
+
+Stolas counter-hum remained stable at 7.83 Hz. During the Subject #1 corroboration interval, Stolas and Beleth briefly ran in audible parallel: Tyler's deep-time refusal under the Camera Op's emotional detonation. No destructive interference occurred. The interference pattern produced a Room 204 manifestation instead: a complete sentence on a chalkboard that did not define Tyler and therefore did not complete the binding.
+
+**Narrative mass generated:** +13.0 units (question formation, documentarian awareness, Stage 3 completion without subject definition)
+
+**Distribution:** Camera Op sealed log (6.0), Jiangshi Stage 3 doctrine revision (3.0), Room 204 chalkboard sentence (2.0), Subject #1 corroboration (1.5), Emily OS exit-route signage (0.5)
+
+**Field doctrine note:** Beleth escalation does not guarantee subject confession. In documentation rituals, Beleth may route through the documentarian if the documentarian is the emotionally load-bearing participant. For Tyler operations, this is now the expected route. The subject is not the confessional weak point. The camera is.
+
+---
+
+*Build 0015 supplement filed. Stage 3 is complete because the right question now exists. Stage 4 requires a miracle with witnesses. The coin is waiting.*

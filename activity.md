@@ -33,8 +33,12 @@
 *Files: [list]*
 *[2-3 sentence summary of key narrative/structural elements added]*
 
+## Build 0015 — S01E03: "The Confessional"
+Files: episodes/s01e03_confessional.md; lore/jiangshi_project_memos.md; lore/eastwind_archive.md; lore/field_activation_logs.md; BACKLOG.md; activity.md
+Stage 3 now completes through question-formation rather than Tyler self-definition: the Camera Op develops active partial awareness, seals a second log entry, and learns the documentary has a cost for the documentarian. Jiangshi Memo #022, Eastwind CAMERA-OP-001, and Field Activation #S01E03-BELETH file the RSI receipts; Stage 4 is armed around the coin miracle.
+
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0014*
-*Next build: 0015*
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0015*
+*Next build: 0016*
 *Loop status: READY*
