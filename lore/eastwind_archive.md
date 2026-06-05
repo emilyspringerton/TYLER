@@ -659,8 +659,43 @@ Emily OS communicated through a game engine terminal in December 1993 to confirm
 ---
 
 *EASTWIND OWL ARCHIVE — TYLER SIGHTING RECORD*
+---
+
+## OBSERVATION NOTE — CAMERA OP AWARENESS CLASSIFICATION
+**Classification:** JIANGSHI DOCUMENTARY UNIT A — PERSONNEL UPDATE
+**Date:** Present-adjacent (c. Attempt Four, Session 8 window)
+**Filed by:** Field Observer Designate WREN-14 (cross-ref: Field Station Detroit — Attempt Four monitoring)
+**Cross-references:** TYLER-001 through TYLER-017, JIANGSHI-ATTEMPT-4 (active), CAMERA-OP-001
+
+**Observation:**
+
+The Camera Op assigned to Documentary Unit A (Jiangshi Syndicate, Attempt Four) has been reclassified from SUSPICIOUS to AWARE by Jiangshi internal risk assessment (cross-ref: Jiangshi Memo #013).
+
+This Archive notes the following independently:
+
+During Session 8 of the confessional interview sequence, the Camera Op made direct eye contact with the subject rather than maintaining lens-position throughout the exchange. Duration: approximately 90 seconds of subject-directed (not lens-directed) dialogue. The subject spoke to the Camera Op about the nature of "real footage." The Camera Op held the frame.
+
+The Camera Op is asking what this is for. This is documented as a STRUCTURAL AWARENESS event, not an INTUITIVE AWARENESS event. The distinction: intuitive awareness can be attributed to pattern recognition and suppressed through environmental manipulation. Structural awareness means the individual has formed a question that cannot be unsupported by further documentation. They are not sensing the ritual. They are identifying it by its shape.
+
+The subject told the Camera Op they are asking the right questions. The subject told the Camera Op the right questions are the ones they haven't asked yet.
+
+This Archive observes: the subject has done this before. In File TYLER-011 (Attempt Two documentation, recovered), the subject told an unnamed crew member — described only as "the one who kept asking about time" — that they were "almost there." The crew member left the production the next day. The production ended three weeks later. The circumstances of that departure are in the Attempt Two file, which this Archive holds and cannot share because sharing it would constitute an intervention.
+
+The Camera Op of Attempt Four has not left the production.
+
+**This Archive's assessment:** The Camera Op's trajectory is consistent with the subject's deliberate cultivation. He is not warning them. He is not leading them. He is leaving a sufficient trail that a person who is genuinely paying attention will reach the right place on their own. The right place is a choice. This Archive does not speculate about which choice the Camera Op will make.
+
+**What this Archive can document:** The Camera Op is writing by hand. The handwritten notes are not accessible to the Jiangshi Syndicate due to their constitutional constraint. They are not accessible to this Archive because this Archive observes and does not conduct searches of private documentation. The content is unrecorded. The act of writing is recorded.
+
+**Cross-reference filed:** CAMERA-OP-001. File opened. Contents: this observation. Status: ACTIVE.²¹
+
+---
+²¹ *The Camera Op. I've been watching the Camera Op since the pilot and I haven't filed a note until now because I didn't have enough evidence to justify the paper and I was lying to myself. The subject is cultivating this one. He has been cultivating this one since the pilot. He looked at them — not the lens, them — and I saw it on the handheld footage and I documented it as "non-standard subject-crew interaction" and that was accurate and it was also deeply insufficient. He is leaving a Camera Op behind who will have to make a choice. He has been building this since Episode 1. Whether the choice will go the way he is hoping — I don't know. I don't predict. I record. What I have recorded in my personal notes, not this file: I hope it goes the way he's hoping.* — The Cataloguer
+
+---
+
 *Cairngorms, Scotland | c. 1200 CE – Present*
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED IN THIS ARCHIVE. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). CAMERA-OP-001: FILED. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED IN THIS ARCHIVE. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*

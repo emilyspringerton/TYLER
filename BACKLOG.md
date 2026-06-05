@@ -17,7 +17,7 @@ load-bearing dependencies that must exist first.
 
 ## EPISODES
 
-- [ ] **S01E03: "The Confessional"** — Stage 3 initiation. Camera Op escalating awareness, first
+- [x] **S01E03: "The Confessional"** — Stage 3 initiation. Camera Op escalating awareness, first
   confessional footage attempt, Tyler talks for 40 minutes and none of it is self-defining.
   RSI receipts: Jiangshi Memo (Stage 3 assessment), Eastwind entry (Camera Op awareness note),
   Field activation (Beleth escalation).
@@ -137,6 +137,66 @@ load-bearing dependencies that must exist first.
 
 ---
 
+## MONEYPRINTERTURBO — FLAT STREAM VIDEO PIPELINE
+
+The **flat stream** output tier (standard video / YouTube / streaming platforms) is now buildable.
+MoneyPrinterTurbo (`/home/fatbaby/MoneyPrinterTurbo`) takes a topic or script and generates:
+narration copy, stock footage (Pexels/Pixabay), subtitles, background music → compiled HD video.
+
+This is the `FLAT STREAM` branch in the `engine/television_as_code.md` build pipeline diagram.
+The MPT integration spec lives at `engine/moneyprinter_pipeline.md`.
+
+**RSI loop position:** Episode script written by Claude Code → MPT compiles to video artifact →
+artifact committed to `compiled/` → Emily Prime observation → next build target identified.
+
+**Dependencies in order:** MPT config → Tyler MPT profile → episode clip → full episode → RSI trigger → SHANKPIT bridge.
+
+- [ ] **Configure MPT for Tyler build environment** — Copy `MoneyPrinterTurbo/config.example.toml`
+  to `MoneyPrinterTurbo/config.toml`. Wire in: LLM provider (Claude via `openai_base_url` pointing
+  to Anthropic API, model `claude-sonnet-4-6`), Pexels API key for stock footage, ImageMagick path.
+  Confirm WebUI launches at `http://127.0.0.1:8501` and batch generation produces clean 1080x1920
+  test video. File: `MoneyPrinterTurbo/config.toml`. No code changes — config only.
+
+- [x] **Write the Tyler MPT generation profile** — Define the standard generation parameters for
+  Tyler episode clips: voice (`en-US-GuyNeural` or `en-GB-RyanNeural` for documentary register),
+  format (portrait 9:16 for shorts, landscape 16:9 for full episodes), subtitle style (white,
+  minimal, bottom-frame, `Anton` font), background music (ambient instrumental, volume 0.1),
+  segment duration 3–5s, no watermark. File as: `engine/tyler_mpt_profile.md`.
+
+- [ ] **S01E01 Cold Open — Compiled Clip (30s)** — Extract cold open narration from
+  `episodes/s01e01_pilot.md` (first 90 seconds: handheld chaos, interview denial, security cam
+  timestamp 1901, Tyler washing hands). Adapt to MPT topic format. Run MPT, batch 3, select best.
+  Portrait 9:16. Target: YouTube Shorts / TikTok distribution. Output to `compiled/s01e01_cold_open/`.
+  Dependency: MPT config.toml complete + Tyler MPT profile.
+  RSI receipts: none (production artifact, not universe canon).
+
+- [ ] **S01E01 Full Episode — Compiled Video** — Full episode compilation from `episodes/s01e01_pilot.md`.
+  MPT topic: *"Tyler — a time-traveler who refuses to be documented — is followed by a Jiangshi
+  Syndicate camera crew through a Detroit night. He washes his hands too carefully. The coin
+  shows the wrong year."* Landscape 16:9, batch 3, best selected. Output to `compiled/s01e01/`.
+  Dependency: cold open clip confirmed working.
+  RSI receipts: none (flat stream artifact — canon is in the script, not the video).
+
+- [ ] **S01E02 Compiled Clip** — Same pipeline for `episodes/s01e02_school.md`.
+  Topic to be derived from episode cold open. Output to `compiled/s01e02/`.
+  Dependency: S01E01 full episode pipeline confirmed.
+
+- [ ] **Emily RSI loop → MPT compilation trigger** — When Claude Code writes a new episode script
+  to `episodes/`, the observation-watcher should also invoke MPT to compile the episode clip.
+  Spec the trigger mechanism in `engine/moneyprinter_pipeline.md`: episode file detected →
+  extract MPT topic from script header → POST to MPT API at `http://127.0.0.1:8080/api/v1/videos` →
+  poll for completion → move output to `compiled/`. Emily Prime observation after completion.
+  Dependency: MPT API confirmed running, full episode pipeline working end-to-end.
+
+- [ ] **SHANKPIT → MPT local materials bridge** — MPT supports local video materials. When
+  SHANKPIT's Tyler-mode renderer produces scene output, that footage can be used as MPT local
+  materials instead of Pexels stock footage. This makes the game engine the visual production
+  pipeline for compiled episodes: SHANKPIT renders the world, MPT assembles the episode.
+  Spec as: `engine/shankpit_mpt_bridge.md`. Dependency: `engine/shankpit_tyler_mode.md` +
+  SHANKPIT Tyler-mode renderer producing frame output.
+
+---
+
 ## CITY_OF_LIGHT BUILD PHASES
 
 - [ ] **Phase 1: Faction Presence** — After Phase 0 geometry is specced, define faction
@@ -150,5 +210,5 @@ load-bearing dependencies that must exist first.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0014.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0015.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

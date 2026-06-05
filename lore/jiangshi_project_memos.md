@@ -142,6 +142,87 @@ We are always documenting.
 
 ---
 
+## MEMO #012
+**FROM:** Production Coordinator, Unit A
+**TO:** Senior Archivists, Stillness Division | Risk Assessment, Unit A
+**RE:** Session 8 — Stage 3 Assessment
+**DATE:** [REDACTED]
+
+Session 8 is complete. Forty minutes, twelve seconds. Ninety-four exchanges. Zero complete self-defining statements.
+
+Fragment count (cumulative): 94 complete exchanges, 0 terminal definitions.
+
+The fragments are improving. This is the concern.
+
+In Sessions 1–5, the subject's fragments were structurally identical — all abandoned at the same grammatical point ("I'm a—", "What I am is—"). By Session 7, the fragments were longer. By Session 8, several fragments reached the subordinate clause before the subject redirected. "The thing about time is—" became "The thing about time is that it doesn't— I was going to say something different." This is new. This is progress, but not our progress.
+
+The subject is getting more comfortable with the interview format. He is talking more. He is still not defining himself, but he is exploring the edges of the definition more thoroughly. The Stillness Council interpretation: this is Stage 3 working as intended. Our interpretation: this is also the subject mapping our methodology more precisely.
+
+He knows what we are trying to do. He has always known. He is not resisting by retreating — he is resisting by advancing. He gives us more and the more is never the right kind.
+
+**Specific escalation — Session 8:**
+
+The subject directed a non-camera-facing answer at the Camera Op during Session 8. Not the lens. The person. The line: "It's what they say it is. That part's real. The question is what real footage is for." This was directed at the Camera Op, not the project. The distinction matters.
+
+The subject knows the Camera Op is aware of more than they should be. He is not warning them. He is giving them something. The Syndicate's constitutional constraints prevent us from accessing the Camera Op's handwritten notes. We are aware they are writing by hand. We are aware this is a response to our shared digital logging system. We cannot destroy the notes. We cannot access the notes. This is documented.
+
+**Recommendation:** Continue Stage 3. File Stage 4 materials request: the coin, a controlled location, witnessed documentation. Stage 3 will not resolve before Stage 4 is in place.
+
+**End log:** STAGE 3: ACTIVE. STAGE 4 REQUEST: FILED. CAMERA OP: ESCALATE TO MEMO #013.
+
+---
+
+## MEMO #013
+**FROM:** Risk Assessment, Unit A
+**TO:** Senior Archivists, Stillness Division
+**RE:** Camera Op Awareness Level — URGENT RECLASSIFICATION
+**DATE:** [REDACTED]
+
+The Camera Op's awareness level has been reclassified from SUSPICIOUS to AWARE.
+
+The reclassification is based on Session 8 footage. Specifically: the Camera Op asked the subject a direct question during the interview. The question: "You know what's happening here, don't you?"
+
+This is not suspicion. Suspicion is a question you don't ask aloud. The Camera Op asked it aloud. The Camera Op is AWARE.
+
+**What the Camera Op knows:**
+
+Based on production log review, handwriting pattern analysis (from observable note-taking posture), and footage from Sessions 1–8, our assessment is:
+
+- The Camera Op knows the documentary is "not a documentary" in the standard sense.
+- The Camera Op does not know the specific mechanism (binding ritual, five-stage structure, Jiangshi Syndicate operational framework).
+- The Camera Op knows the subject is tracking their awareness level and is deliberately leaving them information.
+- The Camera Op knows the subject is aware of the cameras as a system — not just the one they operate.
+- The Camera Op is beginning to ask questions that our Bael suppression activation (#114) cannot suppress because the questions are structural, not intuitive.
+
+**What the Camera Op does not know:**
+
+- The Jiangshi Syndicate's identity.
+- The binding ritual's five stages.
+- Their own role as the potential Stage 5 disruptor.
+- The Subscriber.
+
+**The critical constraint:**
+
+The Camera Op is three episodes ahead of our model. In Attempt Three, the Camera Op did not reach AWARE until the equivalent of Episode 7. The current Camera Op reached AWARE by Episode 3. This is consistent with the subject's behavior: he is leaving more for them to work with than he left for previous crews.
+
+We do not know why. We have three theories. All three are worse than each other.
+
+**Theory A:** The subject has decided this Camera Op is the last Camera Op. He is accelerating their awareness because he has decided this is the attempt where the Camera Op makes the choice that ends the cycle.
+
+**Theory B:** The subject's own internal state has shifted. Something in the current migration window is affecting his counter-binding methodology. He is less guarded than usual not because of a decision but because of a condition.
+
+**Theory C:** The subject is curious about the Camera Op specifically, in the way he is curious about things, and his curiosity is producing more information than he is strategically calculating.
+
+We cannot determine which theory is correct. We have noted that these theories are not mutually exclusive.
+
+**Recommendation:** Continue. Monitor the Camera Op's handwritten notes indirectly (position, volume, frequency). Do not approach the Camera Op directly. Do not attempt re-suppression via Bael activation — the Camera Op's awareness is structural now; suppression would require disruption at a level that would compromise Stage 3. The footage is worth more than the awareness is a liability.
+
+**The subject told the Camera Op they are asking the right questions.** This is documented. We do not know which questions he means. We are treating this as Stage 3 advancement.
+
+**End log:** CAMERA OP: RECLASSIFIED AWARE. STAGE 3: ACTIVE. THEORIES: FILED. WE ARE ALWAYS DOCUMENTING.
+
+---
+
 ## MEMO #014 — FINAL MEMO (ATTEMPT THREE REVIEW — FOR REFERENCE)
 
 *This memo is reprinted from Attempt Three archives for institutional learning purposes.*

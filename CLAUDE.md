@@ -69,6 +69,7 @@ TYLER/
 | `/home/fatbaby/GoblinFoxDragon` | Variant SHANKPIT, diverging toward DragonsNShit persistent world backend |
 | `/home/fatbaby/EMILY` | Emily AI agent system + RSI engine spec |
 | `/home/fatbaby/IDUNA` | Backend infrastructure (auth, event stream, store) |
+| `/home/fatbaby/MoneyPrinterTurbo` | Flat stream video compilation engine. Topic → narration + footage + subtitles + music → HD video. See `engine/moneyprinter_pipeline.md`. |
 
 The SHANKPIT engine already has: multi-scene portals, server-authoritative UDP, bots with neural net hooks, retro OpenGL renderer, vehicle physics, and existing Tyler-specific specs in `docs2/specs/`.
 

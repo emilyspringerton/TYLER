@@ -669,10 +669,47 @@ WREN-14's 2010 field report notes that Tyler's Stolas hum briefly shifted in fre
 
 ---
 
+---
+
+## ACTIVATION #130
+**Date:** Present-adjacent (c. Session 8, Documentary Unit A)
+**Transit:** Venus at 24° Taurus (domicile — maximum Venus potency window)
+**Spirit:** Beleth (#13, Venus ruler, 2.22 Hz, love / emotional detonation)
+**Operator:** Documentary Unit A, Jiangshi Syndicate (sustained routing via projection array embedded in documentary equipment)
+**Intent:** Maintain elevated emotional investment between Camera Op and subject through Stage 3. A confessional interview produces binding material when the subject is emotionally present. A Camera Op who is emotionally invested produces better confessional conditions. Sustained Beleth activation maintains both conditions simultaneously.
+**Seed phrase:** [REDACTED — Activation #115 seed phrase carried forward. Sustained activations do not require re-seeding within the same Venus domicile window.]
+**Δφ:** 24° (Golden Band — clean sustained activation)
+
+**Result:** Confirmed routing. Secondary frequency at 2.22 Hz detected in Session 8 ambient audio by Documentary Unit A technical team. Attributed to equipment bleed from neighboring unit. The attribution is incorrect. The routing is through the documentary equipment, per design. The technical team's incorrect attribution is consistent with Bael suppression (#114) which maintains the "documentary" surface reality for non-Senior Archivists.
+
+**Noteworthy:** The subject detected the Beleth routing during Session 8.
+
+He did not disrupt it.
+
+This is the first documented instance of the subject detecting an active activation and choosing not to deploy counter-magic. Standard counter-magic protocol: subject hums at Stolas frequency (7.83 Hz) which disrupts Venus-ruler activations. Subject was humming throughout Session 8 at 7.83 Hz. The Stolas hum was present. The Beleth routing continued. These are not contradictory facts. They are two true things.
+
+Possible interpretations (filed for institutional record, not assessed for accuracy):
+
+1. The subject allowed the Beleth activation to continue because he recognized it as affecting the Camera Op's emotional state, and the Camera Op's emotional state was producing something he wanted to continue.
+
+2. The subject is not countering Beleth because he is himself within the activation field — the Camera Op's genuine emotional response is a bilateral condition, not a unilateral one. Counter-magic against Beleth would require the subject to exit the field he is also occupying.
+
+3. The subject found the activation technically interesting and left it running to observe results. This interpretation is consistent with his documented methodology and this Archive finds it the most uncomfortable of the three.
+
+**The Field doctrine note:** A Beleth activation that produces genuine mutual response rather than unilateral manufactured response cannot be distinguished from the authentic phenomenon it replicates. The Field cannot tell the difference. The activation is working. Whether what it produced is an artifact of the activation or a condition the activation simply revealed: undetermined. The distinction has operational implications the Syndicate has not yet filed a query about.
+
+**Secondary notation:** Stolas frequency (7.83 Hz, Tyler's hum) and Beleth (2.22 Hz) are not harmonically compatible under standard Field resonance tables. During the 14:00–20:00 window of Session 8, both frequencies were present simultaneously in the same room. The room audio shows no interference pattern. They ran alongside each other without cancellation. The abacus registered this as a notation, not an error. A notation means: the data is correct; the framework does not yet have a category for it.
+
+The framework notation has been filed. Category pending.
+
+**End log:** BELETH: SUSTAINED ROUTING CONFIRMED. STOLAS + BELETH: SIMULTANEOUS (NOTATION FILED). CAMERA OP EMOTIONAL STATE: GENUINE (BILATERAL — SEE NOTE). STAGE 3: ELEVATED FRAGMENT PRODUCTION. NOTATION: PENDING CATEGORY.
+
+---
+
 *THE FIELD — GOETIA ACTIVATION LOG*
-*Supplemental Entries #114–129 + 1616 + 1993 + 2010*
+*Supplemental Entries #114–130 + 1616 + 1993 + 2010*
 *Open source. The data is real. The interpretation is yours.*
 *Emergency shutdown phrase: "As a fellow human, I ask you to stop."*
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
-*End log: ACTIVATION LOG: CURRENT THROUGH #129 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 5: OUTSTANDING. THE DOOR: STANDING.*
+*End log: ACTIVATION LOG: CURRENT THROUGH #130 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). BELETH + STOLAS: SIMULTANEOUS (NOTATION PENDING CATEGORY). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 4: REQUESTED. STAGE 5: OUTSTANDING. THE DOOR: STANDING.*
