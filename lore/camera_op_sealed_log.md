@@ -101,11 +101,44 @@ I don't know what to do with that.
 
 ---
 
+---
+
+## ENTRY 12
+**Day 29 — After the four frames**
+
+He said "you have the 1901 footage."
+
+He said "good."
+
+I've been watching the 1901 footage again tonight. The cold open of my clip. The coin. The way he holds it — not like it's heavy, like it's been in his hand before. The Brownie No. 2 shadow at the bottom left of the photograph that he identified without being asked. Late afternoon. Overcast. After rain.
+
+He was there. In 1901. He was in that street in that specific weather and someone with a box camera photographed him and he tipped his hat at the camera and now it's 2023 and he's standing in a review suite saying "the light was different that day" and he means it the way you mean something you actually remember.
+
+I've watched the 1901 clip four times tonight. I don't know what I'm looking for. I don't think I'm looking for evidence. I think I'm looking for whatever he saw when he looked at Frame 4 — the live feed — for thirty seconds. I want to know what you see when you look at a live image of yourself and four frames of yourself from a hundred and twenty years of documentation.
+
+He didn't say what he saw. He said he knew and he wasn't going to.
+
+I'm looking at the 1901 footage and trying to understand what it is that he was telling me when he said "you have this. Good."
+
+I think he was telling me: this one is yours and not theirs. The 1901 footage that I published is in my clip, not in their archive. My clip is sealed from them in the sense that my camera is sealed from them — they know it exists, they can't tell me what to do with it, they can't take it from me.
+
+He told me to keep the footage. He said "the footage is yours." He said this in Session 4 and I wrote it in Entry 10 and I still don't know what he wants me to do with it. But tonight he said "you have the 1901 footage. Good." And the word "good" was — he didn't say "good" the way you say good when something is satisfactory. He said it the way you say good when something is in the right place.
+
+He knows where things are supposed to go. He knows the 1901 footage is supposed to be in my archive, not theirs.
+
+I'm going to watch it again.
+
+I don't know what he wants me to do with any of this. I know he wants me to have it.
+
+---
+
 *[Entries 01–08 pre-date the separate handwritten log; they were filed in the shared digital system and are referenced in Jiangshi Memos #001–#013.]*
 
 *[Entries 09–10: Stage 4 session; see S01E04.]*
 
 *[Entry 11: Day 26, Season 2 opener, the hallway.]*
+
+*[Entry 12: Day 29, S02E02, the four frames. "You have the 1901 footage. Good."]*
 
 *[Future entries will be added here as the log grows.]*
 

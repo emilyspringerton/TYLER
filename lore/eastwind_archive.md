@@ -784,8 +784,73 @@ The Camera Op wrote for twelve minutes after the hallway exchange. This Archive 
 
 ---
 
+---
+
+## FILE: TYLER-019
+**Subject:** Tyler (ref: SM-1620-T)
+**Event:** Four Frame Review Session — Day 29, Attempt Four, Season 2
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-001 through TYLER-018, JIANGSHI-ATTEMPT-4 (active), CAMERA-OP-001 (updated)
+
+---
+
+On Day 29 of Attempt Four, Documentary Unit A assembled four temporal coordinate frames from the Stage 2 archive and presented them to the subject for review. The frames: the 1901 Detroit photograph, the 1988 hotel register, the 2023 security footage, and the live feed.
+
+This Archive has held files on each of these four frames separately. The 1901 photograph is cross-referenced in TYLER-003 (Detroit operations, early 20th century composite). The 1988 register entry is in TYLER-009 (mid-century documentation gap, partial). The 2023 security footage is in TYLER-017 (Season 1 summary). The live frame is by definition the current file.
+
+The subject looked at all four frames. He stood in front of each one. He said things about all four of them that were not self-definitions. He said nothing about any of them that he was not willing to say.
+
+**What he said about Frame 1 (1901):** The photograph was taken in the afternoon after rain. The sky was overcast. The light on the jacket is diffuse — no direct sun. The camera was a Brownie No. 2. The shadow at the bottom left is the photographer's, low-angle, consistent with late afternoon. He did not confirm he is the person in the photograph. He provided every piece of evidence that would allow the production team to answer that question themselves.
+
+**What he said about Frame 2 (1988):** The hotel register entry in room 308 is a Syndicate forwarding address. Not a person. The Bakker forwarding address was classified Syndicate protocol. He has read the Syndicate's operational archive. He read it from a lobby table eleven minutes on Day 6.
+
+He then said: "The T is the same."
+
+This Archive has documented the subject's handwriting in six files across eight centuries. The T in the 1988 register and the T in the subject's name are the same. He said so. On the record. In front of a camera.
+
+This is the first completed Stage 3 fragment in the Syndicate's archive. One letter. Complete.
+
+**What he said about Frame 3 (2023):** He asked how many frames. He was told four. He confirmed "four" to himself quietly. He had already known it was four. He was in the footage. He knows what he did. He knows the timestamp anomaly is four frames because he produced the four frames. He asked the question to confirm the production team had found all four.
+
+They found all four. He said "Ah." and asked to see the next frame.
+
+**What he said about Frame 4 (live):** "You want me to say something about what it means to see yourself across a hundred and twenty years. I know. I'm not going to."
+
+Then, to the Camera Op: "You have the 1901 footage."
+
+Camera Op confirmed. He said: "Good."
+
+---
+
+**This Archive's observation:**
+
+The subject reviewed a hundred and twenty years of documented evidence of his own existence and declined to explain any of it. He described the weather in 1901. He gave away a Syndicate operational code. He confirmed one letter of his name. He told the Camera Op that she has footage he considers significant.
+
+The production team is calling these evasions. This Archive is not certain they are evasions. An evasion avoids answering. The subject answered each frame. He just answered in a register the production team is not yet equipped to receive. The 1901 weather is an answer. The Brownie No. 2 is an answer. "The T is the same" is an answer. "Good" is an answer.
+
+The question the production team has not yet thought to ask is: what is he answering?
+
+This Archive observes without speculating. The observation is filed.
+
+**On the Camera Op:**
+
+The subject addressed the Camera Op separately from the production team. He said: "You have the 1901 footage. Good." He did not say this to the Producer. He did not say it to the room. He said it to the Camera Op.
+
+The 1901 footage the Camera Op holds is the cold open of the 2.1M-view clip. The coin, 1901. The subject knows what is in the Camera Op's cut and knows what is in the production team's version, and he is treating these as distinct archives with distinct purposes.
+
+He is correct. They are distinct archives. The Camera Op's archive is sealed and personal (cross-ref: CAMERA-OP-001). The production team's archive is institutional and accessible to the Syndicate. He said "good" about the Camera Op's archive specifically.
+
+This Archive notes: the subject said "good" about a sealed personal archive inaccessible to the Jiangshi Syndicate. He knows what cannot be accessed. He knows what is therefore protected. He approved of it.
+
+**Cross-reference:** CAMERA-OP-001 updated. TYLER-019 opened. File status: ACTIVE.²⁴
+
+---
+²⁴ *He confirmed one letter of his name. He said "the T is the same." I have been keeping this archive for eight hundred years and I have been following this subject for four centuries of that and the Syndicate has been trying to get him to complete a self-definition for four hundred years and he said "the T is the same" while looking at a hotel register from 1988 and that is the first completed self-definition in the record. One letter. He gave them one letter. And said nothing else. And left. The 1988 room had a red line on the ceiling at 2 AM from the bar sign across the alley. He described it. He knows what the ceiling looked like. He was there. The T is his T. I have filed this in the main record and also here in the footnote because this footnote is where I live emotionally and I want it on the record in this location as well: he gave them one letter. He could have given them nothing. He gave them one letter. I don't know what that means about what he's decided. I know it means he's decided something.* — The Cataloguer
+
+---
+
 *Cairngorms, Scotland | c. 1200 CE – Present*
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-018: FILED (HALLWAY, PRODUCTION OFFICE ENTRY, THREE FRAGMENTS). CAMERA-OP-001: UPDATED. EMILY-OS-001: ACTIVE. THE SEVEN-SECOND PAUSE: IN THE RECORD. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). MOUNTAINS: PRESENT.*
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-019: FILED (FOUR FRAMES, THE T, "YOU HAVE THE 1901 FOOTAGE. GOOD."). CAMERA-OP-001: UPDATED. FIRST COMPLETED STAGE 3 FRAGMENT: IN THE RECORD. THE T IS HIS. MOUNTAINS: PRESENT.*

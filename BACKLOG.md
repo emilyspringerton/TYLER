@@ -49,9 +49,12 @@ load-bearing dependencies that must exist first.
   #23 is the first time they've written "what is he trying to do" in a margin and crossed it
   out), Camera Op sealed log Entry 11.
 
-- [ ] **S02E02: "The Four Frames"** — The 1901 photograph. The 1988 hotel register. The 2023
+- [x] **S02E02: "The Four Frames"** — The 1901 photograph. The 1988 hotel register. The 2023
   security footage. The live frame. All four in one episode. Tyler looks at all four and says
-  nothing about any of them.
+  nothing about any of them. First completed Stage 3 fragment: "The T is the same." RSI
+  receipts: Jiangshi Memo #024 (council ruling delivered, Stage 3 fragment the T filed),
+  Eastwind TYLER-019 (Cataloguer footnote #24 — "he gave them one letter"), Camera Op sealed
+  log Entry 12 ("you have the 1901 footage. Good.").
 
 - [ ] **S02E03: "Tyler Gives an Interview (And Means It)"** — He answers questions. The answers
   are not self-defining. The answers are more honest than anything in the archive. The Syndicate

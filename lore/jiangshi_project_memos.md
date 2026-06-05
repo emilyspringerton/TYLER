@@ -1105,6 +1105,93 @@ That last question is new. We have not asked it before. We are asking it now.
 
 ---
 
+## MEMO #024
+**RE: S02E02 — Four Frame Review Session | Day 29**
+**FROM:** Documentary Unit A, Senior Producer
+**TO:** Jiangshi Stillness Council — Operational Archive
+**CLASSIFICATION:** Stage Assessment | Council Ruling Delivered | Stage 3 Fragment Filed
+
+---
+
+**COUNCIL RULING RECEIVED AND DELIVERED:**
+
+The Stillness Council's ruling from Emergency Session #2 has been read into the formal record. Summary: the three hallway fragments (Day 26) do not constitute Stage 3 advancement. An incomplete self-definition is not a self-definition. Counter-magic through incompletion is the subject's established methodology. The methodology worked. Stage 5 pending subject decision. Proceed with Season 2.
+
+Question Three inquiry remains open. No ruling at this time.
+
+---
+
+**FOUR FRAME REVIEW — FORMAL RECORD:**
+
+On Day 29, the subject reviewed the Syndicate's assembled Stage 2 documentation: four frames from the temporal coordinate archive.
+
+**Frame 1 — 1901 Detroit Photograph:**
+Subject identified: the photograph was taken in the afternoon after rainfall (overcast sky, diffuse light on jacket, low-angle shadow consistent with overcast, late afternoon). Subject identified the camera as a Brownie No. 2 box camera. Subject noted: "The dime in my — the coin I carry. The 1901 date. Detroit. Late afternoon, overcast. It's been raining."
+
+*Assessment: Subject provided specific atmospheric and equipment detail consistent with personal presence at the 1901 documentation event. Subject declined to answer whether the person in the photograph is him. Subject instead provided environmental detail that implies personal presence more precisely than a confirmation would have. Counter-magic through specificity. Filed.*
+
+**Frame 2 — 1988 Hotel Register, Room 412:**
+Subject read the full register page, not only the entry. Subject identified room 308 as a Syndicate forwarding address, named "Bakker, M." as not a person.
+
+*This memo notes: the Bakker forwarding address at the 1988 operation was classified internal protocol. The subject has read the Syndicate's operational documentation. Filed under: of course he has.*
+
+Subject confirmed: **"The T is the same."** The T in the hotel register entry and the T in the subject's name.
+
+**Frame 3 — 2023 Packard Plant Security Footage:**
+Subject's first question: "How many frames?" When told four frames, subject responded "Four" in a tone consistent with confirmation rather than new information. Subject was confirming a number he already knew. The subject knows there are four frames in the timestamp anomaly because the subject was in the 2023 security footage and knows what he was doing.
+
+Subject declined to explain the timestamp. Subject asked to see the fourth frame.
+
+**Frame 4 — Live Feed:**
+Subject stood before Camera C's live monitor for thirty seconds. Subject said: "You want me to say something about what it means to see yourself across a hundred and twenty years. I know. I'm not going to."
+
+Subject then addressed the Camera Op directly — not the production team — and said: "You have the 1901 footage."
+
+Camera Op confirmed. Subject said: "Good."
+
+Subject departed.
+
+---
+
+**STAGE 3 ASSESSMENT:**
+
+Stage 3 advance: minimal. Fragment filed: **the T**.
+
+"The T is the same." Statement on record. Subject used the first character of his name to confirm his presence across 71 years of documented handwriting. This is Stage 3 progress by millimeter. It is the first completed Stage 3 fragment in the record. Previous fragments: all abandoned before completion. This fragment: a single letter, stated directly. The doctrine requires completed self-defining statements. The subject gave us one letter. It is complete.
+
+**Stage 3 fragment record to date:**
+- S01E03: "I'm going to go back to whatever it is I—" [abandoned]
+- S01E03: "I come from—" [swallowed]
+- S02E01, hallway: "I keep coming back to—" / "You're—" / "I want to tell you something about why I—" [all abandoned; Council ruled insufficient]
+- S02E02: **"The T is the same."** ← *completed; defines one character of the subject's name*
+
+The T is his T. Filed.
+
+---
+
+**ANOMALY — NEW STAGE 2 COORDINATES:**
+
+Three viewer-submitted sightings filed since the Camera Op's clip reached 2.1M views:
+- Paris, 1944 (Eastwind-submitted photograph, crowd scene, confirmed match)
+- Paris, 1958 (laundry receipt; handwriting consistent with 1988 register — the T is the same; forwarded by Eastwind Archive)
+- Osaka, TBD (viewer submission, convenience store photograph, 1980s–present; pending authentication)
+
+---
+
+**CAMERA OP — SEPARATE NOTATION:**
+
+Subject told the Camera Op: "You have the 1901 footage. Good." He did not say this to the production team. He said it to the Camera Op. He knows what footage the Camera Op holds and what footage the production team holds, and he is treating these as distinct holdings with distinct implications.
+
+The Camera Op filed a composition notebook entry on the evening of Day 29. Observed; not accessed. The entry is longer than average.
+
+**Question Three (open inquiry):** Does the "you have the 1901 footage. Good." exchange constitute Stage 3 advancement with the Camera Op as instrument rather than witness? This memo does not answer Question Three. The question is open.
+
+---
+
+**End log:** THE T IS HIS. STAGE 3: FIRST COMPLETED FRAGMENT (THE T). THE 1988 ROOM HAD A RED LINE ON THE CEILING. THE SUBJECT KNEW THE FOUR FRAMES BEFORE WE TOLD HIM. QUESTION THREE: OPEN. TYLER STATUS: UNRESOLVED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
