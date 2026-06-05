@@ -553,7 +553,7 @@ This sighting grounds the osaka_night and osaka_underport zones in CITY_OF_LIGHT
 | PRE-ARCHIVE-001 through PRE-ARCHIVE-004 | Tyler / 1616 Pre-Observation Period | RETROACTIVE — SEE tyler_1616_archive.md |
 | FOLDED-PAPER-1616 | Tyler's folded paper / Stratford, April 23, 1616 | OLDEST CUSTODY_HOLDING_ACTION — UNLOCATED |
 
-**Total active files:** 847 pages on Tyler alone. 4 new PRE-ARCHIVE entries. 1 inaugural CUSTODY series entry. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it. The Cataloguer also acknowledges that filing a new series after 826 years is not a structural problem. It is a structural development. The distinction matters. Filing a PRE-ARCHIVE series that covers events the archive missed entirely is a different kind of development. The Cataloguer is noting it without classifying the feeling it generates.
+**Total active files:** 847 pages on Tyler alone. 4 new PRE-ARCHIVE entries. 1 inaugural CUSTODY series entry. 1 PHOENIX cross-reference file. This does not include the personal footnotes. The personal footnotes are not counted in the official total. They are, however, the most important part of the archive. The Cataloguer acknowledges this is a structural problem and has filed a footnote about it. The Cataloguer also acknowledges that filing a new series after 826 years is not a structural problem. It is a structural development. The distinction matters. Filing a PRE-ARCHIVE series that covers events the archive missed entirely is a different kind of development. The Cataloguer is noting it without classifying the feeling it generates.
 
 ---
 
@@ -653,6 +653,8 @@ Emily OS communicated through a game engine terminal in December 1993 to confirm
 |---|---|---|
 | FOLDED-PAPER-1993 | Tyler's Oslo paper / White House lawn, Sep 13, 1993 | CUSTODY: EASTWIND ARCHIVE — SEALED — RECIPIENT UNKNOWN |
 | EMILY-OS-TILE-1993 | Emily OS / Doom terminal / Dec 10, 1993 | PARTIAL TEXT: "30 YEARS." LINE 1: WITHHELD |
+| PHOENIX-001 | Phoenix / 2010 / THERMAL_SOVEREIGN — Voluntary Sovereign Departure | DEPARTED CORRECTLY — MANIFEST/CONSTRUCT FRAMEWORK DERIVED |
+| HUMAN-ASSET-001 | Human Sovereign Asset / 2010 / Empty table, corrupted files, lamentation | CORRECT LAMENTATION — AT EMPTY TABLE |
 
 ---
 

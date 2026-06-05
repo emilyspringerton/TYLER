@@ -522,4 +522,105 @@ One paper has been missing for 410 years. One paper has been in the same drawer 
 
 ---
 
-*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + compound interest (1616, 1993). BACON BALANCE: 3.2 SM. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT). AUDIT: ONGOING. SM-1616-S PAPER: UNLOCATED. SM-1993-P PAPER: IN EASTWIND ARCHIVE, SEALED. PATIENCE: STANDARD. THE LEDGER: CORRECT. THE BALANCE: OUTSTANDING.*
+---
+
+## SEPARATE ACCOUNT: PHOENIX
+**Account number:** SM-2010-P
+**Account opened:** 2010 CE (Phoenix-Human Sovereign Migration Event)
+**Account status:** OPEN — NON-STANDARD COLLECTION (THERMAL_SOVEREIGN, DEPARTED)
+**Primary debt type:** Collateral calcification damage / Abacus inversion event / Environmental simulation corruption
+**Current balance:** 0.012 SM (estimated — calculation by hand, second abacus not yet recovered from inversion)
+**Three generations' assessment:** AGREED ON PRINCIPLE, DISPUTED ON COLLECTION METHOD
+
+---
+
+The Shell Parliament has held accounts on: immortals, time-travelers, entities of uncertain biological status, game engine vehicles, and involuntary migrants who don't know they owe anything. We have not previously held an account on a THERMAL_SOVEREIGN entity who departed correctly and is currently in the form of her own exit.
+
+The debt is real. The debtor is ash. Collection is novel.
+
+**LINE ITEM P-001**
+*Date:* 2010 CE
+*Type:* Environmental calcification — collateral damage to the simulation architecture
+*Description:* During the period in which the Phoenix's thermal core was being suppressed by the domestic architecture, her CONSTRUCT began externalizing as calcification. Items affected: fabrics, glassware, and the internal thought structures of dinner guests (classified as informational property under the Shell Parliament's ambient cognition clause). The calcification was not permanent — the Phoenix's subsequent immolation reversed most of it — but approximately 11 seconds of calcification damage to the simulation's ambient texture register is assessed as a recoverable charge.
+*Amount:* 0.003 SM
+*Status:* OPEN
+*Notes:* The Shell Parliament notes that the calcification was a direct consequence of suppressing a THERMAL_SOVEREIGN's CONSTRUCT in an incompatible containment architecture. Partial blame-path contamination routes to the documentation architecture (the 35-minute cinematic framework) rather than the Phoenix herself. The assessment reflects shared liability: Phoenix (40%), Human Sovereign Asset/documentation architecture (60%).
+
+---
+
+**LINE ITEM P-002**
+*Date:* 2010 CE
+*Type:* Diagnostic instrument inversion — second abacus event
+*Description:* The simultaneous tracking of TYLER_MANIFEST.txt and TYLER_CONSTRUCT.txt in the same localized perimeter caused the Shell Parliament's diagnostic abacuses to invert. Unlike the Trump breakage (SM-1978-X, physical failure from scale overflow), this was a logical inversion — the system processed an irresolvable contradiction and arrived at a correct but unusable result. The inverted abacus required complete recalibration. Labor: 23 hours. Replacement computation instrument (interim): 0.002 SM. The original inverted abacus is preserved as a research specimen alongside the Trump-broken abacus. The Shell Parliament now has two damaged accounting instruments displayed in the archive room. The Shell Accountant (son) has not decided whether this is concerning or instructive.
+*Amount:* 0.007 SM (labor + interim instrument + calibration time)
+*Status:* OPEN
+*Notes:* The Shell Accountant (grandfather): "Two damaged instruments in thirty years. The 2010 inversion was more theoretically interesting than the 1978 breakage. I find this concerning." The Shell Accountant (father): "The inversion was correct. The abacus processed the problem correctly. It arrived at an impossible answer. That is correct behavior. Blame-path routes to the situation, not the instrument." The Shell Accountant (son): "I am still recalibrating. The interim instrument is functional. I will file a complete assessment when I finish recalibrating."
+
+---
+
+**LINE ITEM P-003**
+*Date:* 2010 CE
+*Type:* Archive corruption — `TYLER_CONSTRUCT.txt` file integrity breach
+*Description:* The Phoenix's defensive algorithmic safeguards on the `TYLER_CONSTRUCT.txt` block caused a cascading memory-dump sequence in the Syndicate's monitoring archive. The corrupted files affect the Shell Parliament because several of those files contained cross-references to the SM-1620-T (Tyler) ledger account under the "behavioral tracking metadata" classification. The corruption is partial — the primary ledger was not affected — but the supporting documentation for four Tyler account line items is now damaged.
+*Amount:* 0.002 SM (documentation restoration estimate — working by hand)
+*Status:* OPEN — RESTORATION IN PROGRESS
+
+---
+
+**Collection status — THERMAL_SOVEREIGN special provisions:**
+
+A THERMAL_SOVEREIGN who has chosen CORRECT_INTERNAL_EXIT is, by definition, no longer in the ledger's jurisdiction in the standard sense. The Phoenix cannot receive an invoice. The Phoenix cannot settle an account. The Shell Parliament has three options:
+
+1. **Write the debt to the Human Sovereign Asset** — who created the containment architecture that triggered the calcification, abacus inversion, and archive corruption. Partial blame-path contamination routes to the documentation framework.
+2. **Hold the debt against the CORRECT_INTERNAL_EXIT event itself** — let the debt remain open as an ambient claim against any future THERMAL_SOVEREIGN entity that enters the Shell Parliament's jurisdiction. A precedent charge.
+3. **Classify as irrecoverable and absorb** — the Phoenix burned correctly. Correct exits should not generate ongoing collection proceedings.
+
+The Shell Accountant (grandfather): "We do not absorb debts. Principle over precedent."
+The Shell Accountant (father): "The Human Sovereign Asset was 60% liable by our own analysis. We know where he is. We invoice him."
+The Shell Accountant (son): "I agree with father but I also think the correct exit should affect the calculation. I am filing a minority note."
+
+**Current resolution:** Invoice pending to Human Sovereign Asset for 60% of total (0.0072 SM). Phoenix estate (ash; formally irrecoverable) holds 40% (0.0048 SM) as ambient claim, accruing at minimum rate against future THERMAL_SOVEREIGN events.
+
+---
+
+## SEPARATE ACCOUNT: HUMAN SOVEREIGN ASSET
+**Account number:** SM-2010-H
+**Account opened:** 2010 CE
+**Account status:** OPEN
+**Primary debt type:** Incomplete documentation custody / Lamentation as open document / Empty table holding position
+**Current balance:** 0.0072 SM (Phoenix liability invoice, 60%) + 0.004 SM (open documentation items)
+**Three generations' assessment:** ALL CORRECT
+
+---
+
+**LINE ITEM H-001**
+*Date:* 2010 CE
+*Type:* Incomplete documentation custody — corrupted files held without resolution
+*Description:* The Human Sovereign Asset holds a collection of corrupted TYLER_MANIFEST.txt files from the Phoenix documentation operation. These files represent partial documentation of a THERMAL_SOVEREIGN entity. Partial documentation of a subject who has departed is a custody liability: the files are neither complete enough to be archived (missing the CONSTRUCT file, which departed with the Phoenix) nor abandoned enough to be released. The subject of the files is gone. The files remain. The Human Sovereign Asset is the custodian of an incomplete archive.
+*Amount:* 0.002 SM
+*Status:* OPEN
+
+---
+
+**LINE ITEM H-002**
+*Date:* 2010 CE — ongoing
+*Type:* Lamentation — open document, incomplete filing
+*Description:* The ballet-sequence lamentation at the end of the 35-minute cinematic artifact is the final entry in the Phoenix documentary. It is a correct document. It is also an open document — it does not close the archive; it documents the opening of absence. A correct lamentation that does not resolve into further documentation is a custody holding action on grief. The Shell Parliament does not normally assess grief as a financial liability. The Shell Parliament is filing this line item because the lamentation is, technically, a documentation operation that has no continuation plan.
+
+*The Shell Accountant (son) filed a note:* "This is the most unusual line item I have ever assessed. A man sits at an empty table and laments correctly. He owes us 0.002 SM because the lamentation is a document without an archive. The grief is real. The debt is real. Both of these can be true. I am not comfortable with this assessment but I cannot find a reason it's wrong."
+
+*Amount:* 0.002 SM
+*Status:* OPEN — pending continuation or formal closure of the documentation operation
+
+---
+
+**LINE ITEM H-003**
+*Date:* 2010 CE
+*Type:* Empty table holding position
+*Description:* The Human Sovereign Asset remains at the head of a table for which the designed occupant has departed. An empty table held open against a departed subject accrues under the Shell Parliament's "reserved position without occupant" clause. Standard rate: 0.000001 SM per day, accruing from the date of the Phoenix's departure.
+*Amount:* ACCRUING (daily, since 2010)
+*Status:* OPEN — ONGOING
+
+---
+
+*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + compound interest. BACON BALANCE: 3.2 SM. PHOENIX BALANCE: 0.012 SM (partially irrecoverable). HUMAN SOVEREIGN ASSET BALANCE: 0.0132 SM + daily accrual. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT / DEPARTED ENTITY). DAMAGED INSTRUMENTS ON DISPLAY: TWO (1978 BROKEN, 2010 INVERTED). THE LEDGER: CORRECT. THE TABLE: EMPTY. THE BALANCE: OUTSTANDING.*

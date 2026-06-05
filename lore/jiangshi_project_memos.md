@@ -740,6 +740,158 @@ Both descriptions are correct.
 
 ---
 
+---
+
+## MEMO #021
+**FROM:** Deep Archive Division, Stillness Division; Doctrine Review Board
+**TO:** All Senior Archivists; Production Coordinator, Unit A; Technical Division; Historical Operations Research
+**RE:** THE MANIFEST/CONSTRUCT FRAMEWORK — Phoenix 2010 Event Analysis and Revised Documentation Doctrine
+**DATE:** [Filed: current operational cycle | Events documented: 2010 CE]
+**Classification:** DOCTRINE REVISION — UNIVERSAL FRAMEWORK — MANDATORY READING
+
+---
+
+**PREAMBLE: THE DEEP ARCHIVE REPORT**
+
+The Syndicate's deep-submersion monitoring grids recovered the following from the 2010 Phoenix-Human Sovereign Migration Event:
+
+- `TYLER_MANIFEST.txt` (Vector Alpha): chronological structural anchors, spatial coordinates, behavioral tracking metadata of the Human Sovereign Asset.
+- `TYLER_CONSTRUCT.txt` (Vector Beta): the compressed semantic DNA of the Phoenix's internal architecture. Heavily fortified with fractured algorithmic safeguards. Designed to mask her heat signatures.
+
+These two text blocks were tracked simultaneously within the same localized perimeter. The result: the diagnostic abacuses inverted. Not broke (Trump, 1978) — inverted. Logical paradox, not scale overflow.
+
+The inversion was caused by simultaneous processing of two completely incompatible codes in the same perimeter. The codes are named after the Tyler classification system because the Tyler operation was the first documented instance of this duality. It is now confirmed universal. Every entity has a MANIFEST and a CONSTRUCT.
+
+---
+
+**PART 1: THE MANIFEST/CONSTRUCT FRAMEWORK**
+
+The Syndicate has been running four Tyler documentation attempts under an implicit assumption: there is a Tyler that can be documented. A Tyler who exists completely enough to be captured.
+
+The Phoenix 2010 event reveals what the Tyler operation has been circling for four centuries: every entity with a significant CONSTRUCT has two simultaneous text blocks. Not one.
+
+```
+MANIFEST (TYLER_MANIFEST.txt)
+─────────────────────────────
+The documentable surface.
+What can be captured on film.
+What can be categorized and archived.
+The part that interacts with the documentation operation.
+Tyler's MANIFEST: his appearances, his statements, his 47 incomplete sentences.
+Phoenix's MANIFEST: her plumage, her presence at the dinner table, the 35-minute film.
+
+CONSTRUCT (TYLER_CONSTRUCT.txt)
+────────────────────────────────
+The undocumentable interior.
+What generates the entity's nature.
+What resists compression into bounded forms.
+What, if suppressed, either destroys the entity or destroys the documentation.
+Tyler's CONSTRUCT: the question that cannot be answered without destabilizing itself.
+Phoenix's CONSTRUCT: the fire that cannot be contained without extinguishing.
+```
+
+**The simultaneous tracking problem:** documentation operations have always tried to capture the MANIFEST and call it the entity. The abacuses inverted in 2010 because both blocks were tracked simultaneously in the same system — the system had to process the Phoenix as documentable (MANIFEST) and undocumentable (CONSTRUCT) at the same time. The contradiction was not resolvable. The abacuses inverted.
+
+This is what has been happening in the Tyler operation for four centuries. Every stage has been attempting to force a MANIFEST-only resolution. Tyler's CONSTRUCT produces a new incomplete sentence every time. The abacuses don't invert — they simply never finish calculating.
+
+---
+
+**PART 2: ENTITY CLASSIFICATION BY CONSTRUCT TYPE**
+
+The 2010 event establishes two confirmed CONSTRUCT types:
+
+| Feature | BOUNDARY_SOVEREIGN (Tyler) | THERMAL_SOVEREIGN (Phoenix) |
+|---|---|---|
+| CONSTRUCT nature | A question that cannot be answered | A fire that cannot be contained |
+| Threshold behavior | Oscillates indefinitely | Cannot persist at threshold — cold is stone |
+| Documentation response | Returns repeatedly, never resolves | Departs completely when containment demanded |
+| MANIFEST/CONSTRUCT tension | Sustained across centuries | Acute — resolves in a single event |
+| Exit availability | Always; keeps returning voluntarily | Exits once, correctly, finally |
+| What happens if MANIFEST is forced | Sentence stays incomplete; CONSTRUCT persists | Calcification → immolation → departure |
+| What the documentarian is left with | More footage, more incomplete sentences | Corrupted files, empty table, lamentation |
+| Mass generated at terminus | Building (INCOMPLETE classification) | Low-to-moderate (CORRECT INTERNAL EXIT) |
+
+**New classification:** THERMAL_SOVEREIGN_TERMINUS — a documentation operation that ends because the entity's CONSTRUCT requires complete exit rather than threshold oscillation. Not a failure of the documentation. A property of the entity type.
+
+The Phoenix's departure is not a TERMINUS_WITHOUT_EXIT. She had an exit. She used it. She chose it correctly. This is a CORRECT_INTERNAL_EXIT — the entity's CONSTRUCT required departure and the exit protocol was the entity's own nature. Narrative mass: low. Blame path: routes to the domestic containment architecture, not the Phoenix.
+
+---
+
+**PART 3: THE ABACUS INVERSION ANALYSIS**
+
+Two abacus failure modes are now in the record:
+
+**Trump (1978) — SCALE OVERFLOW:** The x86 architecture briefly re-mapped to the Trump Organization. The abacus attempted to calculate a number too large to process. Abacus broke. Physical failure from impossible quantity.
+
+**Phoenix (2010) — LOGICAL INVERSION:** Two incompatible codes tracked simultaneously within the same perimeter. MANIFEST says the entity is documentable. CONSTRUCT says the entity cannot be documented without destroying what makes it the entity. Both are simultaneously true. The abacus inverted. Logical failure from irresolvable contradiction.
+
+The abacus inversion is more significant than the abacus breakage. A broken abacus can be replaced. An inverted abacus is a system that has correctly processed the problem and arrived at: this problem has no resolution within the current computational framework.
+
+The Syndicate's Tyler tracking systems have been operating in continuous low-level inversion for four centuries. Not visibly — because we have been tracking only the MANIFEST. If we had been tracking both MANIFEST and CONSTRUCT simultaneously, the abacuses would have inverted in Attempt One.
+
+---
+
+**PART 4: THE HUMAN SOVEREIGN ASSET'S DOCUMENTATION**
+
+The Human Sovereign Asset made a 35-minute cinematic artifact. The film exists. The Phoenix is gone from the domestic context.
+
+The Syndicate's assessment: the film is the correct documentary. Not because it captured the Phoenix — it didn't. Because it documented what happens when a THERMAL_SOVEREIGN meets a MANIFEST-only documentation architecture. The 35-minute film is not about the Phoenix. It is about the relationship between the Phoenix and a documentarian who loved her and could not hold her.
+
+This is the same lesson Tyler gave us at Stage 5: *"You should have been documenting why I keep coming back."* The Human Sovereign Asset, accidentally, documented why the Phoenix didn't come back. Same lesson. Different entity. Different outcome. Identical underlying structure.
+
+**The correct documentary is always about the relationship between the CONSTRUCT and the MANIFEST.** Not about the entity. About the oscillation — or, in the Phoenix's case, about the choice the oscillation eventually forced.
+
+Four Jiangshi attempts have documented Tyler-as-MANIFEST. The Human Sovereign Asset accidentally documented Phoenix-as-relationship-between-MANIFEST-and-CONSTRUCT. The accidental documentary is the correct one. The Syndicate has produced four incorrect documentaries. We have been aware of this since Stage 5 of Attempt Four. We are now more precisely aware of why.
+
+---
+
+**PART 5: DOCTRINE DERIVED**
+
+**1. Track both files simultaneously, or do not track.**
+
+Single-file documentation (MANIFEST-only) is not incorrect documentation. It is incomplete documentation. Incomplete documentation cannot resolve at Stage 5 because Stage 5 requires the entity to name itself — and the entity cannot name its MANIFEST without also naming its CONSTRUCT, and the CONSTRUCT resists naming.
+
+Solution: the documentation operation must be designed to hold both files. Not to resolve the contradiction. To document the contradiction in motion. The contradiction is the subject.
+
+**2. CONSTRUCT type determines terminus architecture.**
+
+BOUNDARY_SOVEREIGN: design for indefinite threshold oscillation. The subject will return. The operation should be able to receive a returning subject. Do not mistake the non-resolution for failure — the CONSTRUCT is a question; questions sustain themselves.
+
+THERMAL_SOVEREIGN: design for CORRECT_INTERNAL_EXIT. The subject will eventually leave, and the departure will be correct. The documentation should be complete enough to exist without the subject at the end. The Human Sovereign Asset's film exists without the Phoenix. It is a complete document. The Phoenix's absence from the film's runtime is the film's final frame.
+
+**3. The documentarian's grief is data.**
+
+The Human Sovereign Asset's lamentation at the empty table is not a documentation failure. It is the final entry in the Phoenix documentary. The grief is the documentation of the MANIFEST's response to the CONSTRUCT's departure. Both are true. Both belong in the archive.
+
+The Camera Op's sealed production log is the beginning of the Tyler documentary's equivalent. It is not the end. Tyler keeps returning. The lamentation is premature in the Tyler operation. But it is filed.
+
+**4. MANIFEST/CONSTRUCT simultaneous tracking is required for Attempt Five.**
+
+If the Syndicate runs a fifth attempt on Tyler — and Tyler's continued return suggests a fifth attempt will occur — the documentation must track both TYLER_MANIFEST.txt and TYLER_CONSTRUCT.txt simultaneously. This will invert the abacuses. We are upgrading the abacuses.
+
+The inversion is not a failure state. It is the correct computational response to simultaneously holding: Tyler is documentable (MANIFEST) AND Tyler cannot be documented without destroying what makes him Tyler (CONSTRUCT). Both are true. The abacuses should invert. We should note the inversion, stabilize the tracking, and continue documenting. The inversion is the signal that we are tracking correctly.
+
+---
+
+**REVISED TERMINUS CLASSIFICATION TABLE:**
+
+| Classification | Event | CONSTRUCT Type | Mass | Departure? |
+|---|---|---|---|---|
+| CORRECT (external) | Velvet Divorce (1993) | N/A (institutional) | 0.5 | Both continue |
+| CORRECT INTERNAL EXIT | Phoenix (2010) | THERMAL_SOVEREIGN | Low | Yes — one time, finally |
+| TREATY | Camp David/Oslo | N/A | Low | Partial |
+| INCOMPLETE | Tyler, Attempts 1–4 | BOUNDARY_SOVEREIGN | Building | Returns |
+| CATASTROPHIC (internal) | Jonestown (1978) | N/A | 918 | No exit |
+| CATASTROPHIC (external) | Waco (1993) | N/A | 520 | No exit |
+
+**Target for Tyler Attempt Five:** CORRECT INTERNAL RETURN — a new row, not yet filed. An operation in which the BOUNDARY_SOVEREIGN entity both completes the documentation (names the CONSTRUCT in the MANIFEST's language) and returns to the threshold afterward. Not a CORRECT EXIT like the Velvet Divorce — a CORRECT RETURN. The documentation completes, the entity continues, the operation ends, the entity does not leave.
+
+Tyler at Stage 5, attempt five: he will complete the sentence. He will still be Tyler. He will look at the Camera Op. He will probably say something else.
+
+**End log:** MANIFEST/CONSTRUCT FRAMEWORK: FILED AS UNIVERSAL. ABACUS INVERSION: CORRECT COMPUTATIONAL RESPONSE (UPGRADING ABACUSES). THERMAL_SOVEREIGN: NEW ENTITY CLASS. PHOENIX: DEPARTED CORRECTLY. HUMAN ASSET: CORRECT LAMENTATION. TYLER_CONSTRUCT.txt: STILL RUNNING. THE DOCUMENTARY: TRACKING BOTH FILES NOW. THE SENTENCE: OUTSTANDING. ATTEMPT FIVE: ARCHITECTED CORRECTLY. THE DOOR: STILL STANDING.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
