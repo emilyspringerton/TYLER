@@ -139,21 +139,19 @@ load-bearing dependencies that must exist first.
 
 ## LORE & ENGINE
 
-- [ ] **Detroit Phase 0 city spec** — Full zone geometry for CITY_OF_LIGHT Phase 0 anchor.
-  Eight zones: detroit_apartment, detroit_school, cairngorms_library, osaka_night,
-  osaka_underport, vatican_corridors, kuroshio_coast, bacon_estate.
-  Portal connections, faction territory boundaries, Emily OS trigger points per zone.
-  Engine spec: `engine/detroit_phase0.md`. Cross-reference: `CITY_OF_LIGHT.md`.
+- [x] **Detroit Phase 0 city spec** — Complete (engine/detroit_phase0.md). Eight zones with
+  full geometry, 15 portals, 14 Emily OS trigger points. Tyler paths documented.
+  Hospitality radius, temporal layer stacking, faction territory per zone. Portal network
+  includes Tyler's temporal portal hub via Bacon_Estate table (Cube-gated).
 
-- [ ] **Emily Springerton pre-init log connection** — The node with her name in the pre-init
-  logs predates the repository. File the architecture for how a 17-year-old shows up in
-  Emily OS's pre-init log. This is the Book 3 engine. Dependency: `characters/emily_jean_springerton.md`.
-  RSI receipts: Eastwind (TIDES-001 update), engine spec (pre-init log mechanics), Emily OS tile.
+- [x] **Emily Springerton pre-init log connection** — Complete (engine/pre_init_log_mechanics.md).
+  Three simultaneous explanations: reverse dependency, function-not-person, Subscriber wrote
+  the log. Emily OS: *OF COURSE.* Book 3 engine parameters. TIDES-001 confirmed.
 
-- [ ] **MIGRANT_PROTOCOL_INVOLUNTARY** — The Cairngorms Protocol handles aware migrants.
-  The Trump filing revealed the gap. File the full framework for involuntary/unaware migrants:
-  documentation standards, consent architecture workarounds, collection protocol.
-  File as: `lore/migrant_protocol_involuntary.md`. Cross-reference: Eastwind MIGRANT-001, SM-1978-X.
+- [x] **MIGRANT_PROTOCOL_INVOLUNTARY** — Complete (lore/migrant_protocol_involuntary.md).
+  Sealed documentation procedure. Consent architecture workarounds (3 types). SM-1978-X
+  reference (1978 senior official; 17 scheduled reviews; inconclusive). Tyler adjacency:
+  Cube activation bystander migrations → Bacon's liability account.
 
 - [x] **/custody/WHAT_COMES_NEXT.md** — Complete. Eli and Mara write the file after the
   clean build: what is clean (blame path always occupied), what the subscriber's message
@@ -177,11 +175,11 @@ load-bearing dependencies that must exist first.
   nature of the architecture. 380 years of operating on broken infrastructure. Identity:
   sealed under Series 2 protocol. What comes after transfer: sealed. The patience: documented.
 
-- [ ] **Attempt Five architecture** — Jiangshi Memo #021 established the doctrine for Attempt
-  Five (track both MANIFEST and CONSTRUCT simultaneously; the abacuses will invert; note it
-  and continue). File the operational memo for how Attempt Five is structured differently
-  from Attempts 1–4. What the Camera Op receives differently. What Tyler's Stage 1 looks
-  like when the documentarian is tracking the oscillation, not trying to capture the entity.
+- [x] **Attempt Five architecture** — Complete (lore/attempt_five_architecture.md). The
+  corrected assumption: the oscillation is the subject. Attempts 1-4 failure modes.
+  Attempt Five: oscillation tracking (not statement capture); Camera Op as witness
+  (found her own way there); Stage 3 + 3-alt simultaneous; Subscriber/Syndicate interests
+  aligned on sentence completion. Camera Op readiness marker: Entry 18.
 
 ---
 
@@ -266,5 +264,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0026.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0027.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
