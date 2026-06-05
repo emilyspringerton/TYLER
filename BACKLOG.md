@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0035
+### Updated: Build 0036
 
 ---
 
@@ -220,11 +220,11 @@ load-bearing dependencies that must exist first.
   correct. Tyler: "Tomorrow." RSI receipts: TYLER-026 (Footnote #31), Emily OS
   SUBSCRIBER-TRANSMISSION-001, Bacon library archive note, Camera Op Entry 20. Build 0035.
 
-- [ ] **S03E06 (Season Finale): "The Next Year"** — Tyler chooses a year. Not because
-  the chain requires it. Because he wants to go somewhere. The Camera Op asks where.
-  He tells her. The documentary closes on the two of them at the tree — the last shot
-  is the tree, Tyler's hand on the bark, the coin in the right pocket, the frequencies
-  quiet. End title: TYLER STATUS: CHOOSING. Season 3 complete.
+- [x] **S03E06 (Season Finale): "The Next Year"** — Tyler chooses Detroit 1952, early
+  summer. Tells the Camera Op first. Goodbyes: production crew, Bacon. Last morning: Day 63.
+  Camera Op at the tree after he leaves — filmed from the front for the first time. End title:
+  TYLER STATUS: CHOOSING. RSI receipts: TYLER-027 (Cataloguer Season 3 Final), CAMERA-OP-003,
+  Shell Parliament seasonal note, Camera Op Entry 21. Season 3: COMPLETE. Build 0036.
 
 ---
 
@@ -346,5 +346,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0035.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0036.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
