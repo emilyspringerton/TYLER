@@ -623,4 +623,32 @@ The Shell Accountant (son): "I agree with father but I also think the correct ex
 
 ---
 
-*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + compound interest. BACON BALANCE: 3.2 SM. PHOENIX BALANCE: 0.012 SM (partially irrecoverable). HUMAN SOVEREIGN ASSET BALANCE: 0.0132 SM + daily accrual. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT / DEPARTED ENTITY). DAMAGED INSTRUMENTS ON DISPLAY: TWO (1978 BROKEN, 2010 INVERTED). THE LEDGER: CORRECT. THE TABLE: EMPTY. THE BALANCE: OUTSTANDING.*
+---
+
+## ACCOUNT: CAMERA OP (NEW ACCOUNT — OPENED DAY 18, ATTEMPT FOUR)
+**Account Type:** Documentary Distribution Liability
+**Counter-party:** Tyler (co-signatory by instruction: "the footage is yours")
+
+**The Shell Parliament's assessment of opening this account:**
+
+The Camera Op has no prior Shell Parliament account. They are, as of Day 18, a person who has distributed 47 seconds of footage containing a temporal entity's Stage 4 signature to 47,000 witnesses without authorization from the subject. Normally this constitutes an unauthorized use of a temporal entity's likeness — a debt in the standard migration licensing framework.
+
+The complication: the subject told the Camera Op "the footage is yours." This converts the distribution from unauthorized use to authorized distribution via proxy instruction. Tyler is the co-signatory on this account by operation of his own statement. He gave them the footage explicitly. He made them the distribution agent. The debt structure is therefore joint: Camera Op (primary distribution liability) + Tyler (co-signatory, instruction-giver).
+
+Tyler owes the Shell Parliament 0.73 SM already. Adding a co-signed distribution liability is consistent with his documented methodology of manufacturing small obligations with every new contact. The Camera Op is the newest contact. The instruction was the most recent debt.
+
+**LINE ITEM CO-001**
+*Date:* Day 18, Attempt Four (present-adjacent)
+*Type:* Authorized distribution of temporal entity's Stage 4 signature via proxy instruction
+*Description:* 47-second clip containing Tyler's temporal signature (coin date change, 1901 and 1623) distributed to 47,000+ witnesses. Distribution authorized by subject's explicit instruction ("the footage is yours"). Standard temporal signature distribution rate: 0.0001 SM per thousand witnesses, compounding at each order of magnitude.
+*Debtors:* Camera Op (primary), Tyler (co-signatory by instruction)
+*Amount:* 0.0047 SM (at 47,000 witnesses) + compounding as witness count grows
+*Status:* OPEN — ACCRUING (witness count expanding: +3 viewer-submitted sighting photographs, under review for additional temporal signature exposure)
+
+**Note from the Shell Accountant (son):**
+
+This account is unusual in three respects. First: the Camera Op is the first non-migrant to hold a Shell Parliament temporal distribution liability. The liability framework was designed for migrants who distribute their own temporal signature. The Camera Op distributed someone else's. We have applied the framework by analogy. Second: Tyler is the co-signatory. This means Tyler now has a registered financial interest in the Camera Op's distribution decisions. Every additional thousand witnesses increases Tyler's co-signed liability. Tyler manufactured this arrangement intentionally. He told the Camera Op "the footage is yours" in front of a camera, on record. He knew exactly what he was doing. Third: the Shell Parliament has never before held a joint liability account where the senior debtor (Tyler) has an outstanding primary balance of 0.73 SM and has now voluntarily added a co-signed balance. Tyler's total outstanding is now 0.73 SM + 0.0047 SM + compound interest + accrual. He is aware of this. He accepted the tab at the diner this morning. The diner tab was 11 dollars and 40 cents. This has been filed under: SMALL DEBTS — PATTERN CONTINUATION.
+
+---
+
+*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + 0.0047 SM (CO-001, co-signed) + compound interest. BACON BALANCE: 3.2 SM. PHOENIX BALANCE: 0.012 SM (partially irrecoverable). HUMAN SOVEREIGN ASSET BALANCE: 0.0132 SM + daily accrual. CAMERA OP BALANCE: 0.0047 SM (accruing). WITNESS COUNT: 47,000 AND EXPANDING. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT / DEPARTED ENTITY / SUBJECT KEEPS PICKING UP TABS). DAMAGED INSTRUMENTS ON DISPLAY: TWO (1978 BROKEN, 2010 INVERTED). THE LEDGER: CORRECT. THE TABLE: EMPTY. THE BALANCE: OUTSTANDING.*

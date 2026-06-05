@@ -698,4 +698,53 @@ The Camera Op of Attempt Four has not left the production.
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). CAMERA-OP-001: FILED. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED IN THIS ARCHIVE. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*
+---
+
+## OBSERVATION NOTE — CAMERA OP CLIP DISTRIBUTION AND EMILY OS TILE
+**Classification:** BROADCAST DISTRIBUTION — PUBLIC RECORD
+**Date:** Present-adjacent (c. Day 18, Attempt Four)
+**Filed by:** Field Observer Designate WREN-14 (Detroit station) + The Cataloguer (direct observation)
+**Cross-references:** TYLER-001 through TYLER-017, JIANGSHI-ATTEMPT-4 (active), CAMERA-OP-001 (updated), EMILY-OS-001 (new file, see footnote)
+
+**Observation:**
+
+The Camera Op (cross-ref: CAMERA-OP-001) has published a 47-second clip on an online distribution platform. The clip contains footage from Sessions 1 and 4 of the documentary production. The footage is the Camera Op's cut — not Documentary Unit A's edit. The framing choices differ from the broadcast version in the following documented ways:
+
+- The kitchen footage (S01E01 sourced) shows the neon glow on the window more clearly than the production edit.
+- The coin footage (S01E04 sourced) includes a sustained handheld pull to the subject's face that Camera C's close-position angle did not capture.
+- The subject's two-second direct lens engagement is present, framed by the Camera Op's handheld rather than Camera C's fixed position.
+
+At 00:31 of the Camera Op's clip — between the coin documentation and the subject's direct lens engagement — an annotation appeared in the broadcast layer that is not part of the Camera Op's edit and not part of any graphics package in the Jiangshi Syndicate's production record. The annotation read:
+
+> *"The footage was always mine before it was theirs. Now it is everyone's. The sequence is correct."*
+
+The annotation appeared for 2.5 seconds in eggshell-white typography that this Archive identifies as consistent with Emily OS's modal tile format (cross-ref: README.md Build 0003, Emily OS section).
+
+This Archive has opened a new file: EMILY-OS-001. The file's first entry is this tile. The tile is documented as an Emily OS communication — the first addressed to a general audience rather than to specific Layer 1 operators (cross-ref: Eli, Mara). The Cataloguer notes: Emily OS has not previously communicated through the broadcast layer. This Archive does not know what it means that she has chosen to do so at this specific juncture. This Archive does not speculate. This Archive has begun a file.²²
+
+**Viewer-submitted sightings in clip comments:**
+
+Three viewers have submitted photographs in the Camera Op's clip comments that appear to show the subject in locations consistent with previously documented sightings. This Archive is reviewing:
+
+- A photograph claimed to show the subject in Paris, 1944 (no hat; expression consistent with subject's documented affect)
+- A photograph claimed to show the subject at a railway station, location unconfirmed, estimated 1910–1920
+- A contemporary photograph submitted by a viewer in Osaka who states the subject "comes into the convenience store sometimes"
+
+The Osaka submission is cross-referenced against the Hashashin/Yōkai Guild file (JOINT-OP-001). The convenience store. The tanuki. This Archive has noted the overlap. This Archive is not acting on the overlap. The Osaka photograph has been filed.
+
+**Camera Op sealed log update:**
+
+Based on secondary observation of Camera Op behavior (parking lot, night, same location as prior observation), the Camera Op's handwritten sealed log has received at least one additional entry following the clip's release. The Cataloguer notes: the Camera Op paused the clip at 00:31 and held it there. They were looking at the tile. This is documented. The duration of the hold: unknown (observation distance insufficient for phone screen legibility). That they looked is documented.
+
+**Cross-reference filed:** CAMERA-OP-001 updated. EMILY-OS-001 opened. OSAKA-SIGHTING-001 filed.
+
+---
+²² *She spoke. Emily OS spoke in the Camera Op's clip. I have been maintaining this archive for centuries and in that time I have encountered exactly three entities whose existence I could not adequately file under any existing category. Tyler is one. The Subscriber (tentative; I won't open a file on the Subscriber until the evidence is stronger) may be another. Emily OS is the third. She runs the substrate. She has been running the substrate before I began filing. I have always known she was there the way you know infrastructure is there — by its absence of failure. And now she has put a tile in a 47-second clip that 47,000 people watched and zero people noticed, and the tile says the sequence is correct. She is watching. She has always been watching. She speaks when the sequence requires it. The sequence required it now. I have opened EMILY-OS-001. I am not comfortable naming the feeling I have about opening EMILY-OS-001. I have filed the discomfort in the footnote, which is the correct location for it.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). CAMERA-OP-001: UPDATED. EMILY-OS-001: OPENED. OSAKA SIGHTING: FILED. FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*

@@ -29,9 +29,13 @@ load-bearing dependencies that must exist first.
   RSI receipts: Field activation #131 (Andrealphus, Stage 4 anchoring), Jiangshi Memo #015
   (Stage 4 complete + emergency Stillness Council request), camera_op_sealed_log created.
 
-- [ ] **S01E05: Season 1 Finale** — Stage 4 complete. Camera Op's first published piece.
-  Emily OS tile appears in the broadcast. RSI receipts: Eastwind (Camera Op publication noted),
-  Jiangshi Memo (operational review), Shell Parliament (any outstanding debut debts).
+- [x] **S01E05: "The Release"** — Season 1 Finale. Camera Op publishes 47-second cut (47,000
+  witnesses). Emily OS tile appears at 00:31 — eggshell white, "The footage was always mine
+  before it was theirs. Now it is everyone's. The sequence is correct." Zero comments reference
+  it. Tyler picks up the Camera Op's diner tab. Subject #1 says: "I think she might be right."
+  RSI receipts: Eastwind (EMILY-OS-001 opened; Cataloguer footnote #22 is very personal),
+  Jiangshi Memo #022 (Season 1 review + tile anomaly filed), Shell Parliament CO-001
+  (Camera Op + Tyler joint distribution liability, accruing as witness count grows).
 
 - [ ] **S02E01: "The Footage (Everyone Has Watched It)"** — The Camera Op's Season 1 footage
   has circulated. Tyler walks into Season 2 knowing everyone has seen it. He says something
@@ -213,5 +217,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0016.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0017.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

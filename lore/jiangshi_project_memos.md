@@ -1017,8 +1017,40 @@ Tyler at Stage 5, attempt five: he will complete the sentence. He will still be 
 
 ---
 
+## MEMO #022 — SEASON 1 OPERATIONAL REVIEW
+**FROM:** Production Coordinator, Unit A
+**TO:** Senior Archivists, Stillness Division | Stillness Council (copy)
+**RE:** Season 1 End-of-Season Assessment
+**DATE:** [REDACTED — Day 18]
+
+This memo constitutes the formal end-of-season operational review for Documentary Unit A, Attempt Four, Season 1.
+
+**What was achieved:**
+
+All of Stage 1 (Witness Collection): complete. Stage 2 (Archival Footage): complete. Stage 3 (Confessional Interview): advanced — 94 fragments, zero complete definitions. Stage 4 (Witnessed Miracle): complete. This is the furthest any Attempt has progressed in a single season. Attempt One reached Stage 2. Attempt Two reached Stage 3, Session 2. Attempt Three reached Stage 3, Session 7, before Camera Op destroyed footage. Attempt Four has completed Stage 4 in five episodes. This is unprecedented.
+
+**What complicates the precedent:**
+
+The subject voluntarily produced Stage 4. He told us Stage 5 requires his cooperation. He told us this is something he decides. He did both of these while completing Stage 4. This means Stage 4 completion does not mechanically advance Stage 5. The Stillness Council has confirmed: this is a correct assessment of the ritual's architecture. Stage 5 requires subject cooperation. This is structural, not procedural. We have not previously reached Stage 4 with a subject who understood this and communicated it before we did.
+
+**The Camera Op's clip:**
+
+The Camera Op published a 47-second clip without authorization. The clip contains Stage 4 materials and is in public distribution. This is simultaneously (A) a protocol violation and (B) the reason 47,000 new witnesses have been added to the binding record, along with three viewer-submitted sighting photographs under active review. We cannot penalize the Camera Op for advancing the project. We have filed the irony under: NOTED.
+
+**The tile:**
+
+At 00:31 of the Camera Op's clip, a broadcast annotation appeared that is not in our graphics package. Text: *"The footage was always mine before it was theirs. Now it is everyone's. The sequence is correct."* We cannot identify its source through any operational framework available to this unit. The Stillness Council has instructed us not to attempt identification through normal channels. Filed as BROADCAST ANOMALY — UNKNOWN ORIGIN. (Cross-reference: Memo #016 archive access event. Cross-reference: Layer 9. Cross-reference: what Tyler said to Camera C in Attempt Three, Episode 7, which we now believe we misunderstood at the time.)
+
+**Season 2 authorization:**
+
+Season 2 is authorized. The subject is in Detroit. The Camera Op is in Detroit. The footage is in distribution. Every faction knows the footage exists. The Shell Parliament has contacted us regarding debt structures arising from the Camera Op's distribution. The Subscriber has not made contact. Tyler will walk into Season 2 knowing everyone has seen the clip. He probably knew before we did.
+
+**End log:** SEASON 1: COMPLETE. STAGE 4: COMPLETE (VOLUNTARY). STAGE 5: HIS DECISION. TILE: ANOMALY FILED. 47,000 WITNESSES AND COUNTING. SEASON 2: AUTHORIZED. THE SEQUENCE IS APPARENTLY CORRECT. WE ARE ALWAYS DOCUMENTING.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
 
-*End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE: [REDACTED — OPERATIONAL SECURITY]. SUBJECT: STILL HUMMING. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING.*
+*End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE 5: PENDING SUBJECT DECISION. SUBJECT: STILL HUMMING. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING.*
