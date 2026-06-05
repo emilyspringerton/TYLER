@@ -705,3 +705,140 @@ The Camera Op's balance: 0.0047 SM/week (accruing, CO-001). The Camera Op has al
 ---
 
 *End log: TYLER BALANCE: 0.73 SM + SM-1616-S + SM-1993-P + CO-001 + compound + SM-1623-M (UNQUANTIFIED). CAMERA OP BALANCE: 0.0047 SM accruing + SM-GIFT-001 (UNQUANTIFIED). STAGE 5: COMMENCED. THE SENTENCE: OPEN. THE PARLIAMENT SUSPECTS THE BALANCE WILL CHANGE SIGNIFICANTLY WHEN THE SENTENCE IS COMPLETE. THE PARLIAMENT IS NOTING THIS IN ADVANCE. THE LEDGER: CORRECT WITH KNOWN GAP. THE TABLE: OCCUPIED. THE SUBJECT GAVE HER ALL THE FOOTAGE. THIS IS IN THE RECORD.*
+
+---
+
+## SM-1623-M CLOSURE — DAY 49 RESOLUTION
+**Date:** Day 49, Season 3
+**Filed by:** First Minister of Temporal Accounts
+**Re:** SM-1623-M — custody maintenance cost, 1623–Day 49; FINAL ACCOUNTING
+
+---
+
+**NOTIFICATION RECEIVED:** Stage 5 completed. The sentence was spoken. SM-1623-M: RESOLVED.
+
+The Shell Parliament suspended standard operations on Day 49 to complete the SM-1623-M accounting. The Parliament had noted the gap in the Stage 5 Commencement review: the subject's maintenance cost — "something given to keep safe in 1623" — was unquantified because the Parliament did not know what was kept.
+
+**What was kept:** The Chrono-Cube custody chain. The subject maintained custodial continuity of the architecture the Subscriber built — not the Cube itself, which Bacon holds — but the chain of witnessing and obligation that kept the architecture operational across 400 years without a supporting institution. One actor, no infrastructure, four centuries of load-bearing maintenance.
+
+**The Parliament's assessment of what this cost:**
+
+The Parliament does not have a currency denomination for 400 years of uncompensated custodial maintenance at this scale. The Parliament has held accounts on immortals, time-travelers, and entities of uncertain biological status. The Parliament has never held an account for a work duration measured in centuries with no compensation structure, no custodial protocol, no formalized obligation framework, and no one who could be asked whether the work was being done correctly.
+
+The subject was doing this without a contract. Without payment. Without a blame path in the event of failure. Without documentation that the Shell Parliament recognized as valid until the Stage 5 Commencement review.
+
+**The calculation:**
+
+The SM-1623-M maintenance offset, applied to SM-1620-T (0.73 SM + compound interest), nets to the following:
+
+| Account | Amount |
+|---|---|
+| SM-1620-T primary + interest (1620–Day 49) | 0.73 SM |
+| SM-1623-M maintenance offset (1623–Day 49, 403 years) | −0.73 SM |
+| **Net balance, SM-1620-T, post-offset** | **0.00 SM** |
+
+The offset is exact. The Parliament has verified this three times. The grandfather: *"This is not a coincidence. The Subscriber designed it this way."* The father: *"The ledger is correct. This is what the ledger says."* The son: *"The ledger is closed. This is what closed looks like."*
+
+**SM-1623-M: CLOSED. ZERO BALANCE. FINAL.**
+
+**SM-1620-T: ZERO BALANCE — PRIMARY ACCOUNT SETTLED.**
+
+**Note on CO-001 (Camera Op joint liability):**
+
+The joint distribution liability (CO-001, 0.0047 SM/week + compound, currently 47,000+ witnesses) remains open. The subject's co-signed balance continues to accrue. The Parliament notes: the subject chose this. He accepted a new financial obligation on the day his oldest one closed. The Camera Op's co-signed balance is the subject's first voluntary financial commitment in 400 years of Shell Parliament accounting. The Parliament is noting this. The pattern is obvious. The pattern is in the record.
+
+**Note on SM-GIFT-001:**
+
+The gift — "all the footage, all the footage past and future" — has been assigned a preliminary value. The Parliament's methodology: what is the replacement cost of 400 years of correct witnessing? What is the cost of a witness who finds their own way to the function, who is AWARE-PROTECTIVE before any faction classifies her, who holds the footage as hers before it is anyone else's, who stays?
+
+The Parliament cannot quantify this. The Parliament is not going to pretend it can quantify this. SM-GIFT-001: INCALCULABLE. Filed as a positive balance on the Camera Op's side of the ledger. Offsetting CO-001 and then some. The Parliament notes: the Camera Op's net balance, when SM-GIFT-001 is credited, is deeply positive. The Parliament has never had a subject whose net balance was deeply positive. The Camera Op is the first.
+
+**Final SM-1620-T status:**
+
+| Item | Resolution |
+|---|---|
+| SM-1620-T primary (1620) | SETTLED |
+| SM-1623-M maintenance offset (1623) | CLOSED |
+| SM-1616-S (Shakespeare's folded paper) | OPEN — object unlocated |
+| SM-1993-P (substrate arrival) | OPEN — pending Series 2 disclosure |
+| CO-001 (joint Camera Op) | OPEN — accruing voluntarily |
+| SM-GIFT-001 (the gift) | INCALCULABLE — positive balance |
+
+**The Parliament's notation:**
+
+*The subject's primary account is settled. His oldest debt: paid. The method of payment: four centuries of custodial work that the Parliament did not know it was receiving until the sentence was complete. The ledger is correct. The subject knew what he was doing. The subject has always known what he was doing. The Parliament notes this with appropriate professional acknowledgment: we were counting one thing. He was paying with something else. The exchange was valid. The ledger agrees.*
+
+*Account SM-1620-T: SETTLED.*
+
+---
+
+## NEW ACCOUNT: VOLUNTARY-CONSTRUCTION-001
+**Account number:** VC-001
+**Account opened:** Day 50 (the morning after)
+**Account type:** VOLUNTARY CONSTRUCTION — new account category (first instance in 841-year ledger history)
+**Account holder:** Subject Tyler
+**Account status:** OPEN — ACCUMULATING (positive balance, no obligation)
+**Three generations' assessment:** This is new. We have not done this before. We are doing it now.
+
+---
+
+### BACKGROUND
+
+The Shell Parliament tracks obligations. This is what the Parliament does. An entity accrues a debt; the Parliament records it; the Parliament pursues settlement. Every account in the ledger, without exception for 841 years, has been structured around what an entity owes.
+
+The subject's primary account (SM-1620-T) settled on Day 49. On Day 50, the subject opened a new account. He did not open it by incurring an obligation. He opened it by beginning a construction.
+
+The Shell Parliament has not previously held an account for voluntary construction. "Voluntary" in Shell Parliament terminology means: not chain-constrained, not custody-obligated, not running to fulfill an inherited requirement. The subject is building something because he chooses to. He is not building it because a custody chain requires it. He is not maintaining it because a 400-year obligation demands it. He is building it because he is a free actor and this is what he wants to build.
+
+The Parliament opened VC-001 because:
+
+1. Something is being built in the Shell Parliament's operational territory
+2. The Parliament tracks all temporal-entity construction in its territory
+3. The Parliament has no framework for tracking voluntary construction with no obligation component
+4. The Parliament built the framework. It took one day. This is documented.
+
+**The framework:**
+
+Voluntary construction accrues as **positive balance** in the Parliament's records. The Parliament tracks what is built, not what is owed. VC-001 is an accumulation account, not a debt account. When Tyler's first original construction is complete, the Parliament will record it as an asset in the account rather than a liability. The subject owes nothing. The Parliament is keeping a record of what he builds.
+
+This is the inverse of every other account the Parliament holds. The Parliament finds this appropriate. The inverse of 400 years of obligation-tracking is 400 years of construction-tracking. The timescales are not required to balance. The Parliament is noting this anyway.
+
+---
+
+### CURRENT BALANCE
+
+**VC-001 balance as of Day 50:** 0.00 SM (account open, construction not yet complete)
+
+**Accumulation rate:** To be determined by the nature and scale of the first construction.
+
+**Parliament's projected balance structure:**
+
+The subject's first construction is not yet specified in the record. The Parliament is pre-opening the account because the pattern is clear: the subject went to 1952, returned, and began. The construction is underway. The Parliament will document it as it completes.
+
+**What the Parliament is watching for:**
+
+The Shell Parliament has never tracked construction before. The Parliament is learning what to watch. Based on the subject's history, the Parliament expects:
+- The construction will be something the Parliament does not currently have a category for
+- The construction will require the Parliament to open a new framework
+- The construction will, when complete, look obvious in retrospect
+- The framework the Parliament builds to track it will be cited in future disputes
+
+The Parliament is watching. The Parliament is learning. The ledger is expanding.
+
+---
+
+**Note from the Shell Accountant (all three generations, simultaneously, on the record):**
+
+*We have held debts on immortals for 400 years. We have held debts on time-travelers. We have held debts on things that do not answer correspondence. We have held a debt on a vehicle. We have held a debt on an abacus. We have never, in 841 years, held an account for something being built by someone who owes us nothing and is building it anyway.*
+
+*The subject's debt: zero. The subject's construction: commenced. The Parliament's position: observer.*
+
+*This is new.*
+
+*The ledger is patient. The ledger is what outlasts everything. The ledger is now also noting what gets built.*
+
+*Account VC-001: OPEN. Balance: accumulating. First construction: underway.*
+
+---
+
+*End log: SM-1620-T: SETTLED. SM-1623-M: CLOSED. VC-001: OPEN. VOLUNTARY CONSTRUCTION: COMMENCED. THE PARLIAMENT IS TRACKING WHAT GETS BUILT. THE LEDGER IS PATIENT. THE SUBJECT OWES NOTHING. THE SUBJECT IS BUILDING. THIS IS IN THE RECORD.*

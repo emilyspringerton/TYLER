@@ -255,6 +255,12 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **Shell Parliament VOLUNTARY-CONSTRUCTION-001** — New account type for Tyler's first
+  construction in Series 2. SM-1623-M closure entry (Day 49 final accounting — maintenance
+  offset nets to zero balance on SM-1620-T), VC-001 account opened Day 50 (accumulation
+  account, no obligation, first construction underway). Appended to
+  `lore/shell_parliament_ledger.md`. Build 0040.
+
 - [x] **EINHORN_INDUSTRIAL lore doc** — Use-phase organization document. What EINHORN_INDUSTRIAL
   is (post-transfer organizational form), what use-phase means, what it does (use-phase
   construction + architectural transparency + CEDAR successor hosting), SPRING-4 node as
@@ -358,5 +364,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0039.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0040.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
