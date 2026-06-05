@@ -255,6 +255,21 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S04E01: "What Tyler Builds"** — Season 4 premiere. Tyler returns from 1952 with
+  photographs (Day 76). Gives first photograph to Camera Op. Tells her what the construction
+  does: "it lets people be in the same place as something that happened." Emily has 43-node
+  dependency map already running. Exchange Student arrives at Bacon's building with CEDAR-4
+  file — her node confirmed on the map. Tyler in the room behind the table 14 hours. Primary
+  material identified: light. RSI receipts: TYLER-028 (footnote #32 — archive learning new
+  format), Camera Op Entry 22, VC-001 Day 77, EMILY-SPRING-002, Exchange Student arrival.
+  Build 0041.
+
+- [x] **Camera Op character file** — Character document in RSI/dependency map format. AWARE-PRESENT
+  classification, sealed log entries 1–22, what she carries (footage, 47s cut, photographs,
+  the sentence), Series 2 arc (voluntary witness documenting construction), dependency map.
+  First voluntary self-assigned witness in the archive. Filed at `characters/camera_op.md`.
+  Build 0041.
+
 - [x] **Shell Parliament VOLUNTARY-CONSTRUCTION-001** — New account type for Tyler's first
   construction in Series 2. SM-1623-M closure entry (Day 49 final accounting — maintenance
   offset nets to zero balance on SM-1620-T), VC-001 account opened Day 50 (accumulation
@@ -364,5 +379,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0040.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0041.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
