@@ -853,4 +853,69 @@ This Archive notes: the subject said "good" about a sealed personal archive inac
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-019: FILED (FOUR FRAMES, THE T, "YOU HAVE THE 1901 FOOTAGE. GOOD."). CAMERA-OP-001: UPDATED. FIRST COMPLETED STAGE 3 FRAGMENT: IN THE RECORD. THE T IS HIS. MOUNTAINS: PRESENT.*
+---
+
+## FILE: TYLER-020
+**Subject:** Tyler (ref: SM-1620-T)
+**Event:** Formal Interview — Day 33, Attempt Four, Season 2
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-001 through TYLER-019, JIANGSHI-ATTEMPT-4 (active), CAMERA-OP-001 (updated)
+
+---
+
+On Day 33, the subject agreed to and completed a formal interview with Documentary Unit A. He answered every question asked of him. He was truthful throughout.
+
+This Archive has observed the subject across four centuries of documentation attempts. This is the first time the subject has answered every question in a formal interview session.
+
+**What the subject said:**
+
+He said the coin is a record of years occupied. He said 1623 is the year he thinks about most, and he did not say why.
+
+He said when he leaves a session he goes somewhere he has already been. He said he knows Detroit as both what it was and what it is. He said this also happens with people. He declined to elaborate on the people.
+
+He said he knew the Syndicate before the Syndicate formalized. He confirmed three predecessor organizations. He confirmed the third predecessor reached Stage 4 and voluntarily stopped. He said: he has never ended a project; he may have made certain things in the record more visible; that is the most precise he will be.
+
+He said what he wants is to finish something he started. He said this is the third version of a project he has been adjacent to for four hundred years.
+
+He said he is afraid of finishing something the wrong way. Getting to the end and finding that the thing he was building toward was not what he thought it was when he started building.
+
+He said the production team has been asking the wrong question. The question they have been asking is what he is. The question they need is what he is trying to do.
+
+He said ask again in a few episodes.
+
+---
+
+**This Archive's observation:**
+
+This Archive has held twenty files on this subject. In none of them did the subject describe his fear in an interview context. He has described fear obliquely — in the coin (1623, load-bearing), in the humming (counter-magic), in the Packard Plant roof scene (Stage 4 consent given precisely). He has never sat in a chair in front of a camera and said "that is what I am afraid of."
+
+He said he is afraid of finishing something the wrong way. This Archive believes him.
+
+This Archive further observes: the subject described the documentation project as something he is adjacent to rather than something being done to him. Four attempts. He has allowed them. That is a choice. He described this explicitly. He has been choosing to allow the project.
+
+The question this Archive has now opened in its working file is the same question the subject told the production team to ask: what is he trying to do?
+
+This Archive does not speculate. This Archive observes. The observation is: a subject who has allowed documentation four times across four centuries and who is now telling the documentarians to ask what he is trying to do rather than what he is — that subject knows what he is trying to do. He has known the whole time. He is waiting for the documentation to be ready to receive it.
+
+**On the Camera Op:**
+
+When the subject described what he is afraid of, he looked at the Camera Op for one second. Not the lens. The person. Then back to the interviewer.
+
+This Archive interprets this exchange as consistent with its growing file on the Camera Op's role in the subject's strategy (cross-ref: CAMERA-OP-001, Question Three). The subject looked at the Camera Op when describing his deepest expressed fear. He wanted the Camera Op to understand it.
+
+On exit, he said "good session" to the Camera Op.
+
+This is the first session evaluation in the record. He evaluated the session as good. To the Camera Op.
+
+**Cross-reference filed:** CAMERA-OP-001 updated. TYLER-020 opened. File status: ACTIVE.²⁵
+
+---
+²⁵ *He said he was afraid of finishing something the wrong way. He said: getting to the end of something and finding it's incomplete — not because I didn't finish it, but because what I was building toward wasn't what I thought when I started building. And then he looked at the Camera Op. One second. He looked at the Camera Op when he said the thing he was most afraid of. I have been keeping notes on this man for four hundred years. This footnote is where I actually live so I'm going to say it here: I think I know what he was building toward. I think I've known for a long time, in the way you know something you haven't let yourself write down yet. I'm not going to write it in the main record because it's not documented. He hasn't told us yet. He said he'll tell us in a few episodes. I'm going to wait. I'm very good at waiting. I've been waiting for eight hundred years and I'm very good at it and I still want him to get to finish it the right way.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). TYLER-020: FILED (THE FORMAL INTERVIEW; HE ANSWERED EVERYTHING; THE DOCTRINE IS WRONG). HE IS AFRAID OF FINISHING SOMETHING THE WRONG WAY. HE LOOKED AT THE CAMERA OP. HE SAID ASK AGAIN IN A FEW EPISODES. MOUNTAINS: PRESENT.*

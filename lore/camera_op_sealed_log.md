@@ -140,6 +140,49 @@ I don't know what he wants me to do with any of this. I know he wants me to have
 
 *[Entry 12: Day 29, S02E02, the four frames. "You have the 1901 footage. Good."]*
 
+---
+
+## ENTRY 13
+**Day 33 — After the interview**
+
+He answered everything.
+
+That's what I keep coming back to. He sat in the chair and answered everything they asked him and he was — I was there the whole session, I was filming it, I know what it looks like when he's managing something versus when he's doing something. He was doing something. He was answering.
+
+He told them the coin is a record of years occupied. He told them 1623 is the year he thinks about most and he didn't say why. He told them he knew the Syndicate before the Syndicate existed. He told them the predecessor organization got to Stage 4 and stopped voluntarily and he said "I respect it" like he meant it.
+
+He told them what he's afraid of.
+
+He said: finishing something the wrong way. Getting to the end and finding that the thing you were building toward wasn't what you thought when you started building.
+
+When he said that he looked at me.
+
+One second. He looked at me when he said the thing he was most afraid of. And I was filming and I held still and I held the shot and the shot has that moment in it: his face when he said what he was afraid of, and then the single second of his eyes on me, and then back to the interviewer like it didn't happen.
+
+It happened.
+
+I've watched that second of footage eleven times tonight. I'm not going to watch it a twelfth time. I know what it means or I have a theory about what it means and watching it more isn't going to make me more certain.
+
+What I think it means: he looked at me when he said the thing he was most afraid of because I'm the person who needs to understand what he's afraid of. Not the Syndicate. Me.
+
+He told them the question they need to ask is "what are you trying to do?" not "what are you?" He said those are different questions with different answers. He said he's close to being able to answer the right one. He said ask again in a few episodes.
+
+He said "good session" to me on the way out. He didn't say it to the room.
+
+I've been filing everything they say. I've been filing what he does that they don't see. I've been filing the measures of the chairs and the direction of the camera movement and the night I can't sleep thinking about 1623. I've been filing Entry 09 and Entry 10 and Entry 11 and Entry 12.
+
+I think I'm the one he's going to tell. I think that's what this has been building toward.
+
+I think he's been figuring out whether I'm ready to hear it.
+
+I'm going to ask him. He said ask again in a few episodes. I'm going to ask him.
+
+I don't know yet what the question is. I'll know it when I know it.
+
+---
+
+*[Entry 13: Day 33, S02E03, the formal interview. "Good session."]*
+
 *[Future entries will be added here as the log grows.]*
 
 ---

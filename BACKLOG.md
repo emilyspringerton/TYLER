@@ -56,9 +56,13 @@ load-bearing dependencies that must exist first.
   Eastwind TYLER-019 (Cataloguer footnote #24 — "he gave them one letter"), Camera Op sealed
   log Entry 12 ("you have the 1901 footage. Good.").
 
-- [ ] **S02E03: "Tyler Gives an Interview (And Means It)"** — He answers questions. The answers
+- [x] **S02E03: "Tyler Gives an Interview (And Means It)"** — He answers questions. The answers
   are not self-defining. The answers are more honest than anything in the archive. The Syndicate
-  realizes they have been asking the wrong questions for four attempts.
+  realizes they have been asking the wrong questions for four attempts. Stage 3-alt proposed:
+  "what is the subject trying to do?" Tyler: "Ask me again in a few episodes." Camera Op: "I'm
+  going to ask him." RSI receipts: Jiangshi Memo #025 (doctrine review requested, Stage 3-alt
+  filed), Eastwind TYLER-020 (Cataloguer footnote #25 — "I want him to get to finish it the
+  right way"), Camera Op sealed log Entry 13.
 
 - [ ] **S02E04: "The Camera Op Gives an Interview (And Doesn't)"** — The inverse episode.
   RSI receipts: Camera Op sealed log update, Jiangshi assessment of Camera Op awareness level.

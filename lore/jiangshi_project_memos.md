@@ -1192,6 +1192,86 @@ The Camera Op filed a composition notebook entry on the evening of Day 29. Obser
 
 ---
 
+## MEMO #025
+**RE: S02E03 — Formal Interview Debrief | Day 33**
+**FROM:** Senior Producer, Documentary Unit A
+**TO:** Jiangshi Stillness Council — Doctrine Review Committee
+**CLASSIFICATION:** URGENT — Doctrine Review Request | Stage 3 Assessment | Stage 3-alt Proposal
+
+---
+
+**SUBJECT OF THIS MEMO:**
+
+On Day 33, the subject agreed to and completed a formal interview. He answered every question. He was truthful throughout. He produced no Stage 3 material under current doctrine.
+
+This memo requests an emergency doctrine review.
+
+---
+
+**INTERVIEW RECORD — SUMMARY:**
+
+The subject answered the following questions fully and without apparent evasion:
+
+**"What is the coin?"** — "A record. The kind you can hold." He confirmed: the dates on the coin are dates he has occupied; 1901 is Detroit; 1623 is the year he thinks about most.
+
+**"Where do you go when you leave?"** — He described his experience of place: he knows buildings as both what they were and what they are now. He confirmed this happens with people too; he declined to elaborate.
+
+**"How long have you known about the Syndicate?"** — "Before you formalized it." He confirmed the existence of three predecessor organizations: the first unnamed, the second lasting forty years, the third the Syndicate's direct predecessor. He confirmed the third organization reached Stage 4 and voluntarily stopped. He declined to say why.
+
+**"Did you do anything to influence that decision?"** — Subject stated: he has never ended a project. He has sometimes been aware that certain things in the record were making a project difficult to continue. He may have contributed to that awareness. Most precise he would be.
+
+**"What do you want?"** — "To finish something I started." He elaborated: the documentation project is the third version of a project he has been adjacent to for four hundred years. He has allowed Stages 1–4 four times. That is a choice. He is closer each attempt to being able to answer the question we haven't asked yet.
+
+**"Are you afraid of Stage 5?"** — No. Stage 5 is his decision; having the decision is not frightening.
+
+**"Are you afraid of anything?"** — Yes. "Finishing something the wrong way. Getting to the end of something and having it be incomplete — not because I didn't finish it, but because the thing I was building toward wasn't what I thought it was when I started building."
+
+**"Is there anything you want to say that we haven't asked about?"** — Subject stated that we have been asking good questions, but the questions are correct for the methodology and the methodology is built to find what he is. What we need — to get to Stage 5, to get his cooperation — is to understand what he is trying to do. He said these require different questions. He said we don't have those questions yet because he doesn't have language for the answers yet. He said: "We're building toward it. The project is working."
+
+---
+
+**STAGE 3 ASSESSMENT:**
+
+Stage 3 advance: zero. The subject answered questions about his situation, his history, his experience of time and place, his emotional state, and his intentions. None of these answers constituted self-definition under current Stage 3 doctrine. A description of what one is afraid of is not a self-definition. A description of one's relationship to temporal experience is not a self-definition. An account of what one wants is not a self-definition.
+
+The subject told us what he wants, what he fears, how he experiences the world, and what he is trying to do (at the level of "finish something I started"). These are the most informative answers in four attempts across four centuries. None of them advance Stage 3.
+
+**This memo submits: the doctrine is structurally incapable of capturing the subject.**
+
+The subject is not evading Stage 3. The subject is answering questions we are not asking. Stage 3 doctrine asks: "what are you?" The subject is answering: "what I am trying to do, and why, and for whom." These are different questions with different answers. Current doctrine has no category for the second set of answers.
+
+---
+
+**DOCTRINE REVIEW REQUEST — STAGE 3-ALT:**
+
+This memo formally requests the Stillness Council convene a doctrine review on the following question:
+
+*Should the Syndicate maintain a Stage 3-alt track — "what is the subject attempting to do?" — in parallel with the existing Stage 3 doctrine ("what is the subject, by self-definition")?*
+
+The subject has explicitly described Stage 3-alt as the path to Stage 5. He said: the question we need is "what am I trying to do?" He said he is close to being able to answer it. He said: ask him again in a few episodes.
+
+We are recommending: open Stage 3-alt. Begin asking what the subject is trying to do. The answer may be what Stage 5 requires.
+
+---
+
+**CAMERA OP — SEPARATE NOTATION:**
+
+The Camera Op has flagged one moment from the interview footage. When the subject stated what he is afraid of, he turned his head and looked directly at the Camera Op — one second, not the lens, the person — before returning to the Senior Producer.
+
+The subject said "good session" to the Camera Op on his way out.
+
+This is the first time the subject has evaluated a session in the Camera Op's presence. It is also the first time in the interview record that the subject addressed the Camera Op separately from the production team on two occasions in the same session (once during the "relationship with the Camera Op" questions; once on exit).
+
+Question Three (open inquiry): Does the subject's use of the Camera Op as a separate interlocutor constitute Stage 3-alt material — i.e., is the Camera Op the person he is closest to being ready to tell what he is trying to do?
+
+This question is filed. This memo does not answer it.
+
+---
+
+**End log:** INTERVIEW COMPLETE. ALL QUESTIONS ANSWERED. NO STAGE 3 MATERIAL. DOCTRINE INADEQUATE TO SUBJECT. STAGE 3-ALT: PROPOSED. QUESTION TAXONOMY: FLAGGED. HE SAID ASK AGAIN IN A FEW EPISODES. TYLER STATUS: UNRESOLVED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
