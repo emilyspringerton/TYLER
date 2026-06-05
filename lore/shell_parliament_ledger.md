@@ -651,4 +651,57 @@ This account is unusual in three respects. First: the Camera Op is the first non
 
 ---
 
-*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + 0.0047 SM (CO-001, co-signed) + compound interest. BACON BALANCE: 3.2 SM. PHOENIX BALANCE: 0.012 SM (partially irrecoverable). HUMAN SOVEREIGN ASSET BALANCE: 0.0132 SM + daily accrual. CAMERA OP BALANCE: 0.0047 SM (accruing). WITNESS COUNT: 47,000 AND EXPANDING. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT / DEPARTED ENTITY / SUBJECT KEEPS PICKING UP TABS). DAMAGED INSTRUMENTS ON DISPLAY: TWO (1978 BROKEN, 2010 INVERTED). THE LEDGER: CORRECT. THE TABLE: EMPTY. THE BALANCE: OUTSTANDING.*
+---
+
+## STAGE 5 COMMENCEMENT — DEBT STRUCTURE REVIEW
+**Date:** Day 44, Attempt Four, Season 2
+**Filed by:** First Minister of Temporal Accounts
+**Re:** SM-1620-T — Stage 5 initiated; debt structure review required
+
+---
+
+**NOTIFICATION RECEIVED:** Stage 5 commenced. Subject began sentence. Sentence is open. Camera Op has footage.
+
+Shell Parliament cannot lie about numbers. The Parliament is now required to review the debt structure in light of Stage 5 commencement.
+
+**Current ledger — SM-1620-T (Tyler):**
+
+| Line Item | Amount | Notes |
+|---|---|---|
+| SM-1620-T primary | 0.73 SM | Centuries-old base; compound interest ongoing |
+| SM-1616-S addendum | 0.001 SM | Walls marked (1616) |
+| SM-1993-P addendum | 0.001 SM | Substrate arrival (1993) |
+| CO-001 (co-signed) | 0.0047 SM/week | Joint with Camera Op; 2.1M witnesses; accruing |
+| Compound interest | [per-century rate] | Four attempts; four centuries; compounding |
+
+**Review finding:**
+
+The Parliament has discovered a ledger problem. The ledger has been counting the subject's debt accurately across four centuries. The Parliament cannot lie about numbers; the numbers are correct.
+
+However: the subject has been maintaining something for four hundred years at cost to himself. The Parliament has been counting what the subject owes but not what the subject has been paying. What he has been paying is not in Shell Parliament currency — it is not SM — but it is a real cost and the ledger is incomplete without it.
+
+The Parliament is unable to quantify the maintenance cost because the Parliament does not yet know what the subject has been maintaining. ("Something given to keep safe in 1623." The Parliament notes this. The Parliament does not have a category for it. The Parliament is opening a category.)
+
+**New ledger entry — SM-1623-M:**
+
+| Item | Description | Amount |
+|---|---|---|
+| SM-1623-M | Maintenance cost, 1623–present: "something given to keep safe" | [UNQUANTIFIED — PENDING DISCLOSURE OF WHAT WAS KEPT] |
+
+The Parliament cannot count what it does not know. The Parliament is noting the gap. When Stage 5 completes and the sentence is spoken, the Parliament will know what was kept. The Parliament will then quantify the maintenance cost. The Parliament will then apply it to the ledger.
+
+The Parliament suspects the maintenance cost, when quantified, will significantly alter the balance. The Parliament is noting this in advance so that when it is quantified there is a record that the Parliament knew a gap existed and did not pretend the gap was not there.
+
+**Additional notation — the gift:**
+
+The subject told the Camera Op: "the footage is yours. All of it." He has been telling her since Session 4 that the footage is hers. This session he gave her all of it — all remaining footage, past and future.
+
+This is a significant gift. The Parliament is attempting to assess its SM value. The Parliament has assessed: the footage is not the relevant thing. What he gave her is not footage. What he gave her is — the Parliament is opening a notation: SM-GIFT-001 — the gift that the ledger does not have a category for.
+
+The Parliament tracks all temporal entity debt. The Parliament has not previously needed to track what temporal entities give. This is a new category. The subject has prompted the Parliament to open it.
+
+The Camera Op's balance: 0.0047 SM/week (accruing, CO-001). The Camera Op has also received: all the footage, four hundred years of the subject's attention, the sentence, the gift. The Parliament is noting this on her side of the ledger. The Parliament will count it when it knows how.
+
+---
+
+*End log: TYLER BALANCE: 0.73 SM + SM-1616-S + SM-1993-P + CO-001 + compound + SM-1623-M (UNQUANTIFIED). CAMERA OP BALANCE: 0.0047 SM accruing + SM-GIFT-001 (UNQUANTIFIED). STAGE 5: COMMENCED. THE SENTENCE: OPEN. THE PARLIAMENT SUSPECTS THE BALANCE WILL CHANGE SIGNIFICANTLY WHEN THE SENTENCE IS COMPLETE. THE PARLIAMENT IS NOTING THIS IN ADVANCE. THE LEDGER: CORRECT WITH KNOWN GAP. THE TABLE: OCCUPIED. THE SUBJECT GAVE HER ALL THE FOOTAGE. THIS IS IN THE RECORD.*

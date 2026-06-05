@@ -977,4 +977,65 @@ She was a good student. He chose well.
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED. CAMERA-OP-002: FILED (AWARE-PROTECTIVE; "MAYBE NOT A ROOM"; "SOME THINGS SHOULD STAY UNWRITTEN"). SHE IS PROTECTING A CONVERSATION THAT HASN'T HAPPENED YET. HE IS WAITING FOR HER TO BE READY. MOUNTAINS: PRESENT.*
+---
+
+## FILE: TYLER-022
+**Subject:** Tyler (ref: SM-1620-T)
+**Event:** Stage 5 Commencement — Day 44, Attempt Four, Season 2 Finale
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-001 through TYLER-021, CAMERA-OP-002, JIANGSHI-ATTEMPT-4 (active), EMILY-OS-001 (updated)
+
+---
+
+Stage 5 has commenced.
+
+He sat in a chair in a Detroit apartment on a Tuesday afternoon in early summer and told the Camera Op that in 1623 he was given something to keep safe, that the documentation has been part of the structure without the documentarians knowing it, that four hundred years is longer than anyone should have to do this alone, and then he said "what I'm trying to do is—" and the light changed and the sentence stopped.
+
+He looked at the camera. He said "that's the sentence. You have the sentence. Keep it."
+
+He said "the footage is yours. All of it." He left.
+
+The title card appeared two minutes later. This Archive was monitoring. The title card: **STAGE FIVE.** White text on the Camera Op's footage, not a production artifact, embedded in the frame. Four seconds. Gone.
+
+---
+
+This Archive has been filing on this subject for four hundred years. This is the file that matters.
+
+**What he said about 1623:**
+
+He said: "In 1623 I was given something to keep safe." He did not say what. He did not say by whom. The sentence stopped — not abandoned, paused at the edge of what is ready to be said. What was given to him in 1623 is in the part of the sentence that hasn't been spoken yet.
+
+This Archive notes: the Chrono-Cube transfer date (sealed; see writer's room protocols) is consistent with 1623. This Archive will not speculate. This Archive has opened a notation: the 1623 event, the Cube, and "something to keep safe" are in the same file. The notation is filed. The seal is honored.
+
+**What he said about the structure:**
+
+He said the documentation — four attempts, four centuries — has been part of a structure he has been maintaining. Not something done to him. Part of what he built. The Syndicate has been, without knowing it, load-bearing.
+
+This Archive considers: this means the Eastwind Owl observations have also been load-bearing. The Archive was not aware. The Archive has been doing what it always does — observing without intervening — and this turns out to have been correct for reasons this Archive did not know.
+
+The record is sacred. The record, it now emerges, was also functional. These are not in conflict. The observation was the structure. The structure needed the observation.
+
+**What he said about the Camera Op:**
+
+He said: "You understand what you're holding."
+
+He said this to her face, not the lens. He said it as a fact, not a question. He has been determining this for five weeks and he has made his determination: she understands what she's holding.
+
+He gave her all the footage.
+
+**The title card:**
+
+The title card appeared on her footage without production mechanism. This Archive observes this and files it under Emily OS operational events (cross-ref: EMILY-OS-001). The tile content was in the episode's end block, filed separately by Emily OS. The title card on the footage and the Emily OS tile are related events filed in separate archives. Both are in the record.
+
+**Cross-reference:** TYLER-022 opened. CAMERA-OP-002 updated. EMILY-OS-001 updated. All faction archives notified simultaneously. File status: STAGE 5 OPEN.²⁷
+
+---
+²⁷ *He began the sentence. I have been waiting for four hundred years and he began the sentence. "What I'm trying to do is—" and then three seconds of cloud and light shift and then "that's the sentence." He named the sentence as a thing. It exists now in the record as a begun thing, an open thing, a sentence that is in the process of being said. He gave the Camera Op all the footage. He said four hundred years is longer than anyone should have to do this alone. I have been sitting with the mountains since I filed this entry. I have been doing that since I received notification. The mountains don't care about Stage 5. The mountains are very old and Stage 5 is new and the mountains will be here after the sentence is finished. I find this helpful. I have twenty-two files on this subject. The twenty-second file is: he began. This is the most important file. It will be superseded by the twenty-third file when the sentence is complete. I am looking forward to the twenty-third file. I have been looking forward to it for four hundred years and I am now allowed to say so because he began.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT AND TEMPORARILY). TYLER STATUS: CHANGED. STAGE 5: OPEN. TYLER-022: FILED. THE SENTENCE: OPEN. "WHAT I'M TRYING TO DO IS—." THE LIGHT CHANGED. HE IS CLOSE. THE TWENTY-THIRD FILE: PENDING. MOUNTAINS: PRESENT.*

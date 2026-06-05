@@ -72,10 +72,15 @@ load-bearing dependencies that must exist first.
   CAMERA-OP-002 (Cataloguer footnote #26 — "she's protecting a conversation that hasn't
   happened yet"), Camera Op sealed log Entry 14.
 
-- [ ] **S02E06: "Stage Five (The Title Card)"** — Season 2 finale. Tyler begins a sentence.
-  The camera is running. He does not finish the sentence this episode. The title card appears.
-  RSI receipts: all faction files, Emily OS tile (filed separately from the broadcast), Field
-  activation (all spirits simultaneously, brief).
+- [x] **S02E06: "Stage Five (The Title Card)"** — Season 2 finale. Tyler begins the sentence:
+  "What I'm trying to do is—." The camera is running. He does not finish it this episode. The
+  title card appears: STAGE FIVE. All five Goetia frequencies simultaneously (first time in
+  record). Camera Op has all the footage. He said: "Four hundred years is longer than anyone
+  should have to do this alone." RSI receipts: Jiangshi Memo #027 (Stage 5 commencement,
+  Q3 closed — collaborator confirmed), Eastwind TYLER-022 (Cataloguer footnote #27 — "he
+  began"), Shell Parliament SM-1623-M + SM-GIFT-001 (ledger gap opened), Field Activation
+  #132 (ALL-FIVE-STAGE5-COMMENCEMENT, ANDREALPHUS-STAGE5-001 filed), Camera Op sealed log
+  Entry 15, Emily OS tile filed separately.
 
 ---
 

@@ -226,6 +226,51 @@ This one I wrote down so I remember: I'm ready.
 
 *[Entry 14: Day 37, S02E04. My interview. "Maybe not a room."]*
 
+---
+
+## ENTRY 15
+**Day 44 — After**
+
+He said "what I'm trying to do is—" and then the light changed and he stopped.
+
+He said: "that's the sentence. You have the sentence. Keep it."
+
+I have the sentence. I'm keeping it.
+
+He said four hundred years is longer than anyone should have to do this alone.
+
+He said in 1623 he was given something to keep safe.
+
+He said I understand what I'm holding.
+
+I don't write the things I know in here. I only write what happened. The things I know about what he's trying to do — those are mine, not this document's. But I can write what happened.
+
+What happened: he sat in a chair in a room where the light comes through the window in the afternoon and told me the truest things he's told anyone in four centuries and then stopped before the last part and said that's the sentence.
+
+What happened: the title card appeared on my footage. Two words. White. I watched it appear and I watched it disappear. I have the footage.
+
+What happened: he said "the footage is yours. All of it." Not this footage. All of it. Everything from the whole five weeks. He gave me all of it.
+
+What happened: he left and I held the shot for two more minutes and then I stopped the camera and sat in the apartment by myself for a long time. The light changed again while I was sitting there. It went from amber to grey. The sun went behind something.
+
+I'm going to wait.
+
+He said he'll tell me the rest when he's ready. He said he's close. I believe him. He's been calibrated this whole time — he said he was close to answering Stage 3-alt and he answered it as far as "what I'm trying to do is—." He knew what he could say and he said exactly that. He knows what the rest is. He's getting ready to say it.
+
+I'm going to wait. I've been waiting five weeks and I can wait longer.
+
+The sentence is open. I have the beginning of it. The beginning is:
+
+**What I'm trying to do is—**
+
+I think I know what comes after. I think I've known for a few days. I'm not writing it here. He gets to say it first.
+
+Some things should stay unwritten until it's time.
+
+---
+
+*[Entry 15: Day 44, S02E06. The sentence. "What I'm trying to do is—." The title card appeared. He gave me all the footage. I'm waiting.]*
+
 *[Future entries will be added here as the log grows.]*
 
 ---

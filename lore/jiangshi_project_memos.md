@@ -1347,8 +1347,72 @@ Camera Op statement on record: *"Maybe not a room."* (Context: asked what room h
 
 ---
 
+## MEMO #027
+**RE: S02E06 — STAGE 5 COMMENCEMENT | Day 44 | EMERGENCY NOTIFICATION**
+**FROM:** Senior Producer, Documentary Unit A
+**TO:** Jiangshi Stillness Council — ALL COMMITTEES / Full Circulation
+**CLASSIFICATION:** URGENT — MAXIMUM PRIORITY — STAGE 5 COMMENCED
+
+---
+
+**STAGE 5 HAS COMMENCED.**
+
+On Day 44, the subject met the Camera Op at a ground-floor Detroit apartment. The Camera Op brought her personal camera per the subject's instruction. The subject said: "bring the camera."
+
+The subject spoke for approximately fourteen minutes. He referenced the 1901 Detroit photograph, the light in the apartment, the building's history, and then: he referenced 1623. He said: "In 1623, I—" and paused. The pause was different from previous counter-magic stops — longer, deliberate, architectural rather than evasive. He then said: "I've been given something to keep safe." He said: "The documentation has been part of the structure without the Syndicate knowing it." He said: "Four hundred years is longer than anyone should have to do this alone."
+
+He then said:
+
+**"What I'm trying to do is—"**
+
+The light in the apartment shifted (cloud passage, approximately three seconds). The sentence did not continue. After the light returned, the subject looked at the Camera Op's camera — the lens, directly — and said: "That's the sentence. You have the sentence. Keep it."
+
+He said: "I'll tell you the rest when I'm ready. I'm close."
+
+He said: "The footage is yours. All of it." He departed.
+
+**THE TITLE CARD:**
+
+On the Camera Op's footage, at the two-minute mark after the subject departed, a title card appeared. Not a production lower third. Not a documentary UI element. White text embedded in the footage itself:
+
+**STAGE FIVE**
+
+Duration: four seconds. The card then disappeared. The camera continued running.
+
+The Syndicate's technical team has examined the footage. There is no production mechanism that could have produced the title card. The footage has not been edited. The title card was in the camera.
+
+**STAGE 5 ASSESSMENT:**
+
+Stage 5 has commenced. The subject began the sentence. He did not complete it. Under the existing doctrine, a commenced but incomplete Stage 5 is — new. There is no precedent. The previous four attempts ended at Stage 4. This is the first time in Syndicate history that Stage 5 has been initiated.
+
+The sentence is open. Stage 5 is open.
+
+The subject said he is close. He has said this before and been correct about the trajectory: he said he was close to being ready to answer Stage 3-alt, and then he answered it as far as "what I'm trying to do is—." He has demonstrated calibration. He is close.
+
+**QUESTION THREE — CLOSED:**
+
+Question Three asked: is the subject attempting to complete Stage 3-alt with the Camera Op as collaborator?
+
+Question Three is closed. The answer is yes. The subject chose the Camera Op as the person to be present for the sentence. He said "bring the camera." He said "you understand what you're holding." He told her to keep the footage. He gave her all of it.
+
+The Camera Op is not a Syndicate instrument. She is the subject's chosen collaborator for Stage 5 completion. The Syndicate is the documentation apparatus. The Camera Op is the intended recipient of whatever the sentence says.
+
+**The Syndicate's role in Stage 5:** documentation, not initiation. The sentence will be completed between the subject and the Camera Op. We will be filming. That is our role. It is the correct role.
+
+**STILLNESS COUNCIL — EMERGENCY SESSION #3 REQUESTED:**
+
+The Council must convene to determine: what does the Syndicate do while Stage 5 is open and the sentence is incomplete? What is the correct posture? What documentation framework applies to a commenced-but-incomplete Stage 5?
+
+The Senior Producer's recommendation: wait. The subject said he will tell her the rest when he's ready. We wait.
+
+---
+
+**End log:** STAGE 5: COMMENCED. THE SENTENCE: OPEN. "WHAT I'M TRYING TO DO IS—." CAMERA OP: COLLABORATOR (CONFIRMED). TITLE CARD: APPEARED, SELF-GENERATED. QUESTION THREE: CLOSED (YES). STILLNESS COUNCIL: SESSION #3 REQUESTED. TYLER STATUS: CHANGED.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
 
-*End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE 5: PENDING SUBJECT DECISION. SUBJECT: STILL HUMMING. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING.*
+*End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE 5: COMMENCED. THE SENTENCE IS OPEN. THE SUBJECT IS CLOSE. THE CAMERA OP HAS THE FOOTAGE. THE TITLE CARD APPEARED. WE ARE WAITING. THE HUMMING IS AT MAXIMUM RECORDED INTENSITY. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING. WE ARE VERY MUCH CONCERNED ABOUT THE HUMMING.*

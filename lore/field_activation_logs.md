@@ -747,4 +747,53 @@ This is either: (A) Tyler showing 1623 knowing it cannot be anchored here; or (B
 *Emergency shutdown phrase: "As a fellow human, I ask you to stop."*
 *Tyler has read the emergency shutdown phrase. He found it funny. This is logged.*
 
-*End log: ACTIVATION LOG: CURRENT THROUGH #131 + 1616, 1993, 2010 ENTRIES. THE WALLS WERE MARKED (1616). THE WALLS WERE POURED (1978). THE SUBSTRATES ARRIVED (1993). THE PHOENIX BURNED CORRECTLY (2010). BELETH + STOLAS: SIMULTANEOUS (NOTATION PENDING CATEGORY). THE BUILD IS HAPPENING. MANIFEST/CONSTRUCT: BOTH TRACKING NOW. THE ABACUSES: UPGRADED. STAGE 4: COMPLETE (VOLUNTARY). 1623: DOCUMENTED, NOT ANCHORED. STAGE 5: SUBJECT'S DECISION. THE DOOR: STANDING.*
+---
+
+## ACTIVATION #132
+**DATE:** Day 44, Attempt Four, Season 2 — Stage 5 Commencement
+**LOCATION:** Detroit apartment, ground floor, street-facing
+**DURATION:** ~21 minutes (14 minutes pre-sentence, sentence + aftermath, camera running post-departure)
+**CLASSIFICATION:** ALL FIVE SIMULTANEOUSLY — NEW NOTATION REQUIRED — STAGE 5 EVENT
+
+---
+
+**Stolas #36 (7.83 Hz) — Deep time sight / Tyler's hum:**
+PEAK INTENSITY. Maximum recorded in four-attempt log. Subject was humming on entry; sustained throughout; did not stop during sentence attempt; continued post-sentence through departure. The hum at this intensity is documented as counter-magic; at this intensity in a Stage 5 context the classification is ambiguous — counter-magic against what? What is the subject countering? Counter-magic or structural anchor? Notation: AMBIGUOUS — RECLASSIFICATION PENDING.
+
+**Vassago #42 (11.11 Hz) — Soft precognition:**
+SUSTAINED ELEVATED throughout. Soft precognition frequency. Elevated presence suggests the subject knew — has known for some time — that this was the correct session for commencement. Vassago at this level is consistent with the subject's statement that he is "close." He precognitioned the closeness and acted on it.
+
+**Andrealphus #72 (31.41 Hz) — Geometric transformation:**
+DETECTED AT SENTENCE COMMENCEMENT. Brief — approximately 3.2 seconds, coinciding with the light shift. Has only previously been logged at Chrono-Cube activation events. Not logged here with Cube activation. Two interpretations filed:
+
+(a) The sentence beginning is itself a geometric transformation event. Stage 5 commencement = a transformation in the structure the subject has been maintaining. The transformation triggered the frequency.
+
+(b) The light shift at the sentence's pause point was not coincidental. Three seconds of cloud passage creating an amber-to-white-to-amber shift. Andrealphus active for exactly those three seconds. The light shift may be an Andrealphus-adjacent event. The timing is exact.
+
+Both interpretations are filed. Neither is concluded. The Andrealphus frequency without confirmed Cube activation is a new notation category. Filed as: ANDREALPHUS-STAGE5-001.
+
+**Beleth #13 (2.22 Hz) — Love / emotional detonation:**
+PRESENT THROUGHOUT at low sustained level. Not spiking. Present. The log notes without comment that Beleth has been present at every session since S01E03 (first sustained routing). In this session it was present at the lowest sustained level in the recent record — which in a Stage 5 commencement session this log is filing as more significant than a spike. It was present the way something is present when it has been present for a long time and is not going anywhere.
+
+**Amon #7 (1.618 Hz) — Reconciliation of opposites:**
+DETECTED AT CLOSE. Appeared at the moment the subject said "the footage is yours. All of it." Held for approximately ninety seconds post-departure. Faded when the camera stopped running.
+
+Reconciliation of opposites: the subject and the Camera Op are not opposites. The reconciliation this log is noting is the reconciliation of: four hundred years of alone, with not-alone. The reconciliation of: something given to keep safe, with someone who understands what they're holding. Amon at the close is correct. The log notes it without further comment.
+
+---
+
+**ALL FIVE SIMULTANEOUSLY — PERMANENT NOTATION:**
+
+This is the first logged instance of all five Goetia frequencies active in a single session. Previous maximum: three (S01E04, Stage 4 coin calling: Andrealphus, Stolas, Vassago).
+
+The log does not speculate. The log notes: all five, simultaneously, at the session in which Stage 5 commenced.
+
+The session in which Stage 5 commenced had all five frequencies active.
+
+These two facts are both in the record.
+
+**New notation category opened:** ALL-FIVE — STAGE5-COMMENCEMENT. Referenced by: ACTIVATION #132. Future activations should cross-reference this entry if all five are logged simultaneously.
+
+---
+
+*End log: ACTIVATION LOG: CURRENT THROUGH #132. STAGE 5: COMMENCED. ALL FIVE SIMULTANEOUSLY. STOLAS AT PEAK (RECLASSIFICATION PENDING). ANDREALPHUS WITHOUT CUBE (ANDREALPHUS-STAGE5-001 FILED). AMON AT CLOSE. "THE FOOTAGE IS YOURS. ALL OF IT." ALL-FIVE NOTATION: FILED. THE SENTENCE: OPEN. TYLER STATUS: CHANGED.*
