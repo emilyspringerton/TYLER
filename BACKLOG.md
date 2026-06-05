@@ -255,6 +255,12 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **EINHORN_INDUSTRIAL lore doc** — Use-phase organization document. What EINHORN_INDUSTRIAL
+  is (post-transfer organizational form), what use-phase means, what it does (use-phase
+  construction + architectural transparency + CEDAR successor hosting), SPRING-4 node as
+  organizational anchor, faction relationships post-transfer, organizational facts (Series 2
+  scope). Dependency: series2_architecture.md. Filed at `lore/einhorn_industrial.md`. Build 0039.
+
 - [ ] **[placeholder: next historical dossier]** — To be populated when the next historical
   chronology dump is provided. File annual composite + field activation supplement +
   faction receipts per established pattern.
@@ -352,5 +358,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0038.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0039.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
