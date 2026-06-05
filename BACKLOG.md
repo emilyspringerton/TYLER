@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0033
+### Updated: Build 0034
 
 ---
 
@@ -206,13 +206,12 @@ load-bearing dependencies that must exist first.
   Project Memo. RSI receipts: Eastwind (TYLER-024, Footnote #29), Jiangshi Memo #031
   (archive closed), Shell Parliament SM-1623-M final notation, Camera Op Entry 18. Build 0033.
 
-- [ ] **S03E04: "Emily Springerton, Logistics Architect"** — Full crossover episode.
-  Emily Springerton appears in the documentary footage. Tyler and Emily at Bacon's table.
-  The architecture map presented to Tyler. The thing Tyler says when he sees it:
-  documented. Emily OS registers Emily Springerton's presence in the bacon_estate zone
-  as a SPRING-4 acknowledgment. RSI receipts: Eastwind (EMILY-SPRING-001, new file),
-  Jiangshi (Memo #031 — "subject is meeting with someone not in our archive; recommend
-  observation").
+- [x] **S03E04: "Emily Springerton, Logistics Architect"** — Full crossover episode.
+  Emily Springerton at Bacon's table with the architecture map (37-node dependency tree).
+  Tyler meets SPRING-4. Emily's working model: the Subscriber built Emily OS. Tyler: "The
+  Subscriber built the thing that would recognize when the chain was done." Tyler knows
+  where he wants to go (Day 56). RSI receipts: Eastwind EMILY-SPRING-001 (new file, open),
+  TYLER-025 (Footnote #30), Emily OS SPRING-4 node active, Camera Op Entry 19. Build 0034.
 
 - [ ] **S03E05: "What The Subscriber Left"** — The sealed section opens. Not an
   explanation — the archive doesn't do explanations. What the Subscriber left when the
@@ -347,5 +346,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0033.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0034.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
