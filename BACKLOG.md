@@ -255,6 +255,15 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S04E02: "What Light Does"** — Day 78. Construction named: WITNESS ROOM (Camera Op
+  names the category; Tyler confirms). Subscriber's notation found in the room behind the
+  table — frequency diagram for continuous simultaneous five-frequency activation. Emily's
+  map now 45 nodes with construction name at top. Exchange Student maps resonant witness
+  supply chain (minimum 3 confirmed resonators). Subscriber notation placed in room.
+  RSI receipts: TYLER-029 (footnote #33), Camera Op Entry 23, VC-001 Day 78 milestone,
+  EMILY-SPRING-003, Exchange Student supply chain entry, SUBSCRIBER-TRANSMISSION-001 active.
+  Build 0042.
+
 - [x] **S04E01: "What Tyler Builds"** — Season 4 premiere. Tyler returns from 1952 with
   photographs (Day 76). Gives first photograph to Camera Op. Tells her what the construction
   does: "it lets people be in the same place as something that happened." Emily has 43-node
@@ -379,5 +388,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0041.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0042.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
