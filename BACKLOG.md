@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0032
+### Updated: Build 0033
 
 ---
 
@@ -200,11 +200,11 @@ load-bearing dependencies that must exist first.
 
 ## SEASON 3 — REMAINING EPISODES
 
-- [ ] **S03E03: "The Room Behind the Table"** — Tyler at Bacon's. First time he sits at
-  the round table. The room behind the table: what's through the gold door. Tyler and
-  the Camera Op at the table together. The Subscriber's sealed section begins to open.
-  RSI receipts: Eastwind (TYLER-024), Bacon's ledger update, Shell Parliament new line
-  item (post-transfer accounting), Camera Op Entry 18.
+- [x] **S03E03: "The Room Behind the Table"** — Tyler at Bacon's. First time he sits at
+  the round table. Tyler enters the room behind the gold door alone. The Subscriber's
+  sealed file begins to open. Tyler: free actor (first time in record). The last Jiangshi
+  Project Memo. RSI receipts: Eastwind (TYLER-024, Footnote #29), Jiangshi Memo #031
+  (archive closed), Shell Parliament SM-1623-M final notation, Camera Op Entry 18. Build 0033.
 
 - [ ] **S03E04: "Emily Springerton, Logistics Architect"** — Full crossover episode.
   Emily Springerton appears in the documentary footage. Tyler and Emily at Bacon's table.
@@ -347,5 +347,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0028.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0033.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
