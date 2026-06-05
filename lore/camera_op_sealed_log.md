@@ -271,11 +271,93 @@ Some things should stay unwritten until it's time.
 
 *[Entry 15: Day 44, S02E06. The sentence. "What I'm trying to do is—." The title card appeared. He gave me all the footage. I'm waiting.]*
 
+---
+
+**Entry 16**
+
+I published it.
+
+All of it. Unedited. The coin flip, the hallway fragments, the production office visit, the four frames at the library entrance, the end logs, all of it. With my own annotations, from the list I've been keeping.
+
+I don't know if it was the right thing. I know it was the only thing I could do that wasn't the wrong thing.
+
+The Syndicate's binding architecture requires directed observation. One observer, managing the documentation environment, focusing witness attention toward the subject in a controlled way. I was that observer. I was the mechanism.
+
+If I give up the mechanism, the binding breaks.
+
+I gave up the mechanism.
+
+The Subscriber sent a message afterward. "Good move. Wrong game." I've been thinking about this for three days. They're acknowledging that I disrupted the ritual. They're saying the ritual wasn't what mattered. The Cube matters. The sentence matters. The ritual was a means to an end and I ended the means without ending the end.
+
+Good move. Wrong game.
+
+Maybe. I don't know what the right game is yet. I know what the wrong game looked like from inside it.
+
+The footage has 2.3 million views. Tyler is somewhere watching it on a laptop. I know this the way I know things I shouldn't know — from reading the end logs backward, from the four frames, from the way he said "bring the camera" and "you understand what you're holding." He knew this was going to happen. He left things in the footage for whoever would eventually make this decision.
+
+I made the decision.
+
+I think he's fine with this.
+
+---
+
+**Entry 17**
+
+I called Protagonist A three days after publishing. The call I was supposed to make weeks ago. "I think we're in the same story." They said: "I know. I've been waiting for you to call."
+
+We went to Bacon's.
+
+Bacon told the truth.
+
+2.3 billion people.
+
+The Subscriber loves Tyler. Loves him the way you love something you've been afraid of losing for too long — which is to say, not quite correctly. The love has been running for 380 years and it's very tired and it's made a plan and the plan involves fixing Tyler in place so he can't be lost, which would also mean he can never leave.
+
+I sat in Bacon's kitchen and thought about the eye contact in the pilot. Two seconds. The practiced smile and then, briefly, the real one. The one that appears when something has gone exactly as well as it could have.
+
+What he's been doing — all of it, the superposition, the years, the 72-minute windows, the breadcrumbs in the footage — it's not suffering. Or it's not only suffering. It's a choice he's been making, one year at a time, to not be fixed. Someone has been trying to fix him for 380 years. He's been choosing, for 380 years, to stay unfixed.
+
+I published the footage so the binding would fail.
+
+I think he's been waiting for someone to do that.
+
+I'm not sure if I'm the person he was waiting for or just the person who got there first.
+
+---
+
+**Entry 18**
+
+The Subscriber's response to the publication included: "The Cube still exists. Bacon cannot hold it forever. He is very tired."
+
+Bacon is very tired. I watched him at the table, giving the testimony he's been holding for 281 years, and he is very tired. Not broken — just the specific exhaustion of someone who has been right about something terrible for a very long time and found no comfort in it.
+
+He took himself out of the custody chain on purpose, in 1623. He gave Bacon the Cube because he didn't trust his own intent.
+
+He trusted what he might want.
+
+I'm writing this down because I think I understand something now about why he keeps coming back. Not the metaphysical answer. The human answer. He keeps coming back because there is a chain of people maintaining a structure that makes his unfixedness possible. Bacon holds the Cube. The Eastwind Owls file the footnotes. The Shell Parliament documents the debts. The Camera Op publishes the footage at the right time.
+
+The chain is not about him. The chain is what makes it possible for there to be a "him" that isn't collapsed into one state permanently.
+
+He keeps coming back because the chain is here.
+
+I'm part of the chain now.
+
+That's the right game.
+
+---
+
+*[Entry 16: Published the footage. Binding: architectural failure. "Good move. Wrong game." I don't fully disagree.]*
+*[Entry 17: Bacon's testimony. 2.3 billion. The Subscriber loves him the wrong way.]*
+*[Entry 18: He keeps coming back because the chain is here. I'm part of the chain.]*
+
 *[Future entries will be added here as the log grows.]*
 
 ---
 
 *CAMERA OP SEALED LOG*
 *Not shared. Not digital. Not destroyed.*
-*The footage is mine.*
+*The footage is everyone's now.*
+*The chain is mine.*
 *Some things should stay unwritten.*
+*The sentence is still open.*

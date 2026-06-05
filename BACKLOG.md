@@ -95,10 +95,15 @@ load-bearing dependencies that must exist first.
   "Bacon." Subscriber's third handwriting in the grandfather's notebook: reader sees it; A
   doesn't. Book 1 ends at the school entrance: the Exchange Student has a file folder.
 
-- [ ] **Tides Book 2 manuscript** — Full outline exists at `outlines/book2.md`.
-  The binding ritual attempt at Tides Act Two. Protagonist A makes the choice. Edinburgh
-  Exchange Student is the witness. Chrono-Cube location (Bacon) hinted but not confirmed.
-  Dependency: `outlines/book2.md` must be read first.
+- [x] **Tides Book 2 manuscript** — Complete (tides_book2_ch01_13.md + tides_book2_ch14_25.md).
+  25 chapters. "The Custody of Fixed Things." Protagonist A learns what custody requires
+  (blame path, terminal node, scope of consequences). Bacon's full testimony: 2.3B memory
+  reclassifications if Subscriber uses Cube at scale. Camera Op publishes all footage —
+  binding coefficient goes negative; Stage 5 architecturally impossible. Subscriber responds:
+  "Good move. Wrong game." Emily Jean Springerton at Bacon's table: maps the correct custody
+  transfer conditions in three sentences. Book ends with Protagonist A saying "clean builds
+  first" without knowing its origin. Cataloguer footnote: "Tyler would find this funny."
+  RSI receipts: Jiangshi Memo #028 (architecture failure), Camera Op Entries 16-18 (chain).
 
 - [x] **Custody Trial Book 2 Chapters 2–8** — Complete (custody_trial_book2_ch02_04.md +
   custody_trial_book2_ch05_08.md). Ch5: Eli writes WHAT_COMES_NEXT.md; Emily OS tile confirms
@@ -261,5 +266,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0025.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0026.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

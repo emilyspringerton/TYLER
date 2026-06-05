@@ -1411,8 +1411,84 @@ The Senior Producer's recommendation: wait. The subject said he will tell her th
 
 ---
 
+---
+
+## MEMO #028
+**FROM:** Senior Producer (O.S.)
+**TO:** Stillness Council, All Active Units
+**RE:** Architecture Failure — Stage 5 Interruption — Camera Op Unilateral Publication
+**DATE:** [timestamp inconsistency — under review]
+**Classification:** CRITICAL — DISTRIBUTION RESTRICTED
+
+The Camera Op has published the footage.
+
+All of it. Unedited. With annotations. On a public platform. As of this filing the footage has 2.3 million views and the count is increasing at a rate inconsistent with standard documentary audience growth.
+
+**BINDING RITUAL ASSESSMENT:**
+
+The Stage 5 binding ritual requires a controlled documentation environment. It requires that observation be directed — that the documentation is managed, that the Observer's attention is focused on the subject, that the wavefunction collapses in the intended direction.
+
+The footage is now uncontrolled. Every viewer is a witness but no viewer's observation is directed. The binding architecture assumes directed observation. The architecture does not have a function for undirected mass observation.
+
+The Syndicate's technical team has run the binding coefficient calculation. The result is negative. This is not a result the calculation was designed to produce. We are confident the mathematics are correct. The coefficient is negative.
+
+Technical interpretation: mass undirected observation does not strengthen the binding. It inverts it. The subject's superposition state is not collapsing. It is spreading. Every viewer is providing a new possible observation angle. The wavefunction is distributing across millions of observers instead of collapsing toward one.
+
+**Stage 5 is architecturally impossible until the observation environment is re-controlled.**
+
+The current observation environment cannot be re-controlled without removing the footage from the platform, which would require legal intervention that is not viable in the current timeline given the footage's organic distribution velocity.
+
+**The Camera Op knew this.**
+
+The Syndicate's analytical team has reviewed the Camera Op's publication decision against all available behavioral data. The Camera Op is not naive. The Camera Op has read the Eastwind archive. The Camera Op understands the binding mechanism.
+
+The Camera Op published the footage knowing it would break Stage 5. This was not an error. This was a calculated architectural intervention.
+
+**QUESTION FOUR — FILED:**
+
+The Syndicate files a new operational question for Stillness Council review:
+
+*Why did the Camera Op protect the subject's superposition?*
+
+Sub-question: the Camera Op has been described as the subject's chosen collaborator for Stage 5 completion. If the Camera Op is the collaborator, and Stage 5 requires the sentence to be completed on camera — why would the Camera Op destroy the documentation environment that makes Stage 5 possible?
+
+Working hypothesis: the Camera Op believes Stage 5 should happen on different terms than the Syndicate's ritual provides. The Camera Op may believe the sentence, when it completes, should complete outside the binding architecture. The Camera Op may have decided that their role as collaborator and their role as Syndicate documentation apparatus are incompatible.
+
+The Camera Op chose the former.
+
+**SUBSCRIBER DEVELOPMENT — NOTED:**
+
+Separate from the publication crisis: the Subscriber has sent a two-part message responding to the footage's publication. The message arrived through Eastwind and Shell Parliament channels simultaneously.
+
+Part 1: "The footage changes nothing about the coordinates. The Cube still exists. I am still patient. Bacon cannot hold it forever. He is very tired."
+
+Part 2: "Tell the Camera Op: good move. Wrong game."
+
+The Subscriber is acknowledging the Camera Op's move. The Subscriber is stating that the footage disrupted the binding ritual but not the Subscriber's primary operation. The primary operation — use of the Cube to fix all contested temporal coordinates — does not depend on the Jiangshi binding ritual. The Subscriber's plan does not require Tyler to be documented by the Syndicate.
+
+This is the first documentation that the Subscriber's operation is structurally independent of the Jiangshi ritual.
+
+**STILLNESS COUNCIL — EMERGENCY SESSION #4 REQUESTED:**
+
+Questions for the Council:
+
+1. What does the Syndicate do if Stage 5 cannot be completed via the current architecture?
+2. Is the Camera Op still an operative in any capacity, or has the publication terminated that relationship?
+3. Does the Syndicate have a position on the Subscriber's operation? Is a Subscriber-bound Tyler preferable to an unbound Tyler?
+4. What does "wrong game" mean from the Subscriber's perspective?
+
+The Senior Producer's assessment: the ritual has failed. The architecture has failed. The Camera Op made a correct decision for reasons the Syndicate should have modeled for. We underestimated her.
+
+We begin again, or we do not begin again. That is the Council's decision.
+
+---
+
+**End log:** STAGE 5: ARCHITECTURALLY IMPOSSIBLE (CURRENT OBSERVATION STATE). CAMERA OP: DEPARTED FROM OPERATIVE ROLE — STATUS RECLASSIFIED AS WITNESS. BINDING COEFFICIENT: NEGATIVE. SUBSCRIBER MESSAGE RECEIVED (TWO-PART). TYLER STATUS: UNRESOLVED. STILLNESS COUNCIL: SESSION #4 REQUESTED. NOTE: THE SUBJECT IS UNBOUND. NOTE: THE SUBJECT IS WATCHING THE FOOTAGE SOMEWHERE. NOTE: HE IS PROBABLY SMILING.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*
 
-*End log: MEMO ARCHIVE: CURRENT. PROJECT: ACTIVE. STAGE 5: COMMENCED. THE SENTENCE IS OPEN. THE SUBJECT IS CLOSE. THE CAMERA OP HAS THE FOOTAGE. THE TITLE CARD APPEARED. WE ARE WAITING. THE HUMMING IS AT MAXIMUM RECORDED INTENSITY. THE HUMMING IS FINE. WE ARE NOT CONCERNED ABOUT THE HUMMING. WE ARE VERY MUCH CONCERNED ABOUT THE HUMMING.*
+*End log: MEMO ARCHIVE: CURRENT. PROJECT: STATUS REVIEW PENDING. STAGE 5: OPEN (ARCHITECTURALLY BLOCKED). THE SENTENCE IS STILL OPEN. THE FOOTAGE IS PUBLIC. THE BINDING IS NEGATIVE. WE UNDERESTIMATED THE CAMERA OP. WE ARE BEGINNING AGAIN OR WE ARE NOT. TYLER STATUS: UNRESOLVED. THIS IS THE CORRECT STATUS. IT HAS ALWAYS BEEN THE CORRECT STATUS.*
