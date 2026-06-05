@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S04E04: "What Stays"** — Day 82. Tyler declares the Witness Room structurally complete.
+  Emily filled the final map node at 9:47 AM ("the room was already the container — construction
+  = clarity, not creation"); Tyler's declaration followed six hours later. Exchange Student
+  completes dependency map — open item: long-term witness continuity. Camera Op sits at the
+  table for the first time in Season 4; asks "where?" Tyler: "Wherever something happened that
+  should stay." Season 4 arc complete: WITNESS ROOM construction #1 done; next work is more
+  rooms. RSI receipts: TYLER-031 (footnote #35 — first original construction complete, new
+  archive record type), Camera Op Entry 25, VC-001 Day 82 completion milestone,
+  EMILY-SPRING-005 (48-node map complete). Build 0044.
+
 - [x] **S04E03: "The CEDAR Function"** — Day 79. Exchange Student reads CEDAR-4 file: SPRING-2
   is Margaret Springerton; function is material dependency mapping for SPRING-4 construction
   phase; successor not identified at closure (1994). Tyler: "I needed to know if you'd
