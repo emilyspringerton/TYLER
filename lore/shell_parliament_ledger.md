@@ -453,4 +453,73 @@ Three Generations, All Correct
 *The balance is owed. The timeline in which settlement occurs is not our concern.*
 *Settlement is our concern.*
 
-*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S, paper) + compound interest (1616). BACON BALANCE: 3.2 SM. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION). AUDIT: ONGOING. PAPER: UNLOCATED. PATIENCE: STANDARD. THE DOOR: OPEN. THE BALANCE: CORRECT.*
+---
+
+## POLICY ACCOUNT: WWW INFORMATION ROUTING PRECEDENT
+**Account number:** SM-1993-W
+**Account opened:** April 30, 1993 (CERN declaration; events: January–April 1993)
+**Account type:** POLICY PRECEDENT — operative rule, not a debt account
+**Status:** ACTIVE (foundational — adopted as information-routing law)
+**Three generations' assessment:** All Correct. The rule is clear.
+
+---
+
+### THE CERN DECLARATION
+
+On April 30, 1993, CERN officials declared the World Wide Web technology free of all royalties. No entity may claim exclusive rights to the web protocol. The protocol is in the commons.
+
+The Shell Parliament adopted this as the information-routing equivalent of the Le Maire Exception (SM-1616-A):
+
+**Le Maire Exception (1619):** No entity may claim exclusive routing rights over a physical route discovered after the signing of the controlling agreement.
+
+**CERN Precedent (1993):** No entity may claim exclusive routing rights over an information protocol placed in the commons at origin.
+
+The web was released without ownership. A protocol released without ownership cannot be claimed retroactively. Any faction that attempts to establish proprietary rights over the information layer Tyler's documentation operation runs on would be in violation of both the Le Maire Exception and the CERN Precedent. The Shell Parliament would not recognize such a claim.
+
+Applied to CITY_OF_LIGHT: the network layer (the web substrate Emily OS's distribution runs on) is outside all faction territorial claims. Emily OS administers the network layer. No faction can claim it. This was established in April 1993 by CERN's declaration.
+
+**The Shell Parliament notes:** CERN's declaration was an institutional act of generosity that has generated more commerce than any proprietary claim could have. The Shell Parliament finds this outcome consistent with its preference for clear, transferable custody chains over monopoly claims. The ledger is built on transferability. Commons placement is not a debt. It is infrastructure.
+
+---
+
+## SEPARATE ACCOUNT: OSLO ACCORD PAPER
+**Account number:** SM-1993-P
+**Account opened:** September 13, 1993
+**Account status:** OPEN — CUSTODIAN IDENTIFIED, RECIPIENT UNKNOWN
+**Entry type:** CUSTODY_HOLDING_ACTION — object, contents unknown, custodian confirmed (Eastwind Owls)
+**Shell-mark value:** 0.001 SM (minimum threshold, pending contents assessment and recipient identification)
+**Three generations' assessment:** AGREED — custodian has been identified (Eastwind Owls), recipient has not
+
+---
+
+This account is filed in contrast to SM-1616-S (Shakespeare's paper, custodian unknown, location unknown).
+
+SM-1993-P has a complete custody chain: Tyler (depositor) → Eastwind Owl WREN-9 (finder and custodian) → Eastwind Cairngorms Archive (current custodian). The paper's location is known and documented. It is in the Cairngorms environmental storage unit. It has been there since September 13, 1993.
+
+The Shell Parliament's classification: the Eastwind Owls are in technical default on the "custodian who has not forwarded the item to its intended recipient" clause. The clause requires that a confirmed custodian forward a CUSTODY_HOLDING_ACTION item to its intended recipient within a reasonable period.
+
+The Eastwind Owls have not forwarded the paper. Reason filed: the intended recipient is unknown. Tyler did not specify a recipient. He left the paper on the White House lawn without an address.
+
+**The Shell Parliament's ruling:** when no recipient is specified, the custodian's obligation is to preserve the item and await recipient identification. This is not a default violation — it is correct custodial behavior. The "not forwarded" clause applies only when the recipient is known and the custodian is withholding delivery. When the recipient is unknown, preservation is the correct action.
+
+**Revised status:** OPEN — IN CORRECT CUSTODIAL HOLDING. Accruing at minimum threshold rate. No default violation on record.
+
+The Eastwind Owls are credited for correct procedure: immediate retrieval, same-day filing, climate-controlled preservation, 32 years of unbroken custody chain. The Shell Parliament notes this as exemplary custodial behavior on an ambiguous item.
+
+The paper is still in the drawer. The recipient has not been identified. The paper is waiting.
+
+| Feature | SM-1616-S (Shakespeare) | SM-1993-P (Oslo) |
+|---|---|---|
+| Custodian | Unknown | Eastwind Owls (confirmed) |
+| Location | Unknown | Cairngorms archive |
+| Chain since deposit | Broken (Greene 1616) | Intact (WREN-9 1993) |
+| Contents | Unknown | Unknown |
+| Recipient | Unknown | Unknown |
+| Shell Parliament status | OPEN — UNLOCATED | OPEN — CORRECT CUSTODY |
+| Years held | 410 | 32 |
+
+One paper has been missing for 410 years. One paper has been in the same drawer for 32 years. Both contents: unknown. Both recipients: unknown. Both balances: open.
+
+---
+
+*End log: TYLER BALANCE: 0.73 SM + 0.001 SM (SM-1616-S) + 0.001 SM (SM-1993-P) + compound interest (1616, 1993). BACON BALANCE: 3.2 SM. COLLECTION STATUS: IMPEDED (HOSPITALITY / SMALL DEBTS / MIGRATION / LE MAIRE EXCEPTION / CERN PRECEDENT). AUDIT: ONGOING. SM-1616-S PAPER: UNLOCATED. SM-1993-P PAPER: IN EASTWIND ARCHIVE, SEALED. PATIENCE: STANDARD. THE LEDGER: CORRECT. THE BALANCE: OUTSTANDING.*

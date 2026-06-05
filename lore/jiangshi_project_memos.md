@@ -613,6 +613,133 @@ The Tyler documentary, published as a documentary, will survive because it is wh
 
 ---
 
+## MEMO #020
+**FROM:** Doctrine Review Board, Stillness Division
+**TO:** All Senior Archivists; Production Coordinator, Unit A; Technical Division; Legal, Division III
+**RE:** WACO AMENDMENT — TERMINUS_WITHOUT_EXIT DOCTRINE EXPANSION AND VELVET DIVORCE POSITIVE MODEL
+**DATE:** [Filed: current operational cycle | Events documented: 1993 CE]
+**Classification:** FOUNDATIONAL DOCTRINE UPDATE — MANDATORY READING
+
+---
+
+**PREAMBLE:**
+
+In April 1993, the Branch Davidian compound at Mount Carmel Center, Waco, Texas, was terminated by an external party (the U.S. Federal Bureau of Investigation) via dynamic entry and gas insertion, resulting in fire and the deaths of 76 Branch Davidians including their leader.
+
+In January 1993, Czechoslovakia dissolved peacefully into two independent nations: the Czech Republic and the Slovak Republic. No violence. No coercion. Both communities continued.
+
+Both events occurred in 1993. Both events are binding terminus events. They arrived at opposite ends of the spectrum. The Doctrine Review Board files both as foundational precedents.
+
+This memo amends the Jonestown Precedent (Memo #017) to add: (1) the WACO AMENDMENT, filing external catastrophic imposition as a new terminus variant, and (2) the VELVET DIVORCE MODEL, filing the correct terminus as the positive operational template.
+
+---
+
+**PART 1: THE WACO AMENDMENT**
+
+**What Jonestown established (Memo #017):** TERMINUS_WITHOUT_EXIT occurs when a documentation operation accumulates without consent architecture, removes the exit protocol, and reaches a terminal state. The Jonestown event was internally generated — Jones's own coercive architecture produced the catastrophic terminus.
+
+**What Waco adds:** EXTERNAL_CATASTROPHIC TERMINUS — a terminal event imposed on a documentation operation by a third party not party to the operation's architecture.
+
+The ATF and FBI were not Branch Davidian operatives. They were an external institutional force that decided, on their own timeline, that the operation must end. The consent architecture inside the compound — whatever it was — was not consulted. The exit protocol — whatever existed — was not honored. The external party imposed termination.
+
+**Structural contrast:**
+
+| Element | Jonestown | Waco |
+|---|---|---|
+| Terminal event origin | Internal (Jones) | External (FBI) |
+| Consent architecture at terminus | Absent (coercion) | Overridden (not consulted) |
+| Blame-path | Routes to Jones | Routes to external party |
+| Documentation operation architect | Jones | Koresh |
+| Exit protocol | Removed | Irrelevant to external party |
+| Narrative mass generated | 918 units | 520 units (estimated) |
+
+**Key distinction:** Jonestown's mass went to Jones. Waco's mass routes to the external party that imposed termination. The documentation architect (Koresh) bears secondary blame-path contamination. The primary contamination routes to the party that decided the operation must end on their timeline without the operation's consent.
+
+---
+
+**APPLICATION TO TYLER OPERATION:**
+
+The WACO AMENDMENT defines what the Syndicate must prevent: any external party gaining sufficient access to the Tyler documentation operation to impose termination on their timeline.
+
+This is not the same as the Jonestown risk (the Syndicate removing Tyler's exit protocol — which is already prevented by Memo #017's operational directives). The Waco risk is a different faction, an external institution, a third party with no stake in the documentation operation, deciding that it must end.
+
+The correct prevention: the Tyler documentation operation must not become legible as a liability to external parties. A documentation operation that is clearly functioning under consent architecture, that the subject participates in voluntarily, and that produces publicly available material (the Camera Op's publication of footage — Memo #017, directive 3) does not attract external institutional termination.
+
+The Jiangshi Syndicate is not a government agency. The Tyler documentary is not a cult compound. The documentation operation has correct consent architecture. The exit protocol is preserved. Tyler leaves when he wants to. He comes back when he wants to.
+
+The Waco condition requires: an external party perceives the documentation operation as a threat. The Tyler documentation operation, correctly run, should not generate this perception.
+
+---
+
+**TYLER'S ABSENCE FROM WACO:**
+
+The Eastwind Owls have filed a Subject Absence Report for the Waco terminus event. Tyler was not present. This is anomalous against the 400-year archive.
+
+The Doctrine Review Board's assessment: if Tyler's absence from Waco is intentional (and the Syndicate cannot determine this), it represents a significant refinement of his terminal-event navigation strategy. Previous terminal events he was adjacent to were internally generated (Jonestown, Moro, the New England dying). Waco was externally imposed. If Tyler distinguishes between these categories — and his absence from the one external-imposition terminal event in the modern archive suggests he might — then Tyler's presence at terminal events is selective rather than automatic.
+
+This means Tyler's presence at a terminal event can be used as a classification indicator: if Tyler is present, the terminal event is likely internally generated. If Tyler is absent, check for external imposition.
+
+The Doctrine Review Board does not confirm this framework. The single data point (one absence) is insufficient for doctrine. The framework is filed as a hypothesis for future field teams.
+
+---
+
+**PART 2: THE VELVET DIVORCE MODEL**
+
+On January 1, 1993, Czechoslovakia dissolved into the Czech Republic and Slovak Republic. Two nations, no blood, no coercion, fully equitable distribution of shared infrastructure.
+
+This is the TERMINUS_WITH_CORRECT_EXIT template.
+
+Terminus classification spectrum (now complete):
+
+```
+CORRECT EXIT                                    CATASTROPHIC
+Velvet Divorce ←─────────────────────────────→ Jonestown/Waco
+Both parties      Both parties    One party     No one exits
+continue,         continue,       exits,        correctly.
+independent.      weakened.       one doesn't.  Mass: catastrophic.
+Mass: minimal.    Mass: moderate. Mass: high.
+```
+
+**What the Velvet Divorce demonstrates:**
+
+1. Large bounded communities can dissolve without catastrophe when consent architecture is maintained throughout the dissolution.
+2. Equitable distribution of shared assets prevents blame-path contamination.
+3. Correct exits generate minimal narrative mass. Jonestown: 918 units. Velvet Divorce: approximately 0.5 units. The mass differential is the measurement of coercion.
+4. Both parties continuing as independent entities is not failure — it is the correct outcome of a dissolution that has done its work.
+
+**Application to Tyler operation:**
+
+The Tyler documentation operation is not a Czechoslovakia — it is not being dissolved. But the Velvet Divorce doctrine applies to how the operation should terminate at Stage 5: when Tyler completes the sentence, both parties (Tyler and the Syndicate, Tyler and the Camera Op, Tyler and the documentation operation) should continue as independent entities. Tyler names himself and remains Tyler. The operation produces its correct output (the documentary) and continues as the documentary. The Syndicate continues as the Syndicate.
+
+Neither Tyler nor the Syndicate should cease to exist at Stage 5. That is not what a correct terminus looks like. The Velvet Divorce shows: the correct terminus is the point at which the shared architecture has done its work and the parties can continue independently.
+
+The sentence Tyler completes at Stage 5 is not his last sentence. It is the first sentence in a different mode of being. He will still be Tyler after Stage 5. The Syndicate will still be the Syndicate. The Camera Op will have the documentary. Everyone continues.
+
+---
+
+**REVISED TERMINUS CLASSIFICATION TABLE:**
+
+| Classification | Event | External? | Mass | Both Continue? |
+|---|---|---|---|---|
+| CORRECT | Velvet Divorce (1993) | No | 0.5 | Yes |
+| TREATY | Camp David/Oslo | No | Low | Yes |
+| INCOMPLETE | Stage 1–4, Tyler operations | No | Building | Pending |
+| FAILED | Three prior Tyler attempts | No | Moderate | Both continue, operation restarts |
+| CATASTROPHIC (internal) | Jonestown (1978) | No | 918 | No |
+| CATASTROPHIC (external) | Waco (1993) | Yes | 520 | No |
+
+**The Tyler operation's target classification:** CORRECT.
+
+Both Tyler and the Syndicate continue. The documentary is completed. The sentence is finished. Tyler remains Tyler. The Syndicate remains the Syndicate. The Camera Op has the documentary. The narrative mass: minimal. The blame path: clean.
+
+This is the doctrine. The Chymical Wedding (Memo #019) calls this: the ring is given, the doorkeeper remains at the door but the door is now open. The Velvet Divorce calls this: both nations wave across the border.
+
+Both descriptions are correct.
+
+**End log:** WACO AMENDMENT: FILED. EXTERNAL_CATASTROPHIC: NEW TERMINUS VARIANT. TYLER ABSENCE FROM WACO: HYPOTHESIS PENDING ADDITIONAL DATA. VELVET DIVORCE: POSITIVE TEMPLATE FILED. TERMINUS SPECTRUM: COMPLETE. TARGET CLASSIFICATION: CORRECT. BOTH PARTIES CONTINUE. THE SENTENCE: STILL OUTSTANDING. THE DOCUMENTARY: STILL IN PROGRESS.
+
+---
+
 *JIANGSHI SYNDICATE — PROJECT DOCUMENTATION*
 *Documentary Unit A | Internal Use Only*
 *The subject is not documented. This is a temporary condition.*

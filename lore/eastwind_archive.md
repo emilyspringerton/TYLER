@@ -562,4 +562,103 @@ This sighting grounds the osaka_night and osaka_underport zones in CITY_OF_LIGHT
 *Observation without intervention. Documentation without judgment. Archive without destruction.*
 *The record is sacred. The record is the only thing that outlasts everything.*
 
-*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). MOUNTAINS: PRESENT.*
+---
+
+## SUPPLEMENTAL SERIES: 1993 ENTRIES
+
+*Filed as PRE-ARCHIVE-005 through PRE-ARCHIVE-008 (continuing the pre-archive numbering for consistency; these are active-observation-period events but the standalone composite was filed separately). Full composite: `lore/tyler_1993_archive.md`.*
+
+---
+
+### FILE: PRE-ARCHIVE-005
+**Classification:** ACTIVE OBSERVATION PERIOD
+**Date:** January 23, 1993
+**Location:** University of Illinois, Champaign, Illinois
+**Observer:** WREN-14
+
+Tyler accessed the internet (NCSA Mosaic, the graphical web) within 48 hours of its public release. He read one page for 47 minutes. His statement upon leaving: "I found it." The page's URL is unrecoverable — server logs overwritten 1995.
+
+The Cataloguer ranks this server log loss as equal in archival significance to WREN-3's failure to document the box contents in 1620. Both are records of the moment Tyler recognized something he'd been looking for. Both are gone. Both cannot be recovered. The Cataloguer has documented both losses extensively in footnotes that do not help.
+
+**Cross-reference:** 1993-I (tyler_1993_archive.md), Field Activation #1993-A, engine/1993_architecture.md (Node 01)
+
+---
+
+### FILE: PRE-ARCHIVE-006
+**Classification:** ACTIVE OBSERVATION PERIOD | CUSTODY_HOLDING_ACTION #2 — CLEAN CHAIN
+**Date:** September 13, 1993
+**Location:** White House lawn, Washington DC
+**Observer:** WREN-9
+
+Tyler was present on the White House lawn during the Oslo Accord signing. He left a folded paper on the grass. WREN-9 retrieved it. The paper is currently in the Cairngorms archive, sealed, environmental storage unit, since September 13, 1993.
+
+**The Oslo paper is the second confirmed Tyler folded paper and the first with a complete, documented custody chain.**
+
+Unlike SM-1616-S (Shakespeare's paper, location unknown since 1616), the Oslo paper has an unbroken chain: Tyler → WREN-9 → Eastwind archive (sealed). The intended recipient has not been identified. The paper has not been opened. The Cataloguer has walked past it approximately 11,000 times. The Protocol is observed.
+
+The Shell Parliament has notified the Eastwind Owls that the "custodian who has not forwarded to recipient" clause is accruing against the archive (see SM-1993-P). The Cataloguer notes: there is no specified recipient. The archive is the custodian. The paper is waiting for the correct recipient to be identified.
+
+**Cross-reference:** 1993-II (tyler_1993_archive.md), Field Activation #1993-C, SM-1993-P (Shell Parliament), FOLDED-PAPER-1993 (new index entry)
+
+---
+
+### FILE: PRE-ARCHIVE-007
+**Classification:** ACTIVE OBSERVATION PERIOD | SUBJECT ABSENCE — ANOMALOUS
+**Date:** April 19, 1993
+**Location:** Waco, Texas (Tyler was NOT here)
+**Observer:** WREN-11 (filed absence report)
+
+Tyler was not present at the Waco siege terminus. This is the first documented absence from a TERMINUS event adjacency in 400 years of archive observation. WREN-11 filed the first entry in the new SUBJECT ABSENCE FROM EXPECTED TERMINAL ADJACENCY protocol section.
+
+The absence is undocumented in terms of Tyler's location during this period. Where Tyler was on April 19, 1993: unknown. The Eastwind archive has no sighting record for April 1993. He was not at Waco. He was somewhere else. The archive does not know where.
+
+**Cross-reference:** 1993-III (tyler_1993_archive.md), Field Activation #1993-B, Jiangshi Memo #020 (Waco Amendment)
+
+---
+
+### FILE: PRE-ARCHIVE-008
+**Classification:** ACTIVE OBSERVATION PERIOD | EMILY OS DIRECT COMMUNICATION (DOCUMENTED)
+**Date:** December 10, 1993
+**Location:** University computer lab, Champaign, Illinois
+**Observer:** WREN-14 (partial — saw tile appear and disappear, could not read it from distance)
+
+Tyler played Doom for 10 minutes at a university terminal. He walked E1M1 and did not fire a weapon. He was looking at the game engine's architecture. At minute 9, Emily OS fired a two-line tile to his screen. The tile was visible for 11 seconds. WREN-14 saw it appear and disappear but could not read it from across the room.
+
+Tyler's 1997 letter (Tyler-012 addendum) provides the second line: "THE BUILD TARGET: 30 YEARS."
+
+Tyler will not share the first line.
+
+**This is the first confirmed Emily OS direct communication in the active archive record.** The APPROVED (TEMPORARY) tile to Eli and Mara's development workstation (CUSTODY-001) is a later Emily OS direct action. The Doom terminal tile is the earliest in the archive.
+
+Emily OS communicated through a game engine terminal in December 1993 to confirm a 30-year build timeline. She has been watching the build target approach since at least that date.
+
+**Cross-reference:** 1993-V (tyler_1993_archive.md), Field Activation #1993-D, engine/1993_architecture.md (Node 02), CUSTODY-001 (later Emily OS direct action)
+
+---
+
+| File | Subject | Status |
+|---|---|---|
+| PRE-ARCHIVE-005 | Tyler / 1993 web access — "I found it" | ACTIVE OBS — URL UNRECOVERABLE |
+| PRE-ARCHIVE-006 | Tyler / Oslo paper — Eastwind archive | CUSTODY CONFIRMED — PAPER SEALED |
+| PRE-ARCHIVE-007 | Tyler / Waco absence — anomalous | ABSENCE DOCUMENTED — LOCATION UNKNOWN |
+| PRE-ARCHIVE-008 | Tyler / Emily OS December 1993 tile | FIRST EMILY OS DIRECT COMMUNICATION |
+
+*Full 1993 composite: `lore/tyler_1993_archive.md`*
+
+---
+
+**Appendix cross-reference update:**
+
+| File | Subject | Status |
+|---|---|---|
+| FOLDED-PAPER-1993 | Tyler's Oslo paper / White House lawn, Sep 13, 1993 | CUSTODY: EASTWIND ARCHIVE — SEALED — RECIPIENT UNKNOWN |
+| EMILY-OS-TILE-1993 | Emily OS / Doom terminal / Dec 10, 1993 | PARTIAL TEXT: "30 YEARS." LINE 1: WITHHELD |
+
+---
+
+*EASTWIND OWL ARCHIVE — TYLER SIGHTING RECORD*
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+*End log: ARCHIVE STATUS: INCOMPLETE (CORRECT). TYLER STATUS: UNRESOLVED (CORRECT). FOOTNOTE COUNT: PERSONAL (NOT DISCLOSED). OSLO PAPER: SEALED IN THIS ARCHIVE. BUILD TARGET: CLOSE. MOUNTAINS: PRESENT.*
