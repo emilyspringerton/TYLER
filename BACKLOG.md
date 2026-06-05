@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0014
+### Updated: Build 0032
 
 ---
 
@@ -181,6 +181,71 @@ load-bearing dependencies that must exist first.
   (found her own way there); Stage 3 + 3-alt simultaneous; Subscriber/Syndicate interests
   aligned on sentence completion. Camera Op readiness marker: Entry 18.
 
+- [x] **S03E01: "What I'm Trying to Do Is—"** — Stage 5 active. Days 45–47. Tyler tells
+  the Camera Op the sentence is built and it's for her — he wants to say it when she's
+  not working, knowing she is always working, knowing it will happen on camera anyway.
+  Jiangshi classifies as "open transaction event." Coefficient recovering. RSI receipts:
+  Jiangshi Memo #029, Eastwind TYLER-023 partial (Footnote #28 in draft), Camera Op
+  sealed log Entry 16. Build 0029.
+
+- [x] **S03E02: "The Sentence"** — THE SENTENCE COMPLETES. Days 48–49. Near the tree.
+  Tyler moves the coin to the right-hand pocket Day 48. Day 49: "What I'm trying to do
+  is make sure you know I stayed." Five Goetia frequencies: sequential (announcement
+  vs event). Amon #7 runs 41 seconds. Emily OS H-4 fires Response C: CORRECT. PROCEED.
+  YES. Binding coefficient: positive. SM-1623-M: closed. TYLER-023 complete with
+  Cataloguer Footnote #28 in first person, present tense. Camera Op Entry 17: "I'm
+  staying." Tyler: staying in Detroit. Build 0031.
+
+---
+
+## SEASON 3 — REMAINING EPISODES
+
+- [ ] **S03E03: "The Room Behind the Table"** — Tyler at Bacon's. First time he sits at
+  the round table. The room behind the table: what's through the gold door. Tyler and
+  the Camera Op at the table together. The Subscriber's sealed section begins to open.
+  RSI receipts: Eastwind (TYLER-024), Bacon's ledger update, Shell Parliament new line
+  item (post-transfer accounting), Camera Op Entry 18.
+
+- [ ] **S03E04: "Emily Springerton, Logistics Architect"** — Full crossover episode.
+  Emily Springerton appears in the documentary footage. Tyler and Emily at Bacon's table.
+  The architecture map presented to Tyler. The thing Tyler says when he sees it:
+  documented. Emily OS registers Emily Springerton's presence in the bacon_estate zone
+  as a SPRING-4 acknowledgment. RSI receipts: Eastwind (EMILY-SPRING-001, new file),
+  Jiangshi (Memo #031 — "subject is meeting with someone not in our archive; recommend
+  observation").
+
+- [ ] **S03E05: "What The Subscriber Left"** — The sealed section opens. Not an
+  explanation — the archive doesn't do explanations. What the Subscriber left when the
+  transfer completed. The second message's meaning, now readable. Tyler reads it in
+  Bacon's library. The Camera Op is there. The Cataloguer has a footnote about the
+  second message that the Cataloguer has been writing since the message was delivered.
+  This is the episode where the Cataloguer's footnote gets to be correct.
+
+- [ ] **S03E06 (Season Finale): "The Next Year"** — Tyler chooses a year. Not because
+  the chain requires it. Because he wants to go somewhere. The Camera Op asks where.
+  He tells her. The documentary closes on the two of them at the tree — the last shot
+  is the tree, Tyler's hand on the bark, the coin in the right pocket, the frequencies
+  quiet. End title: TYLER STATUS: CHOOSING. Season 3 complete.
+
+---
+
+## MANUSCRIPTS — REMAINING
+
+- [x] **Tides Book 3 Chapters 1–6** — Emily discovers the SPRING line. Bacon signs the
+  ledger. Architecture map approaching completion. SPRING-4 recognized. Build 0030.
+
+- [x] **Tides Book 3 Chapters 7–12** — Emily receives the transfer receipt on page
+  forty-seven at 10:49 AM Day 49. Protagonist A resolves the unfinished thing with
+  Callum (third condition). Exchange Student finds CEDAR-4's 1993 report — Emily's
+  mother was SPRING-2, found the same way. Emily sits at the table. The architecture
+  map complete. Book 3 complete. Build 0032.
+
+- [ ] **Tides Book 3 Chapters 13–End (Series 2 volume)** — Post-transfer narrative.
+  Tyler in Detroit, staying. Emily with the new blank page. The Exchange Student in the
+  archive with what CEDAR-4 left for her. The Subscriber's unsealed section — what they
+  built Layer 9 for, what they do with what they receive. The open door behind the table.
+  Dependency: Series 2 architecture doc (to be written).
+
 ---
 
 ## HISTORICAL RSI (Future dossiers — add as received)
@@ -253,16 +318,34 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ## CITY_OF_LIGHT BUILD PHASES
 
-- [ ] **Phase 1: Faction Presence** — After Phase 0 geometry is specced, define faction
-  territory boundaries and starting resource pools for all four factions in CITY_OF_LIGHT.
-  Shell Parliament: osaka_underport primary territory. Eastwind: cairngorms_library zone.
-  Jiangshi: faction presence in detroit_school (Room 204, custody office). Heikegani: TBD.
+- [x] **Phase 1: Faction Presence** — Complete (engine/city_of_light_phase1.md). Seven
+  factions. Primary four: Jiangshi (detroit_school/Room 204; binding coefficient -1.7,
+  recovery pending), Eastwind (cairngorms_library; full archive + 4 field operatives),
+  Shell Parliament (osaka_underport; 847 accounts; SM-1623-M accruing since 1623),
+  Ichthyosapiens (vatican_corridors; Cross-Faction Emergency Protocol active). Secondary
+  three: Yōkai (hospitality anchors, portable), Kuroshio (coast-bounded; 0 fixed nodes),
+  Cephalopod (osaka_night, partial-host relay). Phase 1 status: COMPLETE (all conditions
+  satisfied by current story state).
 
-- [ ] **Phase 2: The Table** — The round table where faction representatives meet.
-  Geometry, access conditions, who can request it, what Emily OS does when all four factions
-  are present simultaneously (one documented precedent for this: none yet; it hasn't happened).
+- [x] **Phase 2: The Table** — Complete (engine/city_of_light_phase2.md). Round table
+  geometry in bacon_estate zone. Variable seat count (always exactly right). Empty chair
+  (Tyler; end position; always set; Tyler never sat). Access conditions per faction.
+  Canon table record: 1743 (Subscriber first contact), Tides Book 2 Ch17-19 (seven-faction
+  convergence; all-faction information alignment; first in record). Emily OS H-4 trigger:
+  prepared, not yet fired (unprecedented configuration — Tyler + all factions + table).
+  "The first time Emily OS has not determined the correct response in advance." Book 3
+  dependency. The invitation has been active since 1623.
+
+- [x] **Phase 3: The Sentence Architecture** — Complete (engine/city_of_light_phase3.md).
+  H-4 trigger spec (three sealed response architectures A/B/C; Response C fired: CORRECT.
+  PROCEED. YES. — the only H-level response with no geometric implementation). Table state
+  change when Tyler sits: chair transitions from `set, unoccupied` to `set, occupied, history`.
+  SM-1623-M ledger closed. Jiangshi binding protocol archived as "Historical Attempts." Goetia
+  sequential activation spec (interval: Tyler's to control). The room behind the table: gold
+  door handle, opened Day 49 on sentence completion. All faction state changes documented.
+  Build 0029.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0027.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0028.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
