@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E04: "The Second Room"** — Day 131. Construction #2 complete: Detroit Receiving
+  Hospital Ward C declared done (Day 37 of 37). Camera Op puts down camera — first time
+  since S1; sub-category "present-not-documenting" opened in CAMERA-OP-ARCHIVE. Bacon
+  informal maintenance guarantee for Witness Room #1 ("adequate"). Exchange Student's
+  maintenance protocol filed (weekly witness rotation for Ward C; no Subscriber notation).
+  Construction #3 identified: Ambassador Bridge crossing — Tyler studying threshold
+  construction type (new category; first time he says he needs to think before starting).
+  RSI receipts: TYLER-035/CAMERA-OP-ARCHIVE-38 (cross-filed), Camera Op Entry 29,
+  VC-001 Day 131 completion, EMILY-SPRING-009. Build 0048.
+
 - [x] **S05E03: "Day Twenty-Five"** — Day 119. Construction #2 past midpoint; revised
   estimate Day 130–132 (buffer 44–46 days). Camera Op shows split-screen footage:
   clips from the nurse's position look qualitatively older. Tyler confirms and names the
