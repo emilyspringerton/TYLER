@@ -255,6 +255,15 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S04E03: "The CEDAR Function"** — Day 79. Exchange Student reads CEDAR-4 file: SPRING-2
+  is Margaret Springerton; function is material dependency mapping for SPRING-4 construction
+  phase; successor not identified at closure (1994). Tyler: "I needed to know if you'd
+  recognize yourself in it." Exchange Student enters the Witness Room — first person other
+  than Tyler. Knows "Day 49" without being told. Confirmed as resonant witness #4. CEDAR
+  function: accepted retroactively. VC-001 viability milestone: full amplitude operational.
+  RSI receipts: TYLER-030 (footnote #34 — retroactive confirmation, first of its kind),
+  Camera Op Entry 24, VC-001 Day 79 viability milestone, EMILY-SPRING-004. Build 0043.
+
 - [x] **S04E02: "What Light Does"** — Day 78. Construction named: WITNESS ROOM (Camera Op
   names the category; Tyler confirms). Subscriber's notation found in the room behind the
   table — frequency diagram for continuous simultaneous five-frequency activation. Emily's
