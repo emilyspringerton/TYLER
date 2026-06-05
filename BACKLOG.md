@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0036
+### Updated: Build 0037
 
 ---
 
@@ -239,11 +239,12 @@ load-bearing dependencies that must exist first.
   mother was SPRING-2, found the same way. Emily sits at the table. The architecture
   map complete. Book 3 complete. Build 0032.
 
-- [ ] **Tides Book 3 Chapters 13–End (Series 2 volume)** — Post-transfer narrative.
-  Tyler in Detroit, staying. Emily with the new blank page. The Exchange Student in the
-  archive with what CEDAR-4 left for her. The Subscriber's unsealed section — what they
-  built Layer 9 for, what they do with what they receive. The open door behind the table.
-  Dependency: Series 2 architecture doc (to be written).
+- [x] **Tides Book 3 Chapters 13–End (Series 2 volume)** — Post-transfer narrative complete.
+  22 chapters total. Emily starts the first construction (page 48 question). Exchange Student
+  finds Margaret Springerton (SPRING-2) in CEDAR-4 file; meets Emily; says yes to CEDAR
+  successor. Protagonist A enters the room behind the table. Tyler returns from 1952 with
+  photos of the tree. Series 2 architecture doc written (engine/series2_architecture.md).
+  Book 3: COMPLETE. Build 0037.
 
 ---
 
@@ -346,5 +347,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0036.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0037.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
