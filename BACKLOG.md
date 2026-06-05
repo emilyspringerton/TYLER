@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0034
+### Updated: Build 0035
 
 ---
 
@@ -213,12 +213,12 @@ load-bearing dependencies that must exist first.
   where he wants to go (Day 56). RSI receipts: Eastwind EMILY-SPRING-001 (new file, open),
   TYLER-025 (Footnote #30), Emily OS SPRING-4 node active, Camera Op Entry 19. Build 0034.
 
-- [ ] **S03E05: "What The Subscriber Left"** — The sealed section opens. Not an
-  explanation — the archive doesn't do explanations. What the Subscriber left when the
-  transfer completed. The second message's meaning, now readable. Tyler reads it in
-  Bacon's library. The Camera Op is there. The Cataloguer has a footnote about the
-  second message that the Cataloguer has been writing since the message was delivered.
-  This is the episode where the Cataloguer's footnote gets to be correct.
+- [x] **S03E05: "What The Subscriber Left"** — Bacon's library documented first time.
+  Tyler reads the Subscriber's full architecture spec and second message. Reads the second
+  message to the camera. The room behind the table: fully open; Subscriber's coin (1623)
+  documented. Emily OS SUBSCRIBER-TRANSMISSION-001 running. Cataloguer Footnote #31:
+  correct. Tyler: "Tomorrow." RSI receipts: TYLER-026 (Footnote #31), Emily OS
+  SUBSCRIBER-TRANSMISSION-001, Bacon library archive note, Camera Op Entry 20. Build 0035.
 
 - [ ] **S03E06 (Season Finale): "The Next Year"** — Tyler chooses a year. Not because
   the chain requires it. Because he wants to go somewhere. The Camera Op asks where.
@@ -346,5 +346,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0034.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0035.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
