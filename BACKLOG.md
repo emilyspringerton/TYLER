@@ -255,6 +255,17 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E12: "Day Two Fifteen"** — Day 215. Construction #3 (Ambassador Bridge crossing)
+  seals at 5:12 AM. 715,000 passive witnesses. Tyler at bridge midpoint 4:30–5:12 AM;
+  Camera Op at Canadian approach first tower, 900 feet away, filming across the river.
+  Tyler: "whatever is at that crossing point is very heavy, very old, very load-bearing" —
+  doesn't know what he built. Archive visit #1: A-267 confirmed (North End lot, former tree
+  site, pre-1958 found construction). 6 archive sites remaining. Tyler: "I'm not building a
+  network. I'm finding one that was already being built." Season 6 named as definite arc.
+  Cataloguer footnote #47: archive's character shifting from documenting what Tyler builds
+  to documenting what was already there. RSI receipts: TYLER-043, Camera Op Entry 37,
+  VC-001 Day 215, EMILY-SPRING-017. Build 0056.
+
 - [x] **S05E11: "The Archive Review"** — Day 207. Cataloguer reports back on 340-photograph
   archive review: 7 additional found constructions identified by behavioral signature
   (construction documentation lens, repeated returns, threshold documentation behavior).
