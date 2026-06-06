@@ -255,6 +255,17 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E10: "Saint Antoine"** — Day 198. Tyler goes to Bethel AME alley, Saint Antoine
+  Street (photograph 9). Finds construction already running since 1957 — built by Dorothy
+  Hazel Simmons and the 1957 NAACP chapter in the alley behind the church. Tyler witnesses
+  it; adds one resonant witness; does not build. First construction Tyler didn't build.
+  New construction type established: FOUND CONSTRUCTION (pre-existing, self-sustaining,
+  Tyler as witness not builder). Full 340-photograph archive now implicated — how many
+  found constructions are in the full archive? Cataloguer going back through index.
+  Camera Op waited at alley entrance 38 min, understood without being told it was the
+  threshold. Construction #3 crossing: Day 48/~65, ~528,000 witnesses. RSI receipts:
+  TYLER-041, Camera Op Entry 35, VC-001 Day 198, EMILY-SPRING-015. Build 0054.
+
 - [x] **S05E09: "The Photograph Study"** — Day 191. Tyler sorts remaining 7 photographs:
   4 construction candidates retained (photos 4, 5, 6, 9), 3 eliminated (3, 7, 8).
   Strongest: photograph 9 — alley behind Bethel AME, Saint Antoine Street, 1957 NAACP
