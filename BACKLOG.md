@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E11: "The Archive Review"** — Day 207. Cataloguer reports back on 340-photograph
+  archive review: 7 additional found constructions identified by behavioral signature
+  (construction documentation lens, repeated returns, threshold documentation behavior).
+  Network scope revised: 4 built + 8 found candidates (1 confirmed, 7 unverified) + 4
+  active build candidates = up to 16 nodes if all confirmed. Tyler: "I've been finding
+  constructions for 22 years without knowing the word." Cataloguer: "We were both working
+  with incomplete vocabularies." Crossing: Day 57/~65, ~627,000 witnesses, Day 215 estimate.
+  Tyler plans archive site visits after crossing completes. RSI receipts: TYLER-042, Camera
+  Op Entry 36, VC-001 Day 207, EMILY-SPRING-016. Build 0055.
+
 - [x] **S05E10: "Saint Antoine"** — Day 198. Tyler goes to Bethel AME alley, Saint Antoine
   Street (photograph 9). Finds construction already running since 1957 — built by Dorothy
   Hazel Simmons and the 1957 NAACP chapter in the alley behind the church. Tyler witnesses
