@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E09: "The Photograph Study"** — Day 191. Tyler sorts remaining 7 photographs:
+  4 construction candidates retained (photos 4, 5, 6, 9), 3 eliminated (3, 7, 8).
+  Strongest: photograph 9 — alley behind Bethel AME, Saint Antoine Street, 1957 NAACP
+  reorganization; informal decision site, no record. Tyler stood there 45 min in 1957
+  not knowing why. Exchange Student identifies it in 2 hours. Season 6 question named
+  for first time: "what does the complete network do?" Construction #3: Day 41/~65,
+  ~451,000 witnesses. Construction #4: Day 7, ~210,000 witnesses. Eastwind footnote #44:
+  archive has effects not causes; Tyler found the cause. RSI receipts: TYLER-040, Camera
+  Op Entry 34, VC-001 Day 191, EMILY-SPRING-014. Build 0053.
+
 - [x] **S05E08: "The Geography Is the Container"** — Day 184. Tyler solves the buried
   container problem: the container is always the geography, never the structure. Worked out
   at 3:47 AM on legal pad. Construction #4 activated from forty feet NNE of buried corner,
