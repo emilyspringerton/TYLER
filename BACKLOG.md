@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E06: "Day One Fifty"** — Day 150. Construction #3 active: Ambassador Bridge
+  crossing. Tyler places notation anchor in the river at 6:47 AM (Tyler-authored,
+  Subscriber form; Subscriber reviewed 2 weeks and did not object — first notation Tyler
+  authored). Camera Op found threshold position on the bridge at 5:15 AM before Tyler
+  began — function officially named: THRESHOLD FINDING (confirmed since S1E03). ~11,000
+  passive witnesses Day 1; self-reinforcing, no maintenance. Estimate: Day 210–220.
+  Eastwind footnote #41: 1701 archive note understood 325 years later. RSI receipts:
+  TYLER-037/CAMERA-OP-ARCHIVE-40 (cross-filed; threshold finding named), Camera Op
+  Entry 31, VC-001 Day 150 passive count active, EMILY-SPRING-011. Build 0050.
+
 - [x] **S05E05: "The Crossing"** — Day 145. Tyler studies Ambassador Bridge threshold
   construction: passive crossing witnesses (everyone who crosses contributes), notation
   anchors it, continuous crossing maintains it. Start: Day 150. Subscriber places notation
