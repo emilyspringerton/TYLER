@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E08: "The Geography Is the Container"** — Day 184. Tyler solves the buried
+  container problem: the container is always the geography, never the structure. Worked out
+  at 3:47 AM on legal pad. Construction #4 activated from forty feet NNE of buried corner,
+  through I-375 infrastructure, oriented to buried geography — method identical to bridge
+  crossing (through deck, not on raw geography). ~30,000 passive witnesses per day via
+  highway traffic. Canon: container = geography not structure; retroactively correct for all
+  four constructions. Camera Op: elevated position, seeing concrete and Tyler simultaneously.
+  EMILY-SPRING-013 map updated. RSI receipts: TYLER-039, Camera Op Entry 33, VC-001 Day 184,
+  EMILY-SPRING-013. Build 0052.
+
 - [x] **S05E07: "Hastings Street"** — Day 183. Tyler identifies construction #4 candidate:
   Hastings/Vernor corner (June 1943 riot, informal Sunday music practice interrupted —
   "something ended and nobody recorded what"). Exchange Student locates 1978 oral history
