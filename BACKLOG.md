@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E07: "Hastings Street"** — Day 183. Tyler identifies construction #4 candidate:
+  Hastings/Vernor corner (June 1943 riot, informal Sunday music practice interrupted —
+  "something ended and nobody recorded what"). Exchange Student locates 1978 oral history
+  (James Elwood interview — "the room where we practiced," last session June 1943).
+  Complication: container demolished 1962 (I-375 approach ramp). Tyler stands at buried
+  geography 40 min — event confirmed present under concrete. Construction method TBD.
+  Crossing construction: Day 33 of ~65, ~360,000 passive witnesses. Eastwind footnote #42:
+  archive had a gap record since 1943 — Tyler photographed the gap in 1952. RSI receipts:
+  TYLER-038, Camera Op Entry 32, VC-001 Day 183, EMILY-SPRING-012. Build 0051.
+
 - [x] **S05E06: "Day One Fifty"** — Day 150. Construction #3 active: Ambassador Bridge
   crossing. Tyler places notation anchor in the river at 6:47 AM (Tyler-authored,
   Subscriber form; Subscriber reviewed 2 weeks and did not object — first notation Tyler
