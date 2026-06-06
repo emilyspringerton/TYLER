@@ -255,6 +255,16 @@ load-bearing dependencies that must exist first.
   function spec, dependency map, Series 2 arc summary (Seasons 4–6). Dependency: Series 2
   architecture doc. Filed at `characters/exchange_student.md`. Build 0038.
 
+- [x] **S05E05: "The Crossing"** — Day 145. Tyler studies Ambassador Bridge threshold
+  construction: passive crossing witnesses (everyone who crosses contributes), notation
+  anchors it, continuous crossing maintains it. Start: Day 150. Subscriber places notation
+  at Detroit Receiving Ward C — nurse's position — Camera Op reads it first, asks contents
+  sealed; archive respects seal; maintenance reduced to every 2 weeks (self-sustaining).
+  Exchange Student revises dependency map: passive crossing witnesses = infinite supply chain.
+  Eastwind footnote #40: 1952 archive note updated — "He is noting" → "He is building" (74
+  years). RSI receipts: TYLER-036, Camera Op Entry 30, CAMERA-OP-ARCHIVE-39 (sealed),
+  VC-001 Day 145, EMILY-SPRING-010. Build 0049.
+
 - [x] **S05E04: "The Second Room"** — Day 131. Construction #2 complete: Detroit Receiving
   Hospital Ward C declared done (Day 37 of 37). Camera Op puts down camera — first time
   since S1; sub-category "present-not-documenting" opened in CAMERA-OP-ARCHIVE. Bacon
