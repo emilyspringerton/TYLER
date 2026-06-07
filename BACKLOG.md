@@ -513,12 +513,16 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   at `compiled/s01e02/mpt_payload.json`, `--s01e02` flag added to activation script.
   Next: S01E01 pipeline confirmed → `./compiled/mpt_activation.sh --s01e02` → select best.
 
-- [ ] **Emily RSI loop → MPT compilation trigger** — When Claude Code writes a new episode script
+- [x] **Emily RSI loop → MPT compilation trigger** — When Claude Code writes a new episode script
   to `episodes/`, the observation-watcher should also invoke MPT to compile the episode clip.
   Spec the trigger mechanism in `engine/moneyprinter_pipeline.md`: episode file detected →
   extract MPT topic from script header → POST to MPT API at `http://127.0.0.1:8080/api/v1/videos` →
   poll for completion → move output to `compiled/`. Emily Prime observation after completion.
   Dependency: MPT API confirmed running, full episode pipeline working end-to-end.
+  **Build 0022:** Spec complete (engine/moneyprinter_pipeline.md §VI, sections A–I). Trigger
+  script implementation requires `Write(compiled/*)` added to settings.json — one-line addition,
+  tracked here. Episode header standard defined; topic extraction algorithm written; hook wiring
+  specced (Path 1: PostToolUse; Path 2: emily.sh sweep); Emily Prime observation protocol defined.
 
 - [x] **SHANKPIT → MPT local materials bridge** — MPT supports local video materials. When
   SHANKPIT's Tyler-mode renderer produces scene output, that footage can be used as MPT local

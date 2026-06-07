@@ -71,7 +71,13 @@ S01E02 "The School That Isn't There" clip package built: topic derived from the 
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0021*
-*Next build: 0022*
+## Build 0022 — Emily RSI Loop → MPT Compilation Trigger Spec
+Files: engine/moneyprinter_pipeline.md (Section VI replaced, Sections VI.A–VI.I), BACKLOG.md, activity.md
+Section VI of moneyprinter_pipeline.md replaced with a complete implementation spec for the Emily RSI loop → MPT compilation trigger: episode script header standard (MPT_TOPIC field + fallback extraction algorithm), trigger script interface (`compiled/mpt_episode_trigger.sh` — specced, not yet written), topic extraction with graceful fallback for existing episodes, payload generation schema, dual hook wiring paths (PostToolUse hook + emily.sh loop sweep), output routing structure, Emily Prime observation protocol (eight-laws surface check template + selection guidance + next RSI target). Implementation gap noted: `Write(compiled/*)` not in Tyler agent permissions; trigger script requires one-line settings.json addition outside agent scope. The spec is the build; the script is the next step once the permission is added.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0022*
+*Next build: 0023*
 *Loop status: ACTIVE — Tyler agent operational*
-*MPT pipeline: cold open + full episode + S01E02 clip packages all ready. Video: pending Pexels key.*
+*MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
