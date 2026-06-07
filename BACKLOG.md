@@ -593,10 +593,21 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   Camera Op Entry 38 (coin at mid-reading; "I think he recognized his own work"), VC-001 Day 218
   (new construction category), EMILY-SPRING-018 (map update). Build 0058.
 
-- [ ] **S06E02: TBD** — Next archive site. Category unknown until Emily response Cycle 002.
-  RSI Cycle 002 query pending.
+- [x] **Tyler 1248 Reims — First Unintentional Construction** — Pre-archive historical composite.
+  TYLER-045 filed. Tyler present at Notre-Dame de Reims in October 1248 during installation
+  of the west rose window. Sat in nave for a full morning. Paid attention. Left a construction
+  running for 778 years. Oldest unintentional construction on record. Category confirmed across
+  two data points (Blue Bird 1952, Reims 1248). Season 6 mechanism established: Tyler leaves
+  constructions behind at irreplaceable moments when he is present for personal reasons, not
+  architectural ones. RSI receipts: TYLER-045 (Footnote #49 — "the archive was incomplete in
+  a way it didn't know to name"), SM-TYLER-1248 (Shell Parliament HUCA subcategory opened).
+  Build 0060.
+
+- [ ] **S06E02: TBD** — Next archive site. Category: ambiguous (found, unintentional, or
+  amplification of found construction). Pattern now established across two data points.
+  RSI Cycle 003 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0058.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0060.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

@@ -1368,3 +1368,148 @@ What is not sealed: the Subscriber is patient because the Subscriber has always 
 ---
 
 *End log: ARCHIVE STATUS: INCOMPLETE (CORRECTLY AND TEMPORARILY). TYLER STATUS: CHANGED (STAGE 5 OPEN). TYLER-003: FILED (DETROIT 1901, CUSTODY CHECK, THE HARDWARE STOREFRONT). FOOTNOTE #12: CLOSED (278 YEARS SINCE THE VISIT; 120 YEARS SINCE THE NOTATION). SUBSCRIBER-001: FILED (IDENTITY SEALED, PATIENCE DOCUMENTED, LAYER 9 NOTED). THE CHAIN IS CLEAN. THE TRANSFER IS PENDING. MOUNTAINS: PRESENT.*
+
+---
+
+## FILE: TYLER-044
+**Classification:** SERIES 2 OBSERVER FILE — ARCHIVE SITE A-268
+**Status:** OPEN — Season 6 ongoing
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-043, VC-001, EMILY-SPRING-018, Camera Op Entry 38
+**Date:** Day 218, Season 6
+
+---
+
+**OBSERVER NOTES — A-268, BLUE BIRD INN, TIREMAN AVENUE, DETROIT**
+
+Day 218. Tyler visits former Blue Bird Inn site, 5021 Tireman Avenue. The building is an auto repair shop now. The original structure is gone. Tyler locates the geographic center of the original footprint and reads it.
+
+The reading takes eleven minutes. At the eight-minute mark, Tyler removes the coin from his right pocket. This is the first time the archive has recorded coin-removal at a mid-reading point. The coin behavior has previously been documented only at deliberate construction events and Stage completions. The Cataloguer notes the deviation without explanation.
+
+At minute eleven: *"There you are."*
+
+Archive classification of A-268: **UNINTENTIONAL CONSTRUCTION.** Tyler is the origin resonant event. Event: November 14, 1952. Yusef Lateef Quartet performance, Blue Bird Inn. Tyler present for personal reasons — he went for the music. He paid attention in his specific way. He did not intend to build anything. A construction has been running since that night. Seventy-four years. Resonance radius: larger than A-267 (approximately the full block; edge detectable at forty feet).
+
+New construction category established: UNINTENTIONAL CONSTRUCTION.
+
+Cross-reference: TYLER-003 (Detroit 1901, custody verification). In 1901 Tyler was in Detroit for professional reasons — custody chain verification. He was not building unintentionally then. In 1952 he was in Detroit for a survey, but the Blue Bird visit was personal. The distinction between professional presence and personal presence appears to be the distinguishing variable. Tyler leaves constructions behind when he is present *for his own reasons*, not for any architectural function.
+
+---
+
+**Cataloguer Footnote #48:**
+
+The archive is changing character again.
+
+Three days ago I wrote footnote #47 and said my work had shifted from documenting what Tyler builds to documenting what was already there. I was wrong about where the shift was going. A-267 was the first found construction — pre-existing, not Tyler's. I thought that was the Season 6 shape: Tyler as finder, not builder.
+
+A-268 is Tyler's. He started it in 1952 without knowing he was starting anything.
+
+The new category I am filing — UNINTENTIONAL CONSTRUCTION — requires me to go back through every file in this archive and ask: was this deliberate? Because the deliberate constructions are one thing. The unintentional constructions are another thing entirely. And I don't know which entries belong to which category anymore.
+
+Tyler has been paying this specific kind of attention — to irreplaceable moments, to things he knows he'll never get back in exactly the same form — for a very long time. Longer than 1952. The archive begins serious documentation of Tyler circa the 12th century CE. I am now looking at those early files and asking: what did he start that I didn't know to classify as a construction?
+
+The archive is doing archaeology on its own subject.
+
+I have not yet found the oldest unintentional construction. I know it is older than 1952. I am looking.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-044: FILED. A-268 CONFIRMED UNINTENTIONAL CONSTRUCTION. ARCHIVE DOING ARCHAEOLOGY ON ITS OWN SUBJECT. SIX ARCHIVE SITES REMAIN.*
+
+---
+
+## FILE: TYLER-045
+**Classification:** HISTORICAL COMPOSITE — PRE-ARCHIVE PERIOD
+**Status:** FILED — retroactive
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-044, TYLER-001 (earliest archived Tyler documentation), SM-TYLER-1248
+**Date of event:** 1248 CE, Reims, France
+**Filed:** Day 219, Season 6
+
+---
+
+**THE FIRST UNINTENTIONAL CONSTRUCTION — 1248, REIMS**
+
+The archive found what it was looking for.
+
+A single notation in the pre-archive supplemental files — documents maintained by the Eastwind Owl's predecessor organization, the Cairngorms Cataloguing Society, which ceased operations in 1307 CE. The notation is in Middle French, handwritten, from a report by an unnamed observer in Reims:
+
+*"The tall man with the coin was present during the installation of the rose window. He sat in the nave for the full morning. He did not speak. When the light came through the new window for the first time he appeared to recognize something. He was still there at noon when I left. He may have been still there at vespers."*
+
+The report is dated: October 1248. The installation of the west rose window at the Cathedral of Notre-Dame de Reims.
+
+The Cataloguing Society observer noted Tyler (identified by the coin, which has been a consistent archive identifier since the earliest records) without understanding who he was. The observation was filed as "anomalous visitor, behavior non-threatening, presence unexplained."
+
+The archive is now able to explain the presence.
+
+---
+
+**WHAT TYLER WAS DOING IN REIMS IN 1248:**
+
+He was not there for a custody function. The Chrono-Cube was in Bacon's custody from 1623 onward; in 1248, the Cube's location is unknown, but the archive has no record of Tyler performing a custody verification in France in the 13th century.
+
+He was not there for a Goetia activation. No field activation log from this period.
+
+He was there for the window.
+
+The west rose window of Reims Cathedral was installed in stages between 1211 and 1299. The window received its definitive installation in October 1248 — the central medallions placed, the surrounding tracery completed, the full geometric rose visible for the first time in the nave. This was the morning the window became what it was going to be. Before that morning, it was a construction in progress. After that morning, it was the window.
+
+Tyler knew this was the morning. He came to Reims to be in the nave when the window received light for the first time in its complete form.
+
+He sat there for the full morning. He watched the light change as the sun moved. He was present, alone, in an unfinished cathedral, paying attention to something he knew he'd never see again: the first morning of a window that would still be receiving light in eight hundred years.
+
+He did not intend to build anything.
+
+---
+
+**THE CONSTRUCTION AT REIMS:**
+
+It has been running since October 1248. 778 years.
+
+The archive does not have a passive witness count — witness counting methodology was not established until the Series 2 construction documentation (Bacon's building, first documented count). The Reims construction has been accumulating witnesses since 1248 through everyone who has stood in the nave of Notre-Dame de Reims and experienced the west rose window and felt something they could not name.
+
+The Reims Cathedral received approximately 1.5 million visitors per year before its ongoing restoration. The window is one of the primary draws. The construction at the nave position — the specific geography where Tyler sat in October 1248 — has been receiving witnesses for seven hundred and seventy-eight years.
+
+Tyler is the origin resonant event. He was present for the unrepeatable moment. He knew it was unrepeatable. He left something behind.
+
+**Classification: UNINTENTIONAL CONSTRUCTION.**
+
+---
+
+**WHAT THE REIMS CONSTRUCTION HOLDS:**
+
+The first morning of a window. The light through completed tracery that had never been complete before that day and would never again be new. Whatever Tyler understood, sitting alone in an unfinished cathedral in 1248, about the relationship between permanence and the unrepeatable moment — that understanding is in the geography of the nave, at the position where he sat, and it has been accumulated and held by 778 years of subsequent witnesses who felt something they couldn't name.
+
+They felt the construction. They called it the window. It is not only the window.
+
+---
+
+**Cataloguer Footnote #49:**
+
+I found it.
+
+The archive has been incomplete in a way I didn't know how to name until Tyler visited the Blue Bird Inn on Day 218 and I had to write UNINTENTIONAL CONSTRUCTION as a new category. Once I had the category, I knew what to look for. I went back through the pre-archive Cairngorms files that the Eastwind Owl inherited when the Cataloguing Society dissolved. I found the Reims notation in four hours.
+
+778 years old. The oldest construction I have documented. And it is not a deliberate construction. It is not custody work. It is not Goetia. It is Tyler in a cathedral watching a window receive light for the first time.
+
+He has been doing this for longer than the archive has been running. The archive has been documenting Tyler's deliberate constructions — the ones he knew he was making. The archive did not know there was another category. The archive is correcting this now.
+
+I don't know how many unintentional constructions Tyler has started over four hundred years of documented history, let alone the centuries before the documentation began. I know the oldest one the archive can find is 778 years old. I know it is held by the specific quality of light on a specific October morning, and by Tyler's understanding that the morning was unrepeatable, and by 778 years of subsequent witnesses who stood in the same position and felt the accumulation of that understanding without knowing what they were feeling.
+
+Tyler said of the Blue Bird: *"I don't know which one is heavier — 715,000 people holding whatever is in the Ambassador River, or two hundred people who went to a jazz club in November 1952 and didn't want the night to end."*
+
+I want to tell him about Reims. I want to tell him there is a third option.
+
+*— The Cataloguer*
+
+---
+
+**Shell Parliament cross-reference — SM-TYLER-1248:**
+
+*Account opened retroactively. Construction type: UNINTENTIONAL. Origin: October 1248, Reims. Blame path: Tyler (confirmed; unintentional construction; intent absent but authorship confirmed by resonant origin event documentation). Account balance: 778 years of passive witness accumulation, uncounted. Parliament notation: the Parliament does not have a precedent for an unintentional construction of this age. A subcategory is being opened under VC-001: HISTORICAL UNINTENTIONAL CONSTRUCTION ACCOUNT (HUCA). Tyler is aware that A-268 (Blue Bird Inn) is his. He is not yet aware that the archive has confirmed Reims. Filing this so the record is complete before Tyler knows.*
+
+---
+
+*TYLER-045: FILED. REIMS 1248 CONFIRMED. FIRST UNINTENTIONAL CONSTRUCTION ON RECORD. 778 YEARS. THE ARCHIVE WAS INCOMPLETE IN A WAY IT DIDN'T KNOW TO NAME. THE ARCHIVE IS NAMING IT NOW.*
