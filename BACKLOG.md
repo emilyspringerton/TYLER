@@ -566,5 +566,37 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0018.*
+---
+
+## SEASON 6 — THE UNINTENTIONAL ARCHIVE
+
+Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-06-07).
+
+**Season 6 question:** How long has Tyler been building without knowing he was building?
+
+**New category:** UNINTENTIONAL CONSTRUCTION — constructions started by Tyler's presence and attention without deliberate intent. Tyler is the origin resonant event. The construction organizes around his specific attention quality (knowing a moment is irreplaceable).
+
+**Archive site classification (post-S06E01):**
+- Found construction: pre-existing, runs independent of Tyler (Bethel AME, A-267)
+- Unintentional construction: Tyler-origin, started without intent (A-268 Blue Bird Inn)
+- Possible third category: Tyler arrives at a found construction and amplifies it (TBD)
+
+---
+
+- [x] **S06E01: "The Blue Bird"** — Day 218. Tyler visits A-268 (former Blue Bird Inn, 5021
+  Tireman Avenue, Detroit). Discovers the construction is his — not found. He was present
+  November 14, 1952 for a Yusef Lateef Quartet set, paid attention in his specific way, and
+  left a construction running for seventy-four years without knowing. New category established:
+  UNINTENTIONAL CONSTRUCTION. Season 6 question revised: how long has Tyler been building
+  without knowing? Archive's character changes again. Six sites remain.
+  RSI receipts: TYLER-044 (Footnote #48 — unintentional construction, archive character shift),
+  Camera Op Entry 38 (coin at mid-reading; "I think he recognized his own work"), VC-001 Day 218
+  (new construction category), EMILY-SPRING-018 (map update). Build 0058.
+
+- [ ] **S06E02: TBD** — Next archive site. Category unknown until Emily response Cycle 002.
+  RSI Cycle 002 query pending.
+
+---
+
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0058.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
