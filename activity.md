@@ -59,7 +59,13 @@ Wrote `compiled/mpt_activation.sh`: a prerequisite-checking, service-starting, p
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0019*
-*Next build: 0020*
+## Build 0020 — S01E01 Full Episode MPT Package
+Files: compiled/s01e01/mpt_payload.json, compiled/s01e01/build_notes.md, BACKLOG.md, activity.md
+Full episode MPT package built for S01E01 "Just a Normal Night": landscape 16:9 / 1920×1080 payload, 163-word custom narration (~90-100 seconds documentary register at en-GB-RyanNeural pace), 8 Laws consistency check passed. The load-bearing dependency is the cold open confirmation — once Pexels key is set and `--cold-open` fires successfully, `--full-episode` is ready to run immediately. Dependency chain documented in build_notes.md §IX; activation script already has `fire_full_episode()` wired to the new payload.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0020*
+*Next build: 0021*
 *Loop status: ACTIVE — Tyler agent operational*
-*MPT activation script: FILED. Infrastructure blocker: RESOLVED. Video: pending Pexels key.*
+*MPT pipeline: cold open + full episode packages both ready. Video: pending Pexels key.*

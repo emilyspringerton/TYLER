@@ -495,12 +495,16 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   Next: set Pexels key in config.toml, run `./compiled/mpt_activation.sh --cold-open`, select
   from batch of 3.
 
-- [ ] **S01E01 Full Episode — Compiled Video** — Full episode compilation from `episodes/s01e01_pilot.md`.
+- [~] **S01E01 Full Episode — Compiled Video** — Full episode compilation from `episodes/s01e01_pilot.md`.
   MPT topic: *"Tyler — a time-traveler who refuses to be documented — is followed by a Jiangshi
   Syndicate camera crew through a Detroit night. He washes his hands too carefully. The coin
   shows the wrong year."* Landscape 16:9, batch 3, best selected. Output to `compiled/s01e01/`.
   Dependency: cold open clip confirmed working.
   RSI receipts: none (flat stream artifact — canon is in the script, not the video).
+  **Build 0020:** Topic derived, custom narration written (163 words / ~90s), API payload ready
+  at `compiled/s01e01/mpt_payload.json`. Build notes at `compiled/s01e01/build_notes.md`.
+  Activation script already has `--full-episode` flag wired. Package complete.
+  Next: confirm cold open working → `./compiled/mpt_activation.sh --full-episode` → select best.
 
 - [ ] **S01E02 Compiled Clip** — Same pipeline for `episodes/s01e02_school.md`.
   Topic to be derived from episode cold open. Output to `compiled/s01e02/`.
