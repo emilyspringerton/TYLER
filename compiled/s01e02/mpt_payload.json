@@ -1,0 +1,16 @@
+{
+  "video_subject": "A vacant Detroit lot has a school in it Friday morning. The weeds at the base of the fence have been growing around it for years. On the third floor, a door marked CUSTODY. A file: TYLER — CUSTODY STATUS — UNCLAIMED — open since 1623. He starts the sentence. He doesn't finish it. That night the Camera Op seals their first production log entry. They say, to the dark: it's not a documentary.",
+  "video_language": "en",
+  "voice_name": "en-GB-RyanNeural",
+  "video_aspect": "portrait",
+  "video_size": "1080x1920",
+  "video_count": 3,
+  "video_clip_duration": 3,
+  "subtitle_enabled": true,
+  "subtitle_font": "Anton",
+  "subtitle_color": "#FFFFFF",
+  "subtitle_size": 72,
+  "subtitle_position": "bottom",
+  "bgm_type": "random",
+  "bgm_volume": 0.06
+}

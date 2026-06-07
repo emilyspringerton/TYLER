@@ -282,6 +282,19 @@ fire_full_episode() {
   fire_payload "${payload}" "${output}"
 }
 
+fire_s01e02() {
+  local payload="${TYLER_DIR}/compiled/s01e02/mpt_payload.json"
+  local output="${TYLER_DIR}/compiled/s01e02"
+  if [[ ! -f "${payload}" ]]; then
+    warn "S01E02 payload not found at ${payload}"
+    return 1
+  fi
+  echo ""
+  info "TARGET: S01E02 Clip — The School That Isn't There (portrait)"
+  info "Dependency: S01E01 full episode pipeline must be confirmed working first."
+  fire_payload "${payload}" "${output}"
+}
+
 # ── MAIN ───────────────────────────────────────────────────────────────────────
 
 main() {
@@ -304,6 +317,12 @@ main() {
       fire_full_episode
       ;;
 
+    --s01e02)
+      check_prerequisites || exit 1
+      start_mpt
+      fire_s01e02
+      ;;
+
     --stop)
       stop_mpt
       ;;
@@ -322,18 +341,20 @@ main() {
         echo "  ./compiled/mpt_activation.sh --check      → prerequisites check only"
         echo "  ./compiled/mpt_activation.sh --cold-open  → fire s01e01 cold open"
         echo "  ./compiled/mpt_activation.sh --full-episode → fire s01e01 full episode"
-        echo "  ./compiled/mpt_activation.sh --stop       → stop MPT service"
-        echo "  ./compiled/mpt_activation.sh <path>       → fire specific payload JSON"
+        echo "  ./compiled/mpt_activation.sh --stop          → stop MPT service"
+        echo "  ./compiled/mpt_activation.sh <path>          → fire specific payload JSON"
+        echo ""
+        echo "Episode presets (fire in order):"
+        echo "  --cold-open     S01E01 cold open, 30s portrait"
+        echo "  --full-episode  S01E01 full episode, landscape"
+        echo "  --s01e02        S01E02 clip, portrait (dep: full-episode confirmed)"
         echo ""
         echo "Prerequisites:"
         echo "  1. export ANTHROPIC_API_KEY=sk-ant-..."
         echo "  2. Set pexels_api_keys in ${MPT_CONFIG}"
         echo "  3. Run --check to verify"
         echo ""
-        echo "Then: ./compiled/mpt_activation.sh --cold-open"
-        echo "Cold open confirmed → ./compiled/mpt_activation.sh --full-episode"
-        echo ""
-        echo "Build 0019 | Tyler agent | Iduna-registered | Clean builds first."
+        echo "Build 0021 | Tyler agent | Iduna-registered | Clean builds first."
         exit 0
       fi
       ;;

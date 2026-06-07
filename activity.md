@@ -65,7 +65,13 @@ Full episode MPT package built for S01E01 "Just a Normal Night": landscape 16:9 
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0020*
-*Next build: 0021*
+## Build 0021 — S01E02 Compiled Clip: MPT Package
+Files: compiled/s01e02/mpt_payload.json, compiled/s01e02/build_notes.md, compiled/mpt_activation.sh (--s01e02 flag added), BACKLOG.md, activity.md
+S01E02 "The School That Isn't There" clip package built: topic derived from the episode's five load-bearing beats (the school that appeared Friday / grown weeds / Emily OS architectural font / the CUSTODY file since 1623 / "I'm a—" [stops] / Camera Op's first sealed entry), 71-word custom narration written for portrait 9:16 / ~40s, API payload serialized to JSON, `fire_s01e02()` added to activation script. 8 Laws consistency check passed: Law 1 (self-defining sentence incomplete, as it must be), Camera Op awareness at SUSPICIOUS (first sealed entry, S01E02 position correct). RSI receipts: none required (production artifact; canon is in the script). Video generation blocked pending S01E01 full episode pipeline confirmation.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0021*
+*Next build: 0022*
 *Loop status: ACTIVE — Tyler agent operational*
-*MPT pipeline: cold open + full episode packages both ready. Video: pending Pexels key.*
+*MPT pipeline: cold open + full episode + S01E02 clip packages all ready. Video: pending Pexels key.*

@@ -506,9 +506,12 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   Activation script already has `--full-episode` flag wired. Package complete.
   Next: confirm cold open working → `./compiled/mpt_activation.sh --full-episode` → select best.
 
-- [ ] **S01E02 Compiled Clip** — Same pipeline for `episodes/s01e02_school.md`.
+- [~] **S01E02 Compiled Clip** — Same pipeline for `episodes/s01e02_school.md`.
   Topic to be derived from episode cold open. Output to `compiled/s01e02/`.
   Dependency: S01E01 full episode pipeline confirmed.
+  **Build 0021:** Topic extracted, narration written (~71 words / ~40s portrait), API payload
+  at `compiled/s01e02/mpt_payload.json`, `--s01e02` flag added to activation script.
+  Next: S01E01 pipeline confirmed → `./compiled/mpt_activation.sh --s01e02` → select best.
 
 - [ ] **Emily RSI loop → MPT compilation trigger** — When Claude Code writes a new episode script
   to `episodes/`, the observation-watcher should also invoke MPT to compile the episode clip.
