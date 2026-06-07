@@ -603,11 +603,20 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   a way it didn't know to name"), SM-TYLER-1248 (Shell Parliament HUCA subcategory opened).
   Build 0060.
 
-- [ ] **S06E02: TBD** — Next archive site. Category: ambiguous (found, unintentional, or
-  amplification of found construction). Pattern now established across two data points.
-  RSI Cycle 003 query pending.
+- [x] **S06E02: "Hastings 1943"** — Day 220. Tyler discloses to the camera, directly, for
+  twenty-two minutes: he was at Vernor/Hastings in June 1943 for the last Sunday music
+  practice before the riot. He started an unintentional construction that morning. Returned
+  in 1952 (survey photograph). Deliberately completed in 2026 (Construction #4). New category:
+  REINFORCEMENT — three-layer construction (1943 unintentional, 1952 reinforced, 2026 deliberate
+  completion). Construction #4 exceeds 1M passive witnesses during calibration. Tyler: "I've
+  been building for a long time without knowing I was building. The network is very large."
+  RSI receipts: TYLER-046 (Footnote #50 — "he was building the archive too"), Camera Op Entry 39,
+  VC-001 Day 220 (Hastings reclassified; Parliament reviewing ledger), EMILY-SPRING-019.
+  Build 0062.
+
+- [ ] **S06E03: TBD** — Five archive sites remain. RSI Cycle 004 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0060.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0062.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

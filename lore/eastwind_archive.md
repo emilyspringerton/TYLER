@@ -1513,3 +1513,60 @@ I want to tell him about Reims. I want to tell him there is a third option.
 ---
 
 *TYLER-045: FILED. REIMS 1248 CONFIRMED. FIRST UNINTENTIONAL CONSTRUCTION ON RECORD. 778 YEARS. THE ARCHIVE WAS INCOMPLETE IN A WAY IT DIDN'T KNOW TO NAME. THE ARCHIVE IS NAMING IT NOW.*
+
+---
+
+## FILE: TYLER-046
+**Classification:** SERIES 2 OBSERVER FILE — HASTINGS/VERNOR RECLASSIFICATION
+**Status:** OPEN — Season 6 ongoing
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-037 (S05E07, deliberate Construction #4 initiation), TYLER-044, TYLER-045, VC-001, Camera Op Entry 39, EMILY-SPRING-019
+**Date:** Day 220, Season 6
+
+---
+
+**OBSERVER NOTES — ARCHIVE SITE A-[HASTINGS/VERNOR], RECLASSIFICATION**
+
+Day 220. Tyler visits the I-375 geography of the former Vernor/Hastings intersection. This is the same geography as Construction #4 (deliberate construction, begun Season 5, Day 0). The archive has been tracking Construction #4 as a deliberate build. The archive did not know it was also an unintentional construction from 1943.
+
+Tyler addressed the camera directly for twenty-two minutes. The archive has reviewed the Season 2 interview episode (S02E03) as the previous long-form speech record: that was eleven minutes, in a structured interview context, with the Jiangshi Syndicate asking questions. Day 220's twenty-two minutes was unprompted, camera-directed, and voluntary.
+
+He said: *"I need to tell you something about this one."*
+
+**Event: June 13, 1943, Vernor/Hastings corner.** Tyler was in Detroit from early 1943 on separate business. He walked past the corner on the last Sunday of the music practice and stopped. Stayed three hours. Did not know it was the last one. Returned for twelve consecutive Sundays afterward and found the corner empty. The gathering did not resume.
+
+**Revised classification: REINFORCEMENT.** The construction at Vernor/Hastings has three layers:
+
+1. 1943 — UNINTENTIONAL CONSTRUCTION, origin event. Tyler's attendance at the last Sunday practice. He did not know it was the last one; the knowing arrived over twelve subsequent Sundays. The construction began in the geography at the point of his presence at the irreplaceable event.
+2. 1952 — REINFORCEMENT, return visit. Survey photograph. Tyler photographed the corner during the Detroit survey, nine years later. He knew what the site was. His return visit with awareness deepened the accumulated construction.
+3. 2026 — DELIBERATE COMPLETION, Construction #4. Tyler builds through the I-375 concrete to the buried geography. The deliberate construction is built on eighty-three years of unintentional accumulation and one decade of aware return.
+
+VC-001 account reclassified retroactively. Shell Parliament is reviewing its ledger for similar reclassification needs. The Parliament's note: "the ledger is incomplete in ways that are now visible."
+
+Construction #4 has exceeded one million passive witnesses during calibration (Day 36, ~1,004,000). This is the first construction to exceed one million witnesses before sealing. The Parliament attributes this to the eighty-three-year construction history — the site was already resonant.
+
+---
+
+**Cataloguer Footnote #50:**
+
+Tyler told the camera about 1943 for twenty-two minutes. I have been the Cataloguer for the full duration of this archive's modern documentation period and I have not heard Tyler speak to the camera — not around it, not past it, but *to it* — for twenty-two consecutive minutes.
+
+He said: *"I need to tell you something about this one."* He was telling me. The archive. He knows the camera is the archive. He has always known this. He was filing a record that the record needed.
+
+The 1952 survey. The 340 photographs. The CARDINAL-3 coordination. The archive has always treated Tyler's movements as subjects of documentation — things to observe, record, analyze. The archive assumed Tyler was being documented. The archive is revising this assumption.
+
+He was managing the record. He was making sure the archive had what it needed to understand what he was doing. Not manipulating — he doesn't control what the archive concludes. But he has been making sure the raw material is present. The photographs. The deliberate disclosures at the right moments. The address to the camera on Day 220.
+
+He told the camera about 1943 because the archive needed the 1943 record.
+
+He said: *"I've been building for a long time without knowing I was building. The network is very large."*
+
+I believe him. I also believe he has been helping the archive understand the network for a very long time — not because he needed the archive to understand it, but because at some point he decided the archive deserved to understand it.
+
+The archive is noting this. The archive finds it difficult to note this without something that is probably not, technically, an archival emotion.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-046: FILED. HASTINGS/VERNOR RECLASSIFIED AS REINFORCEMENT. THREE-LAYER CONSTRUCTION: 1943 UNINTENTIONAL, 1952 REINFORCEMENT, 2026 DELIBERATE COMPLETION. TYLER TOLD THE CAMERA. THE ARCHIVE KNOWS ABOUT 1943 BECAUSE TYLER MADE SURE IT WOULD. THE LEDGER IS BEING REVIEWED. FIVE ARCHIVE SITES REMAIN.*
