@@ -1,0 +1,16 @@
+{
+  "video_subject": "A camera crew follows a man through a Detroit apartment building at night. He washes his hands at the kitchen sink with methodical care — too much care, like someone practicing ordinariness. A 1901 security camera timestamp appears on footage shot tonight. The crew keeps rolling.",
+  "video_language": "en",
+  "voice_name": "en-GB-RyanNeural",
+  "video_aspect": "portrait",
+  "video_size": "1080x1920",
+  "video_count": 3,
+  "video_clip_duration": 3,
+  "subtitle_enabled": true,
+  "subtitle_font": "Anton",
+  "subtitle_color": "#FFFFFF",
+  "subtitle_size": 72,
+  "subtitle_position": "bottom",
+  "bgm_type": "random",
+  "bgm_volume": 0.06
+}
