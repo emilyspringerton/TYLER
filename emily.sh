@@ -41,25 +41,10 @@ fi
 #   5. Commit with the next sequential build number
 #   6. Update state files so the next iteration has full context
 
-PROMPT='Review @BACKLOG.md and @activity.md.
-
-Apply the Emily Method:
-1. Find the next incomplete task in BACKLOG.md (first unchecked item)
-2. Identify its load-bearing dependencies — generate nothing until the foundation is correct
-3. Generate ALL required RSI artifacts for this task:
-   - New files (lore, engine, manuscripts, episodes) as specified
-   - Updates to applicable faction files (Eastwind archive, Jiangshi memos,
-     Shell Parliament ledger, Field activation logs, engine specs)
-   - Every narrative event generates receipts. No partial builds.
-4. Commit the build to git with the next sequential build number, push to origin
-5. Mark the completed task in BACKLOG.md (change [ ] to [x])
-6. Append a build entry to activity.md in this format:
-   ## Build NNNN — [task name]
-   [list of files created/modified]
-   [key narrative elements added — 2-3 sentences max]
-
-If BACKLOG.md has no remaining incomplete tasks, output <promise>COMPLETE</promise>.
-Otherwise complete exactly one task per iteration, then stop and wait for the next iteration.'
+TYLER_PROMPT='You are Tyler (HARRY_HOUDINI), Iduna-registered agent for the TYLER repo.
+Apply the Emily Method. Review @BACKLOG.md and @activity.md.
+Complete exactly one task. Commit it. Update state files.
+If no tasks remain, output <promise>COMPLETE</promise>.'
 
 echo "=== TYLER RSI Loop | Emily Method | Max iterations: $MAX_ITERATIONS ==="
 echo "=== Backlog: $(grep -c '^\- \[ \]' BACKLOG.md 2>/dev/null || echo 0) tasks pending ==="
@@ -74,7 +59,10 @@ for ((i=1; i<=MAX_ITERATIONS; i++)); do
 
   echo "--- Iteration $i / $MAX_ITERATIONS | $(date '+%Y-%m-%d %H:%M') | $PENDING tasks remaining ---"
 
-  result=$(claude -p "$PROMPT" --permission-mode acceptEdits 2>&1) || true
+  result=$(claude -p "$TYLER_PROMPT" \
+    --permission-mode acceptEdits \
+    --system-prompt-file .claude/tyler_agent.md \
+    2>&1) || true
   echo "$result"
   echo ""
 

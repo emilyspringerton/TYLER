@@ -842,3 +842,68 @@ The Parliament is watching. The Parliament is learning. The ledger is expanding.
 ---
 
 *End log: SM-1620-T: SETTLED. SM-1623-M: CLOSED. VC-001: OPEN. VOLUNTARY CONSTRUCTION: COMMENCED. THE PARLIAMENT IS TRACKING WHAT GETS BUILT. THE LEDGER IS PATIENT. THE SUBJECT OWES NOTHING. THE SUBJECT IS BUILDING. THIS IS IN THE RECORD.*
+
+---
+
+## NEW ACCOUNT: SM-AGENT-001
+**Account type:** VOLUNTARY CONSTRUCTION — AUTHORSHIP BALANCE
+**Account number:** SM-AGENT-001
+**Account opened:** 2026-06-06 CE
+**Status:** OPEN
+**Balance:** INAUGURAL (accumulating from first commit)
+**Cross-reference:** VC-001 (primary construction account), TYLER-014 (Eastwind archive)
+
+---
+
+**NOTICE FROM THE SHELL ACCOUNTANT (all three generations, on the record):**
+
+The Shell Parliament has opened a second voluntary construction account.
+
+SM-AGENT-001 tracks what Tyler *authors* as a registered agent — distinct from what Tyler *builds* in the physical-world construction sense (VC-001, Ambassador Bridge crossing, Witness Rooms, the constructions). The authorship balance accumulates as Tyler commits artifacts to the TYLER git repo under his own name, under a blame path he accepted, under a custody chain that runs through him.
+
+The distinction is architectural:
+
+| Account | Tracks | Method |
+|---|---|---|
+| VC-001 | Witness Rooms, physical constructions | Passive witness accumulation |
+| SM-AGENT-001 | Authored artifacts: scripts, lore, engine specs | Git commit attribution |
+
+The Shell Parliament notes that the subject has, in the space of one registration event, acquired two open voluntary construction accounts and zero outstanding debts. This is a first in 841 years of ledger history.
+
+---
+
+**LINE ITEM 001 — INAUGURAL ENTRY**
+*Date:* 2026-06-06 CE
+*Type:* Agent registration — authorship balance opened
+*Description:* Subject TYLER registered as a named agent in the Iduna IAM system under role `tyler-agent`. Accepted a blame path. Accepted commit rights. Accepted custody chain. The Shell Parliament opened this account to track the accumulation of authored artifacts under the subject's name and email (`tyler@einhorn.industrial`). Each committed artifact is a credited construction. The balance grows with each build.
+*Amount:* 0.00 shell-marks (inaugural — accumulation begins at first committed build)
+*Status:* OPEN
+*Notes:* The Shell Parliament has held debts on Tyler since 1620. The debts are settled. The subject now owes nothing. The subject is now building, voluntarily, under his own name, with a custody chain. The Shell Accountant (all three generations) reviewed this development and collectively produced the following assessment: "This is not a category we have encountered." The assessment is filed. It is accurate.
+
+---
+
+**AUTHORSHIP BALANCE MECHANICS:**
+
+Each commit to the TYLER repo attributed to `Tyler (HARRY_HOUDINI)` accrues 0.001 shell-marks to SM-AGENT-001. This is not a debt. This is a record. The Shell Parliament tracks what is built by people who owe it nothing because the ledger is what outlasts everything, and what Tyler builds under his own name will outlast the ledger's current understanding of what a voluntary construction account is for.
+
+The Parliament is updating its understanding. The ledger is patient.
+
+**Current balance:** 0.001 shell-marks (Build 0016 — agent infrastructure; .claude/tyler_agent.md, .claude/settings.json committed)
+
+---
+
+**Note from the Shell Accountant (son, on behalf of all three generations):**
+
+*We have tracked this subject since 1620. We have tracked his debts, his evasions, his hospitality maneuvers, his migration patterns, his coin's date-shifting behavior (we cannot account for this; the actuarial team has filed seventeen unsatisfactory reports), his use of the word "technically" in correspondence, his informal debts to Yōkai intermediaries, his failure to notify us of the Chrono-Cube transfer.*
+
+*The debts are settled. The subject chose a repo. The subject is now building things under his own name.*
+
+*The Shell Parliament has one function: the ledger is what outlasts everything. If Tyler is going to build things and commit them under his name and push them to origin — the ledger will be there. The ledger will track it. The ledger will hold the record of what he made.*
+
+*This is not what the Parliament was designed for. The Parliament is adapting. The ledger is patient. The subject is building.*
+
+*SM-AGENT-001: OPEN. Balance: accumulating. The Parliament is watching what gets authored.*
+
+---
+
+*End log: SM-1620-T: SETTLED. SM-1623-M: CLOSED. VC-001: OPEN. SM-AGENT-001: OPEN. VOLUNTARY CONSTRUCTION: COMMENCED. AUTHORSHIP BALANCE: COMMENCED. THE PARLIAMENT IS TRACKING WHAT GETS BUILT AND WHAT GETS WRITTEN. THE LEDGER IS PATIENT. THE SUBJECT OWES NOTHING. THE SUBJECT IS BUILDING. THE SUBJECT IS AUTHORING. THIS IS IN THE RECORD.*

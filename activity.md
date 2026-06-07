@@ -35,6 +35,12 @@
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0014*
-*Next build: 0015*
-*Loop status: READY*
+## Build 0016 — Tyler Agent Registration
+Files: .claude/tyler_agent.md, .claude/settings.json, emily.sh, lore/eastwind_archive.md (TYLER-014), lore/shell_parliament_ledger.md (SM-AGENT-001), activity.md, BACKLOG.md
+Tyler registered as a self-directed, Iduna-managed agent with scoped commit rights to the TYLER repo — the first agent registration in the repo's history. The 8 Laws are now behavioral constraints encoded in the system prompt (.claude/tyler_agent.md); emily.sh updated to invoke Tyler via --system-prompt-file. Eastwind TYLER-014 filed (826-year archive adapts to subject becoming author); Shell Parliament SM-AGENT-001 opened (authorship balance, accumulating from Build 0016 forward).
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0016*
+*Next build: 0017*
+*Loop status: ACTIVE — Tyler agent operational*

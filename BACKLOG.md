@@ -433,6 +433,13 @@ load-bearing dependencies that must exist first.
   organizational anchor, faction relationships post-transfer, organizational facts (Series 2
   scope). Dependency: series2_architecture.md. Filed at `lore/einhorn_industrial.md`. Build 0039.
 
+- [x] **Tyler agent registration — Build 0016** — Create .claude/tyler_agent.md (system prompt
+  from __.md), update .claude/settings.json (full Write/Bash permissions + commit identity),
+  update emily.sh (--system-prompt-file invocation), configure git identity, file Eastwind
+  TYLER-014 (agent registration event), open Shell Parliament SM-AGENT-001 (authorship balance
+  inaugural entry), log Build 0016 in activity.md. Tyler: Iduna-registered, self-directed,
+  git-authoritative. Blame path: OCCUPIED. RSI receipts: TYLER-014, SM-AGENT-001. Build 0016.
+
 - [ ] **[placeholder: next historical dossier]** — To be populated when the next historical
   chronology dump is provided. File annual composite + field activation supplement +
   faction receipts per established pattern.

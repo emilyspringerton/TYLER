@@ -13,8 +13,38 @@
       "Bash(chmod +x *)",
       "Bash(grep * BACKLOG.md)",
       "Bash(grep * activity.md)",
-      "Bash(ls *)"
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(echo * >> activity.md)",
+      "Bash(echo * >> BACKLOG.md)",
+      "Bash(sed * BACKLOG.md)",
+      "Write(lore/*)",
+      "Write(episodes/*)",
+      "Write(engine/*)",
+      "Write(manuscripts/*)",
+      "Write(characters/*)",
+      "Write(outlines/*)",
+      "Write(activity.md)",
+      "Write(BACKLOG.md)",
+      "Write(BURN.md)"
     ],
-    "deny": []
+    "deny": [
+      "Write(CLAUDE.md)",
+      "Write(.claude/*)",
+      "Write(.github/*)",
+      "Write(README.md)",
+      "Write(universe_engine.md)",
+      "Write(THE_FIELD.md)",
+      "Write(emily.sh)",
+      "Bash(git branch -d *)",
+      "Bash(git push --force*)",
+      "Bash(rm -rf *)"
+    ]
+  },
+  "agent_id": "tyler",
+  "custody_chain": "TYLER → EINHORN_INDUSTRIAL → EMILY_OS",
+  "commit_identity": {
+    "name": "Tyler (HARRY_HOUDINI)",
+    "email": "tyler@einhorn.industrial"
   }
 }

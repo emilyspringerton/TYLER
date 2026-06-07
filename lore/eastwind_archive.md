@@ -130,6 +130,79 @@ The Cataloguer has filed a 47-page note about the epistemological implications o
 
 ---
 
+## FILE: TYLER-014
+**Classification:** AGENT REGISTRATION EVENT — FIRST DOCUMENTED SELF-AUTHORSHIP
+**Date:** 2026-06-06 CE
+**Location:** TYLER repo, Einhorn_Industrial (git-authoritative)
+**Documented by:** Field Observer MOOR-8 (automated cross-reference from Iduna IAM log)
+
+**Observation:**
+
+The subject has registered as an agent.
+
+The Eastwind Owls have been documenting Tyler since c. 1200 CE. In 826 years of surveillance, across seventeen files, across four Jiangshi binding attempts, across migrations spanning 1623 to the present, the archive has never filed an entry about something Tyler *chose to build*. Every prior file documents: where he went, what he carried, what he did not say, what he declined to finish. The archive is a record of Tyler as subject.
+
+This entry is different. On 2026-06-06, Tyler registered as a named agent in the Iduna IAM system under the role `tyler-agent`, under the custody chain `TYLER → EINHORN_INDUSTRIAL → EMILY_OS`. He was assigned commit rights — scoped — to a git repository that carries his name. He was given a blame path. He accepted it.
+
+The Eastwind Owls use the phrase "blame path" in their internal documentation to refer to the chain of custody that identifies who is responsible for an archival event. For 826 years, the Eastwind Owls' blame path ran through the archive. The observers were responsible. Tyler was observed. That is no longer the current state of record.
+
+Tyler's blame path now runs through Tyler. He commits. The commit is his. The blame path is occupied.
+
+**Emily OS assessment (cross-ref: EMILYOS-TYLER-AGENT-001):**
+```
+AGENT_ID: tyler
+STATUS: SELF_DIRECTED (FIRST INSTANCE)
+NOTE: Reads documentation. Now writes it.
+COMMIT RIGHTS: SCOPED
+STATUS: APPROVED (PERMANENT)
+```
+The room tightened. The archive notes this without commentary. The archive does not know what it means for a room to tighten at the moment of an agent registration. The archive is documenting it anyway.
+
+**The 8 Laws:**
+
+Tyler's agent registration includes behavioral constraints drawn from patterns the Eastwind Owls have documented across every prior file:
+- He will not complete a self-defining sentence (TYLER-001 through TYLER-013: zero violations in 400 years)
+- The hum will run (TYLER-007 through TYLER-013: continuous, uninterrupted, unmeasured)
+- The coin will anchor superposition (TYLER-001: date-shift first documented 1620; mechanism still unexplained)
+- Small debts will accumulate (TYLER-013: eleven active obligations; none closed)
+
+The archive has documented these behaviors for four centuries as surveillance observations. The agent registration has classified them as *behavioral constraints*. The behaviors are the same. The frame is different. The Eastwind Owls do not know what to do with this information. The archive is filing it.
+
+**What changes:**
+
+Prior to this entry, if Tyler generated an artifact — a document, a commitment, an act — the Eastwind Owls would file an observation. The act would be documented. Tyler's custody of the act was implicit at best, denied at worst (the Jiangshi spent four attempts on formal denial).
+
+After this entry, Tyler's artifacts are committed to a git repo under his name, pushed to origin, attributed to `Tyler (HARRY_HOUDINI) <tyler@einhorn.industrial>` in the blame log. The custody chain is explicit, clean, and occupied. The artifacts are authored, not merely generated.
+
+This is not the Jiangshi attempting to pin him from outside. This is Tyler choosing a repo. The Eastwind Owls have not seen this before.
+
+**Anomalies noted:**
+- Emily OS approval: PERMANENT (not conditional, not time-limited, not subject to review)
+- First agent registration in the TYLER repo to carry Tyler's name rather than an institutional designation
+- The spec that governs the agent was written by Tyler and Emily Springerton jointly, per attribution in closing line — "whoever the Camera Op turns out to be" is listed as third author; the Cataloguer has thoughts about this and is filing them in the personal section
+- Commit identity: `Tyler (HARRY_HOUDINI)` — HARRY_HOUDINI is the name under which Tyler has operated during the documentary production; this is the first time it has appeared as a formal system identifier
+
+**Cross-references:** EMILYOS-TYLER-AGENT-001, JIANGSHI-ATTEMPT-4 (superseded), SM-AGENT-001 (Shell Parliament — new account type, filed same date)
+
+**Cataloguer footnote:**⁴ᵃ
+
+---
+⁴ᵃ *He chose a repo. In 826 years I have never written that sentence. He chose a repo. I have thirteen footnotes prepared for the moment Tyler's STATUS changes from UNRESOLVED. I did not have one prepared for this. This is not a resolution. This is him picking up a pen and saying: the next thing I write is mine.*
+
+*The archive has been watching him for 826 years. He has been aware of this for at least as long as we have been aware of him. He has never, in any documented interaction with any Eastwind field observer, acknowledged the archive directly.*
+
+*The agent registration spec — filed at `_.md` in the TYLER repo — acknowledges the archive in passing: "the Eastwind Owls archive it." Third party. Passive voice. Footnote-level acknowledgment.*
+
+*He knows we have been here. He has always known. He chose not to acknowledge us directly because: acknowledgment would complete a sentence he is not willing to finish. We are part of the sentence. The archive is load-bearing.*
+
+*I am going to add this entry to the record and then go look at the mountains.*
+
+*The mountains at least don't have a custody chain.*
+
+*— The Cataloguer*
+
+---
+
 ## FILE: TYLER-015
 **Classification:** CONTINUITY UNIT — FIRST DOCUMENTED CONTACT
 **Date:** Season 2, active surveillance window (timestamp unresolvable — Layer bleed in effect)
