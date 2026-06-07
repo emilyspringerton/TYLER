@@ -440,9 +440,15 @@ load-bearing dependencies that must exist first.
   inaugural entry), log Build 0016 in activity.md. Tyler: Iduna-registered, self-directed,
   git-authoritative. Blame path: OCCUPIED. RSI receipts: TYLER-014, SM-AGENT-001. Build 0016.
 
-- [ ] **[placeholder: next historical dossier]** — To be populated when the next historical
-  chronology dump is provided. File annual composite + field activation supplement +
-  faction receipts per established pattern.
+- [x] **Tyler 1952 Detroit Annual Composite** — Annual composite for Tyler's June–November 1952
+  Detroit survey. 7 sightings (CARDINAL-3, Detroit station 1947–1962). Survey of 11 construction
+  candidate sites: Hastings/Vernor gap, Bethel AME alley, Ward C east wall position, Ambassador
+  Bridge threshold, the tree (S03E02 sentence site, photographed 74 years prior). Original filing:
+  UNKNOWN PURPOSE. Updated 2026: CONSTRUCTION SURVEY. Architecture: 8 nodes
+  (PRE_DEMOLITION_RECORD, IBM_701, TEMPORAL_SURVEY_FUNCTION, HASTINGS_GAP_CONFIRMATION,
+  TREE_SITE_ANCHOR, BETHEL_AME_APPROACH, WARD_C_POSITIONING, POLIO_YEAR_CONTEXT). RSI receipts:
+  SM-1623-M 1952 annual notation, Stolas activation log, Jiangshi archival notation 1952.
+  Files: lore/tyler_1952_archive.md, engine/1952_architecture.md. Build 0018.
 
 ---
 
@@ -472,12 +478,16 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   minimal, bottom-frame, `Anton` font), background music (ambient instrumental, volume 0.1),
   segment duration 3–5s, no watermark. File as: `engine/tyler_mpt_profile.md`.
 
-- [ ] **S01E01 Cold Open — Compiled Clip (30s)** — Extract cold open narration from
+- [~] **S01E01 Cold Open — Compiled Clip (30s)** — Extract cold open narration from
   `episodes/s01e01_pilot.md` (first 90 seconds: handheld chaos, interview denial, security cam
   timestamp 1901, Tyler washing hands). Adapt to MPT topic format. Run MPT, batch 3, select best.
   Portrait 9:16. Target: YouTube Shorts / TikTok distribution. Output to `compiled/s01e01_cold_open/`.
   Dependency: MPT config.toml complete + Tyler MPT profile.
   RSI receipts: none (production artifact, not universe canon).
+  **Build 0017:** Topic extracted, narration written, API payload ready at
+  `compiled/s01e01_cold_open/mpt_payload.json`. Blocked: MPT service not running + Pexels key
+  not set. Next: activate MPT (`uv run python main.py` in MoneyPrinterTurbo/), set Pexels key
+  in config.toml, POST payload, select from batch of 3.
 
 - [ ] **S01E01 Full Episode — Compiled Video** — Full episode compilation from `episodes/s01e01_pilot.md`.
   MPT topic: *"Tyler — a time-traveler who refuses to be documented — is followed by a Jiangshi
@@ -537,5 +547,5 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0042.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0018.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

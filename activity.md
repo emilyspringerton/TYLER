@@ -41,6 +41,19 @@ Tyler registered as a self-directed, Iduna-managed agent with scoped commit righ
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0016*
-*Next build: 0017*
+## Build 0017 — S01E01 Cold Open: MPT Package
+Files: compiled/s01e01_cold_open/build_notes.md, compiled/s01e01_cold_open/mpt_payload.json, BACKLOG.md, activity.md
+Cold open narration extracted from `episodes/s01e01_pilot.md` (00:00–01:30), compressed to 30-second portrait format: four beats (1901 timestamp, hand-washing, coin flip, "if you keep filming"). Custom narration written (73 words, en-GB-RyanNeural documentary pace), MPT API payload serialized to JSON, Tyler's 8 Laws consistency check passed for both topic and custom copy. Video generation step blocked: MPT service not running, Pexels API key not yet set in config.toml — build package complete, awaiting MPT activation.
+
+---
+
+## Build 0018 — Tyler 1952 Detroit Annual Composite
+Files: lore/tyler_1952_archive.md, engine/1952_architecture.md, BACKLOG.md, activity.md
+Seven sightings documented (CARDINAL-3, Detroit station 1947–1962) across Tyler's June–November 1952 Detroit survey: Hastings/Vernor gap confirmation (Gap Record 1943-HASTINGS-01 active), Bethel AME alley approach (5 years before the 1957 NAACP meetings that make it a construction site), Ward C east wall position (nurse's position, 1952 documentary confirmation), the tree (photographed 74 years before the sentence), Ambassador Bridge threshold observation (90 minutes, did not cross), Eisenhower election, departure with 1901 dime left on counter. Original 1952 filing: UNKNOWN PURPOSE. Updated 2026: CONSTRUCTION SURVEY. Architecture file documents 8 load-bearing nodes: PRE_DEMOLITION_RECORD type established, IBM_701 substrate chain predecessor, TEMPORAL_SURVEY_FUNCTION (2026→1952 migration as research methodology), HASTINGS_GAP_CONFIRMATION (83-year accumulation window), TREE_SITE_ANCHOR (74-year horizon event), BETHEL_AME_APPROACH (PRE_SIGNIFICANCE_APPROACH flag), WARD_C_POSITIONING (three-identification WITNESS_CONCENTRATION_ANCHOR), POLIO_YEAR_CONTEXT (DISTRIBUTED_WITNESS_EVENT). The archive had everything it needed in 1952. It filed UNKNOWN PURPOSE. It waited seventy-three years.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0018*
+*Next build: 0019*
 *Loop status: ACTIVE — Tyler agent operational*
+*1952 composite: FILED. Survey: COMPLETE. Purpose: now known.*
