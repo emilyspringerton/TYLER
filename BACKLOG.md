@@ -72,6 +72,8 @@ load-bearing dependencies that must exist first.
   CAMERA-OP-002 (Cataloguer footnote #26 — "she's protecting a conversation that hasn't
   happened yet"), Camera Op sealed log Entry 14.
 
+- [x] **S02E05 RSI Receipts — "The Edit War" (remediation build)** — Episode file `episodes/s02e05_edit_war.md` existed since Build 0002 but its RSI receipt was never generated. Eastwind TYLER-021 was a phantom cross-reference cited in TYLER-022's header but never written. Filed retroactively: Continuity Unit appearance (keyhole scar matching Tyler's, contract dated tomorrow, unclassified frequencies 1.983/3.582/7.554 Hz), Tyler's responsibility-not-guilt doctrine operationalized as structural principle, blackout experiment and "CAMERA STILL RUNNING IN LAYER 9," Tyler's isolated statement "even if the ending has to eat the storyteller" filed in permanent operational record. Camera Op sealed log gap between Entry 14 and Entry 15 acknowledged with contextual bracket. Jiangshi silence (no memo between #026 and #027) documented as classification failure consistent with 1623 precedent. CONTINUITY-UNIT-001 opened in Eastwind. Build 0023.
+
 - [x] **S02E06: "Stage Five (The Title Card)"** — Season 2 finale. Tyler begins the sentence:
   "What I'm trying to do is—." The camera is running. He does not finish it this episode. The
   title card appears: STAGE FIVE. All five Goetia frequencies simultaneously (first time in

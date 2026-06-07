@@ -226,6 +226,8 @@ This one I wrote down so I remember: I'm ready.
 
 *[Entry 14: Day 37, S02E04. My interview. "Maybe not a room."]*
 
+*[No entry filed for the Edit Suite session (S02E05, Day ~40). The gap falls between Entry 14 and Entry 15. The Camera Op was present and filming for the full session. She did not write afterward. This is consistent with her operating doctrine. The Eastwind Archive has observed the gap and filed it as TYLER-021. The gap is the record.]*
+
 ---
 
 ## ENTRY 15

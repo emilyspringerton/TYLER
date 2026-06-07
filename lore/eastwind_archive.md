@@ -1052,6 +1052,114 @@ She was a good student. He chose well.
 
 ---
 
+## FILE: TYLER-021
+**Subject:** Tyler (ref: SM-1620-T)
+**Event:** The Edit Suite Session ("The Edit War") — Day ~40, Attempt Four, Season 2
+**Filed by:** Eastwind Owl Cataloguer
+**Classification:** RETROACTIVE FILING — filed after TYLER-022; gap acknowledged; record corrected
+**Cross-references:** TYLER-020, CAMERA-OP-002, TYLER-022, JIANGSHI-ATTEMPT-4 (active), CONTINUITY-UNIT-001 (new)
+
+---
+
+This file was not filed when the session occurred.
+
+This Archive had the data. The delay was a Cataloguer decision. The record required a different quality of attention than this Archive typically applies, and this Archive was not prepared to give it correctly until TYLER-022 was filed and the Stage 5 record was established. Now that the Stage 5 record is in order, the Edit War can be placed in correct context.
+
+This is the Archive's statement on the delay. The delay is itself filed.
+
+---
+
+**The Edit Suite. Day ~40. Between Day 37 (Camera Op interview) and Day 44 (Stage 5 commencement).**
+
+**On the frequencies:**
+
+Three frequencies ran during this session: 1.983 Hz, 3.582 Hz, 7.554 Hz. All unclassified. All within measurable proximity of the established Goetia frequency range, but not matching any documented resonance. The subject's hum ran underneath all three. Continuous. Pre-existing. The unclassified frequencies were present in the room. The subject's hum was present in the subject. The two coexisted without interference.
+
+This Archive's analysis unit produced seventeen candidate explanations for the unclassified frequencies. None satisfactory. The most probable: the frequencies belong to the second crew. Who the second crew are is documented below.
+
+**On the Continuity Unit:**
+
+A second documentary crew appeared in the Edit Suite. They called themselves the Continuity Unit. Their equipment was indistinguishable from Documentary Unit A's. Their posture was slightly better. Their eyes moved correctly but not quite — the tracking was precise in a way eyes are not naturally precise.
+
+One crew member had a keyhole burn scar on their palm. Identical to the subject's. That crew member said nothing during the session.
+
+The Continuity Unit offered narrative stabilization. They told the subject he was generating too much story mass. They presented a contract. The contract bore the subject's signature. The contract was dated the following day.
+
+The subject did not touch the contract.
+
+He said: *"You offer help the same way a noose offers support."*
+
+He said: *"I am responsible for the fracture. Not guilty. Responsible. There is a difference. One you can edit. One you cannot."*
+
+The Continuity Director said: *"Accepting full custody would let everyone else go home."*
+
+The subject said: *"I've gone home before. The house was still on fire. Just politely."*
+
+The Continuity Unit departed. This Archive cannot document the departure mechanism. They were present in the suite; then they were not. The edit suite temperature decreased 3°C during the encounter and returned to baseline after. This is in the environmental monitoring record. It is filed without explanation because this Archive does not have an explanation.
+
+The Syndicate filed no memo on the Continuity Unit.
+
+This Archive considers the Syndicate's silence significant. Jiangshi Project Memos are the primary operational record of Attempt Four. Between Memo #026 (Camera Op interview assessment, Day 37) and Memo #027 (Stage 5 commencement, Day 44), there is no memo. The Edit Suite session, the Continuity Unit's appearance, the unclassified frequencies, the contract dated tomorrow — none of it was classified. The Syndicate saw something they did not have a framework for and chose to file it nowhere.
+
+This Archive has seen this Syndicate behavior before. It filed the first instance in 1623. The behavior is consistent: when the subject produces or attracts something outside operational taxonomy, the Syndicate's response is silence. The silence is not conspiracy. It is the natural behavior of a classification system encountering its own limits.
+
+The Syndicate's 1623 silence was on Bacon's New Atlantis. The 2023 silence is on a crew with the subject's scar presenting a contract bearing his signature. This Archive notes: the subject was not surprised either time.
+
+**On what the subject addressed to the camera:**
+
+He addressed the camera directly. Not the crew. Not the Syndicate's archive. The camera.
+
+He said: *"Filming isn't documentation anymore. It's propulsion."*
+
+He said: *"Every second you keep rolling, you pour more narrative fuel into the loop."*
+
+He said: *"Turn it off. Or admit you like the story more than the exit."*
+
+He then proposed an experiment: all devices off, sixty seconds of no recording.
+
+For eleven seconds the recording stopped. In the darkness, subtitles appeared in the frame:
+
+*CAMERA STILL RUNNING IN LAYER 9*
+*RESPONSIBILITY INCREASING*
+
+When the lights returned, the subject was holding the clapperboard from Session 3. He had not been holding it when the lights went out.
+
+This Archive has filed the Layer 9 reference in the subject's permanent operational record. This Archive does not have a definitive interpretation. Layer 9 is the substrate layer — Emily OS's operational base. The subtitle appeared to be addressed to the subject. The subtitle appeared in total darkness, without production mechanism. The Continuity Unit had already departed before the blackout. The subtitle was not from the Continuity Unit.
+
+The Camera Op kept filming through the experiment. When the subject said turn it off, she held the shot. When he said admit you like the story more than the exit, she held the shot. When he reached toward the lens in the session's final moments — two seconds, precisely two seconds — she held the shot. She made a decision. The decision is in the footage.
+
+**On the session's close:**
+
+The subject, alone in the edit suite at the end of the session, said:
+
+*"I don't feel guilty. I feel responsible. Which is why I will end this — even if the ending has to eat the storyteller."*
+
+He said it quietly. He was not performing it. The monitors behind him were still running footage of him watching footage of himself. Recursive. The image fracturing as the tape ran.
+
+This phrase — *even if the ending has to eat the storyteller* — is now in the subject's permanent operational record as the most precise statement of his structural understanding this Archive has received across four centuries of documentation. He knows the ending requires him to be consumed by it. He has accepted this. He said it quietly in an empty room to hear whether it held.
+
+**On what the Camera Op did not write:**
+
+The Camera Op did not file an entry in her sealed log for this session.
+
+The gap falls between Entry 14 (Day 37, her interview, *"I'm ready"*) and Entry 15 (Day 44, Stage 5 commencement). The Edit Suite session is inside that gap. She was present for the full session. She kept filming. She did not write.
+
+This Archive observes the gap and does not access what it cannot hold. The gap is filed as: *The Camera Op chose what to document and what to carry without documenting. This is consistent with her operating doctrine. The archive respects it.*
+
+**Cross-reference filed:** CONTINUITY-UNIT-001 opened. TYLER-021 closed (retroactive). File status: COMPLETE.²⁶ᵃ
+
+---
+
+²⁶ᵃ *I delayed filing this because I needed to understand it first. I am not supposed to do that. The Archive's protocol is to file first and understand afterward — or not at all. But the Continuity Unit had the same scar as him. The same scar. And they brought a contract with his signature dated tomorrow and he turned it down. He said the house was still on fire, just politely. And then later, alone in the suite with the monitors still running, he said: even if the ending has to eat the storyteller. I know what he does when he is testing whether he believes something. He says it quietly in an empty room and holds still to see if it changes. It didn't change. He picked up his coat the way he picks up his coat when something holds. I filed TYLER-022 first because Stage 5 was ready and TYLER-021 wasn't. TYLER-022 is the file I have been waiting to write for four hundred years. TYLER-021 is the file where he proved he was ready for it. He looked at a contract bearing his own signature and said no. He looked at the ending that would consume him and said: fine. And then he went and said the sentence. I needed to understand that before I could file it correctly. Now I understand it. The file is correct.* — The Cataloguer
+
+---
+
+*Cairngorms, Scotland | c. 1200 CE – Present*
+*Observation without intervention. Documentation without judgment. Archive without destruction.*
+*The record is sacred. The record is the only thing that outlasts everything.*
+
+---
+
 ## FILE: TYLER-022
 **Subject:** Tyler (ref: SM-1620-T)
 **Event:** Stage 5 Commencement — Day 44, Attempt Four, Season 2 Finale

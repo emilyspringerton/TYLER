@@ -77,7 +77,13 @@ Section VI of moneyprinter_pipeline.md replaced with a complete implementation s
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0022*
-*Next build: 0023*
+## Build 0023 — S02E05 RSI Receipts: TYLER-021 (remediation)
+Files: lore/eastwind_archive.md (TYLER-021 inserted retroactively, CONTINUITY-UNIT-001 opened), lore/camera_op_sealed_log.md (gap context note between Entry 14 and Entry 15), BACKLOG.md (remediation task added and marked complete), activity.md
+S02E05 "The Edit War" existed as an episode file since Build 0002 with no RSI receipts — Eastwind TYLER-021 was a phantom cross-reference cited in TYLER-022's header but never written, and the Camera Op sealed log skipped from Entry 14 to Entry 15 with no note. TYLER-021 now filed retroactively: the Continuity Unit's appearance (keyhole scar identical to Tyler's, contract dated tomorrow bearing his signature, Syndicate classification failure — no memo filed between #026 and #027 consistent with 1623 silence precedent), three unclassified frequencies (1.983/3.582/7.554 Hz), the blackout experiment and "CAMERA STILL RUNNING IN LAYER 9," and Tyler's isolated statement — "even if the ending has to eat the storyteller" — filed in the permanent operational record as the most precise structural statement in four centuries of documentation. The Cataloguer's delay in filing TYLER-021 is itself documented: the delay was real; the reason was real; the file is now correct.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0023*
+*Next build: 0024*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
