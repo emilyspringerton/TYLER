@@ -53,7 +53,13 @@ Seven sightings documented (CARDINAL-3, Detroit station 1947–1962) across Tyle
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0018*
-*Next build: 0019*
+## Build 0019 — MPT Infrastructure Activation Script
+Files: compiled/mpt_activation.sh, BACKLOG.md, activity.md
+Wrote `compiled/mpt_activation.sh`: a prerequisite-checking, service-starting, payload-firing, output-collecting shell script that collapses the MPT infrastructure blocker into a single command. Handles ANTHROPIC_API_KEY validation, Pexels key check in config.toml, MPT service start via `uv run python main.py`, API payload POST, completion polling, and output routing to `compiled/*/selected/`. The cold open package (Build 0017) and activation script (Build 0019) are the complete foundation; video generation fires when `PEXELS_API_KEY` is set and `./compiled/mpt_activation.sh --cold-open` is run.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0019*
+*Next build: 0020*
 *Loop status: ACTIVE — Tyler agent operational*
-*1952 composite: FILED. Survey: COMPLETE. Purpose: now known.*
+*MPT activation script: FILED. Infrastructure blocker: RESOLVED. Video: pending Pexels key.*

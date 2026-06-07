@@ -478,6 +478,12 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   minimal, bottom-frame, `Anton` font), background music (ambient instrumental, volume 0.1),
   segment duration 3–5s, no watermark. File as: `engine/tyler_mpt_profile.md`.
 
+- [x] **MPT Infrastructure Activation Script** — Load-bearing dependency for all compiled video
+  tasks. `compiled/mpt_activation.sh`: prerequisites check, MPT service start, payload fire, 
+  output collection, selection instructions. Usage: `./compiled/mpt_activation.sh --check` then
+  `./compiled/mpt_activation.sh --cold-open`. Handles service start, API polling, and output
+  routing to `compiled/*/selected/`. Build 0019.
+
 - [~] **S01E01 Cold Open — Compiled Clip (30s)** — Extract cold open narration from
   `episodes/s01e01_pilot.md` (first 90 seconds: handheld chaos, interview denial, security cam
   timestamp 1901, Tyler washing hands). Adapt to MPT topic format. Run MPT, batch 3, select best.
@@ -485,9 +491,9 @@ artifact committed to `compiled/` → Emily Prime observation → next build tar
   Dependency: MPT config.toml complete + Tyler MPT profile.
   RSI receipts: none (production artifact, not universe canon).
   **Build 0017:** Topic extracted, narration written, API payload ready at
-  `compiled/s01e01_cold_open/mpt_payload.json`. Blocked: MPT service not running + Pexels key
-  not set. Next: activate MPT (`uv run python main.py` in MoneyPrinterTurbo/), set Pexels key
-  in config.toml, POST payload, select from batch of 3.
+  `compiled/s01e01_cold_open/mpt_payload.json`. **Build 0019:** Activation script written.
+  Next: set Pexels key in config.toml, run `./compiled/mpt_activation.sh --cold-open`, select
+  from batch of 3.
 
 - [ ] **S01E01 Full Episode — Compiled Video** — Full episode compilation from `episodes/s01e01_pilot.md`.
   MPT topic: *"Tyler — a time-traveler who refuses to be documented — is followed by a Jiangshi
