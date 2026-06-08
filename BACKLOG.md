@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0037
+### Updated: Build 0063
 
 ---
 
@@ -614,9 +614,23 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   VC-001 Day 220 (Hastings reclassified; Parliament reviewing ledger), EMILY-SPRING-019.
   Build 0062.
 
-- [ ] **S06E03: TBD** — Five archive sites remain. RSI Cycle 004 query pending.
+- [x] **S06E03: "Four Hours"** — Day 222. A-269, East Ferry Avenue. Tyler reads a found
+  construction with anomalous 45-foot radius (expected ≤20). He was here in October 1952 for
+  four hours and forty minutes — the only survey site with extended duration (CARDINAL-3 logged
+  the anomaly: "purpose of extended visit undetermined"). He photographed it three times. He
+  cannot explain the third photograph. Tentative new category: AMPLIFICATION — Tyler's sustained
+  presence at a found construction increased its resonance radius. Not intentional. Not
+  unrepeatable-moment. Just: duration. He says "I'll come back" — first time in Season 6.
+  RSI receipts: TYLER-047 (Cataloguer Entry 40, Footnote #51 — "amplification; the room behind
+  the door"), Camera Op Entry 40 ("he just stayed; things grow"), VC-001 Day 222 (subcommittee
+  convened; Construction #4 Day 38 at 1,006,000 witnesses), EMILY-SPRING-020 (orange question
+  mark at A-269), Jiangshi Memo #028 (binding coefficient invalid pending review; "we have been
+  documenting constructions; we have not been documenting stays"). Build 0063.
+
+- [ ] **S06E04: TBD** — Four archive sites remain. AMPLIFICATION category: to confirm or
+  revise. Tyler returns to A-269 (announced). RSI Cycle 005 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0062.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0063.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

@@ -1492,3 +1492,42 @@ We begin again, or we do not begin again. That is the Council's decision.
 *The subject is not documented. This is a temporary condition.*
 
 *End log: MEMO ARCHIVE: CURRENT. PROJECT: STATUS REVIEW PENDING. STAGE 5: OPEN (ARCHITECTURALLY BLOCKED). THE SENTENCE IS STILL OPEN. THE FOOTAGE IS PUBLIC. THE BINDING IS NEGATIVE. WE UNDERESTIMATED THE CAMERA OP. WE ARE BEGINNING AGAIN OR WE ARE NOT. TYLER STATUS: UNRESOLVED. THIS IS THE CORRECT STATUS. IT HAS ALWAYS BEEN THE CORRECT STATUS.*
+
+---
+
+## MEMO #028 — COUNCIL BRIEFING | DAY 222
+*AMPLIFICATION: CATEGORY ALERT*
+*Stillness Council — Emergency Session #5 Request*
+*Filed by: Senior Producer, Documentary Unit A*
+
+Day 222. Tyler visits archive site A-269, East Ferry Avenue, Detroit. He reads a found construction. Pre-Tyler origin. The construction is larger than expected. His hypothesis: he amplified it during a visit in October 1952 by remaining on site for four hours and forty minutes.
+
+The Senior Producer's assessment is as follows:
+
+**The binding coefficient was wrong.**
+
+Not by a small amount. Structurally wrong in a way we did not have the architecture to identify. The binding coefficient was calculated on the basis of deliberate constructions (known) and unintentional constructions (identified in Season 6). The amplification mechanism — if confirmed — is a third class that changes the calculation entirely.
+
+Here is the relevant problem:
+
+The Syndicate's operational model assumes Tyler has a limited number of active constructions at any time, because deliberate constructions require his attention and unintentional constructions require an unrepeatable-moment event. These are constrained mechanisms.
+
+Amplification is not constrained. If the mechanism is sustained presence, then every space Tyler occupied for significant time in the past 700+ years of documented history is a potential amplification site. Every room. Every city. Every place he stayed longer than he needed to because something asked him to stay.
+
+The Senior Producer asked the data team to cross-reference CARDINAL-3's records for anomalous visit durations in the 1952 survey. One result: A-269, four hours forty minutes. CARDINAL-3 logged it as an anomaly. We did not process it. The data was available.
+
+The Senior Producer has filed a formal request for Stillness Council Session #5 with the following agenda item:
+
+*"Assess whether amplification changes the Syndicate's operational assessment of Tyler's construction network size. Current estimate: 4 deliberate + 3 unintentional (including Reims) + ongoing calibration. Amplification-revised estimate: unknown. We cannot compute the revision without knowing how many sites Tyler spent significant time at. We do not have this data."*
+
+The Syndicate's situation: We have been trying to document Tyler for four attempts. We have been documenting constructions. We have not been documenting stays.
+
+Tyler stayed.
+
+He stayed at A-269 in 1952 for four hours. He stayed at Hastings/Vernor in 1943 for three hours and then came back twelve times. He stayed at Reims in 1248 for a full morning.
+
+The archive is full of stays we filed as background information.
+
+We are reviewing the archive.
+
+*End memo: MEMO #028 FILED. AMPLIFICATION: CATEGORY ALERT. BINDING COEFFICIENT: INVALID PENDING REVIEW. CARDINAL-3 DATA: ANOMALY IDENTIFIED, UNPROCESSED. COUNCIL SESSION #5: REQUESTED. FOUR ARCHIVE SITES REMAIN. THE SUBJECT IS GOING BACK TO A-269. WE WILL BE THERE.*

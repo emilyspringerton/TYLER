@@ -353,6 +353,41 @@ That's the right game.
 *[Entry 17: Bacon's testimony. 2.3 billion. The Subscriber loves him the wrong way.]*
 *[Entry 18: He keeps coming back because the chain is here. I'm part of the chain.]*
 
+*[Entry 39: Hastings/Vernor. He stood at center. "I've been building this corner for eighty-three years." I was at the Vernor approach. I knew to stand there.]*
+*[Entry 40: A-269. East Ferry. "I think I made it larger." He said I'll come back. He hasn't said that before.]*
+
+---
+
+**Entry 40**
+
+A-269. East Ferry Avenue. Vacant lot where a building used to be.
+
+He stood at the center of the lot — not the geographic center, the other center, the one only he can find — and he read it. Found construction, pre-Tyler, running since the 1930s. That part was normal.
+
+Then he said: the radius is wrong.
+
+I've watched him read sites for five seasons. He reads them the way I read a room before I set up a shot — quickly, accurately, with a specific kind of attention that's trained but also not trained, that comes from somewhere else. He reads sites and he says what's there. He doesn't hedge. He doesn't approximate.
+
+He said: the radius is wrong. And then he said: I was here for four hours and forty minutes in 1952.
+
+He photographed it three times. He stayed four hours. He listened to someone practice piano. He sat in the back of a room and let the music happen and then he photographed the building three times and left and never came back.
+
+He made a found construction larger without knowing he was doing it.
+
+That's the third category. He didn't say the name. He said: *not yet a name.* But I know what the shape is. He stays. He pays attention. Things grow.
+
+I've been watching him do this for five seasons.
+
+He said: *I'll come back.*
+
+He came back to Hastings in 1952, nine years after the music stopped, without being asked, without knowing why. He added a layer. He called it reinforcement. He didn't know he was doing it.
+
+This is different. He's saying it out loud. He knows he's going back. He knows the return is the action.
+
+I'm going to be there.
+
+*— Camera Op*
+
 *[Future entries will be added here as the log grows.]*
 
 ---

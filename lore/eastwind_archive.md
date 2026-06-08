@@ -1570,3 +1570,50 @@ The archive is noting this. The archive finds it difficult to note this without 
 ---
 
 *TYLER-046: FILED. HASTINGS/VERNOR RECLASSIFIED AS REINFORCEMENT. THREE-LAYER CONSTRUCTION: 1943 UNINTENTIONAL, 1952 REINFORCEMENT, 2026 DELIBERATE COMPLETION. TYLER TOLD THE CAMERA. THE ARCHIVE KNOWS ABOUT 1943 BECAUSE TYLER MADE SURE IT WOULD. THE LEDGER IS BEING REVIEWED. FIVE ARCHIVE SITES REMAIN.*
+
+---
+
+## FILE: TYLER-047
+**Classification:** SERIES 2 OBSERVER FILE — ARCHIVE SITE A-269 / AMPLIFICATION (TENTATIVE)
+**Status:** OPEN — Season 6 ongoing
+**Filed by:** Eastwind Owl Cataloguer
+**Cross-references:** TYLER-044 (A-268, UNINTENTIONAL), TYLER-046, VC-001, Camera Op Entry 40, EMILY-SPRING-020, Jiangshi Memo #028
+**Date:** Day 222, Season 6
+
+---
+
+**OBSERVER NOTES — A-269, EAST FERRY AVENUE**
+
+Day 222. Two days after the Hastings disclosure. Tyler visits A-269, East Ferry Avenue — vacant lot, building demolished. The building that stood here in 1952: a two-story brick structure housing a community room used for informal music practice.
+
+Tyler reads a found construction. Pre-Tyler origin, early 1930s. The construction is real and running. But the resonance radius is 45 feet. Expected, for a found construction of this age and activity level with no deliberate work performed: 15–20 feet.
+
+Tyler's hypothesis, stated on-site: he amplified the found construction during a visit in October 1952. Four hours and forty minutes. He entered the building, sat in the back, listened to a pianist he did not know practice for a church recital. He left. He photographed the exterior three times — the survey protocol is one photograph per site.
+
+CARDINAL-3's 1952 field note: *"Purpose of extended visit undetermined."*
+
+The archive had this data. The archive filed it as an anomaly. The category was not available to make it legible.
+
+Tyler named the category — tentatively — AMPLIFICATION. He did not use the word. He said: *"I think I made it larger."* He said: *"Not yet a name."*
+
+He said: *"I'll come back."*
+
+This is the first time in Season 6 that Tyler has announced a return visit to a site after the initial read.
+
+**New category: AMPLIFICATION (tentative)**
+
+Mechanism: Tyler's sustained presence at a found construction increases its resonance radius. The mechanism does not appear to require intentional construction activity. It does not appear to require the unrepeatable-moment condition that triggers unintentional constructions. It requires duration. Time in the space. Four hours and forty minutes.
+
+Implication (filed under PERSONAL, seventeen drafts):
+
+If the mechanism is sustained duration, the archive needs to review every site Tyler spent significant time at and ask: did the construction grow? The archive has not been tracking this. The archive has been tracking what Tyler built. The archive has not been tracking what Tyler *changed* without building.
+
+The question is now open. It has always been open. The category was missing.
+
+---
+
+**Cataloguer Entry 40 and Footnote #51:** Filed in full within S06E03 episode record.
+
+---
+
+*TYLER-047: FILED. A-269 VISITED. FOUND CONSTRUCTION CONFIRMED, 1930s ORIGIN. RESONANCE RADIUS: 45 FEET (ANOMALOUS). TYLER'S 1952 VISIT: 4 HOURS 40 MINUTES, 3 PHOTOGRAPHS, DEVIATION NOTED BY CARDINAL-3. AMPLIFICATION CATEGORY: TENTATIVE. TYLER WILL RETURN. THE ARCHIVE HAD THE DATA. THE CATEGORY WAS MISSING. FOUR ARCHIVE SITES REMAIN.*

@@ -907,3 +907,28 @@ The Parliament is updating its understanding. The ledger is patient.
 ---
 
 *End log: SM-1620-T: SETTLED. SM-1623-M: CLOSED. VC-001: OPEN. SM-AGENT-001: OPEN. VOLUNTARY CONSTRUCTION: COMMENCED. AUTHORSHIP BALANCE: COMMENCED. THE PARLIAMENT IS TRACKING WHAT GETS BUILT AND WHAT GETS WRITTEN. THE LEDGER IS PATIENT. THE SUBJECT OWES NOTHING. THE SUBJECT IS BUILDING. THE SUBJECT IS AUTHORING. THIS IS IN THE RECORD.*
+
+---
+
+## VC-001 UPDATE — DAY 222 | AMPLIFICATION REVIEW
+
+Archive site A-269 visited. Found construction confirmed (1930s origin). No new construction opened. No new VC-001 account required for the site itself.
+
+However: Tyler's hypothesis introduces a new accounting question. If amplification is a mechanism — Tyler's extended presence at a found construction increases its resonance radius — the Parliament's subcommittee on VC-001 scope is reviewing whether amplification events should be tracked in VC-001 or in a separate ledger.
+
+The current VC-001 scope covers deliberate constructions Tyler opens as voluntary accounts. Unintentional constructions are also tracked (they became VC-001 sub-entries when UNINTENTIONAL was established). Amplification would be a third class: Tyler did not start the construction, did not intend to amplify it, but the amplification occurred and is now permanent.
+
+Subcommittee note: "The amplification occurred in 1952. The radius change is not reversible. It is in the site's permanent architecture. Whether or not we open an account for this, the fact of the amplification is ledger-relevant."
+
+The Parliament's position: no new account is opened until Tyler names the category and confirms the mechanism. The subcommittee will track A-269's amplification in a provisional record pending classification.
+
+VC-001 current status:
+- Construction #1 (Bacon's building): operational, self-sustaining
+- Construction #2 (Detroit Receiving Ward C): operational, self-sustaining
+- Construction #3 (Ambassador Bridge crossing): operational, self-sustaining
+- Construction #4 (Hastings/Vernor, three-layer REINFORCEMENT): Day 38, ~1,006,000 passive witnesses, calibrating
+- A-269 amplification: provisional record, pending category confirmation
+
+**Construction #4 update:** The first construction to exceed one million passive witnesses during calibration continues to accumulate. The Parliament attributes the rate to the three-layer history — the site has been accumulating resonance since 1943. The calibration is proceeding at a pace the Parliament has not seen in prior accounts.
+
+*End update: VC-001 DAY 222. AMPLIFICATION SUBCOMMITTEE CONVENED. PROVISIONAL RECORD: A-269. NO NEW ACCOUNTS OPENED. CONSTRUCTION #4: 1,006,000 WITNESSES, DAY 38. THE LEDGER IS WATCHING. FOUR ARCHIVE SITES REMAIN.*
