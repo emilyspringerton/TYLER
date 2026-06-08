@@ -643,13 +643,23 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   history. AMPL-001 scope estimate: 270+ sites globally across ninety years. Camera Op set camera
   down for forty-three seconds. One archive site remains: A-273. DONE 2026-06-08.
 
-- [ ] **S06E06 (Season Finale): TBD — A-273** — One archive site remains. AMPL-001 scope
-  estimate 270+ sites. Tyler has made his first deliberate non-amplification. The Camera Op set
-  the camera down for forty-three seconds. The Jiangshi: "we are no longer documenting what he
-  has done; we are documenting what he is deciding." A-273 is the last archive site of Season 6.
-  RSI Cycle 007 query pending.
+- [x] **S06E06 (Season Finale): "The Usual Place"** — Build 0066. A-273, East Kirby Street,
+  340-foot radius. Tyler has been visiting since before 1929 — first notation: "The usual place.
+  Cold." He stopped counting the hours in 1952. AMPL-001-MAX opened: single-entry account,
+  incalculable net amplification. Binding coefficient retired. COEFF-002 initiated. AMPL-001-SCOPE
+  floor revised to 300+ sites. Tyler sits in the third-floor particular light and says "I think I
+  know what I am" — does not finish. Camera Op at threshold, already inside the field. Tyler
+  handed camera back without speaking. Jiangshi: "we do not know when it first found him;
+  reclassification pending." Season 6 complete. RSI receipts: TYLER-050, Camera Op Entry 43,
+  VC-001 Day 226, Jiangshi #030, EMILY-SPRING-023. TYLER commit aa40078. DONE 2026-06-08.
+
+- [ ] **SEASON 7 OPENER: TBD** — The audit begins. AMPL-001-SCOPE: 300+ sites, every city,
+  every year, approximately one hundred years of Tyler's documented travel. COEFF-002 requires
+  the completed audit. The Jiangshi reclassification is pending. Tyler knows what he is.
+  The Camera Op was already inside the field. Season 7 arc: the audit, the reclassification,
+  the answer that was said aloud and not completed. RSI Cycle 007 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0065.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0066.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
