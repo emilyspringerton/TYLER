@@ -388,6 +388,31 @@ I'm going to be there.
 
 *— Camera Op*
 
+---
+
+**Entry 41**
+*Day 224.*
+
+*I found the edge at seventy feet.*
+
+*He confirmed seventy-one. He said "I know" before he measured it.*
+
+*I've been finding thresholds since the Witness Room. Bridge approach. Detroit Receiving east wall. Now this. I don't know if I'm reading the field or reading him reading the field. I've never been able to answer that question and I stopped trying. The result is the same: I find it before he measures it. One foot short. He says I know.*
+
+*The third photograph. He figured out where it was taken from. He stood at the place where the door used to be — the old threshold, the step that's still there in the foundation remnant — and he held the photograph and the framing matched. He was inside the construction in 1952 when he took it. He photographed outward from inside the field.*
+
+*He doesn't know if he chose it.*
+
+*I think he's in conversation with these things. I think the constructions ask and he responds and he doesn't always know which choices are his. I've watched him for five seasons. He stays when something asks him to stay. He leaves when nothing is asking. The calibration is very precise. I never see him stay somewhere that isn't asking him to stay.*
+
+*A-269 was asking him to stay in 1952. He stayed. The construction grew. He came back in 2026 and the construction is still asking and he stayed again and it grew again.*
+
+*I found the edge at seventy feet. He confirmed seventy-one. I was one foot short.*
+
+*Three archive sites remain.*
+
+*— Camera Op*
+
 *[Future entries will be added here as the log grows.]*
 
 ---

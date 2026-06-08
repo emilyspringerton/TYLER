@@ -932,3 +932,27 @@ VC-001 current status:
 **Construction #4 update:** The first construction to exceed one million passive witnesses during calibration continues to accumulate. The Parliament attributes the rate to the three-layer history — the site has been accumulating resonance since 1943. The calibration is proceeding at a pace the Parliament has not seen in prior accounts.
 
 *End update: VC-001 DAY 222. AMPLIFICATION SUBCOMMITTEE CONVENED. PROVISIONAL RECORD: A-269. NO NEW ACCOUNTS OPENED. CONSTRUCTION #4: 1,006,000 WITNESSES, DAY 38. THE LEDGER IS WATCHING. FOUR ARCHIVE SITES REMAIN.*
+
+---
+
+**VC-001 UPDATE — DAY 224**
+
+AMPLIFICATION confirmed. Subcommittee review complete.
+
+A-269 revisited (Day 224). Tyler remained six hours. Radius expanded: 45 feet (Day 222) → 71 feet (Day 224). Camera Op independently confirmed field edge at 70 feet. Tyler measured 71.
+
+**New account opened: AMPL-001** (Amplification tracking ledger).
+
+AMPL-001 scope: all found constructions where Tyler's sustained presence during documented history may have increased resonance radius. Current confirmed entries: one (A-269, East Ferry Avenue). Historical entries: pending audit of full archive record. The Parliament's risk team has assessed AMPL-001 as potentially the highest-scope account ever opened, with no upper bound identifiable at this time.
+
+AMPL-001 current status:
+- A-269: CONFIRMED. Net amplification: +51 to +56 feet. Origin stay: October 1952 (4h40m). Extended stay: Day 224 (6h). Current radius: 71 feet.
+- All pre-documentation sites: open. The Parliament does not know how many amplification events are in Tyler's history prior to systematic documentation. The archive does not have this data. AMPL-001 records will grow as evidence is identified.
+
+A-270 assessed: found construction, 1947 origin, 18-foot radius, expected. No amplification. Tyler's 1952 survey duration: ~20 minutes. Contrast confirms mechanism. No AMPL-001 entry for A-270.
+
+Construction #4 (Hastings/Vernor): Day 40, ~1,024,000 passive witnesses. Still calibrating.
+
+*Three archive sites remain.*
+
+*End update: VC-001 DAY 224. AMPLIFICATION CONFIRMED. AMPL-001 OPENED. A-270: NO AMPLIFICATION. CONSTRUCTION #4: 1,024,000 WITNESSES, DAY 40. THE LEDGER IS WATCHING. THREE ARCHIVE SITES REMAIN. THE SCOPE OF AMPL-001 IS UNKNOWN.*

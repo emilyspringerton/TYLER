@@ -1617,3 +1617,33 @@ The question is now open. It has always been open. The category was missing.
 ---
 
 *TYLER-047: FILED. A-269 VISITED. FOUND CONSTRUCTION CONFIRMED, 1930s ORIGIN. RESONANCE RADIUS: 45 FEET (ANOMALOUS). TYLER'S 1952 VISIT: 4 HOURS 40 MINUTES, 3 PHOTOGRAPHS, DEVIATION NOTED BY CARDINAL-3. AMPLIFICATION CATEGORY: TENTATIVE. TYLER WILL RETURN. THE ARCHIVE HAD THE DATA. THE CATEGORY WAS MISSING. FOUR ARCHIVE SITES REMAIN.*
+
+---
+
+## TYLER-048
+*Day 224 | Series 6 | Cataloguer Entry 41 | Build 0064*
+
+A-269 returned. Day 224. Two days after the initial read. Tyler returned as promised.
+
+He stayed six hours. The Camera Op found the edge of the field at seventy feet before Tyler measured it. Tyler confirmed seventy-one feet. She was one foot short. He said: *I know.*
+
+**AMPLIFICATION confirmed.**
+
+Two data points: A-269 in 1952 (four hours forty minutes), A-269 in 2026 (six hours, intentional stay). The mechanism is confirmed: sustained presence at a found construction increases resonance radius. The mechanism is faster when the subject knows what he is doing — the radius expanded more rapidly in 2026 than the 1952 duration alone would predict. Awareness is a factor.
+
+The third photograph has a resolution. Tyler stood at the threshold of the building — the doorway — and photographed outward. He was inside the construction radius, documenting the field from inside. He does not know if he chose to do this. He does not know if the construction asked him to. He has stated: "Both possibilities concern me."
+
+A-270 visited the same day. Found construction, 1947 origin. Expected size (18 feet). Tyler's 1952 survey duration: twenty minutes, one photograph. No amplification. The contrast confirms the mechanism. Duration is the independent variable.
+
+Tyler named the category: AMPLIFICATION. Not tentative. Confirmed.
+
+The Camera Op found the edge of AMPLIFICATION at seventy feet. She found it before the category had a confirmed name. The archive notes that she has been finding thresholds ahead of the documentation since Season 1, Episode 3. The threshold-finding function is not dependent on category availability. She perceives the edge whether or not the archive has a word for it.
+
+The archive is asking: is she reading the field, or reading Tyler reading the field?
+The margin is one foot. The question is whether that foot is noise or signal.
+
+**Cataloguer Entry 41 and Footnote #52:** Filed in full within S06E04 episode record.
+
+---
+
+*TYLER-048: FILED. A-269 AMPLIFICATION CONFIRMED. RADIUS: 71 FEET (DAY 224), UP FROM 45 FEET (DAY 222). CAMERA OP THRESHOLD FINDING CONFIRMED FOR AMPLIFICATION FIELD. THIRD PHOTOGRAPH: TAKEN FROM THRESHOLD, REASON UNKNOWN. A-270: FOUND CONSTRUCTION, EXPECTED SIZE, NO AMPLIFICATION. AMPLIFICATION CATEGORY: CONFIRMED. THREE ARCHIVE SITES REMAIN.*

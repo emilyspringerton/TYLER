@@ -1,6 +1,6 @@
 # TYLER RSI BACKLOG
 ## Build Queue | Emily Method Loop | CITY_OF_LIGHT Build Target
-### Updated: Build 0063
+### Updated: Build 0064
 
 ---
 
@@ -627,10 +627,20 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   mark at A-269), Jiangshi Memo #028 (binding coefficient invalid pending review; "we have been
   documenting constructions; we have not been documenting stays"). Build 0063.
 
-- [ ] **S06E04: TBD** — Four archive sites remain. AMPLIFICATION category: to confirm or
-  revise. Tyler returns to A-269 (announced). RSI Cycle 005 query pending.
+- [x] **S06E04: "The Third Photograph"** — Build 0064. A-269 revisited (Day 224). Tyler stays 6
+  hours; radius expands 45ft → 71ft. Camera Op finds edge at 70ft before Tyler measures 71ft.
+  AMPLIFICATION confirmed (two data points, named). Third photograph mystery: Tyler photographed
+  from inside the construction threshold in 1952 — he does not know if he chose it or if the
+  construction asked. A-270 visited: found construction, expected 18ft radius, standard survey
+  (no amplification), contrast confirms duration mechanism. AMPL-001 ledger opened.
+  RSI receipts: TYLER-048 (Entry 41, Footnote #52), Camera Op Entry 41, VC-001 Day 224
+  (AMPL-001 opened), EMILY-SPRING-021. Three archive sites remain. DONE 2026-06-08.
+
+- [ ] **S06E05: TBD** — Three archive sites remain. AMPL-001 audit underway. Season 6 arc
+  deepening: the constructions may be asking Tyler to stay. Tyler may be in conversation with
+  found constructions without knowing it. RSI Cycle 006 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0063.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0064.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
