@@ -636,11 +636,20 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   RSI receipts: TYLER-048 (Entry 41, Footnote #52), Camera Op Entry 41, VC-001 Day 224
   (AMPL-001 opened), EMILY-SPRING-021. Three archive sites remain. DONE 2026-06-08.
 
-- [ ] **S06E05: TBD** — Three archive sites remain. AMPL-001 audit underway. Season 6 arc
-  deepening: the constructions may be asking Tyler to stay. Tyler may be in conversation with
-  found constructions without knowing it. RSI Cycle 006 query pending.
+- [x] **S06E05: "How Many"** — Build 0065. AMPL-001 first entries. A-271: prior amplification
+  confirmed (1952, 2+ hours, "could not easily leave"); current radius 58ft vs baseline 12-15ft;
+  Tyler returned, documented, did not add to it. A-272: found construction, expected 11ft radius;
+  Tyler stood at sidewalk and chose not to stay — first deliberate non-amplification in documentary
+  history. AMPL-001 scope estimate: 270+ sites globally across ninety years. Camera Op set camera
+  down for forty-three seconds. One archive site remains: A-273. DONE 2026-06-08.
+
+- [ ] **S06E06 (Season Finale): TBD — A-273** — One archive site remains. AMPL-001 scope
+  estimate 270+ sites. Tyler has made his first deliberate non-amplification. The Camera Op set
+  the camera down for forty-three seconds. The Jiangshi: "we are no longer documenting what he
+  has done; we are documenting what he is deciding." A-273 is the last archive site of Season 6.
+  RSI Cycle 007 query pending.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0064.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0065.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
