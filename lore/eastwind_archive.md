@@ -1987,3 +1987,88 @@ The archive will continue documenting.
 ---
 
 *TYLER-054: FILED. PARIS PHASE COMPLETE. 6 SITES MEASURED. FIRST PRE-AWARENESS REFUSAL: A-278, ÎLE SAINT-LOUIS, 12 MINUTES, 11FT. MECHANISM CONFIRMED: PROPORTIONATE TO PRESENCE; DELIBERATE ATTENTION NOT REQUIRED; REFUSAL STILL LEAVES TRACE. A-276: 86FT (FACTION ARGUMENT). A-277: 19FT (LIGHT INTERESTING). A-279: 8FT (INATTENTIVE COFFEE). TOTAL PARIS MAPPED. NEXT: VIENNA. THE AUDIT DOCUMENTS WHERE HE STAYED. THE SENTENCE DOCUMENTS WHY.*
+
+---
+
+## TYLER-055
+*Days 239–255 | Vienna | Cataloguer Entry 48, Footnote #59 | Build 0071*
+
+The Vienna phase opens with an eight-page register written in careful German.
+
+The archive has seen many of Tyler's field registers. The 1931 Paris register is loose, associative — someone writing to themselves in rooms they expect to return to. The 1952 Detroit archive is purposeful documentation. The 1938 Vienna register is different from both: each letter formed, no abbreviation, no shorthand, one entry at a time. The archive's preliminary read: Tyler was using the act of writing to control his attention. Very small careful letters are what you write when you need the hand to be steady because nothing else is.
+
+Vienna, 1938. Four months. Eleven notations.
+
+**The first two sites establish the pattern:**
+
+A-280 (Wollzeile 12, June 12, 1938): 24 feet for 3 hours. Tyler in a friend's empty apartment, attending to a kettle, a window, and an unread newspaper. The friend had left three days before. The mechanism ran at the same rate as the inattentive coffee at A-279 in Paris — eight feet per hour, regardless of whether the attention was distracted or carefully controlled, regardless of whether the room was occupied or empty. Tyler looked after the plants. Two ferns.
+
+A-281 (Schönlaterngasse, June 19, 1938): 18 feet for 2 hours. The register entry: *Das Haus kannte mich noch.* The house still knew me. Tyler had been to this address many times over many years. He returned because he needed something to be continuous — something that the four months hadn't changed. He was checking whether the house still recognized him. The house complied. 18 feet.
+
+**The archive notes the register is asking the archive to understand what Tyler was doing in Vienna in 1938 before it can understand what he left there.**
+
+**The Ichthyosapiens contact (F.):**
+
+Between the third and fourth site entries, there is a notation without an address:
+
+*F. war am Donnerstag. Wir haben gesprochen. Er geht am Freitag.*
+
+F. was here on Thursday. We spoke. He leaves on Friday.
+
+This is the Ichthyosapiens contact from the Paris file — A-276, Rue de Rivoli, 1928, 86 feet, one week, the faction argument about documentation methodology. The argument was clean — both parties in good faith, both wanting to arrive at the right answer. The disagreement: Tyler believed documentation should prioritize witness (the qualitative texture of the staying; what is present in the room); the Ichthyosapiens contact believed it should prioritize measurement (radius, duration, reproducible conditions). They disagreed for ten years.
+
+On the Thursday in Vienna in 1938, the contact told Tyler: the documentation is not for people who require reproducibility. The documentation is for the room. He had arrived at the witness position independently. Then he left Vienna on the Friday, as many people had to leave Vienna in 1938. He gave Tyler certain records to keep. Tyler has kept them.
+
+The archive notes: the argument was resolved under the kind of pressure that makes epistemological disputes feel like very small rooms. Both parties were right. Measurement captures the radius. Witness captures what the radius is measuring. The two were never in conflict. Vienna answered the question.
+
+The Ichthyosapiens contact (F.) survived the war. Tyler had contact with him in the 1950s. His records are in Tyler's custody.
+
+**The rule revision:**
+
+A-282 (Bäckerstraße 11, July 3, 1938): 52 feet for 6 hours. The register entry switches from German to English midsentence: *sechs Stunden.* I couldn't leave.
+
+Tyler was in a bakery he had been going to for thirty years. That afternoon there were three people inside who needed to be somewhere safe for a few hours. Tyler knew this. He bought bread. He sat down. He stayed six hours.
+
+The 1931 rule: if a place asks you to stay and you don't understand why, leave.
+
+In July 1938, Tyler understood exactly why. The rule did not say to leave when you understand. The rule assumed understanding was the exception. In 1938 it was not. Tyler applied the revised rule: if you understand the pull and the purpose is for presence — for something that is alive and continuing in the room — stay. He stayed six hours. He could have left. He chose not to.
+
+The archive is designating A-282 as the first COMPREHENDED AMPLIFICATION: the first documented case of Tyler staying at a site in deliberate, explicit knowledge of the mechanism's purpose, under a revised rule that permits known-pull stays when the pull is for presence.
+
+The rule revision:
+- 1931 original: leave when you don't understand the pull
+- 1938 revision: leave when you don't understand; *or* when you understand and the pull is for absence — for what is no longer there. Stay when the pull is for presence, known or unknown.
+
+**Cataloguer Entry 48:**
+
+The archive has been tracking the mechanism's categories:
+- Deliberate construction (Witness Rooms, Bridges): Tyler builds by sustained presence with clear intent.
+- Unintentional construction: Tyler stays for personal reasons at already-significant places.
+- Amplification: Tyler's extended presence at a found construction increases its radius.
+- Refusal-trace: Tyler felt the pull, applied the 1931 rule, left. Brief presence deposits anyway.
+
+Vienna adds:
+- Comprehended amplification: Tyler felt the pull, understood it precisely, assessed it as valid (presence-purpose), and stayed. A-282.
+- Second-category refusal: Tyler felt the pull, understood it precisely, assessed it as invalid (absence-purpose), and refused. A-283 (below).
+
+**Cataloguer Footnote #59:**
+
+A-283 (Wollzeile 7, July 9, 1938): 8 feet for 8 minutes. The register entry: *Wollzeile 7. 9. Juli. Acht Minuten. Nein.*
+
+Wollzeile 7. July 9. Eight minutes. No.
+
+Tyler passed a building near his friend's apartment. A family he had known was no longer there. He felt the pull. He entered. He stood in the entrance hall for eight minutes and applied the revised 1938 rule: the pull was for absence. The room was asking him to stay and amplify the fact of a loss. He refused. He said no to the room. He left.
+
+Eight feet ran anyway.
+
+The archive is designating this the SECOND-CATEGORY REFUSAL: post-awareness, post-revision, purpose-based. Tyler knew exactly what the pull was asking and refused on a specific stated ground: *I don't amplify absence. That is not witness. That is a wound.*
+
+The distinction from A-278 (First Pre-Awareness Refusal, Paris 1931): at A-278, Tyler applied the 1931 rule without knowing the mechanism. He left because he didn't understand. At A-283, Tyler understood completely and left by choice, for a reason. Both left traces. The reason is in the register. The trace is in the construction.
+
+The archive is noting: Tyler said the trace records the refusal. The trace is eight feet in an entrance hall where Tyler stood for eight minutes and declined to stay. That is what he could do. He did it.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-055: FILED. VIENNA PHASE OPEN. DAYS 239–255 (PARTIAL). A-280: 24FT, 3HRS, EMPTY APARTMENT, PLANTS TENDED. A-281: 18FT, 2HRS, "THE HOUSE STILL KNEW ME." A-282: 52FT, 6HRS — FIRST COMPREHENDED AMPLIFICATION. RULE REVISED: STAY FOR PRESENCE, REFUSE FOR ABSENCE. A-283: 8FT, 8MIN — SECOND-CATEGORY REFUSAL. TYLER SAID NO TO THE ROOM. ICHTHYOSAPIENS F.: DOCUMENTED, RECORDS IN TYLER'S CUSTODY. FIVE MORE CATEGORIES NOW IN THE ARCHIVE: COMPREHENDED AMPLIFICATION, PURPOSE-BASED REFUSAL. VIENNA HAS 7 NOTATIONS REMAINING.*

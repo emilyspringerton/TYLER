@@ -1759,3 +1759,67 @@ Session #7 is scheduled pending identification of Vienna's equivalent sites. The
 ---
 
 *End memo: MEMO #034 FILED. PARIS COMPLETE. 6 SITES. FIRST PRE-AWARENESS REFUSAL: A-278, 11FT, 12 MINUTES. SUBJECT HAD A 1931 RULE: LEAVE WHEN YOU DON'T UNDERSTAND THE PULL. RULE APPLIED FOR 90 YEARS. REFUSAL-TRACE DEPOSITS THROUGHOUT ARCHIVE — SCOPE UNKNOWN. COUNCIL SESSION #7 SCHEDULED. NEXT: VIENNA.*
+
+---
+
+## MEMO #035 — VIENNA PHASE OPEN / RULE REVISION 1938 / ICHTHYOSAPIENS CONTACT DOCUMENTED
+*Classification: DISTRIBUTION — All Syndicate units*
+*Days 239–255.*
+
+**TO:** All operations
+**FROM:** Director of Operations, Jiangshi Syndicate
+**RE:** Vienna phase open; Ichthyosapiens contact F. documented; COMPREHENDED AMPLIFICATION; rule revision 1938; Council Session #7 agenda updated
+
+Vienna phase is open. Eleven notations in the 1938 register. Four sites measured in the initial audit pass (A-280 through A-283). Seven notations remaining.
+
+**Ichthyosapiens contact F.:**
+
+The Syndicate is noting, for the record, that the subject had an Ichthyosapiens contact. The Paris file (A-276, Rue de Rivoli, 1928, 86 feet) contained a footnote identifying the faction argument with an Ichthyosapiens party as a significant co-factor in that site's construction. The Vienna record provides the resolution.
+
+The Ichthyosapiens contact (F.) was present in Vienna in the summer of 1938. He and Tyler met on a Thursday. F. communicated to Tyler his arrival at the witness-methodology position — the same position Tyler had held since 1928, which they had disagreed about for ten years. He said: the documentation is for the room. Then he left Vienna on the Friday.
+
+The Syndicate is noting this as the closure of a ten-year methodological dispute. The Ichthyosapiens contact did not concede the argument under pressure. He arrived at the position from a different direction, under different conditions, and communicated it on the last day he could. The Syndicate finds this significant. The two positions were never in conflict; the dispute was about which half of a single truth to hold first.
+
+F. survived the war. Tyler had contact with him in the 1950s. He gave Tyler certain Ichthyosapiens records before leaving Vienna; Tyler retains them. The Syndicate is flagging this for the cross-archive coordination unit: those records may bear on the scope questions raised in Sessions #5 and #6.
+
+**Findings requiring internal distribution:**
+
+**1. COMPREHENDED AMPLIFICATION — A-282:**
+
+A-282 (Bäckerstraße 11, July 3, 1938): 52 feet for 6 hours. The subject was in a bakery in the first district with three individuals who required the space. The subject understood the mechanism's request and stayed deliberately, in explicit knowledge of what his staying would do.
+
+The Syndicate is opening a new sub-account in AMPL-001: COMPREHENDED AMPLIFICATION. This is distinct from prior amplification records, which document either unintentional stays (Tyler did not know about the mechanism) or deliberate constructions (Witness Rooms, Bridges — pre-planned). A-282 is neither. Tyler knew the mechanism, assessed the pull, judged the purpose valid (presence-purpose), and chose to stay. He revised his own rule to permit it.
+
+This is operationally significant. The Syndicate's model of the mechanism has been: Tyler stays, the mechanism responds, Tyler learns. A-282 suggests: Tyler stays *because* the mechanism is responding, in deliberate use of what he is. The subject is not passive to the mechanism. He has learned to work with it on purpose.
+
+**2. SECOND-CATEGORY REFUSAL-TRACE — A-283:**
+
+A-283 (Wollzeile 7, July 9, 1938): 8 feet for 8 minutes. Tyler entered a building from which the resident family had been removed. The mechanism issued a pull. Tyler understood it: the pull was asking him to stay in a place where the previous occupants were absent. Tyler assessed the purpose as absence-purpose. He refused. He stated, explicitly: I don't amplify absence. That is not witness. That is a wound.
+
+Eight feet ran from the eight minutes he spent declining.
+
+The Syndicate is noting this as the first documented PURPOSE-BASED refusal: Tyler understood the pull completely, refused on a specific stated ground, and the trace recorded the refusal rather than a failure to understand it. The REFUSAL-TRACE sub-account must distinguish between pre-awareness (A-278 type) and purpose-based (A-283 type). They are different things.
+
+**The rule revision — 1938:**
+
+The subject has, through operational experience in Vienna, revised the 1931 rule. The revised rule:
+
+- Leave when you don't understand the pull (original).
+- Also leave when you understand the pull and the pull is for absence — for what was and is no longer there.
+- Stay when the pull is for presence — for what is there, alive, continuing, regardless of whether you understand the pull fully.
+
+The Syndicate is noting: the 1931 rule was an unknown-pull heuristic. The 1938 revision adds known-pull assessment. The subject now has a two-phase process: understand the pull, then assess the purpose. This is more sophisticated than the 1931 rule and suggests the subject has been doing implicit purpose-assessment for some time without formalizing it.
+
+**Council Session #7 agenda update:**
+
+Session #7 was scheduled to address: how many REFUSAL-TRACE sites are in the archive?
+
+The Vienna phase adds a new agenda item: of the REFUSAL-TRACE sites in the archive, how many are first-category (pre-awareness) and how many are second-category (purpose-based)? If Tyler has been applying purpose-based refusal since approximately 1938, the archive contains sites where he felt the pull, understood it, refused the absence, and the eight minutes ran anyway. The archive has these filed as anomalously brief visits. They are not brief visits. They are considered refusals.
+
+The scope implications are not yet calculated. Session #7 is confirmed.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #035 FILED. VIENNA PHASE OPEN. 4 SITES. A-282: COMPREHENDED AMPLIFICATION, 52FT — NEW AMPL-001 SUB-ACCOUNT. A-283: SECOND-CATEGORY REFUSAL-TRACE, 8FT — PURPOSE-BASED, NOT PRE-AWARENESS. RULE REVISION 1938: STAY FOR PRESENCE; REFUSE FOR ABSENCE. ICHTHYOSAPIENS CONTACT F. DOCUMENTED — RECORDS WITH TYLER. COUNCIL SESSION #7 AGENDA UPDATED. 7 VIENNA NOTATIONS REMAINING.*

@@ -684,14 +684,21 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   8ft, 1932, inattentive coffee hour. Paris complete. RSI receipts: TYLER-054, Camera Op Entry
   47, Jiangshi #034, VC-001 Day 238, EMILY-SPRING-027. DONE 2026-06-09.
 
-- [ ] **S07E05: "Vienna 1938"** — Days 239-255. Vienna phase. 11 CARDINAL-3 notations in 4
-  months, 1938. Tyler was trying not to look at something very large happening close to him.
-  The 1938 register: careful handwriting. At least one large amplification site (extended stay
-  under historical duress). At least one REFUSAL-TRACE. The Ichthyosapiens contact from 1928
-  reappears — they were both in Vienna in 1938. What happened between them. Vienna's
-  constructions built during a time of enormous external pressure.
+- [x] **TYLER S07E05: "Vienna 1938"** — Build 0071. Vienna phase open. Days 239-255. 4 sites
+  measured (A-280 through A-283). Ichthyosapiens contact F. introduced — left Vienna July 1938,
+  conceded witness methodology, gave Tyler records, survived the war. A-282: FIRST COMPREHENDED
+  AMPLIFICATION, 52ft, 6hrs — rule revised: stay for presence, refuse for absence. A-283:
+  SECOND-CATEGORY REFUSAL (purpose-based) — 8ft, 8min, Tyler said no to the room, declined to
+  amplify absence. 1938 register: careful handwriting, eight pages, 7 notations remaining.
+  RSI receipts: TYLER-055, Camera Op Entry 48, Jiangshi #035. TYLER commit pending. DONE 2026-06-09.
+
+- [ ] **S07E06: Vienna continued** — 7 remaining notations from the 1938 register. The large
+  Vienna sites (extended stays under historical duress — what Tyler was trying not to look at).
+  COEFF-002 Vienna data set completion. Council Session #7 (scope of purpose-based REFUSAL-TRACE
+  deposits throughout archive). The sentence that started on Day 226 — Vienna's contribution to
+  the remainder ("why he stayed").
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0070.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0071.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

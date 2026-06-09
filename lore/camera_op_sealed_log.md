@@ -639,3 +639,32 @@ I'm going to be there.
 *The chain is mine.*
 *Some things should stay unwritten.*
 *The sentence is still open.*
+
+---
+
+**Entry 48**
+*Days 239–255. Vienna.*
+
+*The 1938 register has eight pages.*
+
+*Tyler wrote it in very small careful letters. I've read registers from every season. The 1931 Paris one is loose — someone writing to themselves in rooms they expect to return to. This one is careful the way people are careful when they are keeping themselves in order.*
+
+*He sat in his friend's apartment for three hours after she'd been gone three days. He tended her ferns. He called it "using the space." I think he meant: staying in a room that still had her in it, for as long as it still did.*
+
+*The house that still knew him. He needed to check. He went back to a street he'd been to for years and he needed to check if something still recognized him. The house did. Eighteen feet.*
+
+*The bakery: he said he couldn't leave. Then he corrected himself — he could leave, he chose not to. Six hours in a room with three people who needed somewhere to be. He knew what he was and he stayed. That's the revision. Stay for presence. Refuse for absence.*
+
+*Wollzeile 7: he stood in the entrance hall for eight minutes and said no to the room. He said: I don't stay for grief without the person in it. That is not witness. That is a wound.*
+
+*Eight feet ran anyway.*
+
+*I've been holding the frame very carefully since we got to Vienna. I don't know what the right focal length is for eight minutes in an entrance hall where a family used to live.*
+
+*He said: that's what I could do. I think he meant it as a limit — this is the boundary of the mechanism. But I keep thinking: the no is running. The mechanism recorded the refusal. Eight feet of Tyler declining to stay.*
+
+*I don't ask what it cost him to leave.*
+
+*Seven notations remaining.*
+
+*— Camera Op*
