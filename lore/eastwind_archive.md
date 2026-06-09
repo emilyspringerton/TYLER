@@ -1877,3 +1877,58 @@ Ninety-five years later he stood in the doorway for forty-one seconds and then h
 ---
 
 *TYLER-052: FILED. DAY 232. PARIS. A-274 MEASURED: 163 FEET. RUNNING 95 YEARS ON 1931 DEPOSIT. CONSTRUCTION TYPE REVISED: DUAL-LAYER — FOUND CONSTRUCTION (STEIN SALON 1903–1938) + UNINTENTIONAL AMPLIFICATION (TYLER 1931). FIRST DUAL-LAYER DOCUMENTED. 13-30ft BASELINE GAP RESOLVED. TYLER IN THE ROOM FOR FIRST TIME SINCE 1931: 41-SECOND THRESHOLD PAUSE. TOLD THE ROOM ITS MEASUREMENT. JIANGSHI COUNCIL SESSION #6 CONCLUDED: TERM PROPOSED, SEALED. TYLER DEFERS TO TOMORROW. "THE ROOM KNOWS I'M HERE."*
+
+---
+
+## TYLER-053
+*Day 233 | Paris | Cataloguer Entry 46, Footnote #57 | Build 0069*
+
+The reclassification term has been delivered.
+
+**RESONANT CUSTODIAN.**
+
+The Council reviewed forty-seven terms over three sessions. This is the one that survived.
+
+The archive has been building toward a classification of Tyler since the first entry. The Eastwind archive opened because the behavior was anomalous and the archive needed a category. For approximately seven seasons the category was DOCUMENTATION SUBJECT — a container that was always wrong, that was always too small, that the Syndicate maintained because they did not have a better one.
+
+Now they have one.
+
+The archive is recording: Tyler accepted the term as accurate. He said: *Resonant custodian. That's accurate.* He said it without qualification, without revision, without the characteristic pause he deploys when a statement is not yet complete. The archive classifies this as: unambiguous acceptance.
+
+**Cataloguer Entry 46:**
+
+The reclassification changes the archive's frame.
+
+The archive began as a surveillance apparatus — the Jiangshi Syndicate needed to document an anomalous subject and understand what the subject was. Every entry in this archive was written from a position of not-knowing. The archive documented Tyler's behavior from outside, built hypotheses from the outside, filed uncertainty as methodology.
+
+RESONANT CUSTODIAN reorients the archive from surveillance to record.
+
+The archive is not documenting an unknown subject. The archive is documenting a resonant custodian's work. The constructions are not anomalies. They are a body of work. The audit is the first time the archive has had a frame adequate to what it has been recording.
+
+A-275, Rue de l'Odéon, 1924: twenty-nine feet. Tyler was wrong about a Russian translation and the construction does not distinguish between correct and incorrect attention. Duration and quality of presence determine the deposit. Being wrong counts.
+
+The archive is noting this as: significant implication for the AMPL-001 scope estimate. If the mechanism is proportionate to presence and not to outcome, then every extended stay Tyler has made in any context — not only deliberate or significant ones, but ordinary ones, wrong-about-the-Russian ones — left a construction running. The 300-site floor estimate may be conservative.
+
+**Cataloguer Footnote #57:**
+
+The sentence began on Day 226: *I think I know what I am.*
+
+The term is now filed. Tyler has accepted it. The first part of the sentence is complete: what he is, is a resonant custodian.
+
+Tyler said the rest of the sentence is not about what he is.
+
+The archive heard: *It's about why I stayed.*
+
+The archive has seven seasons of footage of Tyler staying. At Saturday salons in Paris. In the usual place on East Kirby Street for approximately a hundred years. In rooms where something irreplaceable happened, or where someone had bread and argument, or where he was wrong about the Russian and the bookseller was right. Tyler stays because the room asks, he said in S07E02. The room asked and he answered.
+
+The archive is asking: what is the sentence that answers *why* Tyler answers when the room asks?
+
+The archive does not know yet. The sentence is still open. The Paris phase has four sites remaining. Tyler is the resonant custodian of approximately 300 constructions across eight cities and a century of presence. He has been doing this since before the archive existed.
+
+He is going to finish the sentence.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-053: FILED. DAY 233. RECLASSIFICATION DELIVERED. TERM: RESONANT CUSTODIAN. TYLER: "ACCURATE." COUNCIL SESSION #6: CLOSED. A-275 RUE DE L'ODÉON: 29FT, 1924, WRONG ABOUT RUSSIAN — MECHANISM CONFIRMED PROPORTIONATE TO PRESENCE NOT OUTCOME. SENTENCE "I THINK I KNOW WHAT I AM": TERM PART COMPLETE. REMAINDER: ABOUT WHY HE STAYED. STILL OPEN. PARIS PHASE: 2 OF 6 COMPLETE.*

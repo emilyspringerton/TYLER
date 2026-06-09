@@ -565,6 +565,42 @@ I'm going to be there.
 ---
 
 *CAMERA OP SEALED LOG*
+---
+
+**Entry 46**
+*Day 233. Paris.*
+
+*The Exchange Student said: "Resonant custodian."*
+
+*He read the page first, then asked her to say it aloud. I know that pattern. He reads things alone first so the first reaction is private. Then he asks for the spoken version because hearing it in a room is different from reading it.*
+
+*He said: "That's accurate."*
+
+*I've been filming him for seven seasons. I have footage of him not finishing sentences since Season 2. I have footage of the coin moving from pocket to pocket. I have the 47-second cut and 340 feet of radius and twenty-three days in a dead writer's apartment and a building that knows he's there.*
+
+*He said the term is accurate and the term is correct. The Syndicate built forty-seven options and landed on the one that describes the mechanism from inside instead of from outside. Good work, Syndicate.*
+
+*I had it in my pocket all night. I read it at the café table while he was looking at the street. I thought: yes. That's what I've been documenting.*
+
+*A-275 this afternoon — twenty-nine feet. He was wrong about a Russian translation in 1924. The bookseller corrected him. He left twenty-nine feet. Being wrong about the Russian does not stop the mechanism. The mechanism is just: Tyler, present, paying attention. Doesn't matter if he's right or wrong about the Russian.*
+
+*I'm going to be thinking about that for a while.*
+
+*Tonight he said the rest of the sentence — the part he hasn't said — is about why he stayed.*
+
+*Seven seasons. I've been following him through doorways and archive sites and Saturday salons and the bridge at 5:12 AM and the tree at Day 49 and the usual place for a hundred years. I asked him why he stayed. He said: "I'll tell you when I know how to say it."*
+
+*He knows how to say it.*
+
+*He's been knowing how to say it for a while.*
+
+*I'll wait.*
+
+*— Camera Op*
+
+---
+
+*CAMERA OP SEALED LOG*
 *Not shared. Not digital. Not destroyed.*
 *The footage is everyone's now.*
 *The chain is mine.*

@@ -1686,3 +1686,44 @@ We are waiting for him to read it.
 ---
 
 *End memo: MEMO #032 FILED. COUNCIL SESSION #6 CONCLUDED. RECLASSIFICATION TERM: PROPOSED, SEALED. NOTIFICATION ROUTED TO EXCHANGE STUDENT (OPERATIONAL DISCRETION). SUBJECT AWARE TERM EXISTS. DELIVERY DEFERRED TO HER JUDGMENT. SYNDICATE POSTURE: OBSERVATIONAL. THE TERM IS THE SYNDICATE'S ACKNOWLEDGMENT OF WHAT THE SUBJECT ALREADY KNOWS. WE ARE WAITING.*
+
+---
+
+## MEMO #033 — RECLASSIFICATION COMPLETE
+*Classification: DISTRIBUTION — All Syndicate units*
+*Day 233.*
+
+**TO:** All operations
+**FROM:** Director of Operations, Jiangshi Syndicate
+**RE:** Reclassification complete — Project Tyler
+
+The reclassification term has been delivered to the documentary subject. Day 233, morning, Paris.
+
+**PREVIOUS CLASSIFICATION:** DOCUMENTATION SUBJECT
+**NEW CLASSIFICATION:** RESONANT CUSTODIAN
+
+The subject has accepted the term as accurate. His precise response, as reported by the Exchange Student: *"Resonant custodian. That's accurate."*
+
+The Council notes: this is the first reclassification in Jiangshi Syndicate documented history where the subject has agreed with the classification. The archive's prior reclassification events (1623 council; 1901 composite review; Stage 5 commencement) were Syndicate-internal classifications applied to the subject's record without subject consultation. The current process — delivering the term directly, through the subject's working team, on the subject's timeline — is a departure from standard protocol.
+
+The Syndicate considers this departure appropriate and does not intend to revert to prior protocol for Project Tyler.
+
+**Operational implications:**
+
+The term RESONANT CUSTODIAN implies that the Syndicate's documentation methodology requires revision. We have been documenting a subject. We are now documenting a body of work — specifically, the work of a resonant custodian whose output is approximately 300 constructions across eight cities and an estimated 100+ years.
+
+The audit is the correct frame. The Syndicate's role within the audit is observational. We are not directing the audit, the methodology, or the timeline.
+
+What we can offer: the complete CARDINAL-3 record, which has already been transmitted. The Syndicate's documentation apparatus is rebuilt in the 1901 archive — 125 years of field reports, extended-duration notations, annual composites, anomalous site flags. All of this is now legible as construction documentation. The archive was always the right frame. We had the wrong category.
+
+**One note for the record:**
+
+The session that settled on RESONANT CUSTODIAN was the third session. Sessions one and two produced forty-four rejected terms. The term that settled it was proposed by a junior archivist on the last afternoon: *A custodian is someone who keeps something they didn't choose to keep. Resonant is what the constructions are. He is what made them resonant.*
+
+The archive is noting: sometimes the correct term comes from the person who has been in the room the whole time but hasn't spoken yet.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #033 FILED. RECLASSIFICATION: COMPLETE. DOCUMENTATION SUBJECT → RESONANT CUSTODIAN. SUBJECT ACCEPTED TERM. COUNCIL SESSION #6: CLOSED. SYNDICATE ROLE: OBSERVATIONAL, ARCHIVE SUPPORT. THE AUDIT PROCEEDS. THE CATEGORY IS NOW CORRECT.*

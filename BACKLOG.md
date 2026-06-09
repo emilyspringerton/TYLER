@@ -669,13 +669,22 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   Tyler defers to tomorrow. RSI receipts: TYLER-052, Camera Op Entry 45, Jiangshi #032,
   VC-001 Day 232, EMILY-SPRING-025. DONE 2026-06-09.
 
-- [ ] **S07E03: "The Word"** — Paris, Day 233. Tyler reads the Jiangshi reclassification term.
-  We hear it for the first time. Tyler's response. The Camera Op had it in her pocket all night.
-  Exchange Student walks Tyler through what the Council considered. A-275 (second Paris site)
-  identified and visited — shorter stay required. Tyler on the category: accurate or not accurate?
-  The sentence that started on Day 226 has not yet completed.
+- [x] **S07E03: "The Word"** — Build 0069. Day 233, Paris. Jiangshi reclassification term
+  delivered: RESONANT CUSTODIAN. Tyler: "That's accurate." Council Session #6 closed. A-275,
+  Rue de l'Odéon: 29ft, 1924, Tyler was wrong about a Russian translation — mechanism confirmed
+  proportionate to presence not outcome. Day 226 sentence: "I think I know what I am" — term
+  named; remainder of sentence is about why he stayed; still open. RSI receipts: TYLER-053,
+  Camera Op Entry 46, Jiangshi #033, VC-001 Day 233, EMILY-SPRING-026. DONE 2026-06-09.
+
+- [ ] **S07E04: "The Third Site"** — Paris, Days 234–237. Three more Paris sites (A-276,
+  A-277, A-278). Mixed bag: one large amplification (Tyler stayed a week in 1928 in a hotel
+  on Rue de Rivoli during some kind of argument with someone in another faction), one minimal
+  (one afternoon in a courtyard), one discovery — a Paris site where the 1931 CARDINAL-3
+  record shows Tyler deliberately NOT staying when he felt the pull. First documented case of
+  Tyler choosing not to amplify before he knew amplification was a category. Exchange Student
+  names it retroactively. End of Paris phase — six sites complete. Next city: Vienna.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0068.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0069.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
