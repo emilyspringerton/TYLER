@@ -676,15 +676,22 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   named; remainder of sentence is about why he stayed; still open. RSI receipts: TYLER-053,
   Camera Op Entry 46, Jiangshi #033, VC-001 Day 233, EMILY-SPRING-026. DONE 2026-06-09.
 
-- [ ] **S07E04: "The Third Site"** — Paris, Days 234–237. Three more Paris sites (A-276,
-  A-277, A-278). Mixed bag: one large amplification (Tyler stayed a week in 1928 in a hotel
-  on Rue de Rivoli during some kind of argument with someone in another faction), one minimal
-  (one afternoon in a courtyard), one discovery — a Paris site where the 1931 CARDINAL-3
-  record shows Tyler deliberately NOT staying when he felt the pull. First documented case of
-  Tyler choosing not to amplify before he knew amplification was a category. Exchange Student
-  names it retroactively. End of Paris phase — six sites complete. Next city: Vienna.
+- [x] **S07E04: "The Paris Sites"** — Build 0070. Days 234–238. Paris phase complete. A-276
+  Rue de Rivoli: 86ft, 1928, faction argument with Ichthyosapiens contact. A-277 Cour Damoye:
+  19ft, 1933, "the light was interesting." A-278 Île Saint-Louis: 11ft, 1931 — FIRST PRE-AWARENESS
+  REFUSAL: Tyler felt the pull and left after 12 minutes; still left 11ft; he had a 1931 rule
+  (leave when you don't understand the pull), applied it for 90 years. A-279 Place des Vosges:
+  8ft, 1932, inattentive coffee hour. Paris complete. RSI receipts: TYLER-054, Camera Op Entry
+  47, Jiangshi #034, VC-001 Day 238, EMILY-SPRING-027. DONE 2026-06-09.
+
+- [ ] **S07E05: "Vienna 1938"** — Days 239-255. Vienna phase. 11 CARDINAL-3 notations in 4
+  months, 1938. Tyler was trying not to look at something very large happening close to him.
+  The 1938 register: careful handwriting. At least one large amplification site (extended stay
+  under historical duress). At least one REFUSAL-TRACE. The Ichthyosapiens contact from 1928
+  reappears — they were both in Vienna in 1938. What happened between them. Vienna's
+  constructions built during a time of enormous external pressure.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0069.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0070.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

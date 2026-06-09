@@ -1932,3 +1932,58 @@ He is going to finish the sentence.
 ---
 
 *TYLER-053: FILED. DAY 233. RECLASSIFICATION DELIVERED. TERM: RESONANT CUSTODIAN. TYLER: "ACCURATE." COUNCIL SESSION #6: CLOSED. A-275 RUE DE L'ODÉON: 29FT, 1924, WRONG ABOUT RUSSIAN — MECHANISM CONFIRMED PROPORTIONATE TO PRESENCE NOT OUTCOME. SENTENCE "I THINK I KNOW WHAT I AM": TERM PART COMPLETE. REMAINDER: ABOUT WHY HE STAYED. STILL OPEN. PARIS PHASE: 2 OF 6 COMPLETE.*
+
+---
+
+## TYLER-054
+*Days 234–238 | Paris | Cataloguer Entry 47, Footnote #58 | Build 0070*
+
+The Paris phase is complete.
+
+Six sites. 6 measurements. Total amplification documented.
+
+The archive's summary for the Paris file:
+
+| Site | Address | Year | Duration | Radius | Notes |
+|------|---------|------|----------|--------|-------|
+| A-274 | Rue de Fleurus | 1931 | 23 days | 163ft | Dual-layer: Stein salon + Tyler |
+| A-275 | Rue de l'Odéon | 1924 | ~3 hrs | 29ft | Wrong about Russian |
+| A-276 | Rue de Rivoli | 1928 | 1 week | 86ft | Faction argument, Ichthyosapiens |
+| A-277 | Cour Damoye | 1933 | 2 hrs | 19ft | "Light was interesting" |
+| A-278 | Île Saint-Louis | 1931 | 12 min | 11ft | FIRST PRE-AWARENESS REFUSAL |
+| A-279 | Place des Vosges | 1932 | 1 hr | 8ft | Coffee, inattentive |
+
+The archive is noting A-278 as architecturally significant.
+
+In 1931, Tyler arrived at a residence on Île Saint-Louis, felt the characteristic pull of a site asking him to stay, and left after twelve minutes. He had developed a heuristic by 1931: if somewhere asks you to stay and you do not know why, leave. He applied the heuristic. He left.
+
+The site left eleven feet anyway.
+
+The Exchange Student has designated this the FIRST PRE-AWARENESS REFUSAL: the earliest documented case of Tyler applying a deliberate not-to-stay decision at a construction site before the vocabulary for the mechanism existed. The rule Tyler made in 1931 — leave when you do not understand the pull — he applied for ninety years after that. The audit will identify all the REFUSAL-TRACE sites: places where Tyler left and something built from twelve minutes of presence anyway.
+
+**Cataloguer Entry 47:**
+
+The archive has been noting Tyler's relationship to the mechanism for seven seasons. The mechanism summary as of Day 238:
+
+- Deliberate construction (Witness Rooms, Bridge crossing, etc.): Tyler builds by sustained presence with clear intent. These are maintained.
+- Unintentional construction (Blue Bird Inn, Reims 1248, etc.): Tyler stays for personal reasons at already-significant places. The staying leaves a construction he did not intend.
+- Amplification: Tyler's extended presence at a found construction increases its radius. Proportionate to duration and total presence across visits.
+- Refusal-trace: Tyler felt the pull, applied his 1931 rule, and left. The brief presence still leaves a deposit.
+
+The archive does not have a fifth category yet. The sentence that started on Day 226 is still open. Tyler said the remainder is about why he stayed. The audit documents where he stayed and for how long. What the archive does not yet have is the frame for why.
+
+**Cataloguer Footnote #58:**
+
+A-279. Tyler on a bench in the Place des Vosges. One hour. Not paying attention. Eight feet.
+
+The archive has spent seven seasons documenting a subject who was paying exquisite attention to everything in his environment. The archive is noting: the mechanism does not require exquisite attention. One inattentive hour on a bench with coffee is worth eight feet. The attention that matters is presence, not focus.
+
+The archive is wondering: if Tyler is always present in this way — and the evidence suggests he is — then the 300-site estimate is not just a floor. It is a lower bound on a much larger number. Every city Tyler has lived in or passed through for an hour with coffee in his hand and inadequate focus may have eight feet of something running.
+
+The archive will continue documenting.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-054: FILED. PARIS PHASE COMPLETE. 6 SITES MEASURED. FIRST PRE-AWARENESS REFUSAL: A-278, ÎLE SAINT-LOUIS, 12 MINUTES, 11FT. MECHANISM CONFIRMED: PROPORTIONATE TO PRESENCE; DELIBERATE ATTENTION NOT REQUIRED; REFUSAL STILL LEAVES TRACE. A-276: 86FT (FACTION ARGUMENT). A-277: 19FT (LIGHT INTERESTING). A-279: 8FT (INATTENTIVE COFFEE). TOTAL PARIS MAPPED. NEXT: VIENNA. THE AUDIT DOCUMENTS WHERE HE STAYED. THE SENTENCE DOCUMENTS WHY.*

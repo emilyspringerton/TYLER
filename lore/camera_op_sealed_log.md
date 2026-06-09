@@ -600,6 +600,39 @@ I'm going to be there.
 
 ---
 
+---
+
+**Entry 47**
+*Days 234–238. Paris, then leaving.*
+
+*We measured six sites in Paris.*
+
+*163 feet. 29 feet. 86 feet. 19 feet. 11 feet. 8 feet.*
+
+*The 11-foot site: Tyler felt the pull in 1931 and left. He had a rule. He made a rule when he was young — younger, relatively — that said: if a place asks you to stay and you don't know why, leave. He applied it. He walked away after twelve minutes.*
+
+*I want to ask what it cost him to keep that rule for ninety years.*
+
+*I don't ask.*
+
+*The eight-foot site: he sat on a bench and had coffee and wasn't paying attention. He was thinking about the Ichthyosapiens argument from 1928. He left eight feet on a bench where he wasn't even trying.*
+
+*The mechanism doesn't care if he's trying.*
+
+*The mechanism is just him. Present. In a place.*
+
+*On the way out of Paris he said: "I haven't finished the sentence." Not to me specifically. To the city, I think. Like he was telling the city it should expect him to come back and finish it.*
+
+*Vienna tomorrow.*
+
+*Eleven notations in four months in 1938. I've read the 1938 register. It's different from the 1931 register. The handwriting is the same. The tone is — careful. Like someone writing while trying not to look at something.*
+
+*I'm going to hold the frame very carefully in Vienna.*
+
+*— Camera Op*
+
+---
+
 *CAMERA OP SEALED LOG*
 *Not shared. Not digital. Not destroyed.*
 *The footage is everyone's now.*

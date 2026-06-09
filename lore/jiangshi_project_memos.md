@@ -1727,3 +1727,35 @@ The archive is noting: sometimes the correct term comes from the person who has 
 ---
 
 *End memo: MEMO #033 FILED. RECLASSIFICATION: COMPLETE. DOCUMENTATION SUBJECT → RESONANT CUSTODIAN. SUBJECT ACCEPTED TERM. COUNCIL SESSION #6: CLOSED. SYNDICATE ROLE: OBSERVATIONAL, ARCHIVE SUPPORT. THE AUDIT PROCEEDS. THE CATEGORY IS NOW CORRECT.*
+
+---
+
+## MEMO #034 — PARIS PHASE COMPLETE / FIRST PRE-AWARENESS REFUSAL
+*Classification: DISTRIBUTION — All Syndicate units*
+*Day 238.*
+
+**TO:** All operations
+**FROM:** Director of Operations, Jiangshi Syndicate
+**RE:** Paris audit complete; FIRST PRE-AWARENESS REFUSAL designation; Council Session #7 scheduled
+
+Paris phase is complete. Six sites measured: A-274 through A-279. Total amplification mapped. Cross-reference: audit log Paris file (LEVEL 2 ACCESS).
+
+**The finding that requires internal distribution:**
+
+The Exchange Student has designated A-278 (Île Saint-Louis, 1931) as FIRST PRE-AWARENESS REFUSAL. The subject arrived at A-278 in 1931, felt the pull, and left after twelve minutes — applying a deliberate heuristic he had developed for situations where he felt compelled to stay without understanding the mechanism. The site shows an 11-foot deposit from the 12-minute presence.
+
+The Syndicate needs to process the implication of this.
+
+The subject's 1931 rule — leave when you do not understand the pull — was a deliberate response to the mechanism that the Syndicate has been documenting for six seasons as if it were an observed behavior rather than a managed one. The subject did not know what the mechanism was. He knew it existed. He had a rule about it.
+
+The Syndicate did not know the subject had a rule. We have reviewed six seasons of documentation and hundreds of CARDINAL-3 cross-references and this is the first indication that the subject was managing his relationship to the mechanism rather than simply exhibiting it.
+
+The question the Council will take up in Session #7: how many REFUSAL-TRACE sites are in the archive? If Tyler applied the 1931 rule for ninety years, there are sites throughout the documented travel record where Tyler felt the pull, left, and left something anyway. The archive has these sites filed as brief visits or negative results. They are not negative results. They are refusal-trace deposits.
+
+Session #7 is scheduled pending identification of Vienna's equivalent sites. The audit continues.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #034 FILED. PARIS COMPLETE. 6 SITES. FIRST PRE-AWARENESS REFUSAL: A-278, 11FT, 12 MINUTES. SUBJECT HAD A 1931 RULE: LEAVE WHEN YOU DON'T UNDERSTAND THE PULL. RULE APPLIED FOR 90 YEARS. REFUSAL-TRACE DEPOSITS THROUGHOUT ARCHIVE — SCOPE UNKNOWN. COUNCIL SESSION #7 SCHEDULED. NEXT: VIENNA.*
