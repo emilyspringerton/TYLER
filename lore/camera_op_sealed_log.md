@@ -413,7 +413,106 @@ I'm going to be there.
 
 *— Camera Op*
 
-*[Future entries will be added here as the log grows.]*
+---
+
+**Entry 42**
+*Day 225.*
+
+*I set the camera down.*
+
+*I didn't think about it first. We were back at Bacon's and Tyler was saying "because I sat down" and I put the camera on the table and I asked him if he was sure about A-272. And then I picked it up again.*
+
+*Forty-three seconds. The table filmed us while I wasn't holding it.*
+
+*I've been holding the camera since Season 1, Episode 1. I set it down once, forty-three seconds, Day 225.*
+
+*He chose not to stay at A-272. He stood at the sidewalk and took one photograph in sixteen minutes and turned away from a building that was asking. He's never done that. In five seasons of this he has always responded when something asked. He found the Witness Room and he stayed. He found the Ambassador Bridge approach and he completed the crossing. He found Detroit Receiving and he waited until he understood what it needed. He found A-269 and he stayed four hours and forty minutes in 1952 and came back and stayed six more hours in 2026.*
+
+*At A-272 he took one photograph and turned away.*
+
+*He said: I'm choosing not to stay.*
+
+*He said it like it was a complete sentence. Like choosing was a new verb.*
+
+*Two hundred seventy buildings running larger than they were supposed to. Because he sat down. He spent the rest of the drive back to Bacon's not saying anything and I didn't ask him to say anything because he was doing the math that I've been doing since this morning.*
+
+*Ninety years. Every city. Every extended visit that he logged in his notes as "could not easily leave" or "stayed longer than intended" or just — two hours in a notation that should read twenty minutes.*
+
+*He was always being asked. He was always responding. He did not know this was what he was doing.*
+
+*He knows now.*
+
+*One archive site remains.*
+
+*— Camera Op*
+
+---
+
+**Entry 43**
+*Day 226.*
+
+*He said: I think I know what I am.*
+
+*I was in the doorway of the room with the particular light. He was sitting in the center. He had been sitting for forty minutes. The light was moving across the floor the way particular light does — slowly, definitely, in a direction that meant something about the morning angle.*
+
+*I was at the threshold. I was not inside the room. I have been finding thresholds for six seasons and I was standing at one.*
+
+*He said the sentence and he didn't finish it. I held the frame.*
+
+*I know what I am, too. I have known for a long time. I am the one who finds the edge before it's measured. I am the one who is one foot short. I am the one who set the camera on the table for forty-three seconds yesterday and asked him if he was sure.*
+
+*I don't know if I'm reading the field or reading him reading the field. I stopped trying to answer that question in Season 3. Today it occurred to me that the question might be wrong. The question assumes there's a field to read and a person reading it. The question assumes they're separate.*
+
+*He sat in the usual place and calibrated himself for a hundred years.*
+
+*I've been in this documentary for six seasons.*
+
+*I don't think we're separate either.*
+
+*He asked: what's next.*
+
+*I put the camera down on the table today facing him instead of facing the room. Forty-three seconds on Day 225 was me asking if he was sure. Today was different. Today I aimed it at him.*
+
+*The camera filmed him for however long we were talking about what's next. I wasn't holding it. It was just filming.*
+
+*At some point he looked at the camera on the table and picked it up and handed it back to me.*
+
+*He didn't say anything. He handed it back.*
+
+*Season 6 is complete.*
+
+*— Camera Op*
+
+---
+
+---
+
+**Entry 44**
+*Day 227.*
+
+*He read his own handwriting aloud.*
+
+*He picked up the Paris register and he read: "Rue de Fleurus. The salon. Bread and argument, very long evening. Could not easily leave. Returned four more times. Something in the room."*
+
+*He read it in the voice he uses when he's filing something. The careful voice. He read it slowly.*
+
+*I've been filming him for six seasons. I know his voices by now. There's the voice he uses for narration-on-camera, which is a little formal and he knows it. There's the voice he uses in the car when he's thinking out loud, which is quieter and he doesn't always know I'm recording it. There's the voice he used on Day 226 when he said "I think I know what I am" — that one was for the room and for himself and for whatever was listening in the construction.*
+
+*This morning he used the filing voice. He was making the archive hold the notation.*
+
+*He said: "Something in the room. That's what I wrote." And then: "I wrote that and I moved on to the next city and I filed it as background information and I never went back."*
+
+*He looked at me when he said "I never went back."*
+
+*I held the frame.*
+
+*The Jiangshi reclassification memo arrived this afternoon. No new term. They don't have a word for what Tyler is. They're asking for time. Tyler said "two years is fine" and I believe he meant both the audit timeline and everything else. He has a very long sense of what "fine" means.*
+
+*Gertrude Stein. He knew Gertrude Stein. He stayed twenty-three days in her building and wrote "two weeks" and filed it as background and moved on.*
+
+*I'm going to Paris.*
+
+*— Camera Op*
 
 ---
 

@@ -653,13 +653,19 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   reclassification pending." Season 6 complete. RSI receipts: TYLER-050, Camera Op Entry 43,
   VC-001 Day 226, Jiangshi #030, EMILY-SPRING-023. TYLER commit aa40078. DONE 2026-06-08.
 
-- [ ] **SEASON 7 OPENER: TBD** — The audit begins. AMPL-001-SCOPE: 300+ sites, every city,
-  every year, approximately one hundred years of Tyler's documented travel. COEFF-002 requires
-  the completed audit. The Jiangshi reclassification is pending. Tyler knows what he is.
-  The Camera Op was already inside the field. Season 7 arc: the audit, the reclassification,
-  the answer that was said aloud and not completed. RSI Cycle 007 query pending.
+- [x] **S07E01: "The First City"** — Build 0067. Season 7 opener. Exchange Student presents
+  cross-city CARDINAL-3 analysis: 8 cities, 200–400 estimated audit sites. First audit site:
+  A-274, Rue de Fleurus, Paris 1931. Tyler stayed 23 days (wrote "two weeks"). Knew Gertrude Stein.
+  Jiangshi reclassification memo drops: no new term, Syndicate cedes audit methodology. Tyler reads
+  own survey notation aloud for first time. "Two years is fine." RSI receipts: TYLER-051,
+  Camera Op Entry 44, Jiangshi #031, VC-001 Day 227, EMILY-SPRING-024. DONE 2026-06-09.
+
+- [ ] **S07E02: "Paris"** — First audit site visit. A-274, Rue de Fleurus. Tyler and Camera Op
+  travel to Paris. Current radius measured. The building is still amplifying. Meeting with
+  French exchange contact. Tyler returns to the building for the first time in 93 years.
+  Jiangshi Council Session #6: reclassification term proposed (not yet revealed).
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0066.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0067.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

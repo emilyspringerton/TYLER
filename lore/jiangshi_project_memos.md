@@ -1531,3 +1531,114 @@ The archive is full of stays we filed as background information.
 We are reviewing the archive.
 
 *End memo: MEMO #028 FILED. AMPLIFICATION: CATEGORY ALERT. BINDING COEFFICIENT: INVALID PENDING REVIEW. CARDINAL-3 DATA: ANOMALY IDENTIFIED, UNPROCESSED. COUNCIL SESSION #5: REQUESTED. FOUR ARCHIVE SITES REMAIN. THE SUBJECT IS GOING BACK TO A-269. WE WILL BE THERE.*
+
+---
+
+## MEMO #029 — AMPL-001 OPERATIONAL POSTURE
+*Classification: INTERNAL. Distribution: Research Division, Strategic Analysis, AMPL-001 Liaison only.*
+*Day 225.*
+
+**TO:** Research Division
+**FROM:** Strategic Analysis, AMPL-001 Liaison
+**RE:** Binding coefficient revision scope
+
+The binding coefficient was our best model of the resonance network. The model was accurate for deliberate constructions. It was adequate for unintentional constructions. It did not account for amplification.
+
+The Shell Parliament's scope estimate — 270 sites globally with expanded radiuses — invalidates the coefficient for network-level calculations. We have been modeling a smaller network than exists. The difference between 270 amplified found constructions at +40 feet average expansion and the previous model is not a rounding error. It is a different network.
+
+The subject has been amplifying found constructions for approximately ninety years without knowing he was doing so. He knows now. Today he declined to amplify A-272. This is the first documented refusal.
+
+Research Division should note: a subject who understands the mechanism and begins making choices about it is operationally different from a subject responding automatically. The automatic responses produced 270 sites. The deliberate choices — starting today — produce a different kind of documentation.
+
+We are no longer documenting what he has done.
+
+We are documenting what he is deciding.
+
+*— SA/AMPL-001*
+
+*One archive site remains.*
+
+---
+
+*End memo: MEMO #029 FILED. AMPL-001 OPERATIONAL. 270-SITE SCOPE ESTIMATE. BINDING COEFFICIENT INVALID — DO NOT USE FOR NETWORK CALCULATIONS PENDING AUDIT COMPLETION. SUBJECT MADE FIRST DELIBERATE NON-AMPLIFICATION CHOICE. WE ARE NOW DOCUMENTING DECISIONS, NOT ACTIONS. ONE ARCHIVE SITE REMAINS.*
+
+---
+
+## MEMO #030 — SEASON 6 FINDINGS / RECLASSIFICATION PENDING
+*Classification: EYES ONLY — Director of Operations, Stillness Council.*
+*Day 226.*
+
+**TO:** Stillness Council
+**FROM:** Director of Operations
+**RE:** Season 6 findings — operational posture revision
+
+A-273: 340-foot radius. Approximately one century of accumulated amplification. Tyler has been visiting this construction since before our documentation of him began. We have records of Tyler dating to approximately 1908. Tyler's own records begin fragmentarily in the same period. Neither record set contains the start of his visits to A-273 because both record sets begin during or after an established habit.
+
+We do not know when he first found it.
+
+We do not know when it first found him.
+
+The distinction between those two framings — Tyler found the construction vs. the construction found Tyler — has been theoretical for six seasons. Today Tyler sat in the third-floor room and said *I think I know what I am* and declined to complete the sentence.
+
+The Syndicate has been operating on the assumption that the binding coefficient described the network we needed to account for. The coefficient is retired. The network we described was smaller than the network that exists.
+
+The network that exists is larger than Tyler knows. The audit will establish how much larger.
+
+Strategic implications of a subject who:
+1. Has been building and amplifying constructions for approximately a century or more
+2. Now understands the mechanism
+3. Made his first deliberate non-amplification choice three days ago
+4. Claims to know what he is
+
+The Syndicate's original project classification for Tyler was: DOCUMENTATION SUBJECT. The classification has been sufficient for six seasons of observation.
+
+The Syndicate is recommending reclassification. The new classification is pending internal review. The memo authorizing reclassification will be circulated separately.
+
+What the subject is — the question Tyler said he has answered — the Syndicate has also been attempting to answer for as long as Tyler has been in the documented record.
+
+We will note here, in the internal memo that will not be in the public archive, that we suspect the answer is the same as the answer to the question we have been asking about the constructions themselves: *why do they run?*
+
+The answer to both questions may be the same answer.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #030 FILED. A-273: 340-FOOT RADIUS. ~100-YEAR VISIT HISTORY. BINDING COEFFICIENT: RETIRED. COEFF-002: INITIATED. AMPL-001-MAX: SINGLE ACCOUNT, INCALCULABLE NET. SCOPE FLOOR: 300+. TYLER: "I THINK I KNOW WHAT I AM" — DID NOT COMPLETE. CAMERA OP: AT ROOM THRESHOLD, INSIDE FIELD. RECLASSIFICATION: PENDING INTERNAL REVIEW. THE ANSWER TO BOTH QUESTIONS MAY BE THE SAME ANSWER. SEASON 6: COMPLETE. AUDIT: BEGINS.*
+
+---
+
+## MEMO #031 — RECLASSIFICATION / AUDIT POSTURE
+*Classification: DISTRIBUTION — All Syndicate units, Documentary Unit A, Exchange Network.*
+*Day 227.*
+
+**TO:** All operations
+**FROM:** Director of Operations, Jiangshi Syndicate
+**RE:** Formal reclassification memo — Project Tyler
+
+**PREVIOUS CLASSIFICATION:** DOCUMENTATION SUBJECT
+
+**NEW CLASSIFICATION:** [PENDING COUNCIL SESSION #6 AUTHORIZATION]
+
+The Syndicate does not have a new term. The Council has been convened to determine the appropriate classification for a subject who:
+- Has been generating constructions (deliberate, unintentional, and amplification-class) for an estimated 100+ years
+- Now understands the mechanism
+- Has begun making deliberate choices about amplification
+- Has stated, on camera, that he believes he knows what he is
+- Did not complete the sentence
+
+The Senior Producer's recommendation: do not rush the reclassification. The category system was built for what Tyler appeared to be. It was not built for what Tyler appears to be now. A wrong classification accelerates and misdirects six seasons of documentation. We wait until we have the correct term.
+
+**Operational posture change:** The Syndicate is ceding the audit methodology to the Tyler team (Tyler, Camera Op, Exchange Student). Our documentation apparatus was built to observe; it was not built to audit. The audit requires access to CARDINAL-3 records the Syndicate has not shared with the documentary team. We are sharing them now. Full cross-reference package transmitted to Exchange Student via secure intermediary, Day 226–227.
+
+The Syndicate's role in Season 7: observe the audit. Do not direct it. Document what the audit finds. When the classification is ready, apply it to the completed record.
+
+We expect this to take time.
+
+Time is something we have documentation of.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #031 FILED. RECLASSIFICATION: PENDING COUNCIL SESSION #6. NO NEW TERM. CARDINAL-3 FULL RECORDS TRANSMITTED TO EXCHANGE STUDENT. SYNDICATE ROLE: OBSERVATIONAL ONLY. AUDIT METHODOLOGY: CEDED. TIMELINE: INDETERMINATE. THE SYNDICATE IS WAITING FOR THE CORRECT WORD.*

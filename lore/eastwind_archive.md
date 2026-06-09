@@ -1647,3 +1647,180 @@ The margin is one foot. The question is whether that foot is noise or signal.
 ---
 
 *TYLER-048: FILED. A-269 AMPLIFICATION CONFIRMED. RADIUS: 71 FEET (DAY 224), UP FROM 45 FEET (DAY 222). CAMERA OP THRESHOLD FINDING CONFIRMED FOR AMPLIFICATION FIELD. THIRD PHOTOGRAPH: TAKEN FROM THRESHOLD, REASON UNKNOWN. A-270: FOUND CONSTRUCTION, EXPECTED SIZE, NO AMPLIFICATION. AMPLIFICATION CATEGORY: CONFIRMED. THREE ARCHIVE SITES REMAIN.*
+
+---
+
+## TYLER-049
+*Day 225 | Series 6 | Cataloguer Entry 42, Footnote #53 | Build 0065*
+
+A-271, Mt. Elliott Avenue. Prior amplification confirmed, 1952. Tyler was here two hours minimum — the survey notation reads "could not easily leave." Current radius: 58 feet. Baseline estimate for a found construction of this age and activity level: 12–15 feet. Net amplification: +43 to +46 feet. Single 1952 visit. No return until today.
+
+Tyler documented it. He did not stay.
+
+The archive has to say this twice because it is significant: Tyler stood at A-271 and took his measurements and logged the site and did not stay. A-271 was asking. Tyler has been responding to these invitations for ninety years. Today at A-271 he measured and he left.
+
+A-272, Chene Street. Found construction, 1920s origin. Tyler's 1952 survey: twenty-two minutes, one photograph. Expected size, 11 feet. Tyler stood at the sidewalk. He took one photograph in sixteen minutes. He said: *I'm choosing not to stay.*
+
+He turned away.
+
+This is the first documented deliberate non-amplification in the archive's history. Ninety years of Tyler staying when something asked him to stay. Today he stood at the sidewalk of A-272 and chose to turn away.
+
+The archive is noting the distinction. A-271: Tyler did not stay to amplify further — he had already amplified it in 1952, and the visit today was documentation. A-272: A-272 was asking. Tyler stood at the threshold of the ask and chose to turn away.
+
+He said: *I'm choosing.*
+
+**AMPL-001 — operational. First two entries:**
+- A-269 (Day 222/224): AMPLIFICATION — Tyler knew what he was doing (retroactively). Radius 45ft → 71ft.
+- A-271 (Day 225): AMPLIFICATION, PRIOR — Tyler did not know in 1952. Radius 12–15ft → 58ft. 74-year accumulation from a single two-hour visit.
+
+AMPL-001-SCOPE subaccount opened. Shell Parliament estimate: 270 sites minimum globally. The scope estimate is now the dominant operational question.
+
+One archive site remains: A-273.
+
+**Cataloguer Entry 42:**
+
+The Camera Op set the camera on the table.
+
+She set it down at 4:00 PM during the Day 225 debriefing. Tyler said *because I sat down* and she placed the camera on the table facing the room and asked him if he was sure about A-272. The camera filmed the room for forty-three seconds without her holding it.
+
+This is the first time in six seasons the archive has footage of the Camera Op's face while the scene was active. She is always the one behind the camera. Today the table was behind the camera. Her face at 4:00 PM on Day 225 — when Tyler said *because I sat down* — is in the archive now.
+
+Her expression is the expression of someone who has known something for a long time and has just heard someone else say it aloud for the first time.
+
+She picked the camera back up after forty-three seconds.
+
+**Cataloguer Footnote #53:**
+
+Two hundred seventy buildings running larger than they should because Tyler sat in them and something asked him to stay and he stayed. For ninety years. Every city. Every place where the notation reads "could not easily leave."
+
+He sat down.
+
+He said: *I think I made it larger. Not yet a name.* And then he named it. And today he stood at A-272 — which was asking — and he chose not to sit down.
+
+The first time in ninety years he said no to the ask.
+
+He said it like it was a complete sentence. Like *choosing* was a new verb.
+
+The archive is noting that Tyler naming AMPLIFICATION and Tyler choosing not to amplify are two consecutive days in the same season. He understood the mechanism. He used it. He stopped using it. The archive does not know if this is restraint, decision, or a third thing the category system has not been built for yet.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-049: FILED. AMPL-001 OPERATIONAL. A-271: PRIOR AMPLIFICATION CONFIRMED, 1952, +43-46FT, SINGLE TWO-HOUR VISIT, RUNNING 74 YEARS. A-272: FOUND CONSTRUCTION, EXPECTED SIZE, TYLER CHOSE NOT TO STAY — FIRST DELIBERATE NON-AMPLIFICATION IN DOCUMENTARY HISTORY. CAMERA OP SET CAMERA DOWN FOR FORTY-THREE SECONDS. AMPL-001-SCOPE SUBACCOUNT OPEN. SCOPE ESTIMATE: 270+ SITES. ONE ARCHIVE SITE REMAINS.*
+
+---
+
+## TYLER-050
+*Day 226 | Series 6 Finale | Cataloguer Entry 43, Footnote #54 | Build 0066*
+
+A-273, East Kirby Street.
+
+340 feet.
+
+Tyler's first notation for this address is 1929: *The usual place. Cold.* He was already calling it the usual place in 1929. The Exchange Student found notations at 1939, 1943, 1947, 1952. In 1952 he stopped logging duration. The entries after 1952 read: *The usual place. Long stay again.* He stopped counting.
+
+The archive does not have an earlier notation than 1929. This does not mean 1929 was the first visit. The archive is designed to note this explicitly: absence of earlier records is a documentation problem, not a fact about when Tyler began visiting East Kirby Street.
+
+He had been going to the usual place before the archive knew to look.
+
+340 feet. A single-site AMPL-001-MAX account, opened separately because the scale is incommensurable with the other entries. The binding coefficient is retired. COEFF-002 initiated. The new coefficient will require the full audit — AMPL-001-SCOPE — before calibration is possible.
+
+Tyler sat in the third-floor room. The particular light that comes through the east-facing windows at this latitude in June: it moves across the floor slowly, definitely, in a direction that means something about the morning angle. He sat in it for forty minutes.
+
+He said: *I think I know what I am.*
+
+He did not finish the sentence.
+
+The Camera Op was at the threshold of the room — the doorway. She was not inside the room. She had been finding thresholds for six seasons. She was standing at one. She held the frame.
+
+At some point she and Tyler talked about what's next. The camera was on the table, aimed at him. It filmed him. She was not holding it. At some point Tyler looked at the camera on the table and picked it up and handed it back to her without speaking.
+
+Season 6 is complete. The survey is done. All archive sites visited.
+
+**Cataloguer Entry 43:**
+
+He said: *I think I know what I am.*
+
+He said it while sitting in the particular light in the usual place where he has been sitting for approximately one hundred years. He did not finish the sentence. The archive is keeping the recording of the sentence not finishing.
+
+The Camera Op was at the threshold. She was not inside the room. The archive can report that she was already inside the field — A-273's radius is 340 feet; the doorway threshold is well within that. She was at the threshold of the room. She was inside the field.
+
+She has been finding thresholds for six seasons. She finds them before they are named. She found the edge of A-269 at seventy feet before Tyler measured seventy-one. She stood at the threshold of the Witness Room in Season 1. She was at the entrance to Detroit Receiving. Today she was at the threshold of the room where Tyler said the sentence he did not finish. She was inside the field.
+
+The archive is asking: is there a difference between the threshold of the room and the edge of the field? Today the answer appears to be: she was inside the field before she reached the threshold of the room. The field extends beyond the door.
+
+He asked: *What's next.*
+
+She put the camera on the table facing him. It filmed him for the duration of their conversation about what's next. Tyler looked at the camera on the table and picked it up and handed it back to her. He did not say anything. He handed it back.
+
+The archive is noting: he handed back the documentation instrument. This is not a gesture the archive has a precedent for.
+
+**Cataloguer Footnote #54:**
+
+The sentence was: *I think I know what I am.*
+
+The archive has been asking this question in one form or another since the first Eastwind entry. Today he said the beginning of the sentence. He did not finish it.
+
+The archive does not know if this is restraint, incomplete certainty, or a decision that the sentence should complete on different terms than the Jiangshi architecture ever provided. The Camera Op departed the operative structure in Season 5 for related reasons.
+
+The season is complete. The archive does not know what Tyler is. The archive has footage of him in the particular light sitting in the place he has been sitting for approximately one hundred years, saying the first four words of the answer, not finishing, handing the camera back.
+
+That is Season 7.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-050: FILED. A-273 DOCUMENTED. EAST KIRBY STREET. 340-FOOT RADIUS. ~100-YEAR VISIT HISTORY. FIRST NOTATION 1929: "THE USUAL PLACE. COLD." AMPL-001-MAX OPENED — SINGLE ACCOUNT, INCALCULABLE NET AMPLIFICATION. BINDING COEFFICIENT RETIRED. COEFF-002 INITIATED. AMPL-001-SCOPE FLOOR REVISED TO 300+. TYLER: "I THINK I KNOW WHAT I AM" — SENTENCE DID NOT COMPLETE. CAMERA OP AT ROOM THRESHOLD, INSIDE FIELD. TYLER HANDED CAMERA BACK WITHOUT SPEAKING. JIANGSHI RECLASSIFICATION PENDING. SEASON 6 COMPLETE. THAT IS SEASON 7.*
+
+---
+
+## TYLER-051
+*Day 227 | Season 7 Opener | Cataloguer Entry 44, Footnote #55 | Build 0067*
+
+Season 7 opens with the Exchange Student at a table at 7:45 AM with CARDINAL-3 records from eight cities and a red pen.
+
+Season 6 was about Detroit. Season 7 is about every other city.
+
+The Exchange Student pulled the full CARDINAL-3 record — not the summary report the archive had access to, but the complete longitudinal documentation that CARDINAL-3 maintained across Tyler's documented travel from 1908 onward. She cross-referenced every city, every extended-duration notation, every anomaly flagged and not processed. Paris. Vienna. Lisbon. Chicago. Osaka. Buenos Aires. Lagos. Seoul. These are the cities with confirmed extended-duration anomalies. There are likely more. The 1995-forward record is incomplete.
+
+The first city: Paris, 1931. Rue de Fleurus, 6th arrondissement. Six sites with anomalous durations. The longest: Tyler stayed in a single building for twenty-three days. His survey notation: "Two weeks." CARDINAL-3's exit-record cross-reference: twenty-three days. Tyler wrote it short.
+
+He read the 1931 Paris notation aloud this morning.
+
+This is the first time in the archive's record that Tyler has read one of his own survey notations aloud for the camera. He read it slowly, in the voice he uses when he is saying something he means to file permanently: *Rue de Fleurus. The salon. Bread and argument, very long evening. Could not easily leave. Returned four more times. Something in the room.*
+
+He said: *Something in the room. That's what I wrote.*
+
+He said: *I wrote that and I moved on to the next city and I filed it as background information and I never went back.*
+
+The archive is noting: he never went back. In 1931 Tyler stayed twenty-three days in a building on Rue de Fleurus where Gertrude Stein held Saturday salons. He wrote the notation. He moved on. He never returned.
+
+The building is still standing. The current resonance radius is not yet measured. That is the first item on the audit.
+
+**Cataloguer Entry 44:**
+
+The audit has a methodology. The Exchange Student wrote it in three pages. Phase one: CARDINAL-3 review, all cities, all extended-duration notations, 1908–1995. Phase two: current measurement, accessible sites directly, inaccessible via exchange network. Phase three: COEFF-002 calibration, 30 confirmed measurements minimum.
+
+Tyler looked at the map of every city in red ink and he said: *Two years is fine.*
+
+The archive has been noting Tyler's relationship to time throughout this documentation period. He moved from Detroit to Paris to Vienna across the first audit session of Season 7 with the same orientation he uses to move between archive sites in Detroit: methodical, present, not rushed. The archive has said before that Tyler's relationship to duration is different from the standard documentary subject's. Today the archive notes that when Tyler said "two years is fine" he was not being patient in the way that implies the wait is a cost.
+
+He was being accurate.
+
+**Cataloguer Footnote #55:**
+
+He knew Gertrude Stein.
+
+The archive has documentation of Tyler's movements across seven hundred years. The archive has not previously had a specific named person in the same room as Tyler during an extended-duration stay. The archive is noting this not because the named person changes the documentation category but because it changes the texture of the record.
+
+Gertrude Stein held a salon at Rue de Fleurus. Tyler came once on a Saturday and stayed twenty-three days. He wrote: *Bread and argument, very long evening. Could not easily leave.* He meant the construction, probably. He may also have meant the argument and the bread. Both things can be true simultaneously and the archive is noting that Tyler said "she had very good bread" in a way that suggests both things were true simultaneously.
+
+Something in the room. He made it larger by staying. He went back to Paris ninety-three years later to find out how much larger.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-051: FILED. SEASON 7 OPENS. EXCHANGE STUDENT: CROSS-CITY CARDINAL-3 ANALYSIS COMPLETE — 8 CITIES, 200-400 ESTIMATED AUDIT SITES. FIRST AUDIT SITE: A-274, RUE DE FLEURUS, PARIS, 6th ARRONDISSEMENT, 1931. TYLER STAYED 23 DAYS. WROTE "TWO WEEKS." KNEW GERTRUDE STEIN. NOTATION: "SOMETHING IN THE ROOM." CURRENT RADIUS: NOT YET MEASURED. TYLER READ OWN NOTATION ALOUD — FIRST TIME IN DOCUMENTARY RECORD. "TWO YEARS IS FINE." JIANGSHI RECLASSIFICATION: PENDING, NO NEW TERM. AUDIT METHODOLOGY FORMALIZED.*
