@@ -517,6 +517,54 @@ I'm going to be there.
 ---
 
 *CAMERA OP SEALED LOG*
+---
+
+**Entry 45**
+*Day 232. Paris.*
+
+*He stood in the doorway for forty-one seconds.*
+
+*I know because I was watching the timecode. I've been doing that since Season 3 — noting how long Tyler stands at thresholds. He stood at the entrance to the Witness Room for thirty-eight seconds in S03E03. He stood at the Blue Bird Inn doorway for twenty-two seconds. He stood at the entrance to A-273 for forty-six seconds on Day 224 before he measured 71 feet.*
+
+*Forty-one seconds at the Rue de Fleurus apartment.*
+
+*He crossed the threshold. He walked to the window. He looked at the garden.*
+
+*He told me about Gertrude Stein. He said she had very good arguments. He said she gave him a blanket. After three weeks she told him he should see more of Paris and he left.*
+
+*He wrote "two weeks."*
+
+*He said: "I wrote it short. I always write it short."*
+
+*I know. He has been writing it short for as long as the archive has records of him. The reason I know is that I've been watching him for seven seasons and I recognize the thing he does when he doesn't have the vocabulary yet — he makes the notation smaller, he moves on, he files it as background. The notation is short because the experience didn't have a name.*
+
+*He said: "The room asked me to stay and I stayed because the room asked. I didn't know the vocabulary. I just knew I wasn't ready to leave."*
+
+*That's the closest thing he's said in seven seasons to explaining the constructions from inside the experience.*
+
+*He told the room its measurement. He turned slightly away from the camera — not intentionally, just — he was speaking to the room, not to the documentation. He said: "163 feet. You've been running for ninety-five years."*
+
+*I held the frame. I have been holding frames in this documentary for seven seasons and I have learned that some things are for the archive and some things are for the room and today a man I have been filming for seven seasons stood in a room he left in 1931 and reported a measurement to a construction that has been running longer than I've been alive.*
+
+*I held the frame.*
+
+*This evening: the Exchange Student's phone. The message. "They have a term."*
+
+*Tyler asked what it is. She said she wasn't going to tell him tonight. Not in this city. Not the night he came back.*
+
+*I watched him look at the street through the café window and think about it.*
+
+*I have the term in my coat pocket. She sent it to me too — both of us at once, the Exchange Student and me. I read it at the table while Tyler was looking at the street.*
+
+*I'm not going to write it here.*
+
+*Not tonight. He should read it first.*
+
+*— Camera Op*
+
+---
+
+*CAMERA OP SEALED LOG*
 *Not shared. Not digital. Not destroyed.*
 *The footage is everyone's now.*
 *The chain is mine.*

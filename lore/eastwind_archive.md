@@ -1824,3 +1824,56 @@ Something in the room. He made it larger by staying. He went back to Paris ninet
 ---
 
 *TYLER-051: FILED. SEASON 7 OPENS. EXCHANGE STUDENT: CROSS-CITY CARDINAL-3 ANALYSIS COMPLETE — 8 CITIES, 200-400 ESTIMATED AUDIT SITES. FIRST AUDIT SITE: A-274, RUE DE FLEURUS, PARIS, 6th ARRONDISSEMENT, 1931. TYLER STAYED 23 DAYS. WROTE "TWO WEEKS." KNEW GERTRUDE STEIN. NOTATION: "SOMETHING IN THE ROOM." CURRENT RADIUS: NOT YET MEASURED. TYLER READ OWN NOTATION ALOUD — FIRST TIME IN DOCUMENTARY RECORD. "TWO YEARS IS FINE." JIANGSHI RECLASSIFICATION: PENDING, NO NEW TERM. AUDIT METHODOLOGY FORMALIZED.*
+
+---
+
+## TYLER-052
+*Day 232 | Paris | Cataloguer Entry 45, Footnote #56 | Build 0068*
+
+The audit has its first measurement outside Detroit.
+
+A-274, Rue de Fleurus, Paris, 6th arrondissement. Current resonance radius: 163 feet. Running ninety-five years on a 1931 deposit without reinforcement.
+
+There is a complication in the A-274 measurement that the archive will note for the record.
+
+The baseline at A-274 was not standard. A standard found construction at a residential address runs fifteen to twenty feet. The Exchange Student's initial projection for a construction of Tyler's documented duration at A-274 — eight to nine Saturdays plus a twenty-three-day stay, estimated sixty to seventy hours of total presence — was 130 to 150 feet. The current measurement is 163.
+
+The thirteen-to-thirty-foot gap is accounted for by a second construction layer.
+
+Gertrude Stein held a salon at 27 Rue de Fleurus from 1903 to 1938. Thirty-five years of Saturday evenings. Thirty-five years of bread and argument and art on every wall and people staying until the small hours because the room asked them to stay. The archive classifies this as a FOUND CONSTRUCTION — Stein-origin, pre-existing when Tyler arrived, running on its own mechanism.
+
+Tyler walked into an already-running found construction in 1931 and amplified it without knowing there was anything to amplify. He thought something was in the room. Something was in the room before he arrived. He made it larger.
+
+A-274 is the first dual-layer construction documented: FOUND CONSTRUCTION (Stein, 1903–1938) + UNINTENTIONAL AMPLIFICATION (Tyler, 1931). The archive is creating a new category designation for this type. Cross-reference: A-267 (North End lot, confirmed found, no Tyler amplification), A-268 (Blue Bird Inn, Tyler-origin unintentional only).
+
+**Cataloguer Entry 45:**
+
+Tyler stood at the doorway of the second-floor apartment for forty-one seconds before entering. The Camera Op timed it. The archive has been noting Tyler's threshold behavior for seven seasons — the calibration pause before he enters a significant space. Forty-one seconds is within the documented range.
+
+He entered the room and he told the room its measurement.
+
+He said: *163 feet. You've been running for ninety-five years.*
+
+He said it quietly. He was not performing it for the camera. He was filing it with the room.
+
+The archive has documentation of Tyler speaking to constructions — he reads his own notations aloud (first documented instance: S07E01), he calibrates verbally in active sites, he named the Blue Bird Inn construction to the camera in S06E01. Today was different. Today he reported a measurement to a construction as if the construction should have the data.
+
+The archive does not have a precedent for this behavior. The archive is noting it and filing it.
+
+**Cataloguer Footnote #56:**
+
+He knew Gertrude Stein. He stayed twenty-three days in her building in 1931. He ate her bread and participated in her arguments. He wrote "two weeks" in his survey register and moved on.
+
+The archive is noting: there are probably other buildings in the audit where Tyler knew the person who lived there. The audit is going to recover ninety-five years of personal history alongside the construction data. The archive is not sure those two things can be fully separated.
+
+The Exchange Student's audit methodology treats them as analytically distinct — construction data (radius, duration, amplification coefficient) and personal context (who Tyler knew, why he stayed, what the bread was like). The archive suspects the construction data is downstream of the personal context. The archive is noting this as a hypothesis.
+
+The room asked him to stay and he stayed because Gertrude Stein had good bread and good arguments and thirty-five years of Saturday evenings had already built something that knew how to ask. Tyler answered the question and made it 163 feet and went on to the next city and wrote "two weeks."
+
+Ninety-five years later he stood in the doorway for forty-one seconds and then he told the room its measurement.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-052: FILED. DAY 232. PARIS. A-274 MEASURED: 163 FEET. RUNNING 95 YEARS ON 1931 DEPOSIT. CONSTRUCTION TYPE REVISED: DUAL-LAYER — FOUND CONSTRUCTION (STEIN SALON 1903–1938) + UNINTENTIONAL AMPLIFICATION (TYLER 1931). FIRST DUAL-LAYER DOCUMENTED. 13-30ft BASELINE GAP RESOLVED. TYLER IN THE ROOM FOR FIRST TIME SINCE 1931: 41-SECOND THRESHOLD PAUSE. TOLD THE ROOM ITS MEASUREMENT. JIANGSHI COUNCIL SESSION #6 CONCLUDED: TERM PROPOSED, SEALED. TYLER DEFERS TO TOMORROW. "THE ROOM KNOWS I'M HERE."*

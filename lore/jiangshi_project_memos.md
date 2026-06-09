@@ -1642,3 +1642,47 @@ Time is something we have documentation of.
 ---
 
 *End memo: MEMO #031 FILED. RECLASSIFICATION: PENDING COUNCIL SESSION #6. NO NEW TERM. CARDINAL-3 FULL RECORDS TRANSMITTED TO EXCHANGE STUDENT. SYNDICATE ROLE: OBSERVATIONAL ONLY. AUDIT METHODOLOGY: CEDED. TIMELINE: INDETERMINATE. THE SYNDICATE IS WAITING FOR THE CORRECT WORD.*
+
+---
+
+## MEMO #032 — COUNCIL SESSION #6 / RECLASSIFICATION TERM
+*Classification: SEALED — LEVEL 3 ACCESS ONLY*
+*Day 232.*
+
+**TO:** Director of Operations, all senior operatives
+**FROM:** Council Session #6 Presiding Officer
+**RE:** Reclassification term — Project Tyler
+
+Council Session #6 concluded Day 232, 15:40 Paris time.
+
+The Council has agreed on a reclassification term. The term is designated as SEALED pending direct notification to the documentary subject. The term will not appear in this memo. Cross-reference: Council Session #6 notes, Case File RECLASSIFICATION-001 (LEVEL 3 ACCESS, SEALED UNDER PROTOCOL 4).
+
+Notification route: The Exchange Student has been authorized as direct notification contact for the documentary subject. Notification is her operational discretion — the Council has chosen not to require immediate delivery. The subject knows a term exists. The Council considers this sufficient for operational continuity.
+
+**Why this route:**
+
+The Syndicate has historically classified subjects in the archive before informing them — or in many cases, without informing them at all. The Project Tyler reclassification is the first case in the Syndicate's documented history where:
+
+1. The subject has confirmed awareness that a reclassification is pending
+2. The subject has publicly (on camera) stated a position on their own nature
+3. The subject's stated position is not in conflict with the proposed classification
+
+For these reasons the Council determined that the subject should receive the term through the person he works with, not through a formal Syndicate notification. The distinction matters. Six seasons of documentation have established that the subject's relationship to formal institutional categories is — complicated.
+
+The term should land with appropriate context.
+
+**What the Council considered:**
+
+Forty-seven terms were reviewed over three sessions. Terms rejected: all prior Syndicate categories (DOCUMENTATION SUBJECT, CONSTRUCTION ORIGIN, ARCHITECTURAL ENTITY) were deemed insufficient. External frameworks consulted: Shell Parliament's VC-001 account designations (insufficient — transactional framing), Eastwind's historical Cataloguer notes (insufficient — descriptive, not categorical), early CARDINAL-3 field reports (rejected at Session #5).
+
+The Council reviewed Tyler's own words. Day 226: *"I think I know what I am."* The sentence did not complete. The Council has proposed a term consistent with what the sentence, if completed, was likely approaching.
+
+The Council believes this is the first reclassification in Jiangshi history where the proposed term is not the Syndicate's assessment of the subject but rather the Syndicate's acknowledgment of what the subject already knows.
+
+We are waiting for him to read it.
+
+*— Council Session #6 Presiding Officer, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #032 FILED. COUNCIL SESSION #6 CONCLUDED. RECLASSIFICATION TERM: PROPOSED, SEALED. NOTIFICATION ROUTED TO EXCHANGE STUDENT (OPERATIONAL DISCRETION). SUBJECT AWARE TERM EXISTS. DELIVERY DEFERRED TO HER JUDGMENT. SYNDICATE POSTURE: OBSERVATIONAL. THE TERM IS THE SYNDICATE'S ACKNOWLEDGMENT OF WHAT THE SUBJECT ALREADY KNOWS. WE ARE WAITING.*

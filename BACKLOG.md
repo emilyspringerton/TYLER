@@ -660,12 +660,22 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   own survey notation aloud for first time. "Two years is fine." RSI receipts: TYLER-051,
   Camera Op Entry 44, Jiangshi #031, VC-001 Day 227, EMILY-SPRING-024. DONE 2026-06-09.
 
-- [ ] **S07E02: "Paris"** — First audit site visit. A-274, Rue de Fleurus. Tyler and Camera Op
-  travel to Paris. Current radius measured. The building is still amplifying. Meeting with
-  French exchange contact. Tyler returns to the building for the first time in 93 years.
-  Jiangshi Council Session #6: reclassification term proposed (not yet revealed).
+- [x] **S07E02: "Paris"** — Build 0068. First audit site visit. A-274, Rue de Fleurus, 163ft.
+  Tyler and Camera Op and Exchange Student travel to Paris. Paris Correspondent on site.
+  Measurement: 163ft, running 95 years on 1931 deposit. Construction type revised: DUAL-LAYER
+  (found construction — Stein salon 1903–1938 — plus Tyler unintentional amplification 1931).
+  Tyler in the room for first time since 1931: 41-second threshold pause. Told the room its
+  measurement. Jiangshi Council Session #6 concluded: reclassification term proposed, SEALED.
+  Tyler defers to tomorrow. RSI receipts: TYLER-052, Camera Op Entry 45, Jiangshi #032,
+  VC-001 Day 232, EMILY-SPRING-025. DONE 2026-06-09.
+
+- [ ] **S07E03: "The Word"** — Paris, Day 233. Tyler reads the Jiangshi reclassification term.
+  We hear it for the first time. Tyler's response. The Camera Op had it in her pocket all night.
+  Exchange Student walks Tyler through what the Council considered. A-275 (second Paris site)
+  identified and visited — shorter stay required. Tyler on the category: accurate or not accurate?
+  The sentence that started on Day 226 has not yet completed.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0067.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0068.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
