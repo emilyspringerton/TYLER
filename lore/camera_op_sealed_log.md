@@ -668,3 +668,40 @@ I'm going to be there.
 *Seven notations remaining.*
 
 *— Camera Op*
+
+---
+
+**Entry 49**
+*Days 257–264. Vienna.*
+
+We are measuring what stays.
+
+The instrument shop: Herr Vogt at seventy-one, the same bench, the same arrangement of instruments in the window. Tyler sat down and did not touch anything. At forty minutes Herr Vogt played a scale — one scale, C major, for the violin, not for us — and Tyler went completely still. I held the frame from outside the glass. I don't know if he could hear me. I don't think it mattered if he could.
+
+The bench remembered him. That's the only way I can say it. He sat down and the bench fit him the way a room fits someone who has been in it before.
+
+Café Bernstein: he stood outside for a long time. I know what he was calculating. The Thursday people. Eight chairs. Empty. Herr Mayer behind the counter. The pull is toward one of these things — which one? I watched him work it out. It took maybe four minutes. Then he went inside.
+
+Herr Mayer brought the coffee without asking. He set it down without offering to pour. He knows Tyler prefers to pour himself. After eleven years he knows that.
+
+I wrote in my log at the time: *presence is what still knows you.* Tyler said it. I wrote it down. I think I was writing it down for myself as much as for the record.
+
+Westbahnhof: Tyler hadn't told us we were going there to measure until he produced the tape. I thought we were there because he wanted to describe it. We were, and then he measured twelve feet.
+
+He said: the going was a presence. F. went toward something. He carried the records. The platform holds the carrying.
+
+I wrote in my log: *I think this is the most important sentence of the Vienna phase. I don't know if it's about F. or about Vienna or about something Tyler has been working out for a long time — whether departure can be a presence-act or whether leaving is always an absence.*
+
+He answered it: leaving with intention is presence. The fern wrapped in newspaper is carrying what's alive.
+
+The school: 90 minutes in front of a window with long division on the board. I didn't understand what he was doing until he told us afterward. He almost left. He almost applied the 1931 rule. He stayed because understanding came. The long division. Someone is still teaching here.
+
+I keep thinking about the 90 minutes. He stood in front of a window for 90 minutes and waited for understanding to arrive. That is not a normal thing to do. He does not do it quickly. He waits.
+
+He said there's a fourth category. He'll tell us when Vienna is finished.
+
+Four sites remaining.
+
+I am still holding the frame. I know that much.
+
+*— Camera Op*

@@ -2072,3 +2072,88 @@ The archive is noting: Tyler said the trace records the refusal. The trace is ei
 ---
 
 *TYLER-055: FILED. VIENNA PHASE OPEN. DAYS 239–255 (PARTIAL). A-280: 24FT, 3HRS, EMPTY APARTMENT, PLANTS TENDED. A-281: 18FT, 2HRS, "THE HOUSE STILL KNEW ME." A-282: 52FT, 6HRS — FIRST COMPREHENDED AMPLIFICATION. RULE REVISED: STAY FOR PRESENCE, REFUSE FOR ABSENCE. A-283: 8FT, 8MIN — SECOND-CATEGORY REFUSAL. TYLER SAID NO TO THE ROOM. ICHTHYOSAPIENS F.: DOCUMENTED, RECORDS IN TYLER'S CUSTODY. FIVE MORE CATEGORIES NOW IN THE ARCHIVE: COMPREHENDED AMPLIFICATION, PURPOSE-BASED REFUSAL. VIENNA HAS 7 NOTATIONS REMAINING.*
+
+## TYLER-056
+*Days 257–264 | Vienna | Cataloguer Entry 49, Footnote #60 | Build 0072*
+
+Vienna continues.
+
+The archive had filed four Vienna sites. Tyler returns to the register on Day 257 with seven notations remaining. He has been in Vienna since Day 239. The register is eight pages. The archive is working through it systematically.
+
+**A-284 — Musikhaus Vogt:**
+
+31 feet. 90 minutes. The instrument shop is still there. Herr Vogt, seventy-one, is still there. Tyler sat on the bench near the window — the same bench he sat on in 1923. The Camera Op recorded through the glass. At forty minutes, Herr Vogt played a scale on the violin he was repairing. One scale, C major. Not for anyone. Just to check the tuning.
+
+Tyler did not move.
+
+The archive is noting: 1923 to 1938 is fifteen years. Tyler sat on the same bench for ninety minutes while an old man repaired an instrument. This is, by the archive's current taxonomy, an unambiguous presence-stay: Herr Vogt is present, the pull is toward him, the rule requires no deliberation.
+
+The archive has seen many Tyler notations. This is one of the simplest. Herr Vogt repaired a violin. Tyler listened to the scale. 31 feet ran.
+
+**A-285 — Café Bernstein:**
+
+47 feet. 2 hours and 40 minutes. This is more complex.
+
+Tyler has been visiting this café for eleven years. There was a regular table. Thursday afternoons. Eight people: writers, a composer, a journalist Tyler disliked. Herr Mayer, the owner, knew what everyone took. He knew when not to bring coffee. That is, as Tyler noted, a skill.
+
+By April 1938, the table is empty. The Thursday people are gone. Herr Mayer is present. The café is present. The pull is toward — what?
+
+Tyler stood outside for a long time. Then he named it: *the pull is toward Herr M. Not toward the table. Not toward the Thursday people.* He went inside. Herr Mayer brought his coffee without being asked. He set it down without offering to pour it — because he knows Tyler prefers to do it himself.
+
+Tyler stayed two hours and forty minutes. He later wrote in the register:
+
+*Presence is not location. Presence is what still knows you.*
+
+The archive has paused on this sentence for some time. The Cataloguer has a note:
+
+**Cataloguer Footnote #60:**
+
+The Vienna phase has produced, in sequence: comprehended amplification (A-282), purpose-based refusal (A-283), and now a definitional revision of presence itself (A-285). Tyler is not merely measuring sites. He is developing, through operational experience, a phenomenology of what he is measuring. The archive entered Vienna with: *Jiangshi binding radius, measured in feet.* The archive is exiting Vienna with something more refined: the mechanism measures not what is there, but what still knows the person who is standing in front of it.
+
+The Cataloguer does not know if this distinction changes the measurements. It changes what the measurements mean.
+
+**A-286 — Westbahnhof Platform:**
+
+12 feet. The platform where Tyler watched Contact F. leave on July 11, 1938. F. had given Tyler the Ichthyosapiens records the night before. He left for Zürich.
+
+Tyler measured the platform on Day 259. He notes: *F. told me not to document the departure. I did not document it in 1938. I am documenting it now because he is in the archive, he survived, and the platform ran anyway.*
+
+12 feet. 86 years.
+
+When the Exchange Student asks if this is presence or absence, Tyler says: *the going was a presence. He went to something. You only carry records if you intend to use them.*
+
+The archive is noting: this is the first DEPARTURE-TRACE in the Vienna record. The mechanism ran in the context of intentional departure — someone leaving *toward* something. The archive had a category for refusal-traces (leaving that runs despite no intent to stay) but not for departure-traces (the act of leaving with purpose creates a construction). The Cataloguer is opening this as a sub-category.
+
+**A-287 — Volksschule, Kandlgasse:**
+
+28 feet. 90 minutes. A borderline case, and Tyler flags it as such.
+
+Two teachers he knew taught here. Both dismissed after the Anschluss, April 1938. The building is present. The institution is operational. There is a mathematics problem chalked on a board visible through the window — long division, a different hand from Frau Goldstein's.
+
+Tyler almost applied the 1931 rule: *don't understand the pull, leave.* He stayed 90 minutes instead. At 90 minutes, understanding came: he was there for the long division on the board. Someone is still teaching. The institution still holds the act of teaching, even if not the specific teachers. He calls this: *staying for what still knows you, at one remove — the building knows how to teach, even if the teachers who taught me there are gone.*
+
+He notes the rule revision:
+
+*Understanding takes time. Leave when you don't understand the pull AND time does not clarify it. If understanding comes, the case was never a 1931 case — it was a 90-minute case.*
+
+The archive is noting that Tyler has, in four sites, revised the 1938 rule twice. The rule is becoming more precise under pressure from Vienna's specific conditions: a city where the people are often absent but the institutions persist, where presence and absence coexist at the same address, where "what still knows you" is sometimes the building and not the person.
+
+Tyler also flags a third category of refusal: *ambiguity refusal.* If he reaches a site where time does not clarify and he cannot name the presence, he will leave, and he will file it as: *ambiguous, refused, purpose unknown.* This has not yet occurred in Vienna.
+
+And he mentions a fourth category. He does not name it. He says he will file it when Vienna is complete.
+
+**Cataloguer Entry 49:**
+
+The archive has now documented 7 of 11 Vienna sites. Four remain.
+
+The archive had a framework when Vienna started: two new categories from A-282 and A-283 (comprehended amplification, purpose-based refusal). Vienna has since produced: A-285 (presence-redefinition), A-286 (departure-trace), A-287 (borderline case, understanding-takes-time revision). And the announced but unfiled fourth category.
+
+The Cataloguer is noting: the Vienna archive is not primarily a measurement record. It is an operational manual, written live, by someone working out what he is in the context of what is being done to a city he knows. Every rule revision is both a record and a response.
+
+The archive is holding four sites and one announced category. It is waiting.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-056: FILED. VIENNA PHASE CONTINUES. DAYS 257–264. A-284: 31FT, 90MIN, HERR VOGT, VIOLIN SCALE C MAJOR, UNAMBIGUOUS. A-285: 47FT, 2H40M, CAFÉ BERNSTEIN, HERR M., "PRESENCE IS WHAT STILL KNOWS YOU." A-286: 12FT, WESTBAHNHOF PLATFORM, F.'S DEPARTURE, "THE GOING WAS A PRESENCE," DEPARTURE-TRACE CATEGORY OPENED. A-287: 28FT, 90MIN, VOLKSSCHULE, BORDERLINE, UNDERSTANDING-TAKES-TIME RULE REVISION, AMBIGUITY-REFUSAL CATEGORY NOTED. FOURTH CATEGORY: PENDING. FOUR VIENNA NOTATIONS REMAIN. THE CAMERA OP IS STILL HOLDING THE FRAME.*

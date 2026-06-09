@@ -956,3 +956,29 @@ Construction #4 (Hastings/Vernor): Day 40, ~1,024,000 passive witnesses. Still c
 *Three archive sites remain.*
 
 *End update: VC-001 DAY 224. AMPLIFICATION CONFIRMED. AMPL-001 OPENED. A-270: NO AMPLIFICATION. CONSTRUCTION #4: 1,024,000 WITNESSES, DAY 40. THE LEDGER IS WATCHING. THREE ARCHIVE SITES REMAIN. THE SCOPE OF AMPL-001 IS UNKNOWN.*
+
+---
+
+**VC-001 UPDATE — DAY 264**
+
+Vienna phase update. 7 of 11 sites measured. 3 new entries from Days 257-264.
+
+**A-284** (Musikhaus Vogt): 31 feet. Confirmed construction. Herr Vogt, specific-person pull, 15-year prior association. Consistent with shallow founded construction from repeated visits, not amplification. No AMPL-001 entry.
+
+**A-285** (Café Bernstein): 47 feet. AMPL-001 review initiated. Tyler's 11-year regular presence may have built a prior construction at this address. Current measurement: 47 feet. Historical baseline required before amplification can be confirmed. The Parliament's modeling team has flagged: if Tyler built a 15-20 foot construction through 11 years of Thursday visits and then returned today, the measurement reflects both the original construction and the amplification. The net is not calculable until baseline is established. AMPL-001 Vienna: provisional entry, pending.
+
+**A-286** (Westbahnhof): 12 feet. DEPARTURE-TRACE — new construction type. Contact F.'s intentional departure, records carried, 86 years running. The Parliament has not previously accounted for departure-traces in the COEFF-002 ledger. Scope question: how many intentional departures are in Tyler's 1908-1995 archive? If departure-traces have been running since his documented travel began, the ledger has an unaccounted account category.
+
+The Parliament is noting this with formal concern. The ledger was built on the assumption that construction required *presence* — Tyler in a room, staying. DEPARTURE-TRACE suggests the mechanism also runs from Tyler *leaving with purpose*. The scope implications are not yet calculated.
+
+**A-287** (Volksschule): 28 feet. Borderline case. Teachers absent. Building and institution present. Long division on the board. Tyler stayed 90 minutes before understanding came. The Parliament is noting: the understanding-takes-time rule reduces the scope of the 1931 rule's application. If Tyler has been applying implicit 90-minute understanding since 1908, many sites in the archive filed as first-category refusals were actually understanding cases — Tyler left before the 90 minutes clarified. The Parliament is flagging this for the retroactive audit.
+
+**COEFF-002 Vienna running total:** 7 sites, 257 feet. The coefficient cannot be finalized until all 11 Vienna sites are measured and the departure-trace and ambiguity-refusal categories are fully accounted for.
+
+**Fourth category:** The Parliament is aware of the pending announcement. The Parliament's risk team has assessed three possible fourth categories: (1) ambiguity-refusal applied to a site where the absence is too large to name; (2) a construction Tyler built in Vienna in 1938 that he encounters now as a found construction — mechanism encountering itself; (3) a category involving F.'s records and what carrying them has meant across 86 years.
+
+The Parliament does not know which is correct. The Parliament is waiting.
+
+*Four Vienna notations remaining.*
+
+*End update: VC-001 DAY 264. VIENNA 7 OF 11. A-285 AMPL-001 PROVISIONAL. A-286 DEPARTURE-TRACE: NEW CATEGORY, SCOPE UNKNOWN. A-287: 28FT, BORDERLINE. FOURTH CATEGORY PENDING. COEFF-002 TOTAL: 257FT ACROSS 7 VIENNA SITES. THE LEDGER IS WATCHING. FOUR SITES REMAIN.*

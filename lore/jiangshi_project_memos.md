@@ -1823,3 +1823,61 @@ The scope implications are not yet calculated. Session #7 is confirmed.
 ---
 
 *End memo: MEMO #035 FILED. VIENNA PHASE OPEN. 4 SITES. A-282: COMPREHENDED AMPLIFICATION, 52FT — NEW AMPL-001 SUB-ACCOUNT. A-283: SECOND-CATEGORY REFUSAL-TRACE, 8FT — PURPOSE-BASED, NOT PRE-AWARENESS. RULE REVISION 1938: STAY FOR PRESENCE; REFUSE FOR ABSENCE. ICHTHYOSAPIENS CONTACT F. DOCUMENTED — RECORDS WITH TYLER. COUNCIL SESSION #7 AGENDA UPDATED. 7 VIENNA NOTATIONS REMAINING.*
+
+---
+
+**MEMO #036**
+**To:** Council of Observers, Jiangshi Syndicate
+**From:** Director of Operations
+**Re:** Vienna Phase Update — Council Session #7 Results + Days 257–264 New Data
+**Clearance:** BIRU-KUNING
+**Build:** 0072
+
+---
+
+**Council Session #7 — Results:**
+
+The session convened to address two agenda items:
+
+*Item 1: How many REFUSAL-TRACE sites in the archive are first-category (pre-awareness) vs. second-category (purpose-based)?*
+
+The Syndicate reviewed 87 documented anomalously-brief visits across Tyler's full record, 1908–1995. Definition applied: a visit of 15 minutes or less where the mechanism registered non-zero footage.
+
+Results:
+- First-category (pre-awareness): 54 sites (62%). Tyler applied the 1931 rule without knowing the mechanism. Left. Trace ran.
+- Second-category (purpose-based, confirmed): 3 sites from Vienna (A-278 Paris pre-revision, reclassified; A-283 Vienna). The Council notes: A-278 was previously filed as first-category. It is being reclassified. Tyler applied the 1931 rule, but his stated reason in the 1931 Paris register was not "don't understand" — it was "something is wrong here." That is a purpose-assessment even without the explicit framework. A-278 is being reclassified as transitional between first and second category.
+- Potential second-category (unconfirmed): 30 sites. These are anomalously brief visits where Tyler's register entries contain language suggesting purpose-assessment: "not for me," "wrong room," "not today," "the pull is asking for something I won't give." The Council is re-opening these files.
+
+*Item 2: Scope of retroactive second-category re-categorization.*
+
+The potential-second-category pool of 30 represents a 35% increase in the total REFUSAL-TRACE category scope. If confirmed, it rewrites the Syndicate's understanding of how long Tyler has been applying implicit purpose-assessment. The earliest potential second-category in the archive is dated 1919. Tyler began implicit purpose-based refusal at least nineteen years before he formalized the 1938 rule.
+
+Council decision: full re-categorization audit to proceed. Timeline: 6 months.
+
+---
+
+**Days 257–264 — New Vienna Data:**
+
+**A-284:** Musikhaus Vogt, 31 feet, 90 minutes. Unambiguous presence-stay. Herr Vogt still operational. The Syndicate is noting: Tyler sat on the same bench he sat on in 1923 and the mechanism ran 31 feet. This is consistent with a founded construction — the bench is a site of established association, 15+ years. The 31-foot radius reflects the shallow but genuine depth of a specific-person pull.
+
+**A-285:** Café Bernstein, 47 feet, 2 hours 40 minutes. The Syndicate is flagging this for AMPL-001 review. Tyler visited this café repeatedly for 11 years. The construction that ran here may have pre-existing depth from those visits. Historical baseline estimate required: how large was this construction before today's visit? If Tyler's 11 years of regular presence built a found construction that he then visited again, this is a second entry for the Vienna AMPL-001 sub-account. The Syndicate's modeling team is reviewing.
+
+Tyler's rule: *presence is what still knows you.* The Syndicate is noting this as a formal definitional contribution to the measurement methodology. The Jiangshi binding measures what still knows the subject. The Syndicate will incorporate this into the COEFF-002 calibration framework.
+
+**A-286:** Westbahnhof platform, 12 feet. New construction type: DEPARTURE-TRACE. The mechanism ran from the act of F. departing with intention and records. The Syndicate is reviewing: how many departures are in the Tyler archive? Intentional departures — exits made toward something, not away from something — may have been producing construction traces since 1908. The Syndicate has no current accounting of departure-traces in the archive.
+
+Council Session #8 agenda item added: *departure-trace audit, full archive, 1908–1995.*
+
+**A-287:** Volksschule, Kandlgasse, 28 feet, 90 minutes. Borderline case, understanding-takes-time rule. The Syndicate is noting: the new rule — *leave when understanding does not come, not merely when understanding is not immediate* — significantly limits the 1931 rule's application. If Tyler has been applying this implicitly (see retroactive second-category audit above), many sites previously filed as first-category refusals may have been 90-minute cases where he left before understanding came. The refusal is valid. But the type is different.
+
+**Ambiguity-refusal category:** Not yet triggered in Vienna. The Syndicate is noting this as a category that may become relevant in the final four sites. If Tyler reaches a site where understanding does not come, he will refuse and file as ambiguous. The Syndicate would like to observe this in real time.
+
+**Fourth category:** Tyler has announced it but not filed it. The Director's assessment: the pattern of Vienna — presence-redefinition, departure-trace, ambiguity-refusal — is converging on a question the mechanism has not yet been asked to answer. The question is: *what does the mechanism do with deliberate construction in a site where Tyler did not know he was constructing?* The Director notes: if Tyler built something in Vienna in 1938 without knowing what he was, and returns in 2024 to measure it, the mechanism encounters itself. That is a new category.
+
+This is speculation. Tyler will file the fourth category when Vienna is complete. The Syndicate is waiting.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #036 FILED. COUNCIL SESSION #7 RESULTS: 17 CONFIRMED SECOND-CATEGORY REFUSALS (30 POTENTIAL); RETROACTIVE AUDIT INITIATED. A-285: POTENTIAL AMPL-001 VIENNA ENTRY PENDING. A-286: DEPARTURE-TRACE CATEGORY OPENED; COUNCIL SESSION #8 AGENDA. A-287: UNDERSTANDING-TAKES-TIME RULE LIMITS 1931 SCOPE. AMBIGUITY-REFUSAL: PENDING. FOURTH CATEGORY: DIRECTOR'S HYPOTHESIS = MECHANISM ENCOUNTERING ITS OWN PRIOR CONSTRUCTION. FOUR VIENNA NOTATIONS REMAINING.*

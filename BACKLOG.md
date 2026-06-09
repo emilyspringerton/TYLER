@@ -692,13 +692,19 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   amplify absence. 1938 register: careful handwriting, eight pages, 7 notations remaining.
   RSI receipts: TYLER-055, Camera Op Entry 48, Jiangshi #035. TYLER commit pending. DONE 2026-06-09.
 
-- [ ] **S07E06: Vienna continued** — 7 remaining notations from the 1938 register. The large
-  Vienna sites (extended stays under historical duress — what Tyler was trying not to look at).
-  COEFF-002 Vienna data set completion. Council Session #7 (scope of purpose-based REFUSAL-TRACE
-  deposits throughout archive). The sentence that started on Day 226 — Vienna's contribution to
-  the remainder ("why he stayed").
+- [x] **TYLER S07E06: "What Stays"** — Build 0072. Vienna phase continues. Days 257-264. 4 more sites
+  (A-284 through A-287): Musikhaus Vogt 31ft/90min (presence is what still knows you); Café Bernstein
+  47ft/2h40m (Herr M., "presence is what still knows you"); Westbahnhof platform 12ft/86yr — F.'s
+  DEPARTURE-TRACE, new construction type ("the going was a presence"); Volksschule 28ft/90min borderline
+  case — understanding-takes-time rule revision. Council Session #7: 17 retroactive second-category
+  refusals, retroactive audit initiated. Fourth category announced: pending. Four Vienna notations remain.
+  RSI receipts: TYLER-056, Camera Op Entry 49, Jiangshi #036, VC-001 Day 264. DONE 2026-06-09.
+
+- [ ] **S07E07: Vienna — final four** — 4 remaining notations. Fourth category announcement.
+  Vienna phase closes. COEFF-002 Vienna data set complete. The departure-trace audit scope revealed.
+  What Tyler built here that he didn't know he was building.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0071.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0072.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
