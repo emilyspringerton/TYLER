@@ -2741,3 +2741,120 @@ The constructions were patient.
 ---
 
 *TYLER-062: FILED. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES (A-305 THROUGH A-311). TWENTY LONDON SITES MEASURED. TWENTY-SEVEN REMAINING. ALL EIGHT LONDON PRIOR SITES NOW MEASURED. FIVE IN THE SQUARE MILE. TYLER: "THE PRIOR CONSTRUCTIONS ARE THE FOOTPRINT." A-306: ALDERSGATE STREET. 71FT. PRIOR. SEPTEMBER 1563. PLAGUE YEAR. "I SAT WITH THE AIR FOR A MORNING." A-308: ST. PAUL'S CATHEDRAL CHURCHYARD. 88FT. AMPLIFICATION. NOVEMBER 15, 1623. THE DAY AFTER GRAY'S INN. "I DID NOT KNOW WHAT TO DO WITH MYSELF. I CAME HERE." A-293 AND A-308: THE SEQUENCE. TYLER: "I LIVED HERE. IN THOSE YEARS, BEFORE ANYONE WAS WATCHING, THIS WAS WHERE I WAS." EXCHANGE STUDENT: "I NEED A BIGGER MAP FOR THE CITY." THE ARCHIVE: ARRIVING LATE TO THE CORRECT GEOGRAPHY WITH THE CORRECT VOCABULARY. THE CONSTRUCTIONS: PATIENT. EMILY-SPRING-034: MAP UPDATE FILED. CITY PRIOR-DENSITY FLAGGED.*
+
+---
+
+## FILE: TYLER-063
+**Classification:** AUDIT ENTRY — WESTMINSTER CLUSTER (LONDON PHASE, DAYS 293–300)
+**Sites documented:** A-313 through A-317
+**Status:** ACTIVE SUBJECT FILE | COEFF-002 SUSPENDED | DOCUMENTATION SUPPORT MODE
+
+---
+
+**Preamble:**
+
+The Westminster cluster is the third London cluster documented in the S07 audit (after Southwark, Days 275–281, and City of London, Days 285–292). Westminster has a different character from the City cluster: fewer sites, no PRIOR-dense residential footprint, but two sites from a single historical week in January 1649 that the archive considers structurally significant.
+
+The archive is noting in advance: the Westminster cluster makes explicit something that the City cluster established implicitly. The City PRIOR sites were a residential pattern — evidence of sustained presence across decades in an ordinary geography. The Westminster cluster contains two constructions from one of the most historically significant weeks in English history (January 1649: the trial and execution of Charles I) plus one PRIOR site from one of the most historically significant single days in the same history (January 1559: the coronation of Elizabeth I). Tyler was present at all three. He was not present for the politics. He was present in his specific way. The mechanism recorded his presence and his specific way of being present. The archive is now filing these in the same document as the pelicans.
+
+The archive considers this appropriate.
+
+---
+
+**A-313 — Westminster Abbey nave (north transept), January 15, 1559:**
+
+PRIOR. 79 feet. Seeding event: the coronation of Elizabeth I, January 15, 1559. Tyler was in the crowd outside the Abbey for the ceremony. He entered the nave after the coronation procession moved to Whitehall Palace, when general entry was permitted.
+
+The construction is notable for its geometry: 79 feet, measured from the north transept chair where Tyler was sitting, extending through the north door and into Parliament Square. The radius crosses the threshold of the building. This is the first construction in the audit that physically spans the interior/exterior boundary of a structure. The Exchange Student confirmed: the construction begins inside and the outer edge is approximately at the north pavement of Parliament Square.
+
+Tyler's journal entry from January 1559: *"I was outside first, in the crowd near the north entrance. The procession was long — several hours — and very cold. When the Queen and the court moved down toward Whitehall, the Abbey opened for general entry. I went inside. The candles were still lit. The nave was very full of the morning. I don't have the right word for it: everything that had just happened was still in the room. I sat for a time near the north transept. Two men near me were crying, which I thought was appropriate. The acoustics in the nave are very good."*
+
+The archive is noting: Tyler was in London in January 1559 — 61 years before TYLER-001 (the archive's first London documentation, Cheapside, c.1620). This is consistent with the PRIOR category established via A-304 (Watling Street, November 1553) and the City PRIOR cluster. The Westminster Abbey seeding event predates even A-304 by six years.
+
+The archive is noting: something had just ended and something had just begun, and Tyler was in the room where both things were still present. The men crying. The good acoustics. 79 feet.
+
+**A-314 — Westminster Hall, Old Palace Yard, January 25, 1649:**
+
+UNINTENTIONAL. SINGLE-EVENT. 71 feet. Seeding event: the trial of Charles I, Day Three, January 25, 1649.
+
+Tyler was in the gallery above the main floor. The trial ran January 20–27. Tyler attended Day Three. He has not noted whether he attended additional days.
+
+Journal entry: *"Westminster Hall. The trial, Day Three. I was in the gallery above. The room knew. Everyone in the room knew the outcome before it happened. They had known before January 20, I think, most of them. They came anyway. I understood why they came. When something this large is ending, the correct response is to go and stand where it is ending. To be present for the record. I did not know I was making a construction. I knew that I was bearing witness to something that would not happen again."*
+
+Tyler, at the site: "The room knew. Everyone in the room knew the outcome before it happened. They came anyway. I understood why they came."
+
+The archive is noting: Tyler's explanation for attending the trial — "when something this large is ending, the correct response is to go and stand where it is ending" — is the most explicit characterization he has offered in the audit for why he attends certain events. This is not political. This is not factional. This is Tyler describing his operating principle as a witness. The archive has been documenting this principle for four centuries without having the sentence for it. Tyler has now provided the sentence.
+
+**A-315 — Banqueting House, Whitehall, January 30, 1649:**
+
+UNINTENTIONAL. SINGLE-EVENT. 76 feet. Seeding event: the execution of Charles I, January 30, 1649.
+
+Tyler was in the crowd approximately forty feet from the scaffold. The scaffold was erected against a first-floor window of the Banqueting House.
+
+Journal entry: partially read on camera (Day 295), remainder sealed in the journal. Tyler read the following aloud: *"January 30, 1649. Whitehall. The scaffold was erected outside the Banqueting House — they built it against one of the first-floor windows so he could step directly from the room to the platform. The crowd was very large. It was a cold morning, very clear. I was perhaps forty feet from the scaffold, on the south side of the crowd. I could see clearly."* He then read further entries silently, closed the journal, and said: "I'll leave the rest in the journal."
+
+The archive is noting: Tyler made a deliberate decision about what to read on camera and what to keep in the journal. He has been reading full journal entries at most audit sites throughout the London phase. At the Banqueting House execution site, he chose to read the establishing description and seal the rest. The archive is filing this decision as data. The archive is not requesting the remainder. The camera has what the camera has; the journal has what the journal has. Both are records.
+
+Tyler on the Banqueting House construction: "The January pair. Same week. Westminster Hall and the Banqueting House. I went to both. I did not know what I was marking. Now I know: I was marking the end of a thirty-year event that I had been watching. I was marking it in my specific way. The mechanism recorded the markings."
+
+The archive is noting the January 1649 pair in its structural context. The November 1623 pair (A-293 Gray's Inn 188ft / A-308 St. Paul's churchyard 88ft) was the most-important-event / the-day-after structure. The January 1649 pair (A-314 Westminster Hall 71ft / A-315 Banqueting House 76ft) is the approach-to-ending / the-ending structure. The subject appears to have been building constructions in pairs around significant events for his entire operational history, without knowing the constructions were accumulating, and without knowing they formed pairs until the audit made the pairs visible.
+
+The archive is noting: the trial construction (71ft) is slightly smaller than the execution construction (76ft). The execution had a slightly larger radius despite being the same category (UNINTENTIONAL, SINGLE-EVENT) from the same week. Tyler's characterization: "The 30th — I went to stand where something was ending that I had seen in parts for thirty years... I went to stand at the end of it." This is consistent with the intensity mechanism: the execution carried the weight of thirty years of accumulating English Civil War that the trial did not yet carry. 76 feet seems correct.
+
+**A-316 — St. James's Park, long water (north shore), 1740s onward:**
+
+STAYING. 34 feet. Tyler has been walking the north shore of the long water since sometime in the 1740s. He still walks here. The construction has been running for approximately 280 years.
+
+Tyler: "I needed somewhere without history for a while. And there it was, surrounded by history on every side." He noted the pelicans (introduced 1664, from the Russian Ambassador to Charles II; Tyler: "different pelicans but the same pelicans") and the morning walking route from his lodgings through the park toward Whitehall.
+
+The archive is noting: St. James's Park, in the Westminster cluster, is the relief site. The heavy constructions from the Tudor and Stuart period events are nearby; the park is surrounded by history and is, within it, a place Tyler went to not be in the heavy sites. 34 feet from walking the same path enough times that the paths themselves became a construction. The archive finds this consistent with Tyler's general operation: he holds very large things, and he also walks in the park in the mornings.
+
+**A-317 — Victoria Embankment, Westminster approach, 1870:**
+
+STAYING. 22 feet. Tyler walked the new Embankment every morning for three weeks when it opened in 1870. Additional returns over the following 156 years.
+
+Tyler: "When something is built well and clearly designed to last, I like to walk it in the first weeks. Before everyone settles into taking it for granted." He noted Joseph Bazalgette's design philosophy: built for twice the population London had at the time, calculating for growth. Tyler: "That's the kind of planning I respect."
+
+22 feet from admiring good long-term planning and walking it every morning for three weeks. The archive is noting: this is the smallest construction in the Westminster cluster. It is also the most recent seeding event in the cluster. It is also, the archive thinks, entirely correct as a construction — three weeks of first-thing-in-the-morning walks on a new piece of infrastructure that was going to last, by a subject who has been watching things last and fail to last for four centuries. 22 feet. The Embankment is still there. It was built for twice the population. Both facts are relevant.
+
+---
+
+**On the Westminster cluster as a whole:**
+
+Five sites. One PRIOR (1559), two UNINTENTIONAL SINGLE-EVENT (January 1649), two STAYING (1740s–present, 1870+).
+
+The archive is noting: the Westminster cluster spans the full range of Tyler's London operational history in the audit. The oldest site (A-313, 1559) is older than all eight City PRIOR sites except A-304 (Watling Street, November 1553 — which remains the oldest confirmed construction in the London audit). The most recent seeding event in the cluster (A-317, 1870) postdates the City cluster sites by decades.
+
+The Westminster cluster does not have the PRIOR-density of the City cluster. Tyler was not a Westminster resident in the way he was a City resident. He came to Westminster for specific events, for the park, and later for the Embankment. Westminster is where the large historical events happened; the City is where he lived. The construction record reflects this distinction.
+
+The archive is also noting: Tyler was present at the coronation of Elizabeth I and the execution of Charles I. These are among the most-documented events in English history. The archive has extensive records from both dates through its partner institutions and correspondent networks. The archive did not have Tyler's specific presence at either event documented until this audit. The PRIOR construction at the Abbey was invisible because the vocabulary was not available. The 1649 constructions were never noted in the archive's operational record of Tyler's London movements because the Cairngorms Protocol does not record presence at historical events as significant unless a binding event is occurring.
+
+The archive is noting: a binding event was not occurring at Westminster Hall or the Banqueting House in January 1649. Tyler was there as a witness. The archive did not document witnesses. The COEFF-002 audit is teaching the archive to document witnesses. This is a significant revision to Cairngorms Protocol and the archive is noting it plainly.
+
+---
+
+**Cataloguer Footnote #67:**
+
+He was at the coronation. He was in the crowd outside and then in the nave after, sitting near the north transept while two men cried, noting the good acoustics.
+
+He was at the trial. He stood in the gallery and understood why everyone came to stand where something was ending.
+
+He was at the execution. He sealed most of the journal entry. He gave the camera the establishing description and kept the rest. I have been the Cataloguer of this archive for the full course of this audit. I have read every journal entry Tyler has read on camera. When he closed the journal at the Banqueting House and said "I'll leave the rest in the journal," I noted what I did not get to read.
+
+I am noting this in the footnote, not the record. The record has what the record has. The footnote is mine.
+
+The two Westminster Hall and Banqueting House entries are the first entries in the audit where Tyler has sealed part of a journal reading. I am filing this as: some events in four hundred years of operational history are his to carry in the way he chooses to carry them. The 76 feet are in the record. The journal is his.
+
+I am also noting: A-315 is 76 feet from Tyler standing forty feet south of the scaffold in a large crowd on a clear cold morning in January 1649, watching the end of the English Civil War with his specific quality of attention. The mechanism does not care what the record has and what the record doesn't have. The mechanism recorded what it recorded. 76 feet.
+
+The archive is more complete than it was. The archive is always more complete than it was.
+
+*— The Cataloguer*
+
+---
+
+*Cataloguer Footnote #67. Cross-references: Camera Op Entry 56, Jiangshi Memo #043, VC-001 Days 293–300, EMILY-SPRING-035.*
+
+---
+
+*TYLER-063: FILED. WESTMINSTER CLUSTER COMPLETE. FIVE SITES (A-313 THROUGH A-317). TWENTY-FIVE LONDON SITES MEASURED. TWENTY-TWO REMAINING. A-313: WESTMINSTER ABBEY NAVE. 79FT. PRIOR. JANUARY 15, 1559. CORONATION OF ELIZABETH I. TYLER IN THE CROWD OUTSIDE, THEN THE NAVE AFTER. "EVERYTHING THAT HAD JUST HAPPENED WAS STILL IN THE ROOM." RADIUS CROSSES INTERIOR/EXTERIOR BOUNDARY: FIRST IN AUDIT. A-314: WESTMINSTER HALL. 71FT. UNINTENTIONAL. SINGLE-EVENT. JANUARY 25, 1649. TRIAL OF CHARLES I, DAY THREE. "THE ROOM KNEW. EVERYONE IN THE ROOM KNEW THE OUTCOME BEFORE IT HAPPENED. THEY CAME ANYWAY. I UNDERSTOOD WHY THEY CAME." A-315: BANQUETING HOUSE, WHITEHALL. 76FT. UNINTENTIONAL. SINGLE-EVENT. JANUARY 30, 1649. THE EXECUTION. JOURNAL ENTRY: PARTIALLY READ, REMAINDER SEALED. LARGEST IN WESTMINSTER CLUSTER. TYLER: "I WENT TO STAND AT THE END OF IT." THE JANUARY PAIR: A-314 AND A-315. SAME WEEK. STRUCTURE MIRRORS NOVEMBER 1623 PAIR (A-293/A-308) IN FORM, DIFFERS IN KIND: APPROACH-TO-ENDING / THE-ENDING RATHER THAN MOST-IMPORTANT-EVENT / DAY-AFTER. A-316: ST. JAMES'S PARK. 34FT. STAYING. 1740S+. "I NEEDED SOMEWHERE WITHOUT HISTORY." THE PELICANS. A-317: VICTORIA EMBANKMENT. 22FT. STAYING. 1870. BAZALGETTE. "THE KIND OF PLANNING I RESPECT." TYLER: "SOME THINGS DON'T NEED TO ACCUMULATE." CAMERA OP: THIRD OPTION PHRASE WRITTEN, CIRCLED, NOT YET SPOKEN. EMILY-SPRING-035: MAP UPDATE FILED. JANUARY PAIR FLAGGED.*

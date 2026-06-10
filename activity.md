@@ -125,7 +125,13 @@ City of London cluster complete: seven sites (A-305 through A-311), all eight Lo
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0078*
-*Next build: 0079*
+## Build 0079 — S07E13: "Westminster"
+Files: episodes/s07e13_westminster.md, lore/eastwind_archive.md (TYLER-063, Footnote #67), lore/camera_op_sealed_log.md (Entry 56), lore/jiangshi_project_memos.md (Memo #043), lore/shell_parliament_ledger.md (VC-001 Days 293–300), BACKLOG.md, activity.md
+Westminster cluster complete: five sites (A-313 through A-317). PRIOR at Westminster Abbey (79ft, January 15, 1559 — Elizabeth I's coronation; Tyler in the nave after the procession left; "everything that had just happened was still in the room"; construction crosses interior/exterior boundary; first in audit). The January 1649 pair: Westminster Hall (71ft, UNINTENTIONAL, trial Day Three — "the room knew; they came anyway; I understood why they came") and the Banqueting House (76ft, UNINTENTIONAL, execution — journal entry partially read, remainder sealed; first sealed journal entry in Season 7; the coin not flipped; two-second camera look, exactly two seconds). Pair structure mirrors November 1623 (A-293/A-308) in form but differs in kind: approach-to-ending/the-ending vs. most-important-event/the-day-after. St. James's Park STAYING (34ft, 1740s+, "I needed somewhere without history," the pelicans) and Victoria Embankment STAYING (22ft, 1870, Bazalgette's engineering, "the kind of planning I respect"). Camera Op: third option phrase written, circled, notebook closed — not yet spoken aloud. Shell Parliament opened UNINT-001-LONDON series; noted the occasion of auditing Westminster with appropriate institutional composure. Twenty-five London sites measured; twenty-two remaining.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0079*
+*Next build: 0080*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*

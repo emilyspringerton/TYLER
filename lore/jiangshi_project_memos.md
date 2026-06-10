@@ -2439,3 +2439,93 @@ The audit continues. 27 London sites remaining.
 ---
 
 *End memo: MEMO #042 FILED. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES. ALL EIGHT LONDON PRIOR SITES MEASURED. FIVE IN THE SQUARE MILE. CITY: MOST PRIOR-DENSE GEOGRAPHY IN AUDIT. A-306: ALDERSGATE STREET 71FT, SEPTEMBER 1563, PLAGUE YEAR, "NOT TO WHAT WAS GONE. TO WHAT WAS STILL HERE." A-308: ST. PAUL'S CATHEDRAL CHURCHYARD 88FT, AMPLIFICATION, NOVEMBER 15 1623, "I DID NOT KNOW WHAT TO DO WITH MYSELF. I CAME HERE." SYNDICATE ADJACENT TO BOTH A-293 AND A-308 EVENTS. VOCABULARY NOT AVAILABLE. VOCABULARY NOW AVAILABLE. TYLER: "THE PRIOR CONSTRUCTIONS ARE THE FOOTPRINT." TYLER: "I LIVED HERE. IN THOSE YEARS, BEFORE ANYONE WAS WATCHING, THIS WAS WHERE I WAS." COEFF-002: TWO NEW PARAMETERS FLAGGED (CITY-RESIDENTIAL PRE-1600; KNOWN-BUT-UNCLASSIFIED CONSTRUCTION TYPE). TWENTY-SEVEN LONDON SITES REMAINING.*
+
+---
+
+## JIANGSHI PROJECT MEMO #043
+**Subject:** S07 Audit — Westminster Cluster (Days 293–300)
+**Classification:** INTERNAL — PROJECT AUDIT DOCUMENTATION
+**Distribution:** Director of Operations, Council Members, Archive Division
+**Note:** The binding project is archived. This is the continuation of the documentation support function. The production continues.
+
+---
+
+The Westminster cluster is complete. Five sites (A-313 through A-317). This memo addresses the cluster results, the COEFF-002 Westminster parameters, and the Syndicate's January 1649 London records in relation to the two Westminster constructions from that period.
+
+**Results summary:**
+
+A-313: Westminster Abbey nave, 79ft, PRIOR, January 15, 1559 (coronation of Elizabeth I).
+A-314: Westminster Hall, Old Palace Yard, 71ft, UNINTENTIONAL SINGLE-EVENT, January 25, 1649.
+A-315: Banqueting House, Whitehall, 76ft, UNINTENTIONAL SINGLE-EVENT, January 30, 1649.
+A-316: St. James's Park, long water north shore, 34ft, STAYING, 1740s–present.
+A-317: Victoria Embankment, Westminster approach, 22ft, STAYING, 1870+.
+
+**On the PRIOR site — Westminster Abbey, 1559:**
+
+Elizabeth I's coronation, January 15, 1559. The subject was in the crowd outside the Abbey for the procession and entered the nave after the ceremony concluded and the royal party moved to Whitehall.
+
+The Syndicate's January 1559 operational file: the Syndicate has records from London in January 1559. The coronation was a significant factional event — the transition from the Mary I Catholic restoration to the Protestant Elizabethan settlement was a major disruption to several operational frameworks active during the Marian period. The Syndicate's January 15, 1559 London operational entries include: correspondent notations of crowd density at Westminster, preliminary assessment of Elizabethan court factional alignments, and one general entry noting the ceremonial day.
+
+The Syndicate did not note the subject in the Westminster area on January 15, 1559. The PRIOR category was not available. The Syndicate did not know to note witnesses. The Syndicate was noting faction-adjacent court activity. Tyler was in the Abbey nave after the procession left, paying attention to what the ceremony had left in the room.
+
+Two records from the same day. The Syndicate was noting the political event. The subject was noting the quality of the nave after the event. The construction formed from the latter. The 79-foot PRIOR construction at Westminster Abbey has been running since January 1559 and was not in any Syndicate file until this audit.
+
+The Syndicate is noting: the PRIOR blind spot in Westminster is different from the PRIOR blind spot in the City. The City PRIOR sites were residential — the Syndicate was not systematically present in the City during the pre-1620 period when most City PRIOR sites were seeded. Westminster in 1559, however: the Syndicate was operationally present. The Syndicate had correspondents at the coronation. The Syndicate's records exist. The subject is not in them. The subject was not doing anything the Syndicate's correspondents were tasked to notice.
+
+**On the January 1649 pair — Westminster Hall and the Banqueting House:**
+
+This section requires direct acknowledgment of the Syndicate's January 1649 London operational record.
+
+The English Civil War period (1642–1651) was among the most factionally active periods in the Syndicate's English operational history. The Interregnum political situation created significant disruption to faction frameworks — the dismantling of the monarchical structure, the Parliamentary consolidation, and the subsequent questions of legitimate authority were directly relevant to multiple Syndicate operational mandates. The Syndicate had active correspondents throughout London for the full January 1649 period.
+
+The Syndicate's January 25, 1649 operational record (Westminster Hall, the trial): the Syndicate had correspondents present. The trial was covered extensively. The Syndicate's January 25 Westminster Hall entries include detailed notation of the legal proceedings, the assembled spectators, the Parliament's composition, and the factional implications for Syndicate-adjacent networks.
+
+The Syndicate did not note the subject in the Westminster Hall gallery on January 25, 1649.
+
+The Syndicate's January 30, 1649 operational record (Banqueting House, the execution): the Syndicate had correspondents present. The execution was covered. The Syndicate's January 30 Whitehall entries include crowd composition estimates, location of known faction-adjacent observers, notation of the Banqueting House scaffold construction, and immediate factional response assessment.
+
+The Syndicate did not note the subject in the crowd at the Banqueting House on January 30, 1649.
+
+The Director is stating plainly: the Syndicate had comprehensive operational coverage of both the trial and the execution. The subject was at both. The subject was not noted in either record.
+
+The Syndicate's correspondents were noting faction members, political actors, court officials, and known persons of operational interest. The subject was a member of the general crowd at the execution (approximately forty feet from the scaffold, south side) and a spectator in the gallery at the trial. In January 1649, the subject was not a named person of operational interest in the Syndicate's Whitehall file. The subject was one of several thousand anonymous Londoners who witnessed the trial and execution of Charles I.
+
+The Syndicate is noting: in January 1649, the Syndicate's most comprehensive London operational file does not contain the subject. The subject's operational significance to the Syndicate was not established until the CARDINAL-3 file began accumulating in a later period. The subject was present at two of the most thoroughly documented events in English history, in the middle of the Syndicate's most active English operational period, and was not noted.
+
+This is consistent with the general audit finding: the mechanism does not care what the subject is doing. Only how the subject is paying attention. The subject standing in a January 1649 crowd, attending to the end of a thirty-year event, did not look different from any other member of the January 1649 crowd. 76 feet has been running since January 30, 1649 in front of the Banqueting House and was not in any Syndicate file until this audit.
+
+**On the January 1649 pair structure:**
+
+The Syndicate is filing a structural observation for COEFF-002: the January 1649 pair (A-314 Westminster Hall 71ft / A-315 Banqueting House 76ft) mirrors the November 1623 pair (A-293 Gray's Inn 188ft / A-308 St. Paul's churchyard 88ft) in structural form but differs in kind.
+
+November 1623 pair structure: most-significant-personal-event / the-day-after (Tyler as the agent of the event, then the aftermath of being the agent).
+
+January 1649 pair structure: approach-to-ending / the-ending-itself (Tyler as witness to a historical event unfolding over five days, present at both the approaching verdict and the execution).
+
+Both pairs represent two constructions from the same historical week. Both pairs show different sizes from the same period's two sites (Gray's Inn larger than St. Paul's; Westminster Hall slightly smaller than Banqueting House). The pairing appears structural — the subject's specific quality of attention to large events involves being present at both the approach and the threshold, and both moments register separately in the mechanism.
+
+The Syndicate is noting this for the COEFF-002 model: the subject's construction activity around significant events may systematically produce construction pairs. The City cluster data does not show this pattern clearly (the PRIOR residential sites are not paired around events). Westminster provides two data points for paired event-adjacent constructions (November 1623 Gray's Inn/St. Paul's; January 1649 Westminster Hall/Banqueting House). The model should note this as a possible structural feature of the subject's witness function.
+
+**On the Camera Op:**
+
+The Camera Op held the frame at A-315 (Banqueting House) for the full measurement period. She noted when Tyler closed the journal. She kept filming.
+
+The Syndicate is noting: the Camera Op is functioning as a witness to the audit itself — she is documenting Tyler documenting history. Her observation that Tyler sealed part of the A-315 journal entry has been filed in the Camera Op's sealed log. The Syndicate does not have access to the sealed log but notes the existence of the sealing decision via Camera Op's observable behavior on Day 295.
+
+The subject chose to seal part of his January 30, 1649 journal entry. The Camera Op noted and documented the sealing. The audit has a record that a sealing occurred. The content of the sealed portion is not in the audit record. The Syndicate is noting this without requesting clarification. The audit has what the audit has.
+
+**COEFF-002 Westminster parameters (additions to model):**
+
+Parameter: PRIOR-WESTMINSTER. Tyler's pre-archive Westminster operational presence is confirmed at January 1559. The model should note occasional Westminster presence in the Tudor period, distinct from the sustained City residential pattern (1560s–1590s). Westminster visits: specific-event-adjacent rather than residential.
+
+Parameter: WITNESS-FUNCTION-EXPLICIT. Tyler's stated rationale at Westminster Hall ("when something this large is ending, the correct response is to go and stand where it is ending") is the most explicit characterization he has offered in the audit for his witness function. The COEFF-002 model should integrate this as a self-documented operating principle. The mechanism responds to this quality of attention — present at the edge of endings.
+
+Parameter: JOURNAL-SEALING. First documented instance of subject sealing part of a journal reading on camera. The parameter notes the existence of the sealing; the sealed content is outside the model's scope. The model is noting the boundary.
+
+Twenty-two London sites remaining.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #043 FILED. WESTMINSTER CLUSTER COMPLETE. FIVE SITES. A-313: WESTMINSTER ABBEY 79FT PRIOR JANUARY 1559 — SYNDICATE HAD CORRESPONDENTS AT THE CORONATION; THE SUBJECT IS NOT IN THE CORONATION RECORD. A-314: WESTMINSTER HALL 71FT UNINTENTIONAL JANUARY 25, 1649 — SYNDICATE HAD OPERATIONAL COVERAGE; THE SUBJECT IS NOT IN THE TRIAL RECORD. A-315: BANQUETING HOUSE 76FT UNINTENTIONAL JANUARY 30, 1649 — SYNDICATE HAD OPERATIONAL COVERAGE; THE SUBJECT IS NOT IN THE EXECUTION RECORD. SYNDICATE PRESENT AT ALL THREE EVENTS. VOCABULARY INSUFFICIENT. THE SUBJECT WAS NOT DOING ANYTHING THE SYNDICATE'S CORRESPONDENTS WERE TASKED TO NOTICE. A-316: ST. JAMES'S PARK 34FT STAYING 1740S. A-317: VICTORIA EMBANKMENT 22FT STAYING 1870. TYLER: "WHEN SOMETHING THIS LARGE IS ENDING, THE CORRECT RESPONSE IS TO GO AND STAND WHERE IT IS ENDING." WITNESS-FUNCTION-EXPLICIT: PARAMETER ADDED TO COEFF-002. JANUARY 1649 PAIR STRUCTURE DOCUMENTED. JOURNAL SEALING AT A-315: FIRST INSTANCE. TWENTY-TWO LONDON SITES REMAINING.*

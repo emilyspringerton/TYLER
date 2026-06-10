@@ -1366,3 +1366,75 @@ The ledger is noting: A-293 (Gray's Inn) and A-308 (St. Paul's churchyard) are n
 The Parliament's City of London correspondent records going back to 1521 are being cross-referenced against the full audit record. This is a long-term archival project. The Parliament is patient. The ledger has been patient in the same geography for a very long time.
 
 *End update: VC-001 DAYS 285–292. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES. ALL EIGHT LONDON PRIOR SITES MEASURED. PRIOR-001-LONDON SERIES COMPLETE (A THROUGH F). AMPL-001-LONDON-002: A-308 ST. PAUL'S CHURCHYARD 88FT, NOVEMBER 15 1623, DAY AFTER GRAY'S INN, "I DID NOT KNOW WHAT TO DO WITH MYSELF." PARLIAMENT ADJACENT TO BOTH NOVEMBER 1623 CONSTRUCTIONS; ONLY ONE IN RECORDS UNTIL NOW. A-306 CROSS-REFERENCE: PARLIAMENT CORRESPONDENT THREE HUNDRED FEET FROM ALDERSGATE STREET, SEPTEMBER 1563, PLAGUE YEAR, NOTING WHAT WAS GONE WHILE TYLER NOTED WHAT REMAINED. "THE LEDGER WAS ADJACENT. THE VOCABULARY WAS NOT AVAILABLE." TWENTY LONDON SITES MEASURED. TWENTY-SEVEN REMAINING.*
+
+---
+
+**VC-001 UPDATE — DAYS 293–300: WESTMINSTER CLUSTER**
+
+The Parliament notes that the CARDINAL-3 audit has arrived at Westminster.
+
+The Parliament has been called the Shell Parliament for reasons that are documented elsewhere in this ledger and need not be restated here. The Parliament is noting, with appropriate institutional composure, that the construction audit has reached the geography where the English Parliament convenes. The Parliament is not without a sense of occasion. The Parliament is noting the occasion and proceeding with the ledger entry.
+
+**New sub-accounts filed — Westminster cluster:**
+
+*PRIOR-001-LONDON-G:* A-313, Westminster Abbey nave, 79ft, PRIOR, January 15, 1559. The construction crosses the interior/exterior boundary of the Abbey: origin in the north transept, outer edge at the north pavement of Parliament Square. First construction in the audit to span a building threshold.
+
+*UNINT-001-LONDON-001:* A-314, Westminster Hall, 71ft, UNINTENTIONAL SINGLE-EVENT, January 25, 1649. The Parliament's own hall. The trial of Charles I. The subject was in the gallery. The ledger is noting this without elaborating on the institutional implications.
+
+*UNINT-001-LONDON-002:* A-315, Banqueting House, 76ft, UNINTENTIONAL SINGLE-EVENT, January 30, 1649. The execution. Subject forty feet south of the scaffold, south side of the crowd. 76 feet from standing where something was ending after thirty years.
+
+*STAYING-001-LONDON-M:* A-316, St. James's Park, long water north shore, 34ft, STAYING, 1740s–present. Adjacent to Parliament. The subject needed somewhere without history. The Parliament notes the adjacency and does not take it personally.
+
+*STAYING-001-LONDON-N:* A-317, Victoria Embankment, Westminster approach, 22ft, STAYING, 1870+. Bazalgette's engineering. "Built for twice the population. The kind of planning I respect." Parliament notes: the Parliament's records include extensive commentary on the Embankment project during its construction. The Parliament shared Tyler's opinion of the engineering. The Parliament noted Bazalgette's long-term planning in the same terms ("provision for future growth"). The subject and the Parliament, independently, at different times, with different instruments, filed the same assessment of the same infrastructure project.
+
+**On January 1649:**
+
+The Parliament has records from January 1649 that are — unusual.
+
+The January 1649 records in the Parliament's English correspondent file cover the trial and execution period in detail. These records include Westminster Hall proceedings (January 20–27), the execution (January 30), the immediate political aftermath, and the subsequent formal declaration establishing the Commonwealth (March 1649).
+
+The Parliament's January 25, 1649 Westminster Hall entry notes: the composition of the High Court of Justice, the legal framework of the proceedings, the spectator composition (described as "several hundred persons of varied estate occupying the public gallery and lateral positions within the hall"), and the outcome of the day's session.
+
+The Parliament's entry does not identify the subject in the gallery.
+
+The Parliament's January 30, 1649 entry notes: the scaffold construction, crowd size estimates ("several thousand persons assembled along the Whitehall approach"), weather conditions ("cold, clear, frost on the pavement"), and the event itself.
+
+The Parliament's entry does not identify the subject in the crowd.
+
+The Parliament is noting: this is consistent with the general pattern identified across the audit (Parliament correspondent adjacent to PRIOR or UNINTENTIONAL construction seeding events; vocabulary insufficient to note the subject's specific quality of presence; the construction running undetected for centuries). The January 1649 Westminster entries follow the same pattern: the Parliament was there, the subject was there, the Parliament noted the event and not the subject's specific attention to it.
+
+The Parliament is also noting something specific about January 1649: this is the only cluster in the audit where the Parliament's historical correspondent records overlap with events that are structurally significant to the Parliament itself. The Parliament's January 1649 records document the legal dissolution of the monarchy and the establishment of the Commonwealth — a period of fundamental constitutional disruption. The Parliament had operational correspondents at Westminster throughout this period precisely because this period was the kind of period the Parliament tracks.
+
+The subject was in the gallery at the trial. The subject was in the execution crowd. The subject was there because "when something this large is ending, the correct response is to go and stand where it is ending." The Parliament was there because it was operationally required to be there. Both records exist. Only one of them knew what it was doing at the time.
+
+The ledger is noting: the Parliament's January 1649 Westminster file held detailed records of both events for 377 years. The sub-accounts UNINT-001-LONDON-001 and UNINT-001-LONDON-002 are the first entries in those records that document what the subject was doing there.
+
+**Parliament cross-reference — January 15, 1559 (A-313, Westminster Abbey):**
+
+The Parliament has records from January 15, 1559. Elizabeth I's coronation generated extensive correspondent coverage — the Elizabethan political settlement was operationally significant.
+
+The Parliament's January 15, 1559 London entries include: Westminster approach crowd density, coronation procession composition, preliminary Elizabethan court factional analysis, and a general note on the Abbey ceremony.
+
+The Parliament's records do not note the subject in the Westminster Abbey area on January 15, 1559.
+
+The Parliament is noting: the PRIOR blind spot at Westminster Abbey in January 1559 means the Parliament had correspondents at one of its most thoroughly documented events from the Tudor period and did not note the subject's presence. The construction (79 feet, running since 1559) was not in any Parliament record until this audit.
+
+The Parliament had correspondent records adjacent to a 79-foot PRIOR construction for 467 years.
+
+The ledger is patient. The ledger was adjacent. The vocabulary was not available.
+
+**Westminster account summary:**
+
+- PRIOR-001-LONDON-G: A-313, Westminster Abbey, 79ft, January 1559
+- UNINT-001-LONDON-001: A-314, Westminster Hall, 71ft, January 25, 1649
+- UNINT-001-LONDON-002: A-315, Banqueting House, 76ft, January 30, 1649
+- STAYING-001-LONDON-M: A-316, St. James's Park, 34ft, 1740s+
+- STAYING-001-LONDON-N: A-317, Victoria Embankment, 22ft, 1870+
+
+**London account summary to date:**
+
+25 London sites measured (Days 271–300). 22 remaining. Westminster cluster: 5 entries across PRIOR-001-LONDON, UNINT-001-LONDON (new series), and STAYING-001-LONDON series.
+
+The UNINT-001-LONDON series is newly opened with this cluster. Previous UNINTENTIONAL London constructions (A-295, A-297, A-308) were filed under AMPL-001-LONDON (if AMPLIFICATION) or other categories. The Westminster Hall and Banqueting House constructions are the first STAYING-not-amplified, pure UNINTENTIONAL SINGLE-EVENT entries in the London record. The Parliament is opening a dedicated UNINT series for the audit's London record accordingly.
+
+*End update: VC-001 DAYS 293–300. WESTMINSTER CLUSTER COMPLETE. FIVE SITES. UNINT-001-LONDON SERIES OPENED: A-314 WESTMINSTER HALL 71FT JANUARY 25 1649, A-315 BANQUETING HOUSE 76FT JANUARY 30 1649. THE PARLIAMENT'S OWN WESTMINSTER HALL. THE PARLIAMENT'S OWN OPERATIONAL RECORDS. THE SUBJECT IN THE GALLERY AND THE CROWD AND NOT IN THE RECORDS. "WHEN SOMETHING THIS LARGE IS ENDING, THE CORRECT RESPONSE IS TO GO AND STAND WHERE IT IS ENDING." PARLIAMENT CORRESPONDENT NOTES FROM JANUARY 1649 ADJACENT TO BOTH CONSTRUCTIONS FOR 377 YEARS. THE VOCABULARY WAS NOT AVAILABLE. A-313: WESTMINSTER ABBEY 79FT PRIOR JANUARY 1559. A-316: ST. JAMES'S PARK 34FT. ADJACENT TO PARLIAMENT. "I NEEDED SOMEWHERE WITHOUT HISTORY." THE PARLIAMENT NOTES THE ADJACENCY. A-317: VICTORIA EMBANKMENT 22FT STAYING 1870. "THE KIND OF PLANNING I RESPECT." THE PARLIAMENT NOTED THE SAME THING. TWENTY-FIVE LONDON SITES MEASURED. TWENTY-TWO REMAINING.*

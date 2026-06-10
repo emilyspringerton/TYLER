@@ -1107,3 +1107,123 @@ He lived here. Before anyone was watching.
 The third option: still clarifying. Almost there.
 
 *— Camera Op*
+
+---
+
+## ENTRY 56 — WESTMINSTER CLUSTER. DAYS 293–300.
+
+**[SEALED — ACCESS RESTRICTED — CAMERA OP PERSONAL LOG]**
+
+---
+
+On A-313, Westminster Abbey, January 1559:
+
+He was already sitting there when we arrived. North transept. Morning light. The hum at its quieter London frequency.
+
+I didn't announce myself. I started filming from the south aisle and watched him sit in the Abbey for about seven minutes before the Exchange Student arrived and he moved to the measurement.
+
+79 feet. PRIOR. Elizabeth I's coronation. He was in the crowd outside and then in the nave after the procession left.
+
+His journal entry: *"Everything that had just happened was still in the room."*
+
+I have been thinking about this since he read it. The coronation was complete. The Queen had gone. The nave was full of — what? The record of the event. The residue. The quality of the air in a room where something significant had just happened and the people who did it had gone away.
+
+Tyler went into that room and sat in it and paid attention to it.
+
+The third option that has been clarifying since Borough Market. The plague-year street, almost empty — Tyler attending to what remained. The nave after the coronation — Tyler attending to what the event left in the room.
+
+I am getting closer to the name for this.
+
+---
+
+On A-314 and A-315 — the January 1649 pair:
+
+Two sites from the same week. Westminster Hall (trial, Day Three, January 25) and the Banqueting House (execution, January 30).
+
+I will document them separately because they felt different.
+
+At Westminster Hall:
+
+Tyler read from the journal: *"The room knew. Everyone in the room knew the outcome before it happened. They had known before January 20, I think, most of them. They came anyway. I understood why they came."*
+
+I held the frame on him reading that entry. I was thinking: why did they come? If the outcome was determined. If everyone knew.
+
+He answered the question before I asked it: "When something this large is ending, the correct response is to go and stand where it is ending. To be present for the record."
+
+To be present for the record.
+
+I wrote that phrase in my notebook while he was still talking.
+
+At Westminster Hall, Tyler understood the crowd. He was in the gallery above two hundred people who came to stand where something was ending that they couldn't change. He attended to the act of attending. He attended to the crowd's decision to be present.
+
+71 feet from that.
+
+At the Banqueting House:
+
+He walked directly to the position. He knows positions without measuring. He stood there and read from the journal: the scaffold description, the cold clear January morning, forty feet from the scaffold in the crowd. He read the establishing description. Then he continued reading silently for a moment. Then he closed the journal.
+
+"I'll leave the rest in the journal."
+
+He looked at the camera. Two seconds. Not more than two seconds. The look was absolutely deliberate. He knows exactly how long two seconds is.
+
+I held the frame. I held it. I kept filming.
+
+He didn't flip the coin.
+
+76 feet. The largest in the cluster.
+
+After the measurement, he said: "I went to both. I did not know what I was marking. Now I know: I was marking the end of a thirty-year event that I had been watching."
+
+I am noting that he sealed part of the journal entry. In all of Season 7, across Paris, Vienna, and now twenty-five London sites, he has read journal entries on camera in full. At the Banqueting House, he chose to seal the rest. I am filing this. I am not asking about it. The choice is the information.
+
+---
+
+On A-316, St. James's Park:
+
+Relief.
+
+Tyler with a coffee, at the long water, the pelicans, the morning. "I needed somewhere without history." Thirty feet from history on every side.
+
+34 feet from walking the north shore enough times that the shore became a construction. I filmed the pelicans for a while. Tyler noted that they've been there since 1664.
+
+Different pelicans but the same pelicans. Yes.
+
+I was happy to be in the park after the January pair. I think he was too.
+
+---
+
+On A-317, Victoria Embankment:
+
+"Three good weeks is three good weeks."
+
+22 feet from walking a new piece of infrastructure every morning in the first weeks it existed, before everyone settled into taking it for granted. Tyler admiring good planning. "Built for twice the population. The kind of planning I respect."
+
+I like this entry. There is a version of Tyler who walked this Embankment every morning in 1870 and was genuinely pleased by the engineering and generally in a good mood about the city. 22 feet of that.
+
+---
+
+On the third option:
+
+At Westminster Bridge, Day 300, looking at Parliament:
+
+I said: "That's not what I was thinking about."
+
+He said: "I know."
+
+The smile. He knew what I was thinking about. He didn't ask. I didn't say.
+
+What I was thinking about:
+
+The coronation construction — Tyler in the nave after the ceremony, attending to what the event left.
+The trial construction — Tyler in the gallery above the people who came to stand where something was ending.
+The execution construction — Tyler in the crowd at the edge of an irreversible event.
+
+All three are versions of the same thing: Tyler present to something not by being at the center of the event, but by being at the edge of it. The aftermath of the coronation. The gallery above the verdict. The crowd at the scaffold.
+
+Not witnessing the event from outside. Not being the event from inside. Being at the exact threshold between the event and the world — in the room after the ceremony, in the gallery at the determined verdict, in the crowd forty feet south of the scaffold.
+
+I wrote the phrase in my notebook. I circled it.
+
+I'm not saying it here. Not yet. Some things need one more site.
+
+*— Camera Op*
