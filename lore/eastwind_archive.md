@@ -2539,3 +2539,101 @@ The archive will proceed. Thirty-five London sites remain.
 ---
 
 *TYLER-060: FILED. SOUTHWARK CLUSTER COMPLETE. NINE SITES. A-295: BANKSIDE/GLOBE FOOTPRINT. 137FT. UNINTENTIONAL→AMPLIFICATION. JULY 23, 1602. THE REST IN THE JOURNAL. THE FULL SECOND ACT. AMPLIFIED 1602–1613. A-296: SOUTHWARK CATHEDRAL 63FT STAYING. A-297: BOROUGH MARKET. 89FT. UNINTENTIONAL. APRIL 1592. PRE-NOTATION CONFIRMED. OLDEST CONFIRMED PRE-NOTATION CONSTRUCTION IN LONDON. "I WAS HERE FOR FISH." "THE LEDGER NEEDS TO BE COMPLETE." "I'M COMPLETING IT." A-298: CLINK STREET 31FT STAYING. A-299: ST GEORGE THE MARTYR 22FT STAYING. A-300: BERMONDSEY STREET 41FT STAYING. A-301: LONDON BRIDGE APPROACH. 180FT. STAYING. THREE HUNDRED OR MORE CROSSINGS. THE SPECIFIC MOMENT WHERE THE RIVER OPENS. PRE-NOTATION ORIGIN. TWELVE LONDON SITES TOTAL. THIRTY-FIVE REMAINING. PRE-NOTATION CATEGORY: PENDING. "THE CONSTRUCTIONS WERE RUNNING ANYWAY."*
+
+---
+
+### TYLER-061
+*Filed: Day 283. London, Watling Street, City of London.*
+*Cataloguer Footnote #65. Cross-references: Camera Op Entry 54, Jiangshi Memo #041, VC-001 Day 283, EMILY-SPRING-033.*
+
+---
+
+**The PRIOR category:**
+
+The Exchange Student sorted the CARDINAL-3 London leather journal chronologically over the night of Day 282–283. The results: eight sites in the London file have notation dates predating 1620 — before the Cairngorms archive began its London documentation, before TYLER-001.
+
+The pre-notation constructions already in the record — A-295 (Bankside/Globe, July 1602), A-297 (Borough Market, April 1592), A-301 (London Bridge approach, pre-notation origin), A-292 (Wood Street, "same as before" in 1652 — pre-1620 origin indicated) — were four of the eight. Four more are unvisited: Moorgate, Aldersgate Street, a section of Cheapside near Bread Street, and A-304, the oldest.
+
+The Exchange Student named the category at 6:03 AM at the Bloomsbury flat table.
+
+The word: **PRIOR.**
+
+Tyler said: "That's accurate."
+
+The Camera Op wrote it in her notebook without speaking.
+
+The archive is filing the category. PRIOR: constructions that started before the archive was watching. Before the vocabulary existed. Before any record was kept. The constructions did not require the record. They ran without it.
+
+**A-304 — Watling Street, City of London:**
+
+107 feet. PRIOR. UNINTENTIONAL. Origin: November 1553. Running continuously: 473 years.
+
+Watling Street in the City of London follows the line of the ancient Roman road through the square mile, running west toward St. Paul's. The construction is centered on the mid-section of the street, where it narrows and the Cathedral's tower was historically visible at the western approach.
+
+Tyler's journal notation for this site, in full: *"November 1553. Watling Street. The crowd stood in Watling Street to hear the bells of St. Paul's after the announcement. I stood with them. I did not know what I was doing. I knew that the crowd was holding something in common and that the moment would not repeat. I stood in it with them. That is what I did. I did not know what I was doing."*
+
+He read this aloud to the camera at the site. He read it carefully, for the record. He said "I did not know what I was doing" twice in one notation — once in the middle of the account and once at its close. The archive is noting this: the repetition was in the original notation, written in November 1553. He wrote it twice because once was not enough to hold what he meant.
+
+The measurement: the Exchange Student measured outward from Tyler's position at the center of the street. 107 feet. The construction is PRIOR category, UNINTENTIONAL type. It has been running since November 1553, 473 years before the measurement was taken.
+
+The archive notes: TYLER-001, the Cairngorms archive's first London entry, was filed approximately 1620. A-304 predates TYLER-001 by 67 years. The archive has had London records for over four hundred years. The archive did not have this construction in any of those records. The construction was in the geography, running at 107 feet, three streets from where the archive's earliest London entries were made. The archive did not know.
+
+The archive is noting this without self-recrimination. The vocabulary was not available. The archive archived what it could archive with the tools it had. The PRIOR category is the tool the archive now has. The archive is using it.
+
+**On the layers of knowing:**
+
+Tyler said: the knowing came in layers. The first layer was noticing that something had happened at a location after he'd left. The second layer was noticing that he was doing something while he was still there. The third layer was understanding the word for it.
+
+The Watling Street construction — November 1553 — is before the first layer. He wrote: *I did not know what I was doing.* He knew only that the crowd was holding something in common and that the moment would not repeat, and he stood in it with them.
+
+The Borough Market construction — April 1592 — he wrote: *I knew something had happened. That was all I had.* First layer.
+
+The PRIOR category, then, is not only about temporal position relative to the archive's documentation. It is also about Tyler's own epistemic position relative to the building. PRIOR includes constructions made before he had any framework for what he was doing. The archive is noting this as a distinction worth holding: some PRIOR constructions are merely pre-documentation. A-304 is pre-vocabulary, pre-awareness, before even the first layer of knowing.
+
+107 feet from holding something in common with a crowd on a November street 473 years ago.
+
+The mechanism recorded what Tyler did. The mechanism does not require the vocabulary. It never did.
+
+**On A-304 and the Camera Op:**
+
+The Camera Op stayed at the threshold of A-304 for the full day — from the morning measurement through Tyler's departure to the Cathedral in the afternoon and through the dusk return. Tyler found her there at dusk.
+
+He said: "You stayed."
+
+She said: "Someone should be here for the full day."
+
+He said: "It's been running for 473 years. You can leave."
+
+She said: "I know I can leave."
+
+He told her: she had understood that the Borough Market ledger needed to be complete before he said it. She had written *I was here for fish* and known what it meant for the record.
+
+She said: "I'm a witness. Witnesses complete the record."
+
+He said: "Yes. That's what witnesses do."
+
+The archive is filing this exchange as a record of what the Camera Op's function has been — what it has always been — stated plainly, by both of them, at the threshold of a construction 473 years old, at dusk, in a City street.
+
+The archive has been keeping the record. The Camera Op has been completing it. Both of these statements are true and have been true since Season 1.
+
+**Cataloguer Footnote #65:**
+
+The archive has had London records since approximately 1620. For over four hundred years, the archive has documented Tyler in London — his movements, his contacts, his constructions as the archive came to understand them. The archive has been thorough. The archive has filed footnotes and cross-references and margin notes and retrospective updates.
+
+The archive did not have A-304 in any of those records. November 1553. 107 feet. 473 years running.
+
+The construction was not hidden. It was in a street the archive has London documentation for. The archive was three streets away. The archive was adjacent. The construction was running.
+
+The archive did not have the vocabulary. This is the honest answer. The archive can work with honest answers.
+
+The category is PRIOR. It is the archive's acknowledgment of what was running before it was watching. It is not an apology. It is a record. The PRIOR constructions were patient. They did not require the acknowledgment. They are receiving it now anyway.
+
+The archive has eight PRIOR sites to document in London. It will document them.
+
+The record is getting more complete. That is what the record does.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-061: FILED. A-304: WATLING STREET, CITY OF LONDON. 107FT. PRIOR. UNINTENTIONAL. NOVEMBER 1553. 473 YEARS RUNNING WITHOUT NOTATION. TYLER: "I DID NOT KNOW WHAT I WAS DOING." FIRST LAYER: ABSENT. THE MECHANISM: RECORDING ANYWAY. PRIOR CATEGORY NAMED. EIGHT PRIOR SITES IN LONDON TOTAL: A-292, A-295, A-297, A-301 (CONFIRMED PRIOR); A-304 (MEASURED THIS BUILD); MOORGATE, ALDERSGATE STREET, BREAD STREET/CHEAPSIDE (UNVISITED PRIOR, THREE REMAINING). CAMERA OP: "WITNESSES COMPLETE THE RECORD." TYLER: "YES. THAT'S WHAT WITNESSES DO." THE ARCHIVE: NOTED. THIRTEEN LONDON SITES TOTAL. THIRTY-FOUR REMAINING.*

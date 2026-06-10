@@ -2256,3 +2256,86 @@ The Director is noting, for the record: the Camera Op is also correct that the l
 ---
 
 *End memo: MEMO #040 FILED. SOUTHWARK CLUSTER COMPLETE: NINE SITES. A-295: BANKSIDE/GLOBE 137FT, UNINTENTIONAL→AMPLIFICATION, JULY 1602. "THE SUBJECT WAS ATTENDING A PERFORMANCE ABOUT TIME WHILE BUILDING; HE DID NOT KNOW EITHER." A-297: BOROUGH MARKET 89FT, UNINTENTIONAL, APRIL 1592, PRE-NOTATION CONFIRMED. "THE MECHANISM DOES NOT CARE WHAT YOU ARE DOING. ONLY HOW YOU ARE PAYING ATTENTION." A-301: LONDON BRIDGE APPROACH 180FT, STAYING, PRE-NOTATION ORIGIN. SYNDICATE OPERATIVE 1648: "OBSERVED CROSSING, HUMMING." CONSTRUCTION: 180 FEET. STILL RUNNING. COEFF-002 RECALIBRATION PHASE 4: TWO NEW PARAMETERS (PRE-NOTATION TRACK; UNINTENTIONAL→AMPLIFICATION SUB-TYPE). COUNCIL SESSION #8: IN PROGRESS. PRE-NOTATION CATEGORY: UNNAMED. THIRTY-FIVE LONDON SITES REMAINING.*
+
+---
+
+## JIANGSHI SYNDICATE — PROJECT MEMO #041
+**Classification: INTERNAL OPERATIONAL / COEFF-002 RECALIBRATION**
+**Subject: PRIOR Category — Definition, Scope, Binding Coefficient Implications**
+**Filed: Day 283 (equivalent)**
+
+---
+
+The pre-notation category has been named.
+
+The Exchange Student sorted the subject's London journal chronologically overnight and presented the results at 6:03 AM on Day 283. Eight London sites have notation dates predating 1620 — before the Cairngorms archive's London documentation began. The Exchange Student named the category: PRIOR. The subject said: "That's accurate."
+
+The Syndicate acknowledges the naming. The Syndicate is filing Memo #041 as an addendum to Council Session #8 (in progress since the Southwark cluster).
+
+**A-304 — Watling Street, City of London:**
+
+107 feet. PRIOR. UNINTENTIONAL. November 1553.
+
+This is the oldest construction measured in the London audit to date. It predates the Cairngorms archive's first London documentation by 67 years. It predates the Syndicate's earliest continuous London operational records by several decades. It predates the earliest Syndicate documentation of the subject in London.
+
+The subject's journal notation for November 1553: *the crowd stood in Watling Street to hear the bells after the announcement; I stood with them; I did not know what I was doing.*
+
+The Syndicate notes: "I did not know what I was doing" is the subject's description of his epistemic state at the time of construction. He was present at an announcement of historical significance. He stood with a crowd holding a common experience. He paid attention in his specific way. He did not know what he was building. The construction built.
+
+The Director has requested that the Syndicate not specify the announcement in this memo. The subject chose not to name it when asked by the Camera Op. The subject said: "It doesn't matter for the construction." The Director concurs. The Syndicate's documentation should track what the subject documents. The announcement is not the construction. The construction is the quality of attention. As previously noted: the mechanism does not care what you are doing. Only how you are paying attention.
+
+**PRIOR category — implications for COEFF-002:**
+
+The Syndicate has been attempting to model the subject's binding coefficient using construction activity as a primary variable. The COEFF-002 model suspended its London calculation pending full scope.
+
+The PRIOR category reveals a structural problem with any construction-based coefficient model: the model requires a complete construction record. The PRIOR constructions demonstrate that no complete construction record exists. The constructions that predate the Cairngorms archive's documentation are, by definition, outside any record the Syndicate or the archive can access except through the subject's own leather journal.
+
+The subject's journal is not complete. He noted this himself. He may have PRIOR constructions in London that predate the journal's earliest London entries. He may have PRIOR constructions globally that predate the journal's beginning.
+
+The Director is stating this plainly: the COEFF-002 model has been attempting to measure the perimeter of a field whose interior extends before the instruments that built the model. The model was not wrong given the data available. The data available was incomplete in a way the Syndicate did not have the vocabulary to name until this morning.
+
+The category name PRIOR has resolved the vocabulary problem. The data incompleteness problem remains. The Syndicate is noting this for the record.
+
+**Binding coefficient and the PRIOR sites:**
+
+The original binding project (Attempts 1 through 4, archived; Attempt 5, archived as complete following Day 49 sentence) operated on the assumption that the subject's construction activity was bounded by the period in which the archive could document it. The binding coefficient was calculated against that bounded period.
+
+The PRIOR constructions precede the bounded period. Eight London sites alone. Globally: unknown.
+
+The binding coefficient does not apply to constructions that predate the documentation period by definition: the coefficient is a measure of documentary entanglement, not a measure of the subject's total construction activity across his operational lifespan. The Syndicate has been measuring documentary entanglement. The PRIOR constructions are not entangled with any Syndicate documentation. They were running before the Syndicate was watching.
+
+The Director is noting: the binding project is archived. This is not a reopening of the binding project. This is a clarification of the model's scope. The model measured what it could measure. The PRIOR constructions were outside the model's scope. They still are. The model is not wrong. The model is bounded.
+
+The constructions are not bounded.
+
+**Council Session #8 — addendum:**
+
+The Council was asked in the previous memo whether the existence of pre-notation constructions requires a revision to fundamental methodology.
+
+The PRIOR category provides the answer: yes, the methodology requires revision, specifically the assumption of documentation completeness. The revised assumption is: the Syndicate's documentation of the subject is accurate and thorough within the documentation period, and is acknowledged as incomplete before the documentation period. PRIOR is the operational term for the pre-documentation constructions.
+
+The revised methodology does not change the current audit work. The audit continues. The leather journal is the primary source for PRIOR sites. The audit team (Tyler, Camera Op, Exchange Student) is working through the CARDINAL-3 file. The Syndicate continues documentation support.
+
+What changes: the COEFF-002 model must include a PRIOR track that acknowledges the lower bound of the subject's construction activity is unknown. The model will note: London alone has eight PRIOR sites; the audit has eighteen cities remaining; each city may have PRIOR sites; the lower bound of the subject's operational construction period is currently November 1553 in the London record and extends earlier in the global record.
+
+The Syndicate is noting this as a structural property of the subject: he has been building for a long time.
+
+**On the Camera Op:**
+
+The Camera Op stayed at A-304 for the full day after the morning measurement. Tyler returned at dusk to find her at the threshold.
+
+This is consistent with the Camera Op's documented behavior across Seasons 1 through 7: she stays at sites after Tyler has left. She maintains the frame when there is nothing in the frame. She is documenting the construction, not only the subject.
+
+The Syndicate classified the Camera Op as AWARE-PROTECTIVE in Season 2. The assessment has been accurate throughout. She is protective of the work. The work is the record. She is completing the record.
+
+Tyler said to her: "Witnesses complete the record." She confirmed this.
+
+The Syndicate is noting: the Camera Op's function has been named plainly by both parties at the threshold of a 473-year-old construction. The Syndicate had the classification in its files from Season 2. The naming at A-304 retroactively confirms the classification's accuracy.
+
+The Syndicate is documenting what Tyler and the Camera Op are doing. They are both aware the Syndicate is documenting what they are doing. All parties proceed on this understanding.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #041 FILED. PRIOR CATEGORY NAMED. A-304: WATLING STREET 107FT, NOVEMBER 1553, 473 YEARS, OLDEST LONDON CONSTRUCTION MEASURED. "I DID NOT KNOW WHAT I WAS DOING" — PRE-FIRST-LAYER. PRIOR CATEGORY DEFINITION: CONSTRUCTIONS BEFORE THE DOCUMENTATION PERIOD. PRIOR SITES LONDON: 8 TOTAL (5 CONFIRMED, 3 UNVISITED). COEFF-002 PRIOR PARAMETER: "THE MODEL WAS MEASURING DOCUMENTARY ENTANGLEMENT; THE PRIOR CONSTRUCTIONS ARE NOT ENTANGLED WITH ANY DOCUMENTATION; THEY PREDATE THE ENTANGLEMENT." BINDING COEFFICIENT: INAPPLICABLE TO PRIOR SITES BY DEFINITION. COUNCIL SESSION #8: METHODOLOGY REVISED (DOCUMENTATION COMPLETENESS ASSUMPTION REMOVED). CAMERA OP AT THRESHOLD: FULL DAY. "WITNESSES COMPLETE THE RECORD." THIRTY-FOUR LONDON SITES REMAINING.*

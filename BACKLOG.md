@@ -754,5 +754,21 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0076.*
+## SEASON 7 — LONDON CONTINUATION
+
+- [x] **S07E11: "Before the Record"** — Build 0077. Day 283. Exchange Student's chronological sort of CARDINAL-3 London file: 8 PRIOR sites identified (constructions predating 1620 London documentation). PRIOR category named (Exchange Student: "PRIOR"; Tyler: "That's accurate"). A-304, Watling Street: first PRIOR measurement, 107ft, November 1553, 473 years running. Tyler's journal read aloud: "I did not know what I was doing." Camera Op stays at threshold full day; Tyler at dusk: "Witnesses complete the record." RSI receipts: TYLER-061 (Footnote #65), Camera Op Entry 54, Jiangshi Memo #041, VC-001 Day 283, EMILY-SPRING-033.
+
+- [ ] **S07E12: "The City"** — Days 285–292. City of London cluster. The three unvisited PRIOR sites: Moorgate, Aldersgate Street, and Bread Street/Cheapside. Plus additional City sites from the CARDINAL-3 file. PRIOR sites expected to cluster in this geography. The Exchange Student's map fills with PRIOR nodes. What was Tyler doing in the City of London across four centuries? RSI receipts: TYLER-062 (Footnote #66), Camera Op Entry 55, Jiangshi Memo #042, VC-001 Day 285–292, EMILY-SPRING-034.
+
+- [ ] **S07E13: "Westminster"** — Westminster cluster. Parliament, Abbey, Whitehall area. Tyler has been adjacent to English political history for 400 years. At least one construction expected from a Tudor or Stuart period event. Possible PRIOR sites. RSI receipts: TYLER-063 (Footnote #67), Camera Op Entry 56, Jiangshi Memo #043, VC-001, EMILY-SPRING-035.
+
+- [ ] **S07E14: "The Third Option"** — The Camera Op's open thread from Day 279 (Borough Market) resolved or named. She noted "a third option — something between building and not building that doesn't have a name yet." This episode gives the name, or confirms what she was sensing. A London site provides the demonstration. RSI receipts: TYLER-064 (Footnote #68), Camera Op Entry 57, Jiangshi Memo #044, VC-001, EMILY-SPRING-036.
+
+- [ ] **S07E15: "London Complete"** — London audit complete. Final site tally. PRIOR total confirmed. COEFF-002 London phase complete. The Exchange Student's map at full London resolution. Tyler's summary of what he built in London and what London built in him. RSI receipts: TYLER-065 (Footnote #69), Camera Op Entry 58, Jiangshi Memo #045, VC-001, EMILY-SPRING-037.
+
+- [ ] **S07E16 (Season Finale): "Eighteen Cities"** — London complete; the audit continues. The full scope of the global network begins to come into focus: 8 cities complete (Paris, Vienna, London, Detroit + 4 others), 18 cities remaining. The PRIOR category has changed what the audit is looking for. Tyler: the network is not what I thought it was. The camera runs. RSI receipts: TYLER-066 (Footnote #70), Camera Op Entry 59, Jiangshi Memo #046, VC-001, EMILY-SPRING-038.
+
+---
+
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0077.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

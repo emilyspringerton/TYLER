@@ -985,3 +985,51 @@ I have been documenting Tyler for seven seasons. I know how the naming works.
 Thirty-five sites remaining.
 
 *— Camera Op*
+
+---
+
+### Entry 54
+
+Day 283. Watling Street, City of London.
+
+I stayed at A-304 for the full day.
+
+I want to be accurate about why. It wasn't for the construction, though the construction is 107 feet and 473 years old and worth staying for. It was because the Exchange Student named the category at 6 AM and by mid-morning we had read the journal entry aloud and measured the site and Tyler had said "I did not know what I was doing" to the camera — and then the day kept going, and he and the Exchange Student went to the Cathedral forecourt and talked about layers of knowing, and I stayed.
+
+I wanted to know if the construction felt different at different times of day. I wanted to know what it felt like when Tyler wasn't there.
+
+What it felt like: the same. The hum, specifically present, specific to this part of Watling Street. The construction does not require Tyler. The construction does not require the Camera Op. It runs because of what happened in November 1553, and what happened in November 1553 was complete before I arrived this morning.
+
+I wrote in my notebook at various points throughout the day. I will record the entries here:
+
+*8:47 AM: The measurement mark from the Exchange Student is still visible in chalk on the pavement at 107 feet. The construction threshold is exactly here. I'm at it. The hum is specifically different at this line — not louder, but more directional. Coming from the center of the street where Tyler stood.*
+
+*11:20 AM: Tyler told me I could leave. I said I know I can leave. This was the right answer but I want to annotate it: I know I can leave any of the construction sites at any time. I choose to stay because the staying is part of the documentation. If I leave, the footage has a gap. The gap is a record of my absence. My presence is also a record. I am choosing presence.*
+
+*2:15 PM: The City foot traffic through Watling Street. People on phones, people rushing to lunch appointments, people with headphones. 107 feet of construction running at this pavement and nobody is aware of it. This is the same at every site. I don't know why I keep noting it. Maybe because it keeps being true.*
+
+*4:30 PM: I've been thinking about the third option I noted at Borough Market — Day 279, filmed Tyler alone from 300 feet. I wrote: "I think maybe there's a third option." I was thinking about something between building and not building, something that doesn't have a name yet. The PRIOR category isn't that. PRIOR is a temporal designation: constructions before the record. The third option is something else. I'm still leaving it open. The shape is becoming clearer but I don't have the name yet. When I have the name I'll write it down.*
+
+*6:03 PM: He's coming back.*
+
+Tyler came back to A-304 at dusk. He stood in the center of the street at the same point as this morning. He took the coin out — I had the frame on him — and I was late for the face, as always. He timed it as he always does.
+
+He said: "You stayed."
+
+I said: "Someone should be here for the full day."
+
+He said it had been running for 473 years and I could leave. I said I know I can leave. And then he asked if I'd known before he said it that Borough Market was PRIOR — that I'd written *I was here for fish* and understood what the ledger required before he named it.
+
+I said: "I'm a witness. Witnesses complete the record."
+
+He said: "Yes. That's what witnesses do."
+
+I am writing this down in the sealed log because I want the record of that exchange to exist somewhere accurate and complete. The archive will have a version of it. The memo will have a version. I want the version from inside the threshold of A-304 at dusk with the bells going.
+
+I know what I am doing now. He has known for a long time what he was doing. We are not the same, and we are doing the same thing from different positions in the same record.
+
+107 feet. Running since November 1553. I was here for the full day.
+
+The third option: still open. Still leaving it open. The shape is there. The name is not yet.
+
+*— Camera Op*

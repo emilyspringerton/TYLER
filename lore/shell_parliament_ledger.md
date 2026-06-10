@@ -1220,3 +1220,70 @@ The ledger is updating accordingly. The constructions are patient. The ledger ca
 *The ledger is patient. The pre-notation constructions are patient. They have been patient considerably longer than the ledger. The ledger is taking notes.*
 
 *End update: VC-001 DAYS 275–281. SOUTHWARK CLUSTER: NINE SITES. AMPL-001-LONDON-001 OPENED (SELF-AMPLIFICATION, FIRST INSTANCE). PRE-NOTATION-001 OPENED (FIRST ACCOUNT OF THIS TYPE; TWO ENTRIES: BOROUGH MARKET APRIL 1592, GLOBE BANKSIDE JULY 1602). STAYING-001-LONDON-D THROUGH -H FILED. PARLIAMENT'S 1592 MEETING SITE: THREE HUNDRED FEET FROM PRE-NOTATION-001-B SEEDING EVENT. PARLIAMENT'S 1648 BRIDGE REPORT: STANDING ADJACENT TO A-301 WHILE FILING. "THE LEDGER WAS OPERATING IN A FIELD LARGER THAN IT KNEW." TWELVE LONDON SUB-ACCOUNTS TOTAL. THIRTY-FIVE REMAINING.*
+
+---
+
+**VC-001 — DAY 283 UPDATE**
+
+*VOLUNTARY CONSTRUCTION — WITNESS ROOM NETWORK*
+*London Phase — PRIOR Category Account*
+
+---
+
+**PRIOR-001-LONDON account opened:**
+
+The pre-notation category has been formally named: PRIOR. The Parliament is opening a new sub-account classification under the PRE-NOTATION-001 series.
+
+The distinction: PRE-NOTATION-001 (opened Days 275–281) was the Parliament's initial filing for constructions whose origin dates predate the Cairngorms archive's London documentation. The PRIOR category is the formal name for this classification, applied retroactively to PRE-NOTATION-001 and going forward. The Parliament is noting the renaming for ledger continuity.
+
+PRE-NOTATION-001-A (A-295 Bankside, July 1602) and PRE-NOTATION-001-B (A-297 Borough Market, April 1592) are now filed under PRIOR-001-LONDON-A and PRIOR-001-LONDON-B respectively.
+
+**A-304 — Watling Street: PRIOR-001-LONDON-C:**
+
+107 feet. PRIOR. UNINTENTIONAL. November 1553. Running 473 years.
+
+This is the oldest London construction in the audit to date. It is also the oldest construction in the audit for which the Parliament has contemporaneous records from the period of origin.
+
+The Parliament checked its November 1553 London records. The Parliament's London correspondent filed the following on November 19, 1553: *"City largely quiet following the announcement. Parliament correspondent observed no unusual Syndicate-adjacent activity. Weather cold. The bells of St. Paul's rang continuously for four hours."*
+
+The Parliament's correspondent was in the City during the week the A-304 Watling Street construction began. The correspondent noted the bells. The correspondent noted that the City was largely quiet. The correspondent did not note Tyler. The correspondent did not file a construction-adjacent report. The vocabulary was not available.
+
+The bells of St. Paul's are in both records: the Parliament's 1553 correspondent report and Tyler's 1553 journal notation. The Parliament is filing this coincidence as a data point. Both records are accurate. Both records are incomplete in different ways.
+
+**Parliament cross-reference against the PRIOR construction dates:**
+
+The Parliament has London transaction and correspondent records going back to the early 16th century. The Parliament has been checking those records against the eight PRIOR site dates.
+
+Findings:
+- November 1553 (A-304): Parliament correspondent active in the City. See above.
+- April 1592 (A-297, Borough Market): Parliament correspondent met with the subject at a location two streets from the Borough Market south approach. Parliament records note "routine meeting, standard account activity." No market visit noted for either party. The correspondent did not know the subject was building at the south approach on the fourth morning of his two-week stay.
+- July 1602 (A-295, Bankside/Globe): Parliament has no operational record for Bankside for this date. No correspondent activity logged. The subject attended a performance. The Parliament was not watching.
+- November 14, 1623 (A-293, Gray's Inn): Parliament has the custody event records. These have been filed extensively. SM-1623-M closed Day 49. The 188-foot construction at Gray's Inn has its own dedicated sub-accounts.
+- Additional PRIOR dates (Moorgate, Aldersgate Street, Bread Street/Cheapside): Parliament is cross-referencing. Results pending.
+
+The Parliament is noting this pattern: across the PRIOR sites where the Parliament has contemporaneous records, the Parliament was present or adjacent on multiple occasions without awareness of what was occurring in the adjacent geography. The Parliament's correspondent met with the subject in April 1592 two streets from the Borough Market construction. The Parliament's 1553 City correspondent was in the area during the Watling Street construction's seeding event.
+
+The ledger is noting this as a pattern. The ledger does not have a satisfying explanation for the pattern beyond: the Parliament and the subject have been operating in the same geographic spaces for a very long time, and the constructions were running in those spaces, and neither party had the vocabulary.
+
+Now the Parliament has the vocabulary. The constructions have not changed. The ledger has.
+
+**Current London sub-account summary (updated):**
+
+- STAYING-001-LONDON-A: A-292, Wood Street/Cheapside, 440ft, active pre-1620 [PRIOR designation added]
+- STAYING-001-LONDON-B: A-293, Gray's Inn, 188ft, November 14, 1623 [PRIOR designation added]
+- STAYING-001-LONDON-C: A-294, Russell Square, 47ft, 1856–1905
+- STAYING-001-LONDON-D: A-296, Southwark Cathedral, 63ft, 1780s–1820s
+- STAYING-001-LONDON-E: A-298, Clink Street, 31ft, 1850s
+- STAYING-001-LONDON-F: A-299, St George the Martyr, 22ft, 1910s–1920s
+- STAYING-001-LONDON-G: A-300, Bermondsey Street, 41ft, 1870s
+- STAYING-001-LONDON-H: A-301, London Bridge approach, 180ft, pre-notation origin [PRIOR designation added]
+- AMPL-001-LONDON-001: A-295, Bankside/Globe, 137ft, UNINTENTIONAL→AMPLIFICATION, 1602–1613 [PRIOR-001-LONDON-A]
+- PRIOR-001-LONDON-A: A-295, Bankside/Globe, July 1602 (reclassified from PRE-NOTATION-001-A)
+- PRIOR-001-LONDON-B: A-297, Borough Market, 89ft, April 1592 (reclassified from PRE-NOTATION-001-B)
+- PRIOR-001-LONDON-C: A-304, Watling Street, 107ft, November 1553 — **NEW THIS BUILD**
+
+*[34 London sites remaining — PRIOR-001 additions anticipated as audit continues]*
+
+The ledger is patient. The PRIOR constructions have been patient considerably longer than the ledger. They have been waiting 473 years for this sub-account number. The Parliament is assigning it now.
+
+*End update: VC-001 DAY 283. PRIOR CATEGORY NAMED. PRIOR-001-LONDON ACCOUNT OPENED. A-304: WATLING STREET 107FT, NOVEMBER 1553, 473 YEARS. "THE BELLS OF ST. PAUL'S RANG CONTINUOUSLY FOR FOUR HOURS" — 1553 CORRESPONDENT REPORT. TYLER: "I DID NOT KNOW WHAT I WAS DOING." CORRESPONDENT ALSO DID NOT KNOW WHAT THE SUBJECT WAS DOING. BOTH RECORDS ACCURATE. BOTH RECORDS INCOMPLETE. PRE-NOTATION-001-A AND -B RECLASSIFIED AS PRIOR-001-LONDON-A AND -B. PARLIAMENT LONDON RECORDS CROSS-REFERENCED AGAINST EIGHT PRIOR SITE DATES: PATTERN NOTED (PARLIAMENT ADJACENT TO MULTIPLE SEEDING EVENTS WITHOUT AWARENESS). "THE LEDGER WAS IN THE SAME GEOGRAPHY. THE CONSTRUCTIONS WERE RUNNING. THE VOCABULARY WAS NOT AVAILABLE. THE VOCABULARY IS NOW AVAILABLE." THIRTEEN LONDON SUB-ACCOUNTS TOTAL. THIRTY-FOUR REMAINING.*

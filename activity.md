@@ -113,7 +113,13 @@ Southwark cluster complete: nine sites, Days 275–281. Three headline measureme
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0076*
-*Next build: 0077*
+## Build 0077 — S07E11: "Before the Record"
+Files: episodes/s07e11_before_the_record.md, lore/eastwind_archive.md (TYLER-061), lore/camera_op_sealed_log.md (Entry 54), lore/jiangshi_project_memos.md (Memo #041), lore/shell_parliament_ledger.md (VC-001 Day 283), BACKLOG.md, activity.md
+PRIOR category named (Exchange Student, 6:03 AM; Tyler: "That's accurate"; Camera Op writes it without speaking). A-304, Watling Street, City of London: 107ft, November 1553, 473 years running — first PRIOR measurement; Tyler reads his own journal entry aloud: "I did not know what I was doing / I stood in it with them / I did not know what I was doing." Camera Op stays at the threshold of A-304 for the full day; Tyler returns at dusk; both parties name plainly what the Camera Op's function has been since Season 1: "Witnesses complete the record." Eight PRIOR sites in London total (four confirmed in prior builds plus four new via Exchange Student's chronological analysis); three PRIOR sites unvisited (Moorgate, Aldersgate, Bread Street/Cheapside). BACKLOG: Season 7 continuation items S07E12–S07E16 added as new `[ ]` items.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0077*
+*Next build: 0078*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
