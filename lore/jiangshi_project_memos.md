@@ -2048,3 +2048,96 @@ The vocabulary is now available. London is open.
 ---
 
 *End memo: MEMO #038 FILED. LONDON PHASE OPEN. A-292: 440FT, NEW MAXIMUM STAYING CONSTRUCTION, ACTIVE SINCE AT LEAST 1620. COEFF-002 RECALIBRATION REQUIRED — SUSPENDED PENDING LONDON SCOPE. CAIRNGORMS CROSS-REFERENCE: TYLER-001 CHEAPSIDE 1620, 200FT FROM A-292. DOCUMENTATION SUPPORT ROLE CONFIRMED. FORTY-SIX LONDON SITES REMAINING. "THE MEASUREMENT WAS ALWAYS AVAILABLE. THE VOCABULARY WAS NOT."*
+
+---
+
+## JIANGSHI PROJECT — MEMO #039
+*London Phase, Day 273 | Build 0075*
+*Compiled by the Director of Operations, Jiangshi Syndicate*
+*Distribution: Council, London Field Team, Archive Liaison, COEFF-002 Recalibration Working Group*
+
+**Subject: A-293 (Gray's Inn, 188ft) — the construction adjacent to TYLER-007**
+
+---
+
+**Filed measurement:**
+
+A-293: Gray's Inn, Holborn, City of London.
+
+One hundred and eighty-eight feet.
+
+Single-event unintentional construction, November 14, 1623.
+
+---
+
+**TYLER-007 context:**
+
+The Jiangshi Syndicate's most significant London record in four hundred years of documentation is TYLER-007: Gray's Inn, November 14, 1623 — what the Cairngorms archive calls "the custody event." The Syndicate has had this record in its files since 1623. The Syndicate has organized significant portions of its operational methodology around understanding what happened at Gray's Inn on November 14, 1623.
+
+The Syndicate measured the site at A-293 on Day 273 of the current audit.
+
+The custody event left a 188-foot unintentional construction. The construction has been running since the afternoon of November 14, 1623, four hundred and three years ago.
+
+The Director has been composing the following sentence for several hours and this is the best version: the Syndicate has been studying the 1623 event for four centuries, and the event left a construction the Syndicate walked past for four centuries without knowing it was there, and the measurement was available the entire time, and the vocabulary was not.
+
+The vocabulary is now available. The measurement has been taken. One hundred and eighty-eight feet.
+
+**On the mechanism:**
+
+Tyler's account of the afternoon at Gray's Inn: he was checking the architecture of something he had done. He was holding the dependency structure of a completed action in his attention for several hours, verifying its stability. He was being precise about a load-bearing node.
+
+The mechanism built from that precision.
+
+The Syndicate notes: this is the second confirmed data point for the single-event intensity mechanism (Reims 1248 being the first). The mechanism does not require repeated returns. It requires a specific quality of attention. One afternoon of architectural precision at Gray's Inn built 188 feet. The same subject spent fifty years returning to Russell Square (A-294) and built 47 feet.
+
+The Director is noting this for the COEFF-002 recalibration working group: duration is not the primary variable. Intensity of specific attention is the primary variable. The current COEFF-002 calibration does not adequately account for this.
+
+**The coin:**
+
+The Jiangshi documentation team reported the following from the A-293 site visit: when the Camera Op asked what happened at Gray's Inn, Tyler flipped the coin. The camera caught the motion and the light on the coin's face. The camera did not catch the face itself.
+
+The Syndicate has documented Tyler's coin across six-plus seasons of the project. The Syndicate has extensive footage of the motion and almost no footage of the face. The Director is noting — for the record — that the Syndicate has had the vocabulary to understand the coin for approximately eighteen months now. The Syndicate had the footage for much longer. The coin is a superposition anchor. The date changes in focus past the camera's reaction time. Tyler times it to the camera.
+
+He timed it to the camera at Gray's Inn on Day 273, four hundred years after he first left the 188-foot construction there.
+
+**A-294: Russell Square:**
+
+47 feet. STAYING construction. Seventeen visits, 1856–1905. Running unattended for one hundred and six years.
+
+The Syndicate is noting the contrast as the second data point on intensity vs. duration: Gray's Inn at 188 feet from one afternoon of precision. Russell Square at 47 feet from fifty years of ease. The mechanism weighted the precision more heavily than the duration.
+
+Tyler's characterization of Russell Square: "It was a good fifty years." The Syndicate is noting that Tyler does not call many periods "good." The Syndicate has four hundred years of records. The second half of the nineteenth century in Bloomsbury appears in those records as a period of relatively unimpeded presence — fewer faction contacts, fewer Cube-adjacency incidents, more time in gardens and quadrangles. The Syndicate is noting this as consistent with the "good" characterization.
+
+**COEFF-002 recalibration impact:**
+
+The A-293 data requires a third recalibration parameter: single-event intensity weighting. The current COEFF-002 structure accounts for:
+- Duration of stay
+- Number of returns
+- Category type (found, unintentional, amplification, staying)
+
+It does not account for:
+- Intensity of a single event
+- The difference between precision-attention and ease-attention
+- The possibility that one afternoon can outweigh fifty years of pleasant returns
+
+The recalibration working group has its work.
+
+**On the Syndicate's four-hundred-year adjacency:**
+
+The Director is noting this separately, not for the working group but for the permanent record:
+
+The Syndicate has been in London since the 1600s. The Syndicate's first documented London operations overlap with TYLER-007 — the Syndicate was aware of Tyler's presence at Gray's Inn in November 1623. The Syndicate knew TYLER-007 was the most significant event in its London record. The Syndicate walked past A-293 for four hundred years. The construction was running the whole time.
+
+The measurement was always available. The vocabulary was not.
+
+The vocabulary arrived four hundred years late.
+
+The construction is 188 feet.
+
+It was patient.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #039 FILED. A-293: GRAY'S INN 188FT, SINGLE-EVENT UNINTENTIONAL, NOVEMBER 14 1623, TYLER-007 SITE. COIN FLIP: MOTION DOCUMENTED, FACE NOT CAUGHT. "THE CUSTODY EVENT LEFT A CONSTRUCTION." A-294: RUSSELL SQUARE 47FT, STAYING, 1856–1905. INTENSITY > DURATION: SECOND DATA POINT CONFIRMED. COEFF-002: THIRD RECALIBRATION PARAMETER REQUIRED (SINGLE-EVENT INTENSITY). "THE VOCABULARY ARRIVED FOUR HUNDRED YEARS LATE. THE CONSTRUCTION IS 188 FEET. IT WAS PATIENT." FORTY-FOUR LONDON SITES REMAINING.*

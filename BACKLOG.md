@@ -716,7 +716,22 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   (COEFF-002 suspended pending London scope), VC-001 Day 271 (STAYING-001 London sub-account
   opened; SM-1623-M Gray's Inn cross-reference filed; "the ledger is patient"). Build 0074.
 
+- [x] **S07E09: "November"** — Day 273. London sites A-293 (Gray's Inn, Holborn, 188ft) and
+  A-294 (Russell Square, Bloomsbury, 47ft). SM-1623-M Gray's Inn cross-reference resolved: the
+  custody event left a 188-foot single-event unintentional construction running since November 14,
+  1623. Tyler: "I was not thinking about constructions. I was thinking about whether I had gotten
+  it right." The coin flip at Gray's Inn: camera caught the motion, not the face. Journal entry
+  read aloud: "the most important afternoon of my four hundred years, or the most important until
+  Day 49." Camera Op Entry 52: she knows what Day 49 was. Russell Square A-294: 47ft STAYING,
+  seventeen visits 1856–1905, running unattended 106 years; Tyler: "it was a good fifty years."
+  Intensity > duration confirmed as mechanism property: one afternoon (188ft) outweighs fifty years
+  (47ft). Tyler: "everything was before Day 49. That's what Day 49 means." Southwark cluster next
+  (9 entries, 2 potential pre-notation sites). 44 sites remain. RSI receipts: TYLER-059 (Footnote
+  #63), Camera Op Entry 52, Jiangshi Memo #039 (COEFF-002 single-event intensity parameter required),
+  VC-001 Day 273 (STAYING-001-LONDON-B/C opened; SM-1623-M cross-reference resolved; "the ledger was
+  adjacent to 188 feet for four hundred years"), EMILY-SPRING-031. Build 0075.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0074.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0075.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

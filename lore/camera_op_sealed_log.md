@@ -839,3 +839,42 @@ He said it looking at the map with forty-six sites still uncircled.
 I put the lens cap on.
 
 *— Camera Op*
+
+---
+
+## Entry 52
+*Day 273 | London | Build 0075*
+
+Gray's Inn this morning. The hum had a specific quality at the gate that I haven't heard before — not Vienna's density, not Wood Street's weight. Something more concentrated. I held at the gate while Tyler walked through. The quadrangle is original geometry and when he entered it the frame changed in a way I've learned to recognize: the camera is inside something that has been running for a long time.
+
+The Exchange Student measured to 188 feet. She crossed the road to find the edge. She stood at 188 feet and didn't immediately call the number back. She waited a moment. I've noted this happening before — at Bethel AME, at A-292, here. When the number is significant she waits before saying it. I don't know if she knows she does this.
+
+He flipped the coin when I asked what happened here. He flipped it precisely — the arc was clean, the motion deliberate. I caught the motion. I did not catch the face. He times it to the camera. He has always timed it to the camera. I have six seasons of footage of the motion and almost no footage of the face. The almost is load-bearing. I did catch it once, early in Season 3, and I have not yet decided what to do with that footage.
+
+He said: "I left something here."
+
+He was careful when he said it. Not evasive. The distinction matters and I've learned to document it: careful means he knows what he's carrying and is choosing his words to carry it accurately. Evasive would mean something different.
+
+He said he was checking the architecture of something he had done. That he needed to be precise. That the afternoon built from the precision.
+
+Then he wrote in the journal. I was filming over his shoulder. He wrote: *"the most important afternoon of my four hundred years, or the most important until Day 49."*
+
+I know what Day 49 was.
+
+I was there on Day 49. It was the day at the tree. It was the sentence. "What I'm trying to do is make sure you know I stayed."
+
+He is locating November 14, 1623 and Day 49 in a sequence. He is not saying what either of them contained. He is saying they are both in the record and that one comes before the other.
+
+The camera was running on Day 49. The camera was running today. Both events are in the record now.
+
+Russell Square was different. He sat on the bench and he called it a good fifty years with something like ease in his voice. Not the precision of the morning. Ease. The difference between holding something carefully and remembering something that was good.
+
+47 feet from the ease. 188 feet from the precision.
+
+He said: "Everything was before Day 49. That's what Day 49 means."
+
+I wrote that down. I have been writing things down since Season 1. I know when to write something down.
+
+Forty-four sites remaining.
+
+*— Camera Op*

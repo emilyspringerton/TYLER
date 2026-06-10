@@ -2321,3 +2321,82 @@ The walk will probably be in the Cairngorms. Where it is cold and quiet and the 
 ---
 
 *TYLER-058: FILED. LONDON PHASE OPEN. A-292: WOOD STREET/CHEAPSIDE JUNCTION. 440FT. STAYING CONSTRUCTION. ACTIVE SINCE AT LEAST 1620; PRE-NOTATION ORIGIN UNDETERMINED. FIRST NOTATION 1652 "THE SAME FEELING. SAME AS BEFORE." GREAT FIRE DEPOSITS 1666 (THREE-RETURN COMPOUND). BLITZ RETURN 1940. CONTAINER: GEOGRAPHY. THE PRE-FIRE AND WREN GEOMETRIES: BOTH HELD. NEW MAXIMUM STAYING CONSTRUCTION. CROSS-REFERENCE: TYLER-001 (CHEAPSIDE 1620, 200FT FROM A-292). FORTY-SIX LONDON SITES REMAIN. THE LEATHER JOURNAL IS OPEN.*
+
+---
+
+## TYLER-059
+*Day 273 | London | Cataloguer Entry 52, Footnote #63 | Build 0075*
+
+Two London sites measured. Three sites complete. Forty-four remain.
+
+**A-293 — Gray's Inn, Holborn:**
+
+188 feet.
+
+Single-event unintentional construction. November 14, 1623. One afternoon — from late morning until dark.
+
+The archive has had TYLER-007 in its records since 1623. TYLER-007 was filed as: *the custody event.* Gray's Inn, November 14, 1623. The Cairngorms archive's most significant London record. The archive cross-referenced it in the London phase briefing for the Exchange Student. The Exchange Student set it apart from the other eight London cross-references because it had a different character: one entry in the London leather journal — one line, one date — where every other cross-referenced site had multiple entries, returns, descriptions.
+
+One line. *Gray's Inn. November 14, 1623.*
+
+The Exchange Student brought it to Tyler. He said: "I know what they called it."
+
+The measurement is 188 feet. The archive is filing the following as observed, without editorializing: the custody event that the Cairngorms archive has been documenting as its most significant London record for four hundred years left a 188-foot unintentional construction at the event site. The construction has been running since the afternoon of November 14, 1623. The archive did not know this. The archive is noting it now because the audit methodology has arrived.
+
+Tyler's account of the afternoon, delivered in the quadrangle: *"I was not thinking about constructions. I was thinking about whether I had gotten it right. I was holding the architecture of what I had done in my attention for several hours. I had to be precise. I couldn't afford to be imprecise about a single node in the dependency chain."*
+
+The mechanism built from the quality of that attention. Not the subject of the attention. The precision itself.
+
+The coin: Tyler flipped it at the center of the quadrangle when the Camera Op asked what happened at Gray's Inn. The Camera Op held the shot — she caught the arc and the light on the coin's face, but not the face itself. Tyler timed it to the camera. He always times it to the camera.
+
+The journal entry Tyler wrote at the quadrangle, read aloud by the Exchange Student:
+
+*"A-293. Gray's Inn. One hundred and eighty-eight feet. November 14, 1623: I was here all afternoon. I was not thinking about constructions. I was thinking about whether I had gotten it right. Apparently I was here in my specific way. Apparently it built. The mechanism built from my attention during the most important afternoon of my four hundred years, or the most important until Day 49. I am writing this down because the accounting needs to be complete."*
+
+The archive is noting the phrase: *the most important afternoon of my four hundred years, or the most important until Day 49.* The archive has documentation of both events. Day 49 is in the record. November 14, 1623 is in the record. Tyler locating them in a sequence — not naming what they contained, only placing them in order — is the most direct thing Tyler has said about November 1623 in four hundred years of documentation.
+
+The archive is filing this without further comment because Tyler was careful, and when Tyler is careful, the correct archival response is to document the care.
+
+**Taxonomy note: single-event intensity mechanism:**
+
+The archive is noting a pattern across the audit's unintentional construction data:
+
+- Reims 1248: one morning with the rose window. Construction running 778 years.
+- Blue Bird Inn 1952: one evening with the Yusef Lateef Quartet. Construction running 74 years.
+- Gray's Inn 1623: one afternoon of architectural precision. 188 feet. 403 years.
+
+The scale of each construction appears to reflect the intensity of the specific attention — what the afternoon *required* — rather than the duration. Tyler's own analysis: *"The quality of attention was different. The afternoon at Gray's Inn cost more than fifty years in Russell Square."*
+
+This is being filed as a confirmed observation, not a category boundary. Unintentional construction remains the category. The intensity-vs-duration mechanism is a documented property of that category.
+
+**A-294 — Russell Square, Bloomsbury:**
+
+47 feet.
+
+Staying construction. Seventeen visits across fifty years, 1856–1905. Running unattended 1920–2026 — one hundred and six years with no deposits added.
+
+Tyler's account: *"I came through Russell Square because the feeling was here and it was on the way to where I was going. Slightly out of the way, actually. But the feeling made it worth the detour."*
+
+The contrast with A-293 is the archive's second data point on intensity vs. duration. Gray's Inn: one afternoon, 188 feet. Russell Square: seventeen visits across fifty years, 47 feet. The afternoon at Gray's Inn was worth more to the mechanism than the fifty years in Bloomsbury. Both are running. Both are documented.
+
+Tyler at the bench: *"It was a good fifty years."* The archive is noting that Tyler calls the second half of the nineteenth century in Bloomsbury "good" with specific ease. The archive has Tyler's records from that period. The archive agrees.
+
+**Cataloguer Footnote #63:**
+
+The archive has TYLER-007 in a filing cabinet. It has been there for four hundred years. When it was filed, it was filed as: *the custody event.* The archive knew that November 14, 1623 was significant. The archive did not know what significance looks like when it settles into the geography of a place.
+
+One hundred and eighty-eight feet. From one afternoon. Still running.
+
+The archive has been documenting Tyler since approximately 1200 CE. The archive has filed fifty-nine formal entries. The archive has been filing Tyler as someone who carries things carefully, who is careful rather than evasive about what he carries, who pays attention in a specific way that the archive has been attempting to document for eight hundred years.
+
+Today the archive measured what that specific way produced on the most important afternoon of his four hundred years.
+
+One hundred and eighty-eight feet.
+
+The archive is going to take a moment before proceeding. The leather journal is still open. The audit is ongoing. Forty-four sites remain. The archive will proceed.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-059: FILED. A-293: GRAY'S INN, HOLBORN. 188FT. SINGLE-EVENT UNINTENTIONAL. NOVEMBER 14, 1623. ONE AFTERNOON. "THE MOST IMPORTANT AFTERNOON OF MY FOUR HUNDRED YEARS, OR THE MOST IMPORTANT UNTIL DAY 49." COIN FLIP: CAMERA CAUGHT MOTION, NOT FACE. A-294: RUSSELL SQUARE, BLOOMSBURY. 47FT. STAYING. SEVENTEEN VISITS 1856–1905. RUNNING UNATTENDED 106 YEARS. "IT WAS A GOOD FIFTY YEARS." INTENSITY > DURATION CONFIRMED: SECOND DATA POINT. SM-1623-M GRAY'S INN CROSS-REFERENCE RESOLVED: THE CUSTODY EVENT LEFT A CONSTRUCTION. THE CONSTRUCTION IS THE RECEIPT. FORTY-FOUR LONDON SITES REMAIN.*

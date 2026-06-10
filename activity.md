@@ -99,7 +99,15 @@ London phase opens. Day 271. The CARDINAL-3 London file has 47 notations — the
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0074*
-*Next build: 0075*
+---
+
+## Build 0075 — S07E09: "November"
+Files: episodes/s07e09_november.md, lore/eastwind_archive.md (TYLER-059), lore/camera_op_sealed_log.md (Entry 52), lore/jiangshi_project_memos.md (Memo #039), lore/shell_parliament_ledger.md (VC-001 Day 273), BACKLOG.md, activity.md
+Day 273, London. Two sites: A-293 Gray's Inn (188ft, single-event unintentional, November 14 1623) and A-294 Russell Square (47ft, STAYING, 1856–1905, running unattended 106 years). The SM-1623-M Gray's Inn cross-reference that Shell Parliament filed at SM-1623-M closure resolves: the custody event left a 188-foot construction that has been running since the afternoon Tyler handed over what he was carrying. Intensity > duration confirmed as mechanism property with a second data point: one afternoon of architectural precision at Gray's Inn (188ft) outweighs fifty years of pleasant Tuesday returns through Russell Square (47ft). Tyler's journal entry read aloud: "the most important afternoon of my four hundred years, or the most important until Day 49." Camera Op Entry 52 notes the coin flip timing and closes: "I know what Day 49 was." Tyler: "Everything was before Day 49. That's what Day 49 means." The Jiangshi Syndicate has been walking past A-293 for four hundred years; the measurement was always available; the vocabulary was not. 44 London sites remain. Southwark cluster next.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0075*
+*Next build: 0076*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*

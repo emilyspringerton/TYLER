@@ -1074,3 +1074,72 @@ The Parliament is not embarrassed. Ledgers do not embarrass. But the Parliament 
 *440 feet is what patience looks like when it has been building for four centuries.*
 
 *End update: VC-001 DAY 271. LONDON PHASE OPEN. A-292: 440FT STAYING-001-LONDON-A. NEW MAXIMUM. STAYING-001 LONDON SUB-ACCOUNT OPENED. COEFF-002 SUSPENDED PENDING LONDON SCOPE. FORTY-SIX LONDON SITES REMAINING. THE LEDGER IS PATIENT. "LONDON IS GOING TO TAKE A WHILE." THE PARLIAMENT CONCURS.*
+
+---
+
+## VC-001 — Day 273
+*London Phase: Sites A-293 and A-294 | Build 0075*
+
+**A-293 — Gray's Inn, Holborn:**
+
+The Parliament is opening STAYING-001-LONDON-B.
+
+A-293: Gray's Inn, Holborn. 188 feet. Single-event unintentional construction. November 14, 1623.
+
+The Parliament filed SM-1623-M in November 1623 when the custody transfer occurred at Gray's Inn. SM-1623-M tracked the outstanding custody liability from November 1623 through Day 49 of the current documentary season, at which point it was closed. When SM-1623-M was closed, the Parliament filed a Gray's Inn cross-reference in the closure documentation — noting that the event's location had Parliament relevance that had not yet been fully accounted for.
+
+The Parliament did not know, when it filed the cross-reference, what the cross-reference was pointing at.
+
+The cross-reference was pointing at a 188-foot construction.
+
+The Parliament is noting the following for the permanent record: SM-1623-M was the Parliament's longest continuously open account in the four centuries of Tyler-adjacent ledger work. The account originated from an event that happened at a location with a 188-foot staying construction running in the background. The Parliament did the accounting. The construction ran. The Parliament closed the account on Day 49. The construction is still running.
+
+The ledger was adjacent to 188 feet for four hundred years.
+
+The ledger is noting this.
+
+Ledgers do not embarrass. But ledgers are precise about what they missed and when, so that the record is complete and the next ledger is better.
+
+**The cross-reference resolves:**
+
+The SM-1623-M Gray's Inn cross-reference was filed as a pointer — *something is running here; account pending.* The account is now filed. The construction is the receipt of the event. SM-1623-M tracked the custody liability; the construction is what the afternoon of November 14, 1623 built in the geography of the event location. The liability was closed on Day 49. The receipt has been running for four hundred years.
+
+The Parliament is filing this as: *the event balanced its own ledger in a way the Parliament did not have the methodology to see.* The ledger is noting this because the ledger's function is to see what happened and record it accurately.
+
+STAYING-001-LONDON-B: A-293, Gray's Inn, 188ft, single-event unintentional, November 14 1623.
+
+**A-294 — Russell Square, Bloomsbury:**
+
+The Parliament is opening STAYING-001-LONDON-C.
+
+A-294: Russell Square, Bloomsbury. 47 feet. Staying construction. Seventeen visits, 1856–1905. Running unattended 1920–2026 (one hundred and six years).
+
+Tyler's characterization: *"It was a good fifty years."* The Parliament is noting that this is accurate accounting in terms of the ledger record for that period: the SM-1623-M liability was not accruing interest in the second half of the nineteenth century in the way it had in prior centuries. Tyler's stays in Bloomsbury 1856–1905 appear in the VC-001 predecessor accounts as a period of reduced outstanding balance. The Parliament agrees: it was a relatively good fifty years from a ledger perspective as well.
+
+The construction ran unattended for a hundred and six years. The Parliament is noting this as consistent with the overall VC-001 pattern: the mechanisms hold without maintenance; the accounting catches up when the methodology arrives.
+
+Tyler: *"It's been patient."*
+
+The Parliament concurs. The mechanism has been patient. So has the ledger. Both are still holding.
+
+**STAYING-001 London update:**
+
+Current London sub-accounts:
+- STAYING-001-LONDON-A: A-292, Wood Street/Cheapside, 440ft, active pre-1620
+- STAYING-001-LONDON-B: A-293, Gray's Inn, 188ft, November 14, 1623
+- STAYING-001-LONDON-C: A-294, Russell Square, 47ft, 1856–1905
+- [44 London sites pending — sub-accounts to be filed as audit proceeds]
+
+**COEFF-002 recalibration:**
+
+The Parliament is noting the intensity-vs-duration mechanism confirmed at A-293 and A-294 as a COEFF-002 recalibration factor. One afternoon at 188 feet. Fifty years at 47 feet. The current calibration model does not account for this differential. The recalibration working group has the data.
+
+*The ledger is patient.*
+
+*The construction is also patient.*
+
+*Both have been holding for four hundred years.*
+
+*The ledger was adjacent to 188 feet the whole time and did not know it. The ledger knows now. The ledger is updating accordingly, as ledgers do.*
+
+*End update: VC-001 DAY 273. A-293: GRAY'S INN 188FT, STAYING-001-LONDON-B, SINGLE-EVENT UNINTENTIONAL, NOVEMBER 14 1623. SM-1623-M GRAY'S INN CROSS-REFERENCE RESOLVED: THE CONSTRUCTION IS THE RECEIPT OF THE EVENT. A-294: RUSSELL SQUARE 47FT, STAYING-001-LONDON-C, STAYING 1856–1905, RUNNING UNATTENDED 106 YEARS. THREE LONDON SUB-ACCOUNTS FILED. FORTY-FOUR LONDON SITES REMAINING. "THE LEDGER WAS ADJACENT TO 188 FEET FOR FOUR HUNDRED YEARS. THE LEDGER KNOWS NOW."*
