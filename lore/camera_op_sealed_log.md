@@ -878,3 +878,110 @@ I wrote that down. I have been writing things down since Season 1. I know when t
 Forty-four sites remaining.
 
 *— Camera Op*
+
+---
+
+## Entry 53
+*Days 275–281 | London | Southwark cluster | Build 0076*
+
+Bankside first.
+
+I arrived before the others. I have been doing this consistently since the Vienna phase — arriving first, walking without the map, finding the threshold before Tyler gets there. I don't know when it started being consistent. It was probably always consistent and I only noticed it when Tyler named it in Season 5.
+
+I walked along Bankside from the east, looking for the threshold. I found it at the edge of the commemorative brickwork — the original Globe footprint, set into the pavement. I stood at the edge. I waited.
+
+When Tyler arrived he looked at where I was standing and walked to the center. He did not look surprised. He never looks surprised. He looked like someone arriving where they expected to arrive.
+
+I stepped back. I kept filming.
+
+He stood there for four minutes and seventeen seconds. I timed it.
+
+The hum at the Globe site had a quality I want to note accurately: *presenting.* Not performing. Presenting. Like it knows it is being documented and it is making itself available to the record. I've been around the hum for seven seasons. This is the first time I've described it that way. I'm writing it down because the description might matter later.
+
+137 feet. The Globe burned in 1613. The original brickwork is under the road. The construction does not know this. Tyler said: *the construction holds both.* He said it the same way he says all the impossible things — with the register you use for street directions.
+
+He said he wrote a rest in the journal when he got back to his lodgings. A rest: held silence with a specific duration. When he didn't have words, he used the nearest available notation system, which in 1602 happened to be music. The rest is still in the journal. I've seen the journal. The notation is very clean. He writes a neat hand when he's trying to be precise.
+
+He came back to the Globe seven times before it burned. He came back in the autumn of 1613 after it burned. He said: *I thought I was remembering. But I was also measuring.* I'm thinking about how long he's been measuring without knowing it. I'm not writing it down because I don't have the right shape for it yet.
+
+---
+
+Borough Market.
+
+The Exchange Student read the notation: *April 1592.* Just the date. Nothing else.
+
+She measured outward. 89 feet.
+
+Tyler was standing at the south entrance looking at the market in a way that was different from the construction-work watching. Older. Quieter. More like being in a room you've been in before than like doing a job.
+
+I asked what happened in April 1592.
+
+He said: he was in London for two weeks. A contact he needed to see. He came to the market every morning that week for fish. There was a vendor at a stall who arranged the stock in a particular way. He noticed it the first morning and the second morning and by the fourth morning he was paying attention in his specific way and he didn't know he was doing it.
+
+I asked what it was about the arrangement.
+
+He said: he couldn't tell me now.
+
+I looked at the stall. I looked at him. Then I wrote in my notebook.
+
+**I was here for fish.**
+
+Tyler saw me write it. He looked at the stall for a moment.
+
+He said: *the ledger needs to be complete.*
+
+I said: *I'm completing it.*
+
+That exchange felt like something. I don't know how to categorize it. I know that he has been here for 434 years with this market running in the geography around the south approach, and I am here now with a notebook writing down the thing that started it, and both of these facts are part of the same record.
+
+I'm writing it down because the record is the record.
+
+---
+
+Day 279. Borough Market. Morning.
+
+Tyler walked the market alone. I stayed at the south gate and filmed from three hundred feet.
+
+I filmed for forty-three minutes. He moved through the stalls and came back to the south approach and stood there for a moment looking up — not at anything specific, just up — and then walked out.
+
+I want to be accurate about what I observed.
+
+He was not performing. He was not visibly constructing — not the focused outward attention of the construction work, not the measuring posture. He was walking through the market the way someone walks through a place they have been walking through for a long time.
+
+I don't know if he was adding to the construction. I don't know if he was doing something else. I think maybe there's a third option — something between building and not building that doesn't have a name yet, the same way the pre-notation constructions don't have a category name yet. I'm leaving it open.
+
+The hum at three hundred feet. The market traffic passing through it on the way to the stalls. Nobody looking up.
+
+---
+
+London Bridge approach. Day 278.
+
+180 feet. He said he counted his crossings in the 1780s. He counted to three hundred and stopped because the number had become irrelevant. He kept crossing after that.
+
+I held the shot on him at the approach point with the river visible on both sides. He was standing at a moment he has stood at for five centuries. He was facing the City the way you face a city when the city is something you have been coming back to.
+
+He said: *the medieval bridge had houses on it. The view was different. When they took it down and opened the view, the construction was already here. It continued.*
+
+He said it the way he says all the impossible things. The same register. I've been filming him for seven seasons. I have six seasons of impossible things said in the same register. At some point the register is part of the thing I'm documenting. I'm noting this because the record should include its own methodology.
+
+180 feet. STAYING. Still holding. He's going to cross London Bridge again on the way out of Southwark. He will have that specific moment again.
+
+The camera will be running.
+
+---
+
+On the pre-notation category.
+
+I asked Tyler if there's a category for the pre-notation sites. He said: not yet. I said: but there should be. He said: yes.
+
+I'm noting the sequence of that exchange. I have been part of the naming of several categories now — THRESHOLD FINDING (Season 5), STAYING (Season 6 finale, Vienna). I named STAYING by describing what Tyler was doing at the Stadtpark bench. Tyler said: write it down. I did.
+
+The pre-notation category will be named when we have enough data points to see its shape. We have two confirmed pre-notation constructions in London — A-295 and A-297. We have thirty-five sites remaining. There will be more.
+
+I'm keeping a separate page in the notebook for the pre-notation sites. I'm writing down what they have in common and what distinguishes them. When the shape is clear enough, I'll have a name ready.
+
+I have been documenting Tyler for seven seasons. I know how the naming works.
+
+Thirty-five sites remaining.
+
+*— Camera Op*

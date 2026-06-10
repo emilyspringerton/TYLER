@@ -731,7 +731,28 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   VC-001 Day 273 (STAYING-001-LONDON-B/C opened; SM-1623-M cross-reference resolved; "the ledger was
   adjacent to 188 feet for four hundred years"), EMILY-SPRING-031. Build 0075.
 
+- [x] **S07E10: "Southwark"** — Days 275–281. Southwark cluster: nine sites measured (A-295 through
+  A-303; A-302 and A-303 minor, noted not featured). A-295 Bankside/Globe Theatre footprint: 137ft,
+  UNINTENTIONAL→AMPLIFICATION (new sub-type: unintentional construction amplified through returns,
+  confirmed at two data points), seeded July 23, 1602 — full second act of Troilus and Cressida, a
+  speech about incomplete things; Tyler wrote a musical rest in the journal because he had neither
+  words nor silence. A-297 Borough Market: 89ft, UNINTENTIONAL, April 1592, four mornings of fish
+  stall attention; Camera Op wrote "I was here for fish"; Tyler: "the ledger needs to be complete";
+  Camera Op: "I'm completing it." A-301 London Bridge approach: 180ft, STAYING, three hundred or
+  more crossings, the specific moment where the river opens. Two pre-notation constructions confirmed
+  (A-295, A-297 — both predate TYLER-001 by 18 and 28 years respectively); pre-notation category
+  named as pending. Tyler: "the constructions were running anyway." Day 279: Tyler alone at Borough
+  Market, Camera Op filming from 300ft — "I think maybe there's a third option. I'm leaving it
+  open." Thirty-five London sites remain. RSI receipts: TYLER-060 (Footnote #64 — pre-notation
+  blind spot rendered visible; archive updating accordingly), Camera Op Entry 53 (Bankside threshold
+  found before Tyler arrived; "theatrical about the hum here"; "I'm completing it"; third option
+  held open), Jiangshi Memo #040 (pre-notation constructions; Council Session #8; "the mechanism
+  does not care what you are doing; only how you are paying attention"), VC-001 Days 275–281
+  (STAYING-001-LONDON-D through H filed; AMPL-001-LONDON-001; PRE-NOTATION-001-A and -B opened;
+  Parliament cross-referencing 1592 and 1602 records), EMILY-SPRING-032 (map update; orange
+  question mark for pre-notation category; load-bearing pending name). Build 0076.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0075.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0076.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

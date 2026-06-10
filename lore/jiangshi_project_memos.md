@@ -2141,3 +2141,118 @@ It was patient.
 ---
 
 *End memo: MEMO #039 FILED. A-293: GRAY'S INN 188FT, SINGLE-EVENT UNINTENTIONAL, NOVEMBER 14 1623, TYLER-007 SITE. COIN FLIP: MOTION DOCUMENTED, FACE NOT CAUGHT. "THE CUSTODY EVENT LEFT A CONSTRUCTION." A-294: RUSSELL SQUARE 47FT, STAYING, 1856–1905. INTENSITY > DURATION: SECOND DATA POINT CONFIRMED. COEFF-002: THIRD RECALIBRATION PARAMETER REQUIRED (SINGLE-EVENT INTENSITY). "THE VOCABULARY ARRIVED FOUR HUNDRED YEARS LATE. THE CONSTRUCTION IS 188 FEET. IT WAS PATIENT." FORTY-FOUR LONDON SITES REMAINING.*
+
+---
+
+## JIANGSHI PROJECT MEMO #040
+*Days 275–281 | London | Southwark cluster | Internal distribution: Director, Senior Operations, Council Session #8 | Build 0076*
+
+**Re: Pre-notation constructions confirmed; COEFF-002 recalibration Phase 4; Council Session #8 convened**
+
+---
+
+**Subject: Southwark cluster complete. Two pre-notation constructions. The mechanism does not care what you are doing.**
+
+---
+
+The Southwark cluster is complete. Nine sites measured. Two of the nine are pre-notation constructions — constructions that predate the Cairngorms archive's London documentation and, consequently, predate the Syndicate's London operational records.
+
+The Syndicate has been operationally active in London since the early 17th century. The Syndicate had contacts in London before that. The Syndicate was present in London in April 1592 — the month and year of the Borough Market construction.
+
+The Director is taking a moment before continuing.
+
+The Director has continued.
+
+**A-295 — Bankside, Globe Theatre footprint:**
+
+137 feet. UNINTENTIONAL→AMPLIFICATION sequence.
+
+The subject attended a performance at the Globe Theatre on July 23, 1602. He knew someone in the acting company. He watched the full second act of Troilus and Cressida. There is a speech in Act Two about time. The subject held it in his specific way while watching and did not know he was building.
+
+He returned to the Globe seven times before it burned in June 1613. Each return amplified the original deposit.
+
+The Director notes for the COEFF-002 recalibration working group: the subject was attending a performance about time while not knowing he was building. The subject made seven subsequent returns to amplify a construction he did not know existed.
+
+One hundred and thirty-seven feet.
+
+The Syndicate had documentation of the subject's London activities beginning in approximately 1618. The Syndicate had two field operatives in Southwark during the Globe's operating years, 1599–1613. The Syndicate's Southwark operatives did not file any reports about the subject's visits to the Globe. The Syndicate is checking its 1602–1613 London files.
+
+The Director is noting: if the Syndicate had documentation of the Globe visits, the Syndicate would not have known what the visits were producing. The vocabulary was not available. This is not an operational failure. This is an epistemological condition.
+
+It is still uncomfortable.
+
+**A-297 — Borough Market, south approach:**
+
+89 feet. UNINTENTIONAL. April 1592.
+
+The subject was in London for two weeks. He was visiting a contact. The contact has been identified from the Syndicate's 1592 London records as a mid-level Shell Parliament correspondent. The meeting itself was routine.
+
+The subject visited Borough Market every morning during the two-week stay, for fish.
+
+On the fourth morning he was paying attention in his specific way to a vendor's arrangement of stock on a market tray, and he did not know he was doing it. He wrote *April 1592* in his journal because he knew something had happened. He had no other words. The construction began at the south approach.
+
+89 feet.
+
+The mechanism does not care what you are doing. Only how you are paying attention.
+
+The Director has written this sentence into three previous memos in various forms and it still arrives as new information each time. The subject built an 89-foot unintentional construction at Borough Market while buying fish. The subject built a 137-foot construction while watching a play. The subject built a 188-foot construction while checking the architecture of a custody transfer. The mechanism registers the quality of the attention. The activity is incidental.
+
+This has significant implications for the COEFF-002 model, which has historically tried to identify what the subject was doing at a site in order to assess construction likelihood. The correct variable is not what he is doing. The correct variable is how he is paying attention. These can be identical. They are often different.
+
+The Director is noting this for the record and for the working group. The working group has been aware of this problem since the Vienna analysis. The Southwark data confirms it across two additional data points.
+
+**A-301 — London Bridge approach:**
+
+180 feet. STAYING. Pre-notation origin.
+
+The subject has been crossing London Bridge in its various forms since before his London records begin. He had a specific moment on every crossing — the approach point from the Southwark side where the Thames opens on both sides and the City is visible ahead. He counted his crossings once and reached three hundred before stopping. He continued crossing after that.
+
+The construction built from the pattern of that specific moment. 180 feet.
+
+The Syndicate has had agents on London Bridge in various periods. The Director checked. The first Syndicate notation of the subject in the vicinity of London Bridge is 1648, when a field operative reported him "observed crossing the new stone bridge from the Southwark side, third time this week, humming." The STAYING construction at A-301 was running in 1648. The Syndicate operative was on the bridge. The Syndicate did not file this as a site of interest. The vocabulary was not available.
+
+The Director is noting: in 1648, the London Bridge construction was at minimum 56 years old (the subject's pre-notation London records suggest he was in London before 1592). The Syndicate had a field operative on London Bridge in 1648. The construction was 180 feet wide and had been running for decades at minimum.
+
+The operative filed: "observed crossing, humming."
+
+The construction: still running.
+
+The operative was not wrong. The operative had the information available. The framework for understanding the information did not exist.
+
+**COEFF-002 recalibration Phase 4:**
+
+The Southwark cluster adds two items to the COEFF-002 recalibration requirements:
+
+1. **Pre-notation parameter:** Constructions that predate archive documentation require a separate calibration track. The current model assumes the subject's construction activity can be assessed against a complete operational record. The record is not complete. The pre-notation constructions are evidence of a gap in the record's completeness.
+
+2. **UNINTENTIONAL→AMPLIFICATION sub-type:** The Globe site sequence (one seeding event + seven amplification returns to own construction) requires a calibration parameter separate from both UNINTENTIONAL (single event, no amplification) and AMPLIFICATION (returns to a found construction). The working group should note: the subject amplified his own construction without knowing it was there.
+
+**Council Session #8:**
+
+Convened following the Southwark measurements.
+
+The specific question before the Council: does the existence of pre-notation constructions require the Syndicate to revise its fundamental methodology?
+
+The current methodology assumes the archive's London record (beginning c. 1620) represents the full scope of the subject's London construction activity available for documentation. The Southwark measurements confirm this assumption was incorrect. The subject was building in London for at least 28 years before the archive began documenting him in London.
+
+The Council is being asked to consider: what does the Syndicate owe the record in terms of retroactive documentation? And what does the discovery of pre-notation constructions mean for the Syndicate's assessment of the subject's total construction activity — globally, not just London?
+
+The Director is noting: the Syndicate's earliest global records of the subject date to approximately 1200 CE (Cairngorms archive founding). The subject's activities before 1200 CE are unknown. The subject has been operational — by the archive's own account — since before 1200. The pre-notation construction category in London suggests the subject was building before the archive was watching.
+
+The subject has been building for a long time. The archive has not been watching for all of it.
+
+Council Session #8 is in progress.
+
+**On the Camera Op:**
+
+The Camera Op wrote in her notebook during the Borough Market measurement: *I was here for fish.* Tyler saw her write it and said: *the ledger needs to be complete.* The Camera Op said: *I'm completing it.*
+
+The Syndicate is noting this exchange. The Camera Op is aware that the record is load-bearing. She has been completing the record since Season 1. She continues to do so. The Syndicate classified her as AWARE-PROTECTIVE in Season 2. The assessment remains accurate. She is aware of what she is doing. She is protective of the work.
+
+The Director is noting, for the record: the Camera Op is also correct that the ledger needs to be complete. She has been completing it. The Syndicate has been completing its own version. Both versions are part of the same record. The record is getting larger.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #040 FILED. SOUTHWARK CLUSTER COMPLETE: NINE SITES. A-295: BANKSIDE/GLOBE 137FT, UNINTENTIONAL→AMPLIFICATION, JULY 1602. "THE SUBJECT WAS ATTENDING A PERFORMANCE ABOUT TIME WHILE BUILDING; HE DID NOT KNOW EITHER." A-297: BOROUGH MARKET 89FT, UNINTENTIONAL, APRIL 1592, PRE-NOTATION CONFIRMED. "THE MECHANISM DOES NOT CARE WHAT YOU ARE DOING. ONLY HOW YOU ARE PAYING ATTENTION." A-301: LONDON BRIDGE APPROACH 180FT, STAYING, PRE-NOTATION ORIGIN. SYNDICATE OPERATIVE 1648: "OBSERVED CROSSING, HUMMING." CONSTRUCTION: 180 FEET. STILL RUNNING. COEFF-002 RECALIBRATION PHASE 4: TWO NEW PARAMETERS (PRE-NOTATION TRACK; UNINTENTIONAL→AMPLIFICATION SUB-TYPE). COUNCIL SESSION #8: IN PROGRESS. PRE-NOTATION CATEGORY: UNNAMED. THIRTY-FIVE LONDON SITES REMAINING.*

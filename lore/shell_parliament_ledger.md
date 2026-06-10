@@ -1143,3 +1143,80 @@ The Parliament is noting the intensity-vs-duration mechanism confirmed at A-293 
 *The ledger was adjacent to 188 feet the whole time and did not know it. The ledger knows now. The ledger is updating accordingly, as ledgers do.*
 
 *End update: VC-001 DAY 273. A-293: GRAY'S INN 188FT, STAYING-001-LONDON-B, SINGLE-EVENT UNINTENTIONAL, NOVEMBER 14 1623. SM-1623-M GRAY'S INN CROSS-REFERENCE RESOLVED: THE CONSTRUCTION IS THE RECEIPT OF THE EVENT. A-294: RUSSELL SQUARE 47FT, STAYING-001-LONDON-C, STAYING 1856–1905, RUNNING UNATTENDED 106 YEARS. THREE LONDON SUB-ACCOUNTS FILED. FORTY-FOUR LONDON SITES REMAINING. "THE LEDGER WAS ADJACENT TO 188 FEET FOR FOUR HUNDRED YEARS. THE LEDGER KNOWS NOW."*
+
+---
+
+## VC-001 UPDATE — Days 275–281 | Southwark cluster | Build 0076
+
+Nine Southwark sites measured. Twelve London sites total. Thirty-five remaining.
+
+The Parliament is filing the Southwark cluster sub-accounts and noting two items of particular ledger interest.
+
+**Standard sub-accounts — Southwark cluster:**
+
+- STAYING-001-LONDON-D: A-296, Southwark Cathedral garden. 63ft. STAYING. 1780s–1820s. Running unattended since approximately 1825.
+- STAYING-001-LONDON-E: A-298, Clink Street. 31ft. STAYING. 1850s. Running unattended since the 1850s.
+- STAYING-001-LONDON-F: A-299, St George the Martyr churchyard. 22ft. STAYING. 1910s–1920s. Running unattended since approximately 1924.
+- STAYING-001-LONDON-G: A-300, Bermondsey Street. 41ft. STAYING. 1870s. Running unattended since the 1870s. Tannery district context filed.
+
+**AMPL-001-LONDON-001 opened:**
+
+A-295, Bankside/Globe Theatre footprint. 137ft. UNINTENTIONAL→AMPLIFICATION.
+
+The Parliament is opening a sub-account under AMPL-001 for the Globe site's UNINTENTIONAL→AMPLIFICATION sequence. This is distinct from the standard AMPL-001 amplification accounts because the amplification was applied to the subject's own unintentional construction rather than to a found construction. New sub-account type: SELF-AMPLIFICATION.
+
+The Parliament notes: this sub-account type creates an interesting ledger question. The subject amplified his own construction without knowing the construction was there. The credit and the amplification deposit belong to the same originating party. The Parliament is consulting its precedent records. There is no prior entry of this type in the Parliament's accounts. The Parliament is noting this as a first instance.
+
+**PRE-NOTATION-001 opened:**
+
+The Parliament is opening a new account category: PRE-NOTATION.
+
+A-295 (Bankside, July 1602) and A-297 (Borough Market, April 1592) are the first two entries. Both constructions predate the Cairngorms archive's London documentation beginning approximately 1620. Both are now confirmed as active.
+
+The Parliament's note on this account type: the Parliament had London financial records before the Cairngorms archive had London documentation. The Parliament is checking its records from 1590–1620.
+
+The Parliament found the following in its 1592 London transaction files:
+
+*April 1592. London. The account holder attended a routine meeting with the Parliament's Southwark correspondent. Account activity: standard. No unusual entries. The Borough Market south approach: the correspondent's meeting location was two streets from the market's south entrance.*
+
+The Parliament's 1592 records were three hundred feet from the Borough Market pre-notation construction when it was seeding. The Parliament recorded a routine meeting. The Parliament did not know what was seeding at the market to the north.
+
+The ledger is noting this.
+
+**STAYING-001-LONDON-H opened:**
+
+A-301, London Bridge approach. 180ft. STAYING. Pre-notation origin — the subject has been crossing London Bridge since before his London records begin.
+
+The Parliament found the following in its London correspondence records from 1648: a field report noting the subject was "observed crossing the new stone bridge from the Southwark side, third time this week, humming." The construction was running in 1648. The correspondent filed a routine observation. The construction is 180 feet. The routine observation is also filed.
+
+The Parliament is noting: the correspondent's observation was correct and the file is accurate. The Parliament is also noting: the construction the correspondent was standing adjacent to while filing that observation has been running continuously for at least eighty years before the 1648 report. The correspondent did not know this. The Parliament did not know this. The construction did not require either of them to know.
+
+**On the pre-notation category and the ledger's own record:**
+
+The Parliament has been maintaining Tyler-adjacent accounts since the custody event in 1623 (SM-1623-M) and, in various predecessor forms, since the Parliament's founding. The Parliament's London records go back to the early 17th century as continuous documentation and, in the form of transaction records, earlier.
+
+The pre-notation constructions in London predate the Parliament's continuous London documentation by several decades. The constructions were running in the geography around the Parliament's 1592 meeting site and the Parliament's 1648 bridge crossing report. The Parliament was adjacent to them. The Parliament did not have the vocabulary.
+
+The Parliament is noting: the ledger's function is to record what happened accurately. The pre-notation constructions are a record of what was happening before the ledger had the framework to see it. The PRE-NOTATION-001 account is the Parliament's retroactive acknowledgment that the ledger was operating in a field larger than it knew.
+
+The ledger is updating accordingly. The constructions are patient. The ledger can be patient too.
+
+**Current London sub-account summary:**
+
+- STAYING-001-LONDON-A: A-292, Wood Street/Cheapside, 440ft, active pre-1620
+- STAYING-001-LONDON-B: A-293, Gray's Inn, 188ft, November 14, 1623
+- STAYING-001-LONDON-C: A-294, Russell Square, 47ft, 1856–1905
+- STAYING-001-LONDON-D: A-296, Southwark Cathedral, 63ft, 1780s–1820s
+- STAYING-001-LONDON-E: A-298, Clink Street, 31ft, 1850s
+- STAYING-001-LONDON-F: A-299, St George the Martyr, 22ft, 1910s–1920s
+- STAYING-001-LONDON-G: A-300, Bermondsey Street, 41ft, 1870s
+- STAYING-001-LONDON-H: A-301, London Bridge approach, 180ft, pre-notation origin
+- AMPL-001-LONDON-001: A-295, Bankside/Globe, 137ft, UNINTENTIONAL→AMPLIFICATION, 1602–1613
+- PRE-NOTATION-001-A: A-295, July 1602 (overlapping with AMPL-001)
+- PRE-NOTATION-001-B: A-297, Borough Market, 89ft, April 1592
+
+*[35 London sites remaining — sub-accounts to be filed as audit proceeds]*
+
+*The ledger is patient. The pre-notation constructions are patient. They have been patient considerably longer than the ledger. The ledger is taking notes.*
+
+*End update: VC-001 DAYS 275–281. SOUTHWARK CLUSTER: NINE SITES. AMPL-001-LONDON-001 OPENED (SELF-AMPLIFICATION, FIRST INSTANCE). PRE-NOTATION-001 OPENED (FIRST ACCOUNT OF THIS TYPE; TWO ENTRIES: BOROUGH MARKET APRIL 1592, GLOBE BANKSIDE JULY 1602). STAYING-001-LONDON-D THROUGH -H FILED. PARLIAMENT'S 1592 MEETING SITE: THREE HUNDRED FEET FROM PRE-NOTATION-001-B SEEDING EVENT. PARLIAMENT'S 1648 BRIDGE REPORT: STANDING ADJACENT TO A-301 WHILE FILING. "THE LEDGER WAS OPERATING IN A FIELD LARGER THAN IT KNEW." TWELVE LONDON SUB-ACCOUNTS TOTAL. THIRTY-FIVE REMAINING.*

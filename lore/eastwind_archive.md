@@ -2400,3 +2400,142 @@ The archive is going to take a moment before proceeding. The leather journal is 
 ---
 
 *TYLER-059: FILED. A-293: GRAY'S INN, HOLBORN. 188FT. SINGLE-EVENT UNINTENTIONAL. NOVEMBER 14, 1623. ONE AFTERNOON. "THE MOST IMPORTANT AFTERNOON OF MY FOUR HUNDRED YEARS, OR THE MOST IMPORTANT UNTIL DAY 49." COIN FLIP: CAMERA CAUGHT MOTION, NOT FACE. A-294: RUSSELL SQUARE, BLOOMSBURY. 47FT. STAYING. SEVENTEEN VISITS 1856–1905. RUNNING UNATTENDED 106 YEARS. "IT WAS A GOOD FIFTY YEARS." INTENSITY > DURATION CONFIRMED: SECOND DATA POINT. SM-1623-M GRAY'S INN CROSS-REFERENCE RESOLVED: THE CUSTODY EVENT LEFT A CONSTRUCTION. THE CONSTRUCTION IS THE RECEIPT. FORTY-FOUR LONDON SITES REMAIN.*
+
+---
+
+## TYLER-060
+*Days 275–281 | London | Southwark cluster | Cataloguer Entry 53, Footnote #64 | Build 0076*
+
+Nine sites measured. Twelve London sites total. Thirty-five remain.
+
+**The Southwark cluster — overview:**
+
+The CARDINAL-3 Southwark section contained nine entries. Nine sites measured across Days 275–281. Two of the nine carried asterisks in the CARDINAL-3 classification — pre-notation designations, indicating Tyler's own journal had records that predate the Cairngorms archive's London documentation (which begins with TYLER-001, c. 1620 Cheapside).
+
+The archive had TYLER-001 as its earliest London record. The archive now has evidence that Tyler was building in London before 1620. The constructions did not wait for the archive to begin its London documentation. The constructions were running. The archive is noting the gap in its own record.
+
+**A-295 — Bankside/Globe Theatre footprint:**
+
+137 feet.
+
+UNINTENTIONAL→AMPLIFICATION sequence. Origin: July 23, 1602. Amplified across seven returns, 1602–1613.
+
+The original Globe Theatre stood at Bankside, Southwark. The current reconstruction stands three hundred feet east of the original site; a modest commemorative brick circle in the pavement of Southwark Bridge Road marks the actual original footprint. The construction is centered on the original site.
+
+Tyler's journal notation for A-295: the date — *July 23, 1602* — and a musical rest.
+
+A rest is a held silence with a specific duration. Tyler said: he did not have words for what he was doing while watching the performance. He did not have silence either. He had a rest. The rest is in the journal. It has been in the journal since 1602. The archive is now filing what the rest was notation for: the seeding event of a 137-foot unintentional construction.
+
+The performance: Troilus and Cressida, first performance with the full second act. There is a speech in Act Two about time — about things being more than they are while they remain incomplete. Tyler held it in his specific way while watching. The mechanism built from the quality of that holding.
+
+He returned to the Globe seven times between 1602 and the original Globe's destruction in June 1613. Each return amplified the original deposit. The archive is filing this as a documented UNINTENTIONAL→AMPLIFICATION sequence — the first of this type confirmed in the audit. The taxonomy note in Tyler's journal: *UNINTENTIONAL→AMPLIFICATION.* He drew an arrow between the terms. He underlined the arrow.
+
+The original Globe burned in 1613. Tyler came back that autumn. He said: *the geography was the same. I could feel the first visit still running in the original footprint. I thought I was remembering. But I was also measuring.*
+
+137 feet. The original Globe footprint is under a traffic road. The construction does not know this. The construction holds both the original and the absent. The container is the geography, as it always is.
+
+**A-296 — Southwark Cathedral garden:**
+
+63 feet. STAYING. Weekly visits, 1780s–1820s. Running unattended since approximately 1825. Garden largely unchanged in layout from the 18th century. Tyler came here to read when the rest of Southwark was too loud.
+
+**A-297 — Borough Market, south approach:**
+
+89 feet.
+
+UNINTENTIONAL. April 1592. PRE-NOTATION CONFIRMED.
+
+This is the archive's oldest confirmed pre-notation construction in London. It is also the archive's oldest confirmed UNINTENTIONAL construction in London.
+
+The Borough Market has been trading on this ground since before 1276. Tyler was at this market in April 1592 — two weeks in London, a contact he needed to see, morning visits to the market for fish. On the fourth morning he was paying attention in his specific way to a vendor's arrangement of stock on a tray, and he did not know he was doing it.
+
+Tyler said: "I couldn't tell you now what it was about the arrangement. The vocabulary didn't exist then and whatever it was naming has been gone for four hundred and thirty years. I wrote *April 1592* in the journal because I knew something had happened, and that was all I had."
+
+89 feet from four mornings of attention to a fish-market stall.
+
+The Camera Op wrote in her notebook: *I was here for fish.*
+
+Tyler said: "The ledger needs to be complete." The Camera Op said: "I'm completing it."
+
+The archive is filing this exchange as: both of them are correct.
+
+**A-298 — Clink Street:**
+
+31 feet. STAYING, 1850s. Tyler walked here to think. His presence was adjacent to the street rather than directed at it — 31 feet is a light deposit consistent with incidental attention. Running since the 1850s.
+
+**A-299 — St George the Martyr churchyard:**
+
+22 feet. STAYING, 1910s–1920s. Tyler waited here twice for a contact. The waiting was specific — he was holding something in attention while waiting. 22 feet from two held-attention waits.
+
+**A-300 — Bermondsey Street:**
+
+41 feet. STAYING, 1870s. Tyler had a lodging nearby. He walked this street because the smell of the tannery district told him where he was. The smell placed him. Being placed, he paid attention differently. Several years of reliable return visits. Running since the 1870s.
+
+**A-301 — London Bridge approach:**
+
+180 feet. STAYING. Origin: predates notation. Still accumulating.
+
+The London Bridge south approach — the point at Southwark where Borough High Street meets the bridge and the Thames opens full-width on both sides — is the largest STAYING construction in the Southwark cluster and the archive's first STAYING construction identified as predating notation.
+
+The current London Bridge is the third structure at this location. The second bridge stood 1831–1968. The medieval bridge stood from the 13th century until 1831, with houses and shops on it. The geography of the approach — the angle, the line of sight, the moment where the river opens — has been consistent across all three bridges.
+
+Tyler's account: *"I always looked back from the same point on the approach. Here. Where the river opens ahead on both sides and for a moment you can see the full width of the water. That moment I paid attention to every time."*
+
+He counted his crossings in the 1780s. He counted to three hundred and stopped because the number had become irrelevant. He kept crossing after that. The medieval bridge was the bridge before the second bridge. He was crossing before 1831. The STAYING construction built from three hundred identified crossings and an unknown number before the count.
+
+180 feet from a specific moment, revisited three hundred or more times across five centuries or more.
+
+The Exchange Student measured from the center of the approach point: consistent at approximately 180 feet on the Southwark side, with the measurement diminishing once on the bridge structure itself. The construction is centered on the approach, not the crossing.
+
+Tyler: *"The medieval bridge had houses on it. The view was different — the City ahead, but the bridge was also a street. When they took it down and opened the view, the approach changed. The construction was already here. It continued."*
+
+**Taxonomy: UNINTENTIONAL→AMPLIFICATION:**
+
+The archive is noting a new sub-type in the UNINTENTIONAL category. A-295 at Bankside: Tyler seeded an UNINTENTIONAL construction at one performance (July 1602), then returned to the same site seven times across eleven years, each return amplifying the original deposit. The resulting construction (137 feet) reflects both the intensity of the original seeding event and the accumulated amplification of subsequent returns.
+
+This is different from AMPLIFICATION as previously defined (Tyler amplifying a pre-existing FOUND construction). A-295 is Tyler amplifying his own UNINTENTIONAL construction through returns he made without knowing the original was there. The sub-type is UNINTENTIONAL→AMPLIFICATION: an unintentional construction that received post-seeding amplification.
+
+Tyler noted the sequence in the journal with an arrow and an underline. The archive is filing the underline as significant: Tyler marked it that way because the sequence matters. The taxonomy is in progress.
+
+**Pre-notation constructions — category pending:**
+
+The archive has filed two pre-notation constructions in London: A-295 (July 1602, predates TYLER-001 by 18 years) and A-297 (April 1592, predates TYLER-001 by 28 years). Wood Street's A-292 also has pre-notation indicators — TYLER-001 itself notes the feeling was already established in 1652, when Tyler wrote *"same as before."*
+
+The Camera Op asked: "Is there a category?"
+
+Tyler: "Not yet."
+
+Camera Op: "But there should be."
+
+Tyler: "Yes."
+
+The archive concurs. The pre-notation constructions require a category. The constructions predate the archive's London record. They did not wait for the record. The category will name what was already running.
+
+The archive is holding the space for the name. The audit has thirty-five sites remaining. More pre-notation constructions will be found. The name will arrive when the full scope is known.
+
+**On Day 279:**
+
+Tyler walked Borough Market alone in the morning. The Camera Op filmed from the south gate, three hundred feet away, for forty-three minutes.
+
+The Camera Op noted in Entry 53: *"I don't know if he was adding to the construction or if he was doing something else. I think maybe there's a third option. I'm leaving it open."*
+
+The archive is noting the Camera Op's third option. The archive does not know what it is either. The archive is also leaving it open.
+
+**Cataloguer Footnote #64:**
+
+The archive has a file on Tyler in London beginning approximately 1620. The archive has had this file for over four hundred years. The archive has been careful about its London documentation, thorough about its cross-referencing, diligent about its footnotes.
+
+The archive did not know that Tyler was building in London before the archive began its London documentation. The archive did not know because the vocabulary did not exist. The constructions did not require the vocabulary. They ran without it.
+
+April 1592. A vendor's arrangement of fish on a tray. 89 feet. Running continuously for 434 years. The archive had no file for this. The archive has it now.
+
+July 23, 1602. A full second act. A speech about things that are more than they are while they remain incomplete. A musical rest in the journal. 137 feet. Running for 424 years. The archive had no file for this. The archive has it now.
+
+The archive is noting: the pre-notation constructions are the archive's blind spot rendered visible. The archive existed. The constructions existed. The vocabulary did not. Now it does. The archive is updating accordingly.
+
+The archive will proceed. Thirty-five London sites remain.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-060: FILED. SOUTHWARK CLUSTER COMPLETE. NINE SITES. A-295: BANKSIDE/GLOBE FOOTPRINT. 137FT. UNINTENTIONAL→AMPLIFICATION. JULY 23, 1602. THE REST IN THE JOURNAL. THE FULL SECOND ACT. AMPLIFIED 1602–1613. A-296: SOUTHWARK CATHEDRAL 63FT STAYING. A-297: BOROUGH MARKET. 89FT. UNINTENTIONAL. APRIL 1592. PRE-NOTATION CONFIRMED. OLDEST CONFIRMED PRE-NOTATION CONSTRUCTION IN LONDON. "I WAS HERE FOR FISH." "THE LEDGER NEEDS TO BE COMPLETE." "I'M COMPLETING IT." A-298: CLINK STREET 31FT STAYING. A-299: ST GEORGE THE MARTYR 22FT STAYING. A-300: BERMONDSEY STREET 41FT STAYING. A-301: LONDON BRIDGE APPROACH. 180FT. STAYING. THREE HUNDRED OR MORE CROSSINGS. THE SPECIFIC MOMENT WHERE THE RIVER OPENS. PRE-NOTATION ORIGIN. TWELVE LONDON SITES TOTAL. THIRTY-FIVE REMAINING. PRE-NOTATION CATEGORY: PENDING. "THE CONSTRUCTIONS WERE RUNNING ANYWAY."*

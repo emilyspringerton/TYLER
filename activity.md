@@ -107,7 +107,13 @@ Day 273, London. Two sites: A-293 Gray's Inn (188ft, single-event unintentional,
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0075*
-*Next build: 0076*
+## Build 0076 — S07E10: "Southwark"
+Files: episodes/s07e10_southwark.md, lore/eastwind_archive.md (TYLER-060), lore/camera_op_sealed_log.md (Entry 53), lore/jiangshi_project_memos.md (Memo #040), lore/shell_parliament_ledger.md (VC-001 Days 275–281), BACKLOG.md, activity.md
+Southwark cluster complete: nine sites, Days 275–281. Three headline measurements: A-295 Bankside/Globe Theatre footprint (137ft, UNINTENTIONAL→AMPLIFICATION — new sub-type confirmed, seeded July 1602 from a speech about incomplete things, amplified through seven returns; Tyler wrote a musical rest in the journal because he had neither words nor silence), A-297 Borough Market (89ft, UNINTENTIONAL, April 1592, four mornings of fish stall attention — Camera Op wrote "I was here for fish"; Tyler: "the ledger needs to be complete"; Camera Op: "I'm completing it"), A-301 London Bridge approach (180ft, STAYING, three hundred identified crossings, the specific moment where the river opens, running from the time of the medieval bridge). Two pre-notation constructions confirmed (A-295 and A-297, predating TYLER-001 by 18 and 28 years); pre-notation category named as pending — Tyler: "the constructions were running anyway"; Camera Op holding a page in her notebook for the category, waiting for the shape. Day 279: Tyler alone at Borough Market; Camera Op at three hundred feet for forty-three minutes; she noted "I think maybe there's a third option. I'm leaving it open." Jiangshi Council Session #8 convened on pre-notation scope. Shell Parliament cross-referencing 1592 and 1602 London records against pre-notation sites. Twelve London nodes confirmed; thirty-five remain.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0076*
+*Next build: 0077*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
