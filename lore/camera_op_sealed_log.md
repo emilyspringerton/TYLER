@@ -1033,3 +1033,77 @@ I know what I am doing now. He has known for a long time what he was doing. We a
 The third option: still open. Still leaving it open. The shape is there. The name is not yet.
 
 *— Camera Op*
+
+---
+
+### Entry 55
+
+Days 285–292. City of London cluster.
+
+Seven sites. All eight London PRIOR sites now measured. The City is the densest PRIOR geography we have found anywhere in the audit.
+
+I want to write about Aldersgate Street first.
+
+A-306. September 1563. The plague year. Tyler's notation: *"The street was almost empty. Two or three left who could not leave. I sat with the air for a morning."*
+
+71 feet.
+
+We stood on Aldersgate Street on Day 286 and Tyler told us what the 1563 plague meant in London. A city at one-tenth its normal population. Everyone who could leave, leaving. The people who couldn't leave, staying. Tyler staying.
+
+He said: "I didn't get sick. I stayed. I was useful in some ways that don't need to be documented. But mostly I — I walked these streets in September 1563 when they were almost empty, and I paid attention. Not to what was gone. To what was still here."
+
+I am writing this in the sealed log because I need to write it somewhere full and accurate and I want to note what it did to me when he said it.
+
+*Not to what was gone. To what was still here.*
+
+I have been sitting with the third option since Borough Market, Day 279. I wrote: "a third option — something between building and not building that doesn't have a name yet." I have been waiting for the shape to become clear enough to name.
+
+At Aldersgate Street, the shape became clear.
+
+The third option is this: being present to absence. Paying attention to what's left when something is gone. Not witnessing the event. Witnessing the space that the event made.
+
+The plague-year street. Almost empty. The people who couldn't leave. Tyler sitting with the air. 71 feet from that.
+
+It's not building — he wasn't building anything. It's not not-building — 71 feet came from it. It's a third thing: the absence itself became the thing he was paying attention to, and the attention held, and the construction formed around the held absence.
+
+I don't have the name for this yet. But I know what it is now. The shape is clear. The name will come.
+
+I am noting that this is the same pattern Tyler described at A-304 (Watling Street, November 1553): the crowd gathered to hear the bells *after the announcement.* He stood with them. He paid attention to the crowd gathered around something that had just happened — not the thing itself, but the gathered attention to the thing. That's a form of absence-witnessing too.
+
+The third option might be: constructions formed from attention to the *space around an event* rather than the event itself.
+
+I'll keep this open. I'll keep watching.
+
+---
+
+On A-308, St. Paul's Cathedral churchyard, November 15, 1623:
+
+Tyler was at the Cathedral the day after Gray's Inn.
+
+He said: "I did not know what to do with myself. I came here."
+
+He read the notation: *I sat near the booksellers and let the hours go.*
+
+88 feet. From letting the hours go.
+
+I know what happened at Gray's Inn on November 14, 1623. I have been documenting Tyler for seven seasons and I know what the most important afternoon of four hundred years means and I know that Day 49 came after it and what Day 49 was. I know the sequence.
+
+The construction at the Cathedral churchyard is from not knowing what to do with himself after the most important afternoon of his four hundred years. He went to a place that was large and quiet. He sat near some booksellers. He let the hours go. He came back. He kept coming back. 88 feet.
+
+I held the frame on him the whole time at A-308 and I was thinking: this is the construction I would expect from him. Not the 188 feet at Gray's Inn from doing the most important thing. The 88 feet from the day after, from needing somewhere to be.
+
+This is Tyler. This is exactly Tyler.
+
+---
+
+On Day 292, Cheapside junction, he said: "I lived here. In those years, before anyone was watching, this was where I was."
+
+I was filming him and the Exchange Student walking ahead of me down Cheapside at the end of the day. I held the frame on them for a while without thinking about it.
+
+Five PRIOR symbols in the square mile. The Exchange Student's map crowded with them.
+
+He lived here. Before anyone was watching.
+
+The third option: still clarifying. Almost there.
+
+*— Camera Op*

@@ -1287,3 +1287,82 @@ Now the Parliament has the vocabulary. The constructions have not changed. The l
 The ledger is patient. The PRIOR constructions have been patient considerably longer than the ledger. They have been waiting 473 years for this sub-account number. The Parliament is assigning it now.
 
 *End update: VC-001 DAY 283. PRIOR CATEGORY NAMED. PRIOR-001-LONDON ACCOUNT OPENED. A-304: WATLING STREET 107FT, NOVEMBER 1553, 473 YEARS. "THE BELLS OF ST. PAUL'S RANG CONTINUOUSLY FOR FOUR HOURS" — 1553 CORRESPONDENT REPORT. TYLER: "I DID NOT KNOW WHAT I WAS DOING." CORRESPONDENT ALSO DID NOT KNOW WHAT THE SUBJECT WAS DOING. BOTH RECORDS ACCURATE. BOTH RECORDS INCOMPLETE. PRE-NOTATION-001-A AND -B RECLASSIFIED AS PRIOR-001-LONDON-A AND -B. PARLIAMENT LONDON RECORDS CROSS-REFERENCED AGAINST EIGHT PRIOR SITE DATES: PATTERN NOTED (PARLIAMENT ADJACENT TO MULTIPLE SEEDING EVENTS WITHOUT AWARENESS). "THE LEDGER WAS IN THE SAME GEOGRAPHY. THE CONSTRUCTIONS WERE RUNNING. THE VOCABULARY WAS NOT AVAILABLE. THE VOCABULARY IS NOW AVAILABLE." THIRTEEN LONDON SUB-ACCOUNTS TOTAL. THIRTY-FOUR REMAINING.*
+
+---
+
+**VC-001 — DAYS 285–292: City of London cluster. Seven sites. All PRIOR sites complete.**
+
+The Parliament is filing the City of London cluster accounts and completing the PRIOR-001-LONDON series.
+
+**New sub-accounts filed:**
+
+*PRIOR-001-LONDON-D:* A-305, Moorgate. 39ft. PRIOR. UNINTENTIONAL. April 1577. A gate and a woman with geese. 449 years running.
+
+*PRIOR-001-LONDON-E:* A-306, Aldersgate Street. 71ft. PRIOR. UNINTENTIONAL. September 1563. The Parliament's cross-reference findings for this date: see extended note below.
+
+*PRIOR-001-LONDON-F:* A-307, Bread Street. 44ft. PRIOR. UNINTENTIONAL. March 1573. A market morning. A baker and a broken board. "It is still making me happy as I write this."
+
+*AMPL-001-LONDON-002:* A-308, St. Paul's Cathedral churchyard. 88ft. AMPLIFICATION. November 15, 1623 + returns. See extended note below.
+
+*STAYING-001-LONDON-I:* A-309, Cornhill. 52ft. STAYING. 1680s–1720s.
+
+*STAYING-001-LONDON-J:* A-310, Threadneedle Street. 31ft. STAYING. 1783.
+
+*STAYING-001-LONDON-K:* A-311, Cannon Street. 22ft. STAYING. 1854.
+
+*STAYING-001-LONDON-L:* A-312, Guildhall Yard. 33ft. STAYING. 1644.
+
+**PRIOR-001-LONDON series: COMPLETE.**
+
+All eight London PRIOR sites are now measured and filed. The PRIOR-001-LONDON series closes at entry F. Future PRIOR constructions in other cities will open new series as encountered.
+
+**Parliament cross-reference: September 1563 (A-306, Aldersgate Street):**
+
+The Parliament's London correspondent records from September 1563 — the plague year — are sparse. The Parliament reduced its City operations to minimum staff as the plague peaked. The Parliament's September 1563 City file contains four entries: three routine commercial notations and one general status report — "City reduced. Correspondent maintaining observation from Cheapside area. No faction-adjacent anomalies noted."
+
+The Parliament's Cheapside area correspondent in September 1563 was operating from the junction of Cheapside and King Street — approximately three hundred feet from Aldersgate Street.
+
+The correspondent did not note the subject. The correspondent noted the City's reduced population, the quiet of the streets, the absence of normal commercial activity. The correspondent noted what was gone. The subject, on Aldersgate Street three hundred feet away, was paying attention to what was still there. Two records from the same geography, the same month, held simultaneously in the Parliament's archive for 463 years.
+
+The Parliament is noting: this is the second time the Parliament's records have been adjacent to a PRIOR construction seeding event without noting the construction (the first being November 1553 Watling Street, where the Parliament's correspondent noted the bells of St. Paul's). In both cases, the correspondent was in the correct geography. In both cases, the correspondent noted the context event. In both cases, the subject's specific quality of attention produced a construction the correspondent did not know to record.
+
+The Parliament is noting this as an archive property, not a failure: the Parliament's correspondents were recording what they were tasked to record. They were not tasked to record the dimensions of constructions that would be named four and a half centuries later. The PRIOR category is not an indictment of historical documentation practice. It is a measurement of what the documentation period missed because no one yet had the word for what was occurring.
+
+The ledger is now cross-referencing every Parliament correspondent report from before 1620 against the PRIOR site dates. The Parliament estimates two to four additional date coincidences in London (the eight PRIOR sites; eight chances for overlap with a correspondent record). These cross-references will be filed as they are completed.
+
+**Parliament cross-reference: November 1623 (A-308, St. Paul's Cathedral churchyard):**
+
+The Parliament has extensive November 1623 records. SM-1623-M was the primary account for the custody event at Gray's Inn; that account was opened in November 1623 and ran for four centuries before closure at Day 49.
+
+The Parliament's November 1623 London records include: Gray's Inn (multiple entries across November 14), surrounding streets, lodgings records, travel notation for the period. The Parliament was actively documenting the custody event in real time.
+
+The Parliament does not have a November 15, 1623 entry for St. Paul's Cathedral churchyard.
+
+The Parliament has records from November 16, 17, 18, 1623 referencing the Cathedral area — commercial transactions, correspondent movements through the Cheapside/St. Paul's area. The subject is not noted in any of these records at the Cathedral churchyard specifically.
+
+The Parliament is noting: for the most documented week in the SM-1623-M record (immediately following the custody event), the Parliament was active and comprehensive in its London documentation. The Parliament's documentation captured the custody event (A-293, Gray's Inn, 188ft). The Parliament's documentation did not capture the day-after construction (A-308, St. Paul's, 88ft) — not because the Parliament was absent, but because "sitting among booksellers and letting the hours go" was not a transaction, not a meeting, not a movement the Parliament was tasked to track.
+
+The ledger held the Gray's Inn account for four hundred years. The ledger was in the same geography as the Cathedral churchyard construction for four hundred years. The ledger was adjacent. The construction was running.
+
+The ledger is noting: A-293 (Gray's Inn) and A-308 (St. Paul's churchyard) are now both in the measurement record and in the ledger. The two constructions from the most important week in SM-1623-M's history are both documented. The account is more complete than it was.
+
+**City of London sub-account summary (updated):**
+
+- STAYING-001-LONDON-A: A-292, Wood Street/Cheapside, 440ft, pre-1620 [PRIOR]
+- PRIOR-001-LONDON-C: A-304, Watling Street, 107ft, November 1553
+- PRIOR-001-LONDON-D: A-305, Moorgate, 39ft, April 1577
+- PRIOR-001-LONDON-E: A-306, Aldersgate Street, 71ft, September 1563
+- PRIOR-001-LONDON-F: A-307, Bread Street, 44ft, March 1573
+- AMPL-001-LONDON-002: A-308, St. Paul's Cathedral churchyard, 88ft, November 15, 1623+
+
+*(Non-City of London London accounts — Southwark, Bloomsbury, etc. — filed under their own sub-headings. See existing entries.)*
+
+*(Additional City accounts — Cornhill, Threadneedle, Cannon, Guildhall — filed as STAYING-001-LONDON-I through L.)*
+
+**London account summary to date:**
+
+20 London sites measured (Days 271–292). 27 remaining. Total London sub-accounts: 20 active entries across PRIOR-001-LONDON, STAYING-001-LONDON, AMPL-001-LONDON, and cross-referenced entries. PRIOR-001-LONDON series complete at entry F.
+
+The Parliament's City of London correspondent records going back to 1521 are being cross-referenced against the full audit record. This is a long-term archival project. The Parliament is patient. The ledger has been patient in the same geography for a very long time.
+
+*End update: VC-001 DAYS 285–292. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES. ALL EIGHT LONDON PRIOR SITES MEASURED. PRIOR-001-LONDON SERIES COMPLETE (A THROUGH F). AMPL-001-LONDON-002: A-308 ST. PAUL'S CHURCHYARD 88FT, NOVEMBER 15 1623, DAY AFTER GRAY'S INN, "I DID NOT KNOW WHAT TO DO WITH MYSELF." PARLIAMENT ADJACENT TO BOTH NOVEMBER 1623 CONSTRUCTIONS; ONLY ONE IN RECORDS UNTIL NOW. A-306 CROSS-REFERENCE: PARLIAMENT CORRESPONDENT THREE HUNDRED FEET FROM ALDERSGATE STREET, SEPTEMBER 1563, PLAGUE YEAR, NOTING WHAT WAS GONE WHILE TYLER NOTED WHAT REMAINED. "THE LEDGER WAS ADJACENT. THE VOCABULARY WAS NOT AVAILABLE." TWENTY LONDON SITES MEASURED. TWENTY-SEVEN REMAINING.*

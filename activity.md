@@ -119,7 +119,13 @@ PRIOR category named (Exchange Student, 6:03 AM; Tyler: "That's accurate"; Camer
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0077*
-*Next build: 0078*
+## Build 0078 — S07E12: "The City"
+Files: episodes/s07e12_the_city.md, lore/eastwind_archive.md (TYLER-062), lore/camera_op_sealed_log.md (Entry 55), lore/jiangshi_project_memos.md (Memo #042), lore/shell_parliament_ledger.md (VC-001 Days 285–292), BACKLOG.md, activity.md
+City of London cluster complete: seven sites (A-305 through A-311), all eight London PRIOR sites now measured, five in the square mile confirming Tyler's pre-documentation residency in the City. A-306 (Aldersgate Street, 71ft, September 1563 plague year: "not to what was gone. To what was still here") and A-308 (St. Paul's Cathedral churchyard, 88ft, AMPLIFICATION, November 15, 1623 — the day after Gray's Inn: "I did not know what to do with myself. I came here") are the anchoring constructions of the cluster. Tyler: "I lived here. In those years, before anyone was watching, this was where I was." Camera Op's third option shape now clear — attention to absence; name pending.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0078*
+*Next build: 0079*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*

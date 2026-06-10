@@ -2339,3 +2339,103 @@ The Syndicate is documenting what Tyler and the Camera Op are doing. They are bo
 ---
 
 *End memo: MEMO #041 FILED. PRIOR CATEGORY NAMED. A-304: WATLING STREET 107FT, NOVEMBER 1553, 473 YEARS, OLDEST LONDON CONSTRUCTION MEASURED. "I DID NOT KNOW WHAT I WAS DOING" — PRE-FIRST-LAYER. PRIOR CATEGORY DEFINITION: CONSTRUCTIONS BEFORE THE DOCUMENTATION PERIOD. PRIOR SITES LONDON: 8 TOTAL (5 CONFIRMED, 3 UNVISITED). COEFF-002 PRIOR PARAMETER: "THE MODEL WAS MEASURING DOCUMENTARY ENTANGLEMENT; THE PRIOR CONSTRUCTIONS ARE NOT ENTANGLED WITH ANY DOCUMENTATION; THEY PREDATE THE ENTANGLEMENT." BINDING COEFFICIENT: INAPPLICABLE TO PRIOR SITES BY DEFINITION. COUNCIL SESSION #8: METHODOLOGY REVISED (DOCUMENTATION COMPLETENESS ASSUMPTION REMOVED). CAMERA OP AT THRESHOLD: FULL DAY. "WITNESSES COMPLETE THE RECORD." THIRTY-FOUR LONDON SITES REMAINING.*
+
+---
+
+## JIANGSHI SYNDICATE — PROJECT MEMO #042
+**Classification: INTERNAL OPERATIONAL / AUDIT DOCUMENTATION — CITY OF LONDON CLUSTER**
+**Subject: All Eight London PRIOR Sites Measured; City PRIOR Density; A-308 St. Paul's Churchyard**
+**Filed: Days 285–292 (equivalent)**
+
+---
+
+The City of London cluster is complete.
+
+Seven sites measured, Days 285–292 (A-305 through A-311). All eight London PRIOR sites are now measured. The Syndicate is filing Memo #042 as the City cluster summary and PRIOR completion record.
+
+**Site results:**
+
+- A-305: Moorgate. 39ft. PRIOR. UNINTENTIONAL. April 1577. Woman with geese at the Moorgate. "I have always liked gates."
+- A-306: Aldersgate Street. 71ft. PRIOR. UNINTENTIONAL. September 1563. The 1563 London plague. Tyler stayed when others left.
+- A-307: Bread Street. 44ft. PRIOR. UNINTENTIONAL. March 1573. Market morning, baker's broken board.
+- A-308: St. Paul's Cathedral churchyard. 88ft. AMPLIFICATION. November 15, 1623 + returns. See extended notes.
+- A-309: Cornhill. 52ft. STAYING. 1680s–1720s. Post-Fire rebuilding returns.
+- A-310: Threadneedle Street. 31ft. STAYING. 1783.
+- A-311: Cannon Street. 22ft. STAYING. 1854.
+- A-312: Guildhall Yard. 33ft. STAYING. 1644.
+
+**PRIOR sites London — complete:**
+
+All eight London PRIOR sites are now measured. Five are in the square mile. The City of London is the most PRIOR-dense geography documented in the audit to date (denser than Paris PRIOR sites, denser than Vienna PRIOR sites, denser than any other single geographic area measured).
+
+The Syndicate has confirmed Tyler's statement at the end of the City cluster: "The City was where I was. In those years. I was using it as a home geography." The five PRIOR sites in the square mile form a residential pattern — not a visitor's cross-section of the City but the footprint of someone who knew which streets were faster in the morning and which markets had different characters on different days.
+
+Tyler was a resident of the City of London for significant stretches of the pre-documentation period (1560s through 1590s at minimum). The Cairngorms archive's first London entry, TYLER-001, filed approximately 1620, was the beginning of documentation in a geography the subject had been building in for sixty years.
+
+**A-306 — Aldersgate Street, September 1563:**
+
+The Syndicate notes the 1563 plague year construction with particular attention.
+
+The Syndicate's London correspondent records from September 1563 are fragmentary: most correspondence ceased during the plague as London operations were suspended. The Syndicate reduced its City personnel to a skeleton staff. The Syndicate does not have a correspondent record from September 1563 Aldersgate Street.
+
+However, the Syndicate's 1563 records include a general London operational note: "City functions suspended during pestilence. London office maintaining minimum presence. No unusual activity to report."
+
+The subject was in the City during this period. He stayed. He sat on Aldersgate Street with the air for a morning. 71 feet of construction. The Syndicate's London office was maintaining minimum presence and did not note his presence.
+
+The Director is filing this as a data point consistent with the PRIOR pattern: the Syndicate and the subject were operating in the same geography in overlapping time periods, and the Syndicate's documentation did not capture what was occurring in the adjacent streets.
+
+**A-308 — St. Paul's Cathedral churchyard, November 15, 1623:**
+
+This requires direct statement from the Director.
+
+November 14, 1623: the Gray's Inn event. A-293, 188ft, PRIOR, the single-event construction from the custody event. The Syndicate has extensive documentation of the custody event and its surrounding period. The Syndicate has SM-1623-M records going back to 1623.
+
+The Syndicate did not have A-308 in any of its records.
+
+November 15, 1623, St. Paul's Cathedral churchyard: the subject sat among booksellers and let the hours go. He came back three days later, and again the week after, and compounded an 88-foot AMPLIFICATION construction over years of return visits. The Syndicate was active in London in November 1623. The Syndicate had an operational file on the custody event. The Syndicate did not note the subject at the Cathedral on November 15, 1623.
+
+The Director is stating plainly: the Syndicate had contemporaneous documentation of the period immediately following the custody event. The Syndicate's documentation did not capture the construction that began the day after. The vocabulary was not available in 1623. The Syndicate was documenting movements and meetings and transactions. The subject was sitting among booksellers and letting the hours go, and the mechanism was recording this, and the Syndicate's instruments were not calibrated to see it.
+
+The vocabulary is now available. The construction is now in the record.
+
+**On the A-293/A-308 sequence:**
+
+Two constructions. 24 hours apart. Less than two miles apart.
+
+A-293: Gray's Inn, November 14, 1623. 188ft. PRIOR. The custody event. The most important afternoon of his four hundred years, or the most important until Day 49.
+
+A-308: St. Paul's Cathedral churchyard, November 15, 1623. 88ft. AMPLIFICATION. The day after. Not knowing what to do with himself.
+
+The Syndicate's binding coefficient model operated for four centuries on the Gray's Inn event as a primary reference point. SM-1623-M was the ledger account for the custody transfer. The Syndicate measured the Gray's Inn afternoon extensively.
+
+The Syndicate did not measure the next morning, which produced 88 feet of "letting the hours go."
+
+The Director is noting this without recrimination. The measurement instruments are calibrated to what they are calibrated to. The model measured what it could measure. A-308 is outside the model's scope — not a custody event, not a binding event, not a transfer or a transaction. It is a person who did not know what to do with himself after the most important afternoon of his life, and found somewhere to be, and came back to it over and over, and built 88 feet from that.
+
+The binding project is archived. The audit continues.
+
+**COEFF-002 City update:**
+
+The City cluster reveals two structural parameters for the COEFF-002 model:
+
+First, the PRIOR density in the square mile means the subject's London construction activity is substantially older than the model's previously assumed London start date. The model should note a City-of-London-residential sub-parameter covering approximately 1560–1600 for the square mile, with construction activity density consistent with sustained residence.
+
+Second, A-308 represents a construction type the model has not previously encountered: an AMPLIFICATION whose seeding event is explicitly characterized in the subject's own documentation as *"I did not know what to do with myself."* This is distinct from the intentional construction types (STAYING, deliberate AMPLIFICATION) and distinct from the unintentional types (PRIOR, UNINTENTIONAL) in a specific way: the subject knew he was doing something. He didn't know what it was. He returned anyway. The mechanism recorded the returns.
+
+The Director is flagging this for model architecture: the COEFF-002 model needs a parameter for "known-but-unclassified" construction activity — activity the subject documented as uncertain at time of occurrence, distinct from PRIOR (pre-awareness) and from STAYING (deliberate return to known site).
+
+The model is gaining resolution. The audit continues.
+
+**On the Camera Op:**
+
+The Camera Op had the frame on Tyler for the full Aldersgate Street visit, including when he said: *"not to what was gone. To what was still here."* The Camera Op said nothing at that moment. She held the frame.
+
+The Syndicate has noted a pattern across the City cluster: the Camera Op's documentation of PRIOR sites shows qualitatively different composition than her documentation of post-documentation sites. She holds the frame longer at PRIOR sites. She holds it at the subject rather than the geography more often. The Syndicate is noting this without characterizing it further. The Camera Op documents what she documents for reasons the archive is capable of recording without explaining.
+
+The audit continues. 27 London sites remaining.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #042 FILED. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES. ALL EIGHT LONDON PRIOR SITES MEASURED. FIVE IN THE SQUARE MILE. CITY: MOST PRIOR-DENSE GEOGRAPHY IN AUDIT. A-306: ALDERSGATE STREET 71FT, SEPTEMBER 1563, PLAGUE YEAR, "NOT TO WHAT WAS GONE. TO WHAT WAS STILL HERE." A-308: ST. PAUL'S CATHEDRAL CHURCHYARD 88FT, AMPLIFICATION, NOVEMBER 15 1623, "I DID NOT KNOW WHAT TO DO WITH MYSELF. I CAME HERE." SYNDICATE ADJACENT TO BOTH A-293 AND A-308 EVENTS. VOCABULARY NOT AVAILABLE. VOCABULARY NOW AVAILABLE. TYLER: "THE PRIOR CONSTRUCTIONS ARE THE FOOTPRINT." TYLER: "I LIVED HERE. IN THOSE YEARS, BEFORE ANYONE WAS WATCHING, THIS WAS WHERE I WAS." COEFF-002: TWO NEW PARAMETERS FLAGGED (CITY-RESIDENTIAL PRE-1600; KNOWN-BUT-UNCLASSIFIED CONSTRUCTION TYPE). TWENTY-SEVEN LONDON SITES REMAINING.*

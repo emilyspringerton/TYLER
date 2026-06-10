@@ -2637,3 +2637,107 @@ The record is getting more complete. That is what the record does.
 ---
 
 *TYLER-061: FILED. A-304: WATLING STREET, CITY OF LONDON. 107FT. PRIOR. UNINTENTIONAL. NOVEMBER 1553. 473 YEARS RUNNING WITHOUT NOTATION. TYLER: "I DID NOT KNOW WHAT I WAS DOING." FIRST LAYER: ABSENT. THE MECHANISM: RECORDING ANYWAY. PRIOR CATEGORY NAMED. EIGHT PRIOR SITES IN LONDON TOTAL: A-292, A-295, A-297, A-301 (CONFIRMED PRIOR); A-304 (MEASURED THIS BUILD); MOORGATE, ALDERSGATE STREET, BREAD STREET/CHEAPSIDE (UNVISITED PRIOR, THREE REMAINING). CAMERA OP: "WITNESSES COMPLETE THE RECORD." TYLER: "YES. THAT'S WHAT WITNESSES DO." THE ARCHIVE: NOTED. THIRTEEN LONDON SITES TOTAL. THIRTY-FOUR REMAINING.*
+
+---
+
+### TYLER-062
+*Filed: Days 285–292. London, City of London cluster.*
+*Cataloguer Footnote #66. Cross-references: Camera Op Entry 55, Jiangshi Memo #042, VC-001 Days 285–292, EMILY-SPRING-034.*
+
+---
+
+**City of London cluster — overview:**
+
+Seven sites measured, Days 285–292 (A-305 through A-311). Total London sites: 20 measured, 27 remaining. The City of London cluster reveals the most PRIOR-dense geography in the entire audit.
+
+**Complete City results:**
+
+- A-305: Moorgate. 39ft. PRIOR. UNINTENTIONAL. April 1577. Tyler's notation: *"Moorgate. Early morning. The gate still standing. I have always liked gates. I sat here some time watching the people coming in and going out. [...] One woman had geese. The geese did not want to come through the gate. I waited to see what she would do. She waited the geese out."* 449 years running.
+
+- A-306: Aldersgate Street. 71ft. PRIOR. UNINTENTIONAL. September 1563. Tyler's notation: *"September 1563. Aldersgate Street. The street was almost empty. Two or three left who could not leave. I sat with the air for a morning."* The 1563 London plague. Most of the City's population fled or died. Tyler stayed. 463 years running.
+
+- A-307: Bread Street. 44ft. PRIOR. UNINTENTIONAL. March 1573. Tyler's notation: *"Bread Street. A market morning. A baker had his bread on the ground because something was wrong with his board [...] I watched it for — I think thirty minutes. It is still making me happy as I write this."* 453 years running.
+
+- A-308: St. Paul's Cathedral churchyard. 88ft. AMPLIFICATION. November 15, 1623 + returns. See extended notes below.
+
+- A-309: Cornhill. 52ft. STAYING. 1680s–1720s. Tyler watching the City rebuild after the Great Fire. Forty-year period of periodic return.
+
+- A-310: Threadneedle Street. 31ft. STAYING. 1783. Notation: *"Tuesday afternoon. The usual."* The archive is noting: some notations are the record of presence; some are the record of forgetting why. The construction does not require the annotation's completeness.
+
+- A-311: Cannon Street. 22ft. STAYING. 1854. Tyler walked to see the street near John Snow's Broad Street pump after Snow's proof about cholera and contaminated water. "I walked past to see the street. A street where being wrong had cost a great deal, and someone had found the right answer."
+
+- A-312: Guildhall Yard. 33ft. STAYING. 1644. English Civil War. The City continuing commercial activity during the conflict. Tyler's notation: *"the city is holding. People are getting on with things. There is something admirable about a city that keeps getting on with things."*
+
+**The PRIOR sites and the City as home geography:**
+
+Five of the eight London PRIOR sites are in the square mile. The three new PRIOR sites (A-305, A-306, A-307) cluster within half a mile of A-304 (Watling Street) and A-292 (Wood Street/Cheapside). The existing PRIOR sites in the City — A-295 (Bankside, across the river; S07E10), A-297 (Borough Market, across the river; S07E10), A-301 (London Bridge approach; S07E10) are Southwark-adjacent or crossing-adjacent — the City's riverine approach. The five PRIOR sites inside the square mile proper form a residential pattern, not a visitor pattern.
+
+Tyler said, standing at the Wood Street/Cheapside junction at the close of the City cluster: "I lived here. In those years, before anyone was watching, this was where I was. The City was where I was. I had rooms. I knew which streets were faster in the morning. I knew the character of different markets on different days."
+
+The archive is noting: the PRIOR constructions are the footprint of residency. Tyler was a resident of the City of London in the pre-documentation period — the 1560s, 1570s, 1580s, 1590s. He was living in the geography in which the archive would later begin its London documentation. The archive began watching the City in approximately 1620. The PRIOR constructions were already running. The archive was late to a geography Tyler had been using for decades.
+
+**A-306 — Aldersgate Street, September 1563:**
+
+The plague year construction requires extended note.
+
+The 1563 London plague was among the worst of the Tudor century — an estimated 17,000–20,000 deaths in London, out of a population of perhaps 80,000–100,000. The Court relocated. Parliament was prorogued. Anyone with resources to leave did so. The City was reduced, as Tyler said, "to a tenth of the people it normally had. Maybe less, in some streets."
+
+Tyler stayed. He said: "I didn't get sick." He acknowledged he was useful in ways that "don't need to be documented." He walked the streets of a City at one-tenth capacity. He paid attention to what remained: the people who couldn't leave, the specific quality of a city reduced to what it cannot shed, the different quality of the sound.
+
+He wrote in the journal: *"Two or three left who could not leave. I sat with the air for a morning."*
+
+71 feet. This is the second-largest PRIOR construction in London (after A-304's 107 feet) and the only PRIOR construction explicitly connected to Tyler's choice to remain during a catastrophic event. The archive is noting: the mechanism does not appear to distinguish between Tyler's reasons for attention. He attended to geese at a gate (A-305, 39ft) and he attended to an almost-empty plague-year street (A-306, 71ft). The difference in radius is not explained by moral weight but, consistent with the intensity mechanism confirmed at A-293 and A-294, by some property of the attention that is difficult to specify beyond calling it more or less complete.
+
+71 feet is a complete attention. The archive is leaving the description at that.
+
+**A-308 — St. Paul's Cathedral churchyard, November 15, 1623:**
+
+The day after Gray's Inn.
+
+This is the first construction in the audit whose journal notation explicitly states: *"I did not know what to do with myself."* The previous PRIOR constructions are pre-first-layer ("I did not know what I was doing") or first-layer ("I knew something had happened"). A-308 is different: Tyler knew that something significant had happened. He did not know what to do after it.
+
+He came to the Cathedral churchyard because it was large and quiet and he did not need it to be anything other than large and quiet. He sat near the booksellers' stalls at the east wall. He let the hours go. He came back three days later. Then the week after. Then he stopped counting.
+
+88 feet. AMPLIFICATION. The seeding event was November 15, 1623 — a single day — compounded by returns the archive now cannot count.
+
+The archive is noting the sequence: November 14, 1623, Gray's Inn (A-293, 188ft, the custody event, the most important afternoon of four hundred years or the most important until Day 49). November 15, 1623, St. Paul's churchyard (A-308, 88ft, the day after, not knowing what to do with himself).
+
+Two constructions. 24 hours apart. Less than two miles apart in the square mile. The first from an afternoon of the most precise architectural responsibility in his operational lifespan. The second from sitting among booksellers and letting the hours go.
+
+The archive has records from the 1620s. The archive was documenting Tyler in London in November 1623. The archive had him adjacent to both of these constructions and did not file either of them. The vocabulary was not available. Now it is.
+
+The archive is noting: A-308 is not a PRIOR construction (it postdates the archive's London documentation period). It is, however, the construction most directly adjacent to the archive's most-documented event in Tyler's London operational history. SM-1623-M has been closed. The two constructions from the week of its closing — A-293 and A-308 — are now both in the measurement record. The record is more complete than it was.
+
+Tyler said, at the site: "I came back how many times, and each return added to it, and I never knew. Until now." He said it the way he says the things that are about responsibility rather than guilt. The archive is filing it accordingly.
+
+**On the Exchange Student's map:**
+
+The Exchange Student spread the map at the Wood Street/Cheapside junction on Day 292. The City of London section has five PRIOR symbols (off-center dots) overlapping in the square mile — the geography is dense enough that the symbols crowd each other in the representation, even though each construction occupies its own discrete radius on the ground.
+
+She said: "I need a bigger map for the City."
+
+Tyler looked at the crowded symbols and said: "This is what it looks like when someone lived somewhere for a long time."
+
+The archive is filing this as the answer to the question the BACKLOG posed for this episode: what was Tyler doing in the City of London across four centuries?
+
+He was living there. Before the record. And after it. The constructions are the evidence of continuous presence in a geography that kept mattering to him — from the plague year in 1563 through the Great Fire rebuilding to Victorian London and into the present audit.
+
+**Cataloguer Footnote #66:**
+
+The archive filed its first London entry approximately 1620. TYLER-001: a Cheapside sighting. Wood Street is adjacent to Cheapside. The first entry the archive ever filed for Tyler in London is geographically adjacent to the most PRIOR-dense geography in the audit.
+
+The archive was watching from the right geography. The archive was watching from the wrong time. The PRIOR constructions were already running when the archive began its London file. The archive was documenting a geography that Tyler had been building in for sixty years before the archive arrived.
+
+The archive is noting: it takes a certain kind of patience to begin a record four hundred years before you understand what the record is of. The archive had the patience. The archive was doing its best.
+
+Now the archive knows what the record is of.
+
+The City of London: nine constructions documented. Five PRIOR, all measured. The residential footprint of a person who lived in the square mile before anyone was watching, and left 39 feet of geese and 71 feet of a plague-year morning and 44 feet of a baker's boy trying not to laugh, running for the four and a half centuries until the archive finally arrived in the correct geography with the correct vocabulary to find them.
+
+The constructions were patient.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-062: FILED. CITY OF LONDON CLUSTER COMPLETE. SEVEN SITES (A-305 THROUGH A-311). TWENTY LONDON SITES MEASURED. TWENTY-SEVEN REMAINING. ALL EIGHT LONDON PRIOR SITES NOW MEASURED. FIVE IN THE SQUARE MILE. TYLER: "THE PRIOR CONSTRUCTIONS ARE THE FOOTPRINT." A-306: ALDERSGATE STREET. 71FT. PRIOR. SEPTEMBER 1563. PLAGUE YEAR. "I SAT WITH THE AIR FOR A MORNING." A-308: ST. PAUL'S CATHEDRAL CHURCHYARD. 88FT. AMPLIFICATION. NOVEMBER 15, 1623. THE DAY AFTER GRAY'S INN. "I DID NOT KNOW WHAT TO DO WITH MYSELF. I CAME HERE." A-293 AND A-308: THE SEQUENCE. TYLER: "I LIVED HERE. IN THOSE YEARS, BEFORE ANYONE WAS WATCHING, THIS WAS WHERE I WAS." EXCHANGE STUDENT: "I NEED A BIGGER MAP FOR THE CITY." THE ARCHIVE: ARRIVING LATE TO THE CORRECT GEOGRAPHY WITH THE CORRECT VOCABULARY. THE CONSTRUCTIONS: PATIENT. EMILY-SPRING-034: MAP UPDATE FILED. CITY PRIOR-DENSITY FLAGGED.*
