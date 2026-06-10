@@ -982,3 +982,47 @@ The Parliament does not know which is correct. The Parliament is waiting.
 *Four Vienna notations remaining.*
 
 *End update: VC-001 DAY 264. VIENNA 7 OF 11. A-285 AMPL-001 PROVISIONAL. A-286 DEPARTURE-TRACE: NEW CATEGORY, SCOPE UNKNOWN. A-287: 28FT, BORDERLINE. FOURTH CATEGORY PENDING. COEFF-002 TOTAL: 257FT ACROSS 7 VIENNA SITES. THE LEDGER IS WATCHING. FOUR SITES REMAIN.*
+
+---
+
+**VC-001 UPDATE — DAY 267 | VIENNA COMPLETE | Build 0073**
+
+Vienna phase complete. Final four sites filed.
+
+**A-288** (Burgtheater): 9 feet. Ambiguity-refusal confirmed. Third category operational. Refusal-trace sub-account updated: ambiguity-refusal is a new sub-category within REFUSAL-TRACE, distinct from pre-awareness and purpose-based. Shell Parliament note: ambiguity-refusals have a slightly larger trace per minute than purpose-based refusals — the mechanism appears to record the duration of uncertainty, not just the departure. Provisional accounting note only.
+
+**A-289** (Naschmarkt): 29 feet. Standard comprehended amplification. No new accounts required.
+
+**A-290** (Judengasse 8): 64 feet. Three-return compounding confirmed. Shell Parliament is noting: the VC-001 account for STAYING constructions (see below) will need a distinct accounting structure. A-290 is the first documented three-return compound, but it was produced in 1938, before Tyler knew the mechanism existed. It is classified as: UNINTENTIONAL STAYING CONSTRUCTION. Sub-account classification: pending methodology vote.
+
+**A-291** (Stadtpark): 210 feet. One hundred and seven morning returns over 107 days. This is the largest Vienna site and the second largest in the full audit after A-273.
+
+**FOURTH CATEGORY: STAYING**
+
+The Parliament has been notified of the fourth category. The formal definition is in the register. The accounting implications are significant.
+
+Current VC-001 active accounts:
+- Construction #1 (Bacon's building): operational, self-sustaining
+- Construction #2 (Detroit Receiving Ward C): operational, self-sustaining
+- Construction #3 (Ambassador Bridge crossing): operational, self-sustaining, high passive witness count
+- Construction #4 (Hastings/Vernor REINFORCEMENT): fully calibrated, >1M passive witnesses
+- AMPL-001: amplification tracking, 3 confirmed + provisional entries, scope 300+ globally
+- AMPL-001-MAX (A-273): single-entry, incalculable
+- REFUSAL-TRACE: three sub-categories (pre-awareness, purpose-based, ambiguity) — scope: large, retroactive audit ongoing
+- DEPARTURE-TRACE (NEW): preliminary scope 180+ sites. Parliament has opened DEPARTURE-TRACE-001 as a provisional tracking account. Full accounting pending audit completion.
+- STAYING-001 (NEW): the Parliament is opening a staying-construction tracking account. Scope: all cities Tyler has returned to regularly across the documented archive. Preliminary scope assessment: unknown but large. A-291 is the first formally named staying construction. A-273 (East Kirby) may also be a staying construction — Tyler calls it "the usual place" and has been returning since before 1929. STAYING-001 will require a full audit of Tyler's regular-return patterns, city by city.
+
+**COEFF-002 Vienna calibration data submitted:**
+
+Total: 12 site entries. 513 feet. Breakdown:
+A-280(24) + A-281(18) + A-282(52) + A-283(8) + A-284(31) + A-285(47) + A-286(12) + A-287(28) + A-288(9) + A-289(29) + A-290(64) + A-291(210) = 532 feet.
+
+[Correction: the Parliament's calculator finds 532, not 513. The Parliament is filing both numbers pending the archival check. The discrepancy is 19 feet. The Parliament's risk team is reviewing whether A-286 (the departure-trace platform) was included in the Cataloguer's 513ft Vienna total, as it is a distinct category from the 11 register notations. If A-286 is excluded from the register-notation total, the register-notation total is 521 feet. Accounting methodology TBD — departure-traces may require a separate ledger line.]
+
+The Parliament is noting: the COEFF-002 calibration cannot be finalized until the STAYING-001 and DEPARTURE-TRACE-001 accounts are scoped. The coefficient measures the full construction network. The full construction network now includes accounts the Parliament has not previously modeled. COEFF-002 will require revision before it can be used operationally.
+
+The Parliament is not alarmed. The Parliament is the Parliament. The ledger is the ledger. Everything that happens gets accounted for eventually.
+
+*Eighteen cities remain in the CARDINAL-3 folder.*
+
+*End update: VC-001 DAY 267. VIENNA COMPLETE. FOURTH CATEGORY: STAYING. STAYING-001 OPENED. DEPARTURE-TRACE-001 OPENED. COEFF-002 VIENNA DATA SUBMITTED — CALIBRATION PENDING FULL SCOPE ACCOUNTING. STAYING SCOPE: UNKNOWN. THE LEDGER IS PATIENT. STAYING IS IN THE RECORD.*

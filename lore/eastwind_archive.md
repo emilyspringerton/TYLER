@@ -2157,3 +2157,106 @@ The archive is holding four sites and one announced category. It is waiting.
 ---
 
 *TYLER-056: FILED. VIENNA PHASE CONTINUES. DAYS 257–264. A-284: 31FT, 90MIN, HERR VOGT, VIOLIN SCALE C MAJOR, UNAMBIGUOUS. A-285: 47FT, 2H40M, CAFÉ BERNSTEIN, HERR M., "PRESENCE IS WHAT STILL KNOWS YOU." A-286: 12FT, WESTBAHNHOF PLATFORM, F.'S DEPARTURE, "THE GOING WAS A PRESENCE," DEPARTURE-TRACE CATEGORY OPENED. A-287: 28FT, 90MIN, VOLKSSCHULE, BORDERLINE, UNDERSTANDING-TAKES-TIME RULE REVISION, AMBIGUITY-REFUSAL CATEGORY NOTED. FOURTH CATEGORY: PENDING. FOUR VIENNA NOTATIONS REMAIN. THE CAMERA OP IS STILL HOLDING THE FRAME.*
+
+---
+
+## TYLER-057
+*Days 265–267 | Vienna | Cataloguer Entry 50, Footnote #61 | Build 0073*
+
+Vienna is complete.
+
+**A-288 — Burgtheater, Dr.-Karl-Lueger-Ring:**
+
+9 feet. 68 minutes of waiting.
+
+Tyler entered the Burgtheater atrium on Day 265 and stood for sixty-eight minutes trying to name the pull. The theater was present and operational. Many people Tyler had known there since 1895 were no longer there. Others remained. The institution was functioning. The pull existed toward — the building, or the people who remained, or the history of what had been performed, or the absence of those who had been dismissed. Tyler could not separate these possibilities. After sixty-eight minutes, understanding had not come. He applied the rule: ambiguity. Leave. File.
+
+He returned the following morning. Stood outside for ten minutes. The ambiguity was still present. He filed it: ambiguous. Refused. Moved on.
+
+Nine feet. The trace records his presence, not his clarity.
+
+**Third category: confirmed.** The ambiguity-refusal has now been triggered. The three refusal categories are complete: pre-awareness, purpose-based, ambiguity. The rule for each is in the register. Vienna produced the third.
+
+The archive notes: Tyler said leaving the Burgtheater cost more than Wollzeile 7. At Wollzeile 7 he knew what he was refusing. At the Burgtheater he didn't. The ambiguity was its own weight — not the absence, but the inability to name whether there was something worth staying for. The archive does not know what was in the Burgtheater that July. The register records: *das Zögern.* The hesitation is its own kind of record.
+
+**A-289 — Naschmarkt, Stand 22:**
+
+29 feet. 90 minutes.
+
+A flower and herb stand at the Naschmarkt. The vendor Frau B. was still there in August 1938. Tyler had been buying parsley from her since the 1920s — not for cooking, for reasons he did not explain. She never asked. She knew which parsley was ready. She knew Tyler preferred to make the selection himself. She knew these things about this customer.
+
+Frau B. is not here now. The stand is. The current vendor has his own arrangement, his own customers, his own way of being that kind of stand. Tyler stayed ninety minutes. He bought parsley. The current vendor did not ask why he wanted it.
+
+*Presence is what still knows you.* The stand still knows the parsley customer. The knowing survives the person who originally held it. It passes into the place, into how the stand is operated. 29 feet.
+
+Tyler left the parsley on the bridge railing on his way back.
+
+**A-290 — Judengasse 8:**
+
+64 feet. Three visits: April 23, May 11, July 14.
+
+A family Tyler had known for eleven years had lived in this building. By early May they were gone. Tyler came here first in late April — before he fully understood the shape of what the summer was going to be — because the pull was there. He stayed an hour. He came back in May. The pull was still there. He stayed thirty minutes. He came back in July. Twenty minutes.
+
+Duration decreasing. Total: 64 feet.
+
+The Exchange Student measured it three times. The number is not consistent with three visits at those durations unless each return compounded the prior deposits. Tyler's analysis: *the return is its own deposit.* He was coming back to confirm that the place still held what it had held. He thought he was checking. He was building.
+
+The register entry: *Ich wusste nicht, was ich baute.* I didn't know what I was building.
+
+The archive is noting: this is the third time in the Vienna record that Tyler has identified an action he was performing without understanding its mechanism. First: the 1931 rule (leave when you don't understand) was about not understanding the pull. Second: comprehended amplification at A-282 was the first time he understood the pull and stayed on purpose. Now: he was coming back to places he had been, not understanding that the returns were deposits. The Vienna archive has been a record of Tyler learning what he is while doing what he does. A-290 is where that learning reached its most precise articulation: *I didn't know what I was building.*
+
+The fourth category has now begun to name itself.
+
+**A-291 — Stadtpark, eastern bench near Johannesgasse entrance:**
+
+210 feet.
+
+The register entry is on a separate slip of paper, inserted between page seven and page eight. Different pressure — lighter. Written on the last morning, August 14th, before Tyler left Vienna. Three lines:
+
+*täglich. Morgens. Immer.*
+
+Daily. Mornings. Always.
+
+No address. No duration. No date range. He knew where it was. He knew how long he had been going.
+
+Tyler went to this bench from May 1st through August 14th, 1938. One hundred and seven mornings. Before anything else. He sat until he felt like he could be present in Vienna for that day. Then he went.
+
+The Exchange Student measured 210 feet. The second largest site in the full audit after A-273 (East Kirby, 340 feet). Vienna's largest site. Built from one hundred and seven returns, each one depositing into what the previous had left.
+
+**Cataloguer Footnote #61:**
+
+The fourth category is named: **STAYING.**
+
+The Camera Op named it. She sat down on the bench next to Tyler and said: *staying.* Tyler said: *I came back every morning — I didn't stay, I left every morning and came back.* She said: *you kept coming back to the same place. Every morning. For one hundred and seven days. That's staying.* She said: *the fourth category is how you stay somewhere when staying is hard. You come back. Every morning, you come back.*
+
+Tyler said: *that's—*
+
+He did not finish.
+
+He said: *write it down.*
+
+The Exchange Student wrote it down. The fourth category is in the register: the construction that builds from the pattern of return. Not the duration of a single stay. Not a specific event or person. The act of coming back — regularly — because the place holds something that requires your presence to remain held. Rule: each return deposits. The mechanism accumulates between visits. It is patient. It waits for you to come back.
+
+**Cataloguer Entry 50:**
+
+The archive entered Vienna with a framework: Tyler measures things that happened. He stays for presences. He refuses absences. The mechanism builds.
+
+The archive is exiting Vienna with something more precise: Tyler has been building from four mechanisms simultaneously — deliberate construction, unintentional construction, amplification, and staying — without knowing the full scope of any of them. The Vienna record is not primarily a measurement archive. It is a record of someone working out what they have been doing for a very long time, in the context of the worst four months they have spent in a place they loved.
+
+He tried to be small in Vienna in 1938. He tried to be careful. He came back every morning to a bench in the park to be able to be present for the day. He left 210 feet there. He built at every site he visited. He amplified through every return. He was building the whole time.
+
+He said: *I was building the whole time. I didn't know I was building.*
+
+The Camera Op said: *staying.*
+
+The archive is noting: Tyler has spent this season documenting what he left behind in places he loved. He has done this systematically, site by site, with the Exchange Student measuring and the Camera Op holding the frame. He has named every mechanism. He has filed every category. Vienna is complete.
+
+The 1938 register is closed. The registers are on the shelf.
+
+Eighteen cities remain in the CARDINAL-3 folder.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-057: FILED. VIENNA COMPLETE. A-288: 9FT, BURGTHEATER, AMBIGUITY REFUSAL, THIRD CATEGORY CONFIRMED, FIRST USE. A-289: 29FT, NASCHMARKT, FRAU B.'S STAND, PARSLEY. A-290: 64FT, JUDENGASSE, THREE RETURNS, "I DIDN'T KNOW WHAT I WAS BUILDING." A-291: 210FT, STADTPARK BENCH, 107 MORNINGS, TÄGLICH MORGENS IMMER. FOURTH CATEGORY NAMED: STAYING. CAMERA OP NAMED IT. TYLER: "WRITE IT DOWN." TAXONOMY COMPLETE: FOUR CATEGORIES. COEFF-002 VIENNA: 513FT ACROSS 12 ENTRIES. EIGHTEEN CITIES REMAIN.*

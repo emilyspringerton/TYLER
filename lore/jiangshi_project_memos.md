@@ -1881,3 +1881,108 @@ This is speculation. Tyler will file the fourth category when Vienna is complete
 ---
 
 *End memo: MEMO #036 FILED. COUNCIL SESSION #7 RESULTS: 17 CONFIRMED SECOND-CATEGORY REFUSALS (30 POTENTIAL); RETROACTIVE AUDIT INITIATED. A-285: POTENTIAL AMPL-001 VIENNA ENTRY PENDING. A-286: DEPARTURE-TRACE CATEGORY OPENED; COUNCIL SESSION #8 AGENDA. A-287: UNDERSTANDING-TAKES-TIME RULE LIMITS 1931 SCOPE. AMBIGUITY-REFUSAL: PENDING. FOURTH CATEGORY: DIRECTOR'S HYPOTHESIS = MECHANISM ENCOUNTERING ITS OWN PRIOR CONSTRUCTION. FOUR VIENNA NOTATIONS REMAINING.*
+
+---
+
+**MEMO #037**
+**To:** Council of Observers, Jiangshi Syndicate
+**From:** Director of Operations
+**Re:** Vienna Phase Complete — Fourth Category Filed — Council Session #8 Preliminary Findings
+**Clearance:** BIRU-KUNING
+**Build:** 0073
+
+---
+
+**Vienna Phase: Complete.**
+
+Eleven register notations measured. One departure-trace documented separately (A-286, Westbahnhof). Total: 12 site entries. COEFF-002 Vienna data set submitted. Total Vienna radius: 513 feet.
+
+The Director is filing this memo as both a data report and a structural reassessment. Vienna has ended the Syndicate's working model of the mechanism. What follows is the new model.
+
+---
+
+**A-288 — Third Category Triggered:**
+
+The ambiguity-refusal has been confirmed in the field for the first time. A-288, Burgtheater, Dr.-Karl-Lueger-Ring. Tyler stood in the atrium for sixty-eight minutes. Understanding did not arrive. He applied the rule: ambiguous, refused. Nine feet. He returned the following morning. The ambiguity persisted. He filed and moved on.
+
+The third category is now operational with a confirmed first use. The Syndicate's retroactive audit should now also classify any Vienna 1938 anomalously-brief visits that show characteristics consistent with ambiguity — sites where Tyler lingered briefly, more than once, without a decisive measurement. These may be additional ambiguity-refusals the register does not explicitly flag.
+
+Council note: the Director had assessed the Burgtheater as a likely purpose-based refusal site. The actual classification was ambiguity. The Director's hypothesis was wrong. The archive is noting this.
+
+**A-289 — Clean Presence-Stay:**
+
+A-289, Naschmarkt Stand 22. 29 feet, 90 minutes. The vendor Frau B. was still present in August 1938. The stand still knows the parsley customer. Standard comprehended amplification. No scope implications.
+
+**A-290 — Fourth Category Emerges:**
+
+A-290, Judengasse 8. Three visits: April 23, May 11, July 14. Duration decreasing (1 hour, 30 minutes, 20 minutes). Total: 64 feet. The mechanism compounded each return into the prior deposit.
+
+The Director's hypothesis for the fourth category — *the mechanism encountering its own prior construction* — was directionally correct but not quite right. Tyler was not encountering a prior construction he didn't know about. He was *creating* a compound construction through repeated returns, each of which he believed was documentation and which was in fact deposition. He wrote in the register: *Ich wusste nicht, was ich baute.* I didn't know what I was building.
+
+The fourth category is about returns. Not about mechanism self-recognition.
+
+**A-291 — Fourth Category Filed:**
+
+A-291, Stadtpark, eastern bench near Johannesgasse entrance. 210 feet. One hundred and seven mornings.
+
+Tyler went to this bench every morning from May 1st to August 14th, 1938. Each morning: he sat, read the light and the trees, then went to be present in Vienna for the day. Each return deposited. The cumulative total: 210 feet. The second largest site in the full audit.
+
+The Camera Op named the fourth category: **STAYING.**
+
+The formal definition, as written by Tyler in the register and confirmed to the Syndicate through the documentary record:
+
+*The construction that builds from the pattern of return. Not the duration of a single stay. Not a specific event or person. The act of coming back — regularly — because the place holds something that requires your presence to remain held. Rule: each return deposits. The mechanism accumulates between visits. It is patient. It waits for you to come back.*
+
+---
+
+**The Taxonomy Is Complete:**
+
+Four categories. For the first time since the Syndicate began tracking the mechanism in 1908, the operational taxonomy is closed:
+
+1. PRE-AWARENESS REFUSAL: Tyler applied the 1931 rule without knowing the mechanism. Trace ran from the duration before departure. Category: historical. Retroactive audit: 54 confirmed, 30 probable.
+
+2. PURPOSE-BASED REFUSAL: Tyler understood the pull, assessed it as absence-purpose, refused. The mechanism recorded the refusal. Category: 1938-origin. Operational since July 1938 (A-283). Second-category retroactive audit: 17 confirmed, pending additional.
+
+3. AMBIGUITY REFUSAL: Tyler waited; understanding did not come; left; filed ambiguous. Category: Vienna confirmed, 1938 operational. First confirmed use: A-288, Day 265.
+
+4. STAYING: The construction from the pattern of return. Category: NEW. First formally defined site: A-291. Scope: unknown. The Director suspects this is the largest-scope category in the archive.
+
+---
+
+**Council Session #8 — Preliminary Departure-Trace Findings:**
+
+The audit returned preliminary results during the Vienna close-out. The Director is summarizing.
+
+The departure-trace mechanism (confirmed A-286, Westbahnhof) runs from intentional departures — people leaving *toward* something, carrying something forward. The audit question: how many such departures are in the Tyler archive?
+
+Preliminary findings from the 1908–1995 record:
+
+Vienna 1938 alone: 11 confirmed departure-trace candidates (people Tyler knew who left during the four months, with documented forward destinations and carried materials). Seven have been cross-referenced with Syndicate departure records. The platform is one. A railway station in Bratislava is a second (F.'s secondary contact). The Westbahnhof alone may have three layers — Tyler witnessed multiple departures from the same platform.
+
+Extended estimate across full archive: the 1908–1995 documented period contains approximately 180 intentional departures Tyler witnessed involving known individuals who carried something forward. These may all be departure-trace sites. The Syndicate has not measured them. They are in the archive as standard notations.
+
+The departure-trace scope is not 12 feet at one platform. It is potentially 180+ sites across the full archive. Each one running from the day of the departure. Some for over a century.
+
+---
+
+**Scope Reassessment:**
+
+The Syndicate has been tracking: deliberate constructions, unintentional constructions, amplification sites, refusal-traces, and now departure-traces and staying constructions.
+
+AMPL-001-SCOPE floor: 300+ sites.
+Departure-trace preliminary scope: 180+ sites.
+Staying construction scope: unknown. Every city Tyler has returned to regularly for extended periods — Paris, Vienna, Detroit, and the 18 remaining CARDINAL-3 cities — may have staying constructions. The scale is not calculable at this time.
+
+The Syndicate's original operational framework was: track Tyler, document the binding radius, calculate the coefficient, complete Stage 5. The coefficient has been retired. Stage 5 is complete. The binding framework is obsolete.
+
+The correct framework, going forward, is not a binding framework. It is an archive framework. The Syndicate has been asked, through four hundred years of work, to document a custodian. The mechanism is not the Jiangshi binding. The mechanism is Tyler. The binding was a measuring instrument. The instrument was always downstream of what it was measuring.
+
+The Director is recommending: the Syndicate's role in Stage 7 (this season and subsequent) is documentation support, not operational oversight. We do not have the authority to advise on staying, amplification, or departure-traces. We can measure. We should measure. Advising on what to build would require understanding what the builder is, which we are still working on.
+
+RESONANT CUSTODIAN. Vienna confirmed it. Eighteen cities remain.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #037 FILED. VIENNA COMPLETE. FOURTH CATEGORY NAMED: STAYING. THREE REFUSAL CATEGORIES COMPLETE. TAXONOMY CLOSED. COEFF-002 VIENNA: 513FT. DEPARTURE-TRACE PRELIMINARY SCOPE: 180+ SITES. STAYING SCOPE: UNKNOWN. SYNDICATE ROLE: DOCUMENTATION SUPPORT. "THE BINDING WAS A MEASURING INSTRUMENT. THE INSTRUMENT WAS ALWAYS DOWNSTREAM OF WHAT IT WAS MEASURING." EIGHTEEN CITIES REMAIN.*

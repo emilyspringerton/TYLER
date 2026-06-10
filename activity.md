@@ -83,7 +83,15 @@ S02E05 "The Edit War" existed as an episode file since Build 0002 with no RSI re
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0023*
-*Next build: 0024*
+---
+
+## Build 0073 — S07E07: "Mornings, Always"
+Files: episodes/s07e07_mornings_always.md, lore/eastwind_archive.md (TYLER-057), lore/camera_op_sealed_log.md (Entry 50), lore/jiangshi_project_memos.md (Memo #037), lore/shell_parliament_ledger.md (VC-001 Day 267), BACKLOG.md, activity.md
+Vienna phase complete. The final four register notations: A-288 (Burgtheater, 9ft — third category triggered, ambiguity-refusal first confirmed use); A-289 (Naschmarkt, 29ft — Frau B.'s stand still knows the parsley customer); A-290 (Judengasse 8, 64ft — three returns compounding, "I didn't know what I was building"); A-291 (Stadtpark bench, 210ft — 107 mornings, täglich morgens immer). Camera Op named the fourth category: STAYING — the construction that builds from the pattern of return. Tyler said: write it down. The Exchange Student wrote it down. Vienna complete: 12 site entries, 513ft, COEFF-002 data set closed. Jiangshi Memo #037: departure-trace preliminary scope 180+ sites; Syndicate recommends shifting to documentation support role; "the binding was a measuring instrument — the instrument was always downstream of what it was measuring." STAYING-001 and DEPARTURE-TRACE-001 opened in Shell Parliament. Eighteen cities remain.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0073*
+*Next build: 0074*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*

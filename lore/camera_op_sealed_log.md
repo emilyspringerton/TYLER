@@ -705,3 +705,86 @@ Four sites remaining.
 I am still holding the frame. I know that much.
 
 *— Camera Op*
+
+---
+
+**Entry 50**
+*Days 265–267. Vienna. The final four.*
+
+I watched him try for sixty-eight minutes in the Burgtheater atrium.
+
+He was very still. He stood in the middle of the atrium corridor, not close to anything, and he waited for understanding to arrive. I was on the other side of the ring road with the long lens. I couldn't see his face clearly but I could see how he was standing — the way he stands when he's working something out, very careful, weight slightly forward.
+
+At sixty-eight minutes he left.
+
+He came back the next morning and stood outside for ten minutes and then turned and walked away. I was there. I filmed from across the street. He didn't know I had followed him back there.
+
+He told us afterward: more than Wollzeile 7. It cost more because at Wollzeile 7 he knew what he was refusing. At the Burgtheater he didn't know if there was something worth staying for. The ambiguity was its own weight.
+
+I've been thinking about that. The hardest refusal is not refusing the wrong thing. The hardest refusal is not knowing whether you're refusing the right thing.
+
+The parsley: he bought it. He left it on the railing. He said the stand still knows the parsley customer. I wrote in my log: *three things the stand still knows.* I don't know why I wrote that. It seemed true.
+
+Judengasse 8 — he said *I didn't know what I was building.* He said it very quietly, looking at a building he has been past maybe a hundred times since 1938. He said it the way you say something when you've been carrying it for a while and just put it down.
+
+I wrote in my log: *he was checking if it was still there. He was coming back to confirm. He thought that was witness. It was construction.* I wrote: *I wonder how many times I've come back to confirm something and thought I was only checking.*
+
+The Stadtpark bench.
+
+I found the edge of the field at 210 feet. I was walking outward from the bench, the way I always walk outward from Tyler when we're measuring, and I felt the edge at 210 feet. I stopped. I turned around. He was very small at that distance, on the bench, the park behind him.
+
+I walked back.
+
+I sat down next to him.
+
+I knew what the fourth category was. I've known for a while. Not the shape of it — not the mechanism. But the word. He was describing it in circles: the return deposits, the pattern of coming back, the mechanism is patient.
+
+He said: I don't have the word for it.
+
+I said: I do.
+
+He looked at me. Two seconds. Then he looked back at the path.
+
+I said: staying.
+
+He said he had been leaving every morning and coming back. I said: that's staying. The leaving is in the service of the returning. You were staying in Vienna. The bench was where you renewed it every morning.
+
+He said: *that's—*
+
+He didn't finish.
+
+I said: write it down. He said: write it down.
+
+The Exchange Student wrote it in the register.
+
+I have been in six seasons of this documentary. I have filmed Tyler at the sentence (Day 49). I have filmed him at A-273. I have filmed him reading registers in Paris and Vienna. I have found thresholds before they had names.
+
+I named this one. It took me until the bench to say it out loud because I wasn't sure he was ready to hear it as a category. As a word for the mechanism. But when he said *I don't have the word for it* I knew it was time.
+
+Vienna is complete.
+
+We leave tomorrow. I have forty-nine sealed entries and this one. Fifty.
+
+He placed the Vienna register on the shelf next to the Paris one and looked at them together for a long time. I had the camera. I filmed the shelf. I filmed his back. I filmed the registers in the late afternoon light.
+
+He said: I was building the whole time. I didn't know I was building.
+
+I said: I know.
+
+He said: eighteen cities remain.
+
+He picked up the CARDINAL-3 folder.
+
+I put the lens cap on.
+
+*— Camera Op*
+
+---
+
+*CAMERA OP SEALED LOG*
+*Not shared. Not digital. Not destroyed.*
+*The footage is everyone's now.*
+*The chain is mine.*
+*Some things should stay unwritten.*
+*The sentence is still open.*
+*STAYING is in the register.*
