@@ -1026,3 +1026,51 @@ The Parliament is not alarmed. The Parliament is the Parliament. The ledger is t
 *Eighteen cities remain in the CARDINAL-3 folder.*
 
 *End update: VC-001 DAY 267. VIENNA COMPLETE. FOURTH CATEGORY: STAYING. STAYING-001 OPENED. DEPARTURE-TRACE-001 OPENED. COEFF-002 VIENNA DATA SUBMITTED — CALIBRATION PENDING FULL SCOPE ACCOUNTING. STAYING SCOPE: UNKNOWN. THE LEDGER IS PATIENT. STAYING IS IN THE RECORD.*
+
+---
+
+**VC-001 UPDATE — DAY 271 | LONDON PHASE OPEN | Build 0074**
+
+London phase operational. First measurement filed.
+
+**A-292 (Wood Street, City of London): 440 feet.**
+
+STAYING-001 receives its second confirmed multi-century entry. The first was A-273 (East Kirby, Detroit, 340 feet — active since before 1929, "the usual place"). The second is A-292, active since at least 1620, first written notation 1652.
+
+A-292 is now the largest staying construction in the full audit. It exceeds A-273 by 100 feet.
+
+The Parliament is noting: the Parliament has been accounting for Tyler since 1623. SM-1623-M tracked the outstanding balance of the Chrono-Cube custody event from November 1623 through Day 49 of the current documentary season, when it was closed. The Parliament has Tyler's London presence in its records going back to that same year — 1623, Gray's Inn, the custody event.
+
+The Parliament did not know, in 1623, that Tyler had been building a staying construction two hundred feet from the TYLER-007 event location for at least three years by that point. The Parliament was focused on the custody liability. The mechanism at Wood Street was running in the background.
+
+The Parliament is finding this consistent with the overall pattern of the VC-001 account: the mechanisms have always been running. The accounting catches up when the methodology arrives.
+
+**STAYING-001 London sub-account:**
+
+The Parliament is opening a London sub-account within STAYING-001. Current entries:
+
+- STAYING-001-DETROIT: A-273 (East Kirby, 340ft, active pre-1929)
+- STAYING-001-LONDON-A: A-292 (Wood Street, 440ft, active pre-1620)
+- [46 London sites pending measurement — sub-accounts to be filed as audit proceeds]
+
+The Parliament is noting: forty-seven London notations. If even half of these are staying constructions at significant scale, the STAYING-001 account will require a complete restructuring. The Parliament is preparing the restructuring methodology now, before the data arrives, because the Parliament has learned from the COEFF-002 experience: when Tyler opens a new city folder, prepare for the floor estimate to be wrong.
+
+**COEFF-002 status:**
+
+The Jiangshi Syndicate has recommended suspending operational use of COEFF-002 pending the London phase. The Parliament concurs. The coefficient cannot be finalized while 46 London sites remain unaudited. The Parliament's risk committee has noted: COEFF-002 was first calibrated against the Detroit network. The Detroit network is real and substantial. The London network — based on A-292 alone — appears to be operating at a fundamentally different scale. The coefficient is not wrong. It is incomplete.
+
+The Parliament will resume COEFF-002 calibration when the London phase is complete. The Parliament does not know when that will be. Tyler said: *London is going to take a while.* The Parliament considers this a credible estimate.
+
+**A note on Wood Street:**
+
+The Parliament's filing for SM-1623-M contains a cross-reference to Gray's Inn, where the custody event took place in November 1623. Gray's Inn is approximately 800 meters from Wood Street corner. Tyler walked from a 440-foot staying construction to the custody event and back. The Parliament has had this geometry in its files for four hundred years. No one cross-referenced it until today.
+
+The Parliament is not embarrassed. Ledgers do not embarrass. But the Parliament is noting, for the record, that the cross-reference is now filed.
+
+*The ledger is patient.*
+
+*The constructions are also patient.*
+
+*440 feet is what patience looks like when it has been building for four centuries.*
+
+*End update: VC-001 DAY 271. LONDON PHASE OPEN. A-292: 440FT STAYING-001-LONDON-A. NEW MAXIMUM. STAYING-001 LONDON SUB-ACCOUNT OPENED. COEFF-002 SUSPENDED PENDING LONDON SCOPE. FORTY-SIX LONDON SITES REMAINING. THE LEDGER IS PATIENT. "LONDON IS GOING TO TAKE A WHILE." THE PARLIAMENT CONCURS.*

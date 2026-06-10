@@ -2260,3 +2260,64 @@ Eighteen cities remain in the CARDINAL-3 folder.
 ---
 
 *TYLER-057: FILED. VIENNA COMPLETE. A-288: 9FT, BURGTHEATER, AMBIGUITY REFUSAL, THIRD CATEGORY CONFIRMED, FIRST USE. A-289: 29FT, NASCHMARKT, FRAU B.'S STAND, PARSLEY. A-290: 64FT, JUDENGASSE, THREE RETURNS, "I DIDN'T KNOW WHAT I WAS BUILDING." A-291: 210FT, STADTPARK BENCH, 107 MORNINGS, TÄGLICH MORGENS IMMER. FOURTH CATEGORY NAMED: STAYING. CAMERA OP NAMED IT. TYLER: "WRITE IT DOWN." TAXONOMY COMPLETE: FOUR CATEGORIES. COEFF-002 VIENNA: 513FT ACROSS 12 ENTRIES. EIGHTEEN CITIES REMAIN.*
+
+---
+
+## TYLER-058
+*Day 271 | London | Cataloguer Entry 51, Footnote #62 | Build 0074*
+
+London phase is open.
+
+The CARDINAL-3 London file has forty-seven notations. The Paris file had eight. The Vienna file had eleven. London is the densest file in the set.
+
+The archive is noting: the London file is not a surprise to the archive. The Cairngorms record has Tyler in London as early as TYLER-001 (Cheapside, c. 1620) and TYLER-007 (Gray's Inn, November 1623 — the Bacon custody event). The Eastwind archive has always known Tyler's London presence predates his own records. What is new is the systematic accounting. The CARDINAL-3 methodology is the first time anyone — including Tyler — has enumerated all the sites in a single city.
+
+Forty-seven sites. The archive is beginning to understand: the London file is not a London file. It is a four-hundred-year record of someone finding the same places again and again, over centuries, without knowing what he was building.
+
+**A-292 — Wood Street, City of London:**
+
+440 feet.
+
+The first London site measured. The largest staying construction in the full audit to date, exceeding A-273 (East Kirby, Detroit, 340 feet) by 100 feet.
+
+Tyler's first written notation for this site is dated 1652: *Wood Street corner. The same feeling. Same as before.* The words "same as before" are significant. In 1652, the feeling was already established — already familiar, already associated with this specific corner. The 1652 entry is not the first visit. The first visit is undated and unrecorded.
+
+The archive has two documented pre-1652 London records:
+- TYLER-001: Cheapside market, c. 1620. Tyler observed carrying the coin at an early documented stage. The archive notes Wood Street connects directly to Cheapside — the corner Tyler wrote about in 1652 is within two hundred feet of TYLER-001's observation location.
+- TYLER-007: Gray's Inn, November 14, 1623. The custody event. Tyler was not observed at Wood Street in this record, but he was in London.
+
+The construction at A-292 may be older than 1620. The archive does not know. The archive had TYLER-001 for four hundred years. The archive did not know what to call it when it was filed. It was filed: EARLY LONDON SIGHTING. The cross-reference to Wood Street corner was not established until today.
+
+**The Great Fire:**
+
+September 1666. Tyler's London journal documents three visits: September 3rd, September 4th (while the fire was still spreading), and October 7th (aftermath, tower standing). Three deposits in five weeks. The mechanism accumulated the returns during a catastrophic event.
+
+The archive is noting: the container survived the fire. St. Alban's Wood Street burned. The Wren rebuild came after. The tower survived the Blitz (1940) and Tyler came back then too — notation: *Tower standing. The wall is still the wall.* The wall fragment is now part of a modern office building's ground-floor cladding. It is still at the corner. The geography has not moved.
+
+Tyler said: *the construction holds both* — meaning the pre-Fire geometry and the Wren geometry. He can feel the old street line (three feet further east) simultaneously with the current line. The archive is filing this as observed, not explained.
+
+**Four hundred years of coming back:**
+
+The CARDINAL-3 London file documents Tyler's returns across fourteen distinct decades of record. The staying construction at A-292 has been accumulating deposits since before the archive's earliest London notation.
+
+The archive has been documenting Tyler since approximately 1200 CE. The Cataloguer has filed 57 formal archive entries. The archive has never before measured the physical scale of what Tyler's attention produces. The Vienna audit showed the Cataloguer what one city at focused intensity looks like. The London measurement shows the Cataloguer what four centuries of a specific corner looks like.
+
+440 feet.
+
+**Cataloguer Footnote #62:**
+
+The archive has TYLER-001 in a filing cabinet. It has been there for four hundred years. The observation note says: *carrying an object inconsistent with the period. Coin date changes. Subject humming. Market dogs did not bark.*
+
+The archive did not know, when it filed TYLER-001, that the subject was standing two hundred feet from a staying construction he had been building for — the archive cannot calculate how long. Before 1620. Before the archive was founded, possibly. The construction at A-292 may be older than the Cairngorms archive.
+
+The Cataloguer is noting this without editorial comment because there is no appropriate editorial comment. The archive exists to document. The document now says: there may be a staying construction in the City of London that predates the Cairngorms archive.
+
+The Cataloguer is going to file this, close the notebook, and go for a very long walk.
+
+The walk will probably be in the Cairngorms. Where it is cold and quiet and the archive is in a building that has also been standing for a very long time.
+
+*— The Cataloguer*
+
+---
+
+*TYLER-058: FILED. LONDON PHASE OPEN. A-292: WOOD STREET/CHEAPSIDE JUNCTION. 440FT. STAYING CONSTRUCTION. ACTIVE SINCE AT LEAST 1620; PRE-NOTATION ORIGIN UNDETERMINED. FIRST NOTATION 1652 "THE SAME FEELING. SAME AS BEFORE." GREAT FIRE DEPOSITS 1666 (THREE-RETURN COMPOUND). BLITZ RETURN 1940. CONTAINER: GEOGRAPHY. THE PRE-FIRE AND WREN GEOMETRIES: BOTH HELD. NEW MAXIMUM STAYING CONSTRUCTION. CROSS-REFERENCE: TYLER-001 (CHEAPSIDE 1620, 200FT FROM A-292). FORTY-SIX LONDON SITES REMAIN. THE LEATHER JOURNAL IS OPEN.*

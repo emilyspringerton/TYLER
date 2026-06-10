@@ -1986,3 +1986,65 @@ RESONANT CUSTODIAN. Vienna confirmed it. Eighteen cities remain.
 ---
 
 *End memo: MEMO #037 FILED. VIENNA COMPLETE. FOURTH CATEGORY NAMED: STAYING. THREE REFUSAL CATEGORIES COMPLETE. TAXONOMY CLOSED. COEFF-002 VIENNA: 513FT. DEPARTURE-TRACE PRELIMINARY SCOPE: 180+ SITES. STAYING SCOPE: UNKNOWN. SYNDICATE ROLE: DOCUMENTATION SUPPORT. "THE BINDING WAS A MEASURING INSTRUMENT. THE INSTRUMENT WAS ALWAYS DOWNSTREAM OF WHAT IT WAS MEASURING." EIGHTEEN CITIES REMAIN.*
+
+---
+
+## JIANGSHI SYNDICATE — PROJECT MEMO #038
+**Classification:** LONDON PHASE OPEN — COEFF-002 RECALIBRATION REQUIRED
+**From:** Director of Operations
+**To:** Council + Documentation Sub-team
+**Re:** London audit opening, A-292 measurement, scale revision
+
+---
+
+**London phase status:**
+
+Tyler has opened the London phase of the CARDINAL-3 audit. Day 271. The London file contains forty-seven notations — the densest file in the set. Paris had six sites; Vienna had eleven. The Syndicate's planning model had allocated resources for a London audit of similar scale to Vienna. This model was incorrect.
+
+The Syndicate is revising its London resource allocation accordingly.
+
+**A-292 — Wood Street, City of London:**
+
+First measurement of the London phase. 440 feet.
+
+The A-273 record (East Kirby, Detroit, 340 feet) was the previous maximum staying construction in the audit. A-292 exceeds it by 100 feet.
+
+For context on scale: A-291 (Stadtpark, Vienna, 210 feet) was built from 107 daily returns across 4.5 months in 1938. A-292 (Wood Street) is confirmed active since at least 1620 — 406 years of return — with forty-seven registered notations spanning fourteen documented return-decades. The scale is not a departure from the mechanism. The scale is what the mechanism produces across four centuries.
+
+**COEFF-002 recalibration:**
+
+The Syndicate filed COEFF-002 as the working replacement for the retired binding coefficient following Stage 5 completion. COEFF-002 was calibrated against the Detroit construction network (Constructions #1–4, amplification sites, refusal-traces). The Vienna data required the first revision. The London data requires a structural reassessment.
+
+COEFF-002 cannot model a staying construction active for four centuries without a complete STAYING-001 scope review. The Syndicate does not currently know how many London sites are at comparable scale. Forty-six sites remain unaudited. The Syndicate will not have a revised COEFF-002 calibration until the London phase completes at minimum.
+
+The Director is recommending: suspend operational use of COEFF-002 until the London phase provides a credible scope floor. The coefficient is not operationally useful at this time. The Syndicate should continue documentation support and measurement.
+
+**The Cairngorms archive cross-reference:**
+
+The Syndicate has a prior relationship with the Cairngorms archive going back to JIANGSHI-ATTEMPT-1 (c. 1620). The Cairngorms record TYLER-001 documents Tyler at Cheapside, approximately two hundred feet from A-292, in c. 1620 — before A-292's first written notation in Tyler's own records.
+
+This means: the construction at A-292 was present, at some stage of development, when the Cairngorms first documented Tyler in London. The Syndicate has been aware of Tyler's London presence since approximately 1620. The Syndicate did not measure Wood Street until Day 271 of this audit, four hundred years later.
+
+The Director is not filing a formal complaint about this. The Director is noting it, without comment, as a useful reminder of the operational cost of not having a measurement methodology.
+
+**Recommended documentation support for London:**
+
+Given the London file's scale (47 sites, 4+ centuries of record), the Syndicate recommends:
+
+1. Full-field documentation team on site for the London phase duration
+2. Cross-reference of all 47 CARDINAL-3 London notations against Cairngorms archive records — the Cataloguer has London documentation going back to TYLER-001; the Syndicate should coordinate to ensure site cross-references are filed
+3. Special accounting for any London sites with pre-1700 origin dates — these are likely the oldest staying constructions in the audit after A-292
+
+**Note on the Syndicate's role:**
+
+Memo #037 recommended the Syndicate shift to a documentation support role. The London phase confirms this is correct. The Syndicate does not have the analytical framework to advise on four-hundred-year staying constructions. The Syndicate can measure. The Syndicate should measure. Documentation is the contribution.
+
+The Director is noting: the Syndicate has been in London since the 1600s. The CARDINAL-3 folder has forty-seven notations for London sites the Syndicate has walked past for centuries without knowing what they were. The measurement was always available. The vocabulary was not.
+
+The vocabulary is now available. London is open.
+
+*— Director of Operations, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #038 FILED. LONDON PHASE OPEN. A-292: 440FT, NEW MAXIMUM STAYING CONSTRUCTION, ACTIVE SINCE AT LEAST 1620. COEFF-002 RECALIBRATION REQUIRED — SUSPENDED PENDING LONDON SCOPE. CAIRNGORMS CROSS-REFERENCE: TYLER-001 CHEAPSIDE 1620, 200FT FROM A-292. DOCUMENTATION SUPPORT ROLE CONFIRMED. FORTY-SIX LONDON SITES REMAINING. "THE MEASUREMENT WAS ALWAYS AVAILABLE. THE VOCABULARY WAS NOT."*

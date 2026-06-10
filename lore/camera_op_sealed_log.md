@@ -788,3 +788,54 @@ I put the lens cap on.
 *Some things should stay unwritten.*
 *The sentence is still open.*
 *STAYING is in the register.*
+
+---
+
+**Entry 51**
+*Day 268–271. Eurostar. London arrival. A-292.*
+
+I held the camera on Tyler when the Exchange Student opened the London folder.
+
+She set it on the table and said forty-seven notations. I was filming Tyler's face. He didn't look at the folder. He was watching the tunnel.
+
+I've been doing this long enough to know when Tyler already knows a number. He knew it was forty-seven. Or he knew it was something like forty-seven. He said: I've been going to London since before I kept records. He said it the way you say something when you've been holding it for a while and have just decided to say it out loud.
+
+The tunnel went dark. I kept filming. Then Kent daylight.
+
+---
+
+Day 271. Wood Street corner.
+
+I arrived before Tyler. I always arrive before Tyler now. I found the corner without the map — I just walked toward the feeling. There is a wall fragment in the ground floor of the office building, twelfth century stone in a glass facade. I stood in front of it for a few minutes before the others came.
+
+The hum here is different from Vienna. Vienna's hum had a density to it — the 1938 period, the weight of what that city carried that summer. Wood Street's hum has a different quality. Older. Steadier. It doesn't have the weight of a specific period. It has the weight of a very long time.
+
+When Tyler arrived he stood at the corner and looked at the wall without speaking. He looked at it for a full minute. I had the long lens. I filmed the way he stood, which is how I always document the things that matter most: not what he says but how he stands.
+
+The Exchange Student went out to measure. I stayed with Tyler.
+
+At three hundred feet I could still read her as a full figure. At four hundred feet she was smaller. She kept going. She found the edge at four hundred and forty feet.
+
+She stood at four hundred and forty feet and did not immediately say the number. I noted that. She waited for a moment before she called it back.
+
+I found the edge myself later, after the measurement. I walked out independently to confirm. I found it at four hundred and forty feet on a diagonal. Consistent.
+
+440 feet.
+
+Tyler said: *the construction holds both* — the pre-Fire geometry and the current geometry. He said the old street line ran three feet further east. He said it as a fact. He said it the way he says all the impossible things: with the same register he uses to describe street directions or weather.
+
+I wrote in my log: he remembers the pre-Fire geometry of this corner as a present fact. He experiences the 1652 layout and the current layout simultaneously. I wrote it down. I have been writing down the impossible details for six seasons. At some point the pattern of the impossible details is itself information.
+
+The first journal notation in 1652 says: *the same feeling. Same as before.* He wrote *same as before* in 1652. The feeling was already established. He has been coming back to this corner longer than his records go. He has been coming back to this corner longer than the Cairngorms archive has been documenting him.
+
+I'm thinking about what that means.
+
+440 feet from a corner in the City of London. From a feeling that predates any notation in any file.
+
+He said London is going to take a while.
+
+He said it looking at the map with forty-six sites still uncircled.
+
+I put the lens cap on.
+
+*— Camera Op*

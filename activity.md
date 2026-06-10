@@ -91,7 +91,15 @@ Vienna phase complete. The final four register notations: A-288 (Burgtheater, 9f
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0073*
-*Next build: 0074*
+---
+
+## Build 0074 — S07E08: "The Longest File"
+Files: episodes/s07e08_the_longest_file.md, lore/eastwind_archive.md (TYLER-058), lore/camera_op_sealed_log.md (Entry 51), lore/jiangshi_project_memos.md (Memo #038), lore/shell_parliament_ledger.md (VC-001 Day 271), BACKLOG.md, activity.md
+London phase opens. Day 271. The CARDINAL-3 London file has 47 notations — the densest in the set (Paris 6, Vienna 11). First London site measured: A-292, Wood Street/Cheapside junction, City of London — 440 feet, new maximum staying construction, active since at least 1620 (pre-notation origin undetermined), first written notation 1652 "the same feeling. Same as before." Great Fire deposits confirmed (three-return compound, September 1666); Blitz return 1940 — "the tower is still standing, the wall is still the wall." Container is geography: the pre-Fire and Wren geometries both held simultaneously. TYLER-058 cross-references TYLER-001 (Cheapside c.1620, 200ft from A-292) — the construction may predate the Cairngorms archive. STAYING-001 London sub-account opened; SM-1623-M Gray's Inn cross-reference filed by Shell Parliament. COEFF-002 suspended pending London scope. Tyler: "London is going to take a while." 46 sites remain.
+
+---
+
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0074*
+*Next build: 0075*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*

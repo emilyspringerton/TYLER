@@ -704,7 +704,19 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   Vienna phase closes. COEFF-002 Vienna data set complete. The departure-trace audit scope revealed.
   What Tyler built here that he didn't know he was building.
 
+- [x] **S07E08: "The Longest File"** — London phase opens. Day 271. Exchange Student opens the
+  CARDINAL-3 London file on the Eurostar: 47 notations vs. Paris 6, Vienna 11 — the densest file
+  in the set. First London site: A-292, Wood Street/Cheapside junction. 440 feet. New maximum
+  staying construction — exceeds A-273 (340ft) by 100 feet. Active since at least 1620; pre-notation
+  origin undetermined. First written notation 1652: "the same feeling. Same as before." Great Fire
+  deposits 1666 (three-return compound). Blitz return 1940. Container is geography confirmed for
+  oldest city construction in audit. Tyler: "London is going to take a while." 46 sites remain.
+  RSI receipts: TYLER-058 (Footnote #62 — cross-reference TYLER-001 Cheapside 1620 200ft from
+  A-292; construction may predate Cairngorms archive), Camera Op Entry 51, Jiangshi Memo #038
+  (COEFF-002 suspended pending London scope), VC-001 Day 271 (STAYING-001 London sub-account
+  opened; SM-1623-M Gray's Inn cross-reference filed; "the ledger is patient"). Build 0074.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0073.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0074.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
