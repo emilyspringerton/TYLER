@@ -3017,3 +3017,36 @@ The Camera Op picked up the camera. The archive records this as: the second cons
 ---
 
 *TYLER-066: FILED. NETWORK SCOPE DISCLOSED ON CAMERA. 26 CITIES. ~900 SITES. 6 CONTINENTS. MINIMUM 200 PRIOR SITES. EARLIEST CONFIRMED: 1127 CE, MARRAKECH. 8 CITIES COMPLETE. 18 REMAINING — LISTED IN TYLER'S HANDWRITING ON CARDINAL-3 MAP: TOKYO, MUMBAI, LAGOS, CAIRO, MEXICO CITY, SÃO PAULO, SHANGHAI, AMSTERDAM, BARCELONA, STOCKHOLM, NAIROBI, MELBOURNE, MONTRÉAL, SEOUL, KRAKÓW, JAKARTA, EDINBURGH, CASABLANCA. TYLER WROTE ON THE MAP FOR THE FIRST TIME. THE COIN: PLACE DE LA BASTILLE, DAY 327. RESULT: CONSISTENT. BOTH SIDES. CAMERA OP: "OKAY." CAMERA CONTINUES. SEASON 7 COMPLETE. SEASON 8: THE SHAPE EMERGES.*
+
+---
+
+## TYLER-067
+
+**Cataloguer Entry 50 / Footnote #71**
+*Vienna, Day 335. Amsterdam bound.*
+
+Vienna retroactive audit complete.
+
+Three undisclosed PRIOR sites confirmed in the Vienna CARDINAL-3 record. Tyler had withheld them during the original Vienna phase; he withheld three in Paris for the same reason — "the model wasn't ready."
+
+**A-V13**: Augustinerkirche precinct, November 1619. Twelve days. Forty-one feet. Tyler in Vienna during the opening of what would become the Thirty Years War — waiting for a contact who never arrived, occupying a church that was performing Habsburg grief. FOUND construction: the church offered accuracy during the beginning of a long catastrophe.
+
+**A-V14**: Old University precinct, 1529 Siege of Vienna. Nineteen days. Sixty-seven feet. Tyler trapped in Vienna during Suleiman's siege — present in a place calibrated to knowing what was happening, for the full nineteen days. Compressed-duration construction, crisis-intensity presence. The largest Vienna PRIOR site.
+
+**A-V15**: The Graben, 1499. Four days. Twenty-three feet. Tyler's first Vienna visit. He came because Maximilian was building something and he wanted to see a city becoming what it was going to be. Nothing happened. He walked the Graben three times a day and looked at the city and left. Four days of innocent curiosity from before the arrangement with Vienna was established.
+
+Camera Op WITNESS confirmed at all three retroactive sites: establishing shots (Augustinerkirche, S07E05), transitional shots (Graben, S07E05), coverage (Old University precinct, S07E06). She was building WITNESS constructions at sites Tyler had withheld, without knowing the sites existed.
+
+On the station platform at Vienna Hauptbahnhof, Tyler said: "The count I can give you is the count I can verify. The actual total — I don't know. I've been alive for roughly nine centuries. I've been in a great many places."
+
+The 900 is what he can account for.
+
+Next city named: **Amsterdam**. First notation 1628. CARDINAL-3 Amsterdam documentation start 1792. All Amsterdam sites are PRIOR by definition. VOC era. Spinoza. The canal geometry. Tyler: "I was there for the century."
+
+*The train left Vienna in the late afternoon. The hum audible until the city limits. Then the flatlands. Then Belgium. Then Amsterdam.*
+
+*Cataloguer Footnote #71. Cross-references: Camera Op Entry 60, Jiangshi Memo #047, VC-001 Days 328–335, EMILY-SPRING-036.*
+
+---
+
+*TYLER-067: FILED. VIENNA RETROACTIVE COMPLETE. A-V13 / A-V14 / A-V15. THE COUNT BEFORE THE COUNT. TYLER: "I DID NOT KNOW YET WHAT THE PLACE AND I WERE GOING TO BE TO EACH OTHER." CAMERA OP WITNESS AT ALL THREE. AMSTERDAM NAMED. FIRST NOTATION 1628. THE CANAL GEOMETRY AWAITS. BUILD 0083.*

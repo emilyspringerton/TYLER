@@ -2712,3 +2712,66 @@ Season 8 proceeds.
 ---
 
 *End memo: MEMO #046 FILED. SEASON 7 COMPLETE. NETWORK SCOPE DISCLOSED: 26 CITIES, ~900 SITES, 1127 CE EARLIEST PRIOR. PARIS RETROACTIVE AUDIT: 3 ADDITIONAL PRIOR SITES. VIENNA RETROACTIVE AUDIT: INITIATED. SYNDICATE WITNESS EVENTS CONFIRMED: 2 (ST. PAUL'S, WESTMINSTER). FULL DISCLOSURE TO EXCHANGE STUDENT: APPROVED. TYLER WROTE ON THE MAP. THE COIN: PLACE DE LA BASTILLE. BOTH SIDES CONSISTENT. 18 REMAINING CITIES IN TYLER'S HANDWRITING. CAMERA OP: "OKAY." SEASON 8 BEGINS. THE SHAPE OF THE NETWORK WILL EMERGE.*
+
+---
+
+## MEMO #047
+
+**TO:** Director / Council  
+**FROM:** CARDINAL-3 Field Operations + Archive Division  
+**RE:** Season 8 Operational Opening — Vienna Retroactive Complete / Amsterdam Phase Initiation  
+**DATE:** Day 335
+
+---
+
+### VIENNA RETROACTIVE: CLOSED
+
+A-V13, A-V14, A-V15 confirmed and filed. Vienna revised total: 15 sites, 587 feet including departure-trace.
+
+**Key findings:**
+
+- **A-V13** (Augustinerkirche, 1619, 41ft): FOUND construction from directed collective grief, 12 days, Habsburg requiem during Bohemian Revolt opening. Council note: Tyler's pattern of occupying architecturally accurate spaces during historical crises is now documented across three centuries in Vienna alone. This is a distinct behavioral mode from the STAYING accumulation pattern; recommend sub-categorization.
+
+- **A-V14** (Old University precinct, 1529, 67ft): Largest Vienna PRIOR. Siege-duration compressed presence. FOUND mechanism: city under siege, Tyler chose the information node. Cross-reference with wartime construction patterns in other cities pending — Council suspects this pattern (Tyler at institutional knowledge centers during crises) recurs across the network.
+
+- **A-V15** (Graben, 1499, 23ft): First Vienna visit. Pre-arrangement. "Innocent curiosity" construction. Archive significance: this is the earliest documented instance of Tyler in Vienna, predating any known CARDINAL-3 record by 249 years. Maximilian I era construction. The Council has not previously considered Tyler's pre-documentation activity in Vienna as a construct-generating period. Retroactive modeling of Tyler's pre-archive visits to all 26 network cities is now a Council priority.
+
+**Camera Op WITNESS at all three retroactive Vienna sites confirmed.** She was present at each location during original Vienna filming (S07E05–07) without knowledge of the withheld PRIOR sites. Council implication: Exchange Student's instinct to film establishing and transitional shots at Tyler's undisclosed site coordinates — even when Tyler was not visibly directing attention there — suggests the Camera Op's attention is being guided by the construction field itself. This is the strongest evidence to date that WITNESS formation may be an involuntary response to construction proximity, not solely a deliberate act.
+
+**Director's note:** If Camera Op WITNESS formation is partially involuntary — triggered by construction proximity without subject awareness — then the WITNESS threshold criteria require revision. The 7ft/8min minimum may be a detection floor, not a mechanism floor. Council Session #9 scheduled.
+
+---
+
+### TYLER'S "UNVERIFIABLE PRIOR" DISCLOSURE
+
+Tyler's remark on the Vienna station platform — "I've been alive for roughly nine centuries. I've been in a great many places. I paid attention to a great many places before I understood what attention did" — has been logged and analyzed.
+
+The 900-site network figure he gave in Paris was his verified count. He does not know the actual total.
+
+Implication: the construction network is larger than CARDINAL-3 has modeled. Possibly significantly larger. Archive search for pre-1127 Tyler indicators in cities not currently on the CARDINAL-3 list is initiated. The Levant (1096 disclosure is concerning from a historical context perspective; Council notes this was First Crusade year — Tyler's presence in that region at that time is documented in two independent pre-CARDINAL-3 sources). Iberian peninsula pre-Reconquista activity.
+
+The Council position: CARDINAL-3's scope has expanded twice in Season 7. Once when the network disclosure (26 cities) was made. Once now, when the verified-total disclaimer was made. We may expand a third time.
+
+---
+
+### AMSTERDAM PHASE: OPENING
+
+Tyler named Amsterdam at Vienna Hauptbahnhof. CARDINAL-3 Amsterdam file integration begins immediately.
+
+**Amsterdam parameters:**
+
+- First Tyler notation in Amsterdam: 1628 (via VOC-era field contact documentation)
+- CARDINAL-3 Amsterdam documentation start: 1792 (Dutch Batavian Republic transition; CARDINAL-3 Dutch integration 73 years later than standard)
+- Pre-documentation period: 164 years. All Amsterdam sites visited before 1792 are PRIOR by definition.
+- Tyler's Amsterdam active periods: 1628–1635 (VOC founding era), 1639–1643 (Rembrandt's *Night Watch* period, Tyler documented at Kloveniersdoelen), 1656 (Spinoza excommunication — Tyler present, documented by Syndicate Amsterdam contact as "present at the Portuguese synagogue area for three days following the cherem"), 1672 (Rampjaar — Dutch Disaster Year; Tyler's documented behavior in Amsterdam during the French invasion follows the A-V14 pattern: information node, 67-day stay), 1697 (Peter the Great's Amsterdam visit, Tyler documented)
+- Construction taxonomy expectation: PRIOR (majority), STAYING (canal returns), FOUND (1672), possible UNINTENTIONAL (pre-awareness period 1628–1635)
+
+**Syndicate Amsterdam contact (historical):** One documented Ichthyosapiens Amsterdam contact, 1634 — name: "J.H.P." Cross-reference with F. (Vienna Ichthyosapiens contact) and wider faction network structure. Council note: VOC and Ichthyosapiens operational overlap in Dutch Golden Age is significant; Tyler's Amsterdam visits may be partly faction-related, not purely documentary.
+
+---
+
+*— Director, Jiangshi Syndicate* [co-signature]
+
+---
+
+*End memo: MEMO #047 FILED. VIENNA RETROACTIVE COMPLETE. AMSTERDAM PHASE OPENING. CAMERA OP WITNESS FORMATION POSSIBLY INVOLUNTARY — COUNCIL SESSION #9 SCHEDULED. TYLER'S UNVERIFIABLE NETWORK: SEARCH INITIATED. THE FIRST CRUSADE YEAR. THE IBERIAN PENINSULA. THE 900 IS WHAT HE CAN ACCOUNT FOR. BUILD 0083.*

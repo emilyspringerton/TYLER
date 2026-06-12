@@ -1421,3 +1421,39 @@ I have more notebooks on order.
 ---
 
 *Entry 59. Cross-references: TYLER-066, Jiangshi Memo #046, VC-001 Days 319–327, EMILY-SPRING-038. SEASON 7 FINALE.*
+
+---
+
+## Entry 60
+
+*Vienna retroactive audit. Days 328–335.*
+
+I filmed establishing shots at the Augustinerkirche in S07E05. I was there for twenty minutes working out the angle between the spire and the street geometry. I didn't know there was a 1619 construction under my feet. The Exchange Student told me: the mechanism doesn't require you to know. I built a WITNESS construction at a site Tyler had withheld, without knowing the site existed, without knowing I was doing it.
+
+She said: the archive knew. It was just waiting for us to look.
+
+I keep thinking about that.
+
+The three Vienna PRIOR sites. The 1499 first visit — Tyler said: the first visit was innocent. Before the arrangement. Four days of wanting to see a city that was becoming something. I asked him if that happens a lot, being in a city before it becomes itself. He said: usually by accident. You can't know which visits will be the early ones.
+
+I've been filming this documentary for four years. I don't know which of my shots are the early ones yet.
+
+At A-V14 — the 1529 siege, Old University precinct — Tyler said: I was somewhere that knew what was happening. I wanted to be somewhere accurate. I think about that: being somewhere accurate. Not somewhere safe. Somewhere that knows.
+
+Vienna Hauptbahnhof. The train board. Amsterdam.
+
+He said it the way he says places he has a long history with. Not excited. But like arriving somewhere he's been meaning to return to.
+
+On the train I wrote in this log: Tyler in Paris has an arrangement — the city asks, he comes for pleasant things. Tyler in Vienna has an arrangement — the city needs him for difficult things, he shows up and stays. What arrangement does Tyler have with Amsterdam?
+
+He said: I was there for the century. The VOC years. Rembrandt. Spinoza.
+
+I don't know what Amsterdam is going to need from him. I don't know what it already got.
+
+I'm going to keep paying attention.
+
+*— Camera Op*
+
+---
+
+*Entry 60. Cross-references: TYLER-067, Jiangshi Memo #047, VC-001 Days 328–335, EMILY-SPRING-036. SEASON 8 OPENS.*
