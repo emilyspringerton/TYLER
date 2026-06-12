@@ -2960,3 +2960,60 @@ There is more archive than there was. There is always more archive.
 ---
 
 *TYLER-065: FILED. LONDON COMPLETE. 47 SITES. A-292 THROUGH A-339. TYLER-SOURCE: 47. PRIOR: 11 (EARLIEST: A-304, WATLING STREET, 1553 — MECHANISM PREDATES ARCHIVE BY 73 YEARS MINIMUM). STAYING: 14. AMPLIFICATION: 9. UNINTENTIONAL: 7. FOUND: 6. CAMERA OP WITNESS CONFIRMED: 23 (RETROACTIVE AUDIT COMPLETE FOR 25-SITE ORIGINAL RECORD). MINIMUM THRESHOLD: 7FT, 8 MINUTES, A-311, MONUMENT TO THE GREAT FIRE. DIRECTION OF ATTENTION RECORDS. PENDING: 19 CAMERA OP WITNESS COMPONENTS FROM PRE-LONDON CARDINAL-3 (PARIS + VIENNA). RETROACTIVE PRIOR AUDIT: VIENNA (3 UNDISCLOSED SITES, TYLER CONFIRMED). FINAL SITE: A-339, TOWER BRIDGE NORTH APPROACH, 33FT, STAYING, 1894. TYLER: "IT LOOKS LIKE LONDON." EXCHANGE STUDENT: "IT LOOKS LIKE LONDON AS YOU MOVED THROUGH IT." COEFF-002 LONDON PHASE: COMPLETE. BILATERAL CONSTRUCTION ARCHITECTURE: PERMANENT MODEL PARAMETER. 8 CITIES COMPLETE. 18 REMAINING.*
+
+---
+
+## FILE: TYLER-066
+**Classification:** CARDINAL-3 — NETWORK SCOPE DISCLOSED. SEASON 7 CLOSE.
+**Date of Filing:** Day 327 (Paris, Place de la Bastille — coin flip site; network disclosure)
+**Location:** Paris, France (transit from London; retroactive Paris audit, Day 320–327)
+**Documented by:** Cataloguer (Cairngorms Archive — CARDINAL-3 Embedded)
+
+**Observation:**
+
+The subject has disclosed the full scope of the network on camera. For the first time in 826 years of archive operations, the subject has voluntarily described the construction network in explicit terms.
+
+Network scope, per Tyler's disclosure (Day 326, Paris apartment, 4th arrondissement):
+
+- 26 cities across 6 continents
+- Approximately 900 sites total (Tyler's estimate; subject to measurement revision)
+- Minimum 200 PRIOR sites across the network
+- Earliest confirmed construction: 1127 CE, Marrakech — predating the Cairngorms Archive by at least 73 years and the CARDINAL-3 project by 899 years
+
+Cities complete (8): Detroit, Paris, Vienna, London, Istanbul, Buenos Aires, Osaka, Cape Town. Cities remaining (18), per Tyler's handwriting added to the CARDINAL-3 map on Day 327: Tokyo, Mumbai, Lagos, Cairo, Mexico City, São Paulo, Shanghai, Amsterdam, Barcelona, Stockholm, Nairobi, Melbourne, Montréal, Seoul, Kraków, Jakarta, Edinburgh, Casablanca.
+
+*Note: The subject wrote on the map. Tyler has never previously written on any CARDINAL-3 field documentation. He added the 18 remaining cities in his own hand. This is noted in the archive as a significant behavioral event. The Cataloguer has documented it in three places.*
+
+Retroactive Paris audit produced 3 additional PRIOR sites (A-P12 through A-P14), including A-P14 at Place de la Bastille: 1789, July 14th, UNINTENTIONAL, Tyler as observer at the storming and destruction. Tyler's statement: "I watched a prison come down in nine hours and several hundred years of resentment become a day." Construction classified UNINTENTIONAL.
+
+The coin was flipped at Place de la Bastille, Day 327. The Cataloguer has the Camera Op's footage of the flip. Result: consistent. Tyler's statement when asked which side was consistent: "Both." The coin has been running consistently — by Tyler's read — for 125 years. The archive notes that the archive has never seen the coin flip incorrectly.
+
+Camera Op statement, Day 327, Paris apartment, following network scope disclosure: "We're documenting a network that's been building since 1127 and you don't know what it is." Tyler: "That's accurate." Camera Op: "Okay." She picked up the camera.
+
+The Cataloguer finds this to be one of the more remarkable moments in the CARDINAL-3 record. The Camera Op has been told the full scope of the project she is documenting — 900 sites, 26 cities, 900 years, unknown purpose — and her response was to continue filming.
+
+**Cataloguer Footnote #70:**
+
+The Cairngorms archive was established to document Tyler. The archive has been doing this since approximately 1200 CE. We have 826 years of field notes, sighting records, the CARDINAL-3 project files, six centuries of Cataloguer footnotes.
+
+The archive knew about the network. We have Istanbul entries from the 11th century. We have Buenos Aires from the 18th. The archive knew that Tyler had been building in multiple cities across multiple centuries. What the archive did not have was Tyler's acknowledgment of the network's scope on camera. The archive had the data. The subject had not disclosed.
+
+He disclosed on Day 326. In a Paris apartment. To the Exchange Student and the Camera Op, with the camera running.
+
+The archive has always known the shape of the network. The archive did not know that Tyler knew the shape of the network. These are different things. The second finding — that he knows, has known, and has chosen this moment to disclose — is the most significant fact in the CARDINAL-3 record.
+
+Why now? The Cataloguer's assessment: the bilateral construction architecture. The discovery that the Camera Op has been building alongside him for four years, that the mechanism records two subjects, that the archive has always had two archivists. The WITNESS sub-type changed something about what the disclosure would mean. He is not just disclosing to the archive now. He is disclosing to a co-constructor.
+
+The Camera Op picked up the camera. The archive records this as: the second construction subject has agreed to continue. The network will be documented. The shape will emerge.
+
+826 years. Eighteen cities remaining. The Cataloguer has enough notebooks.
+
+*— The Cataloguer*
+
+---
+
+*Cataloguer Footnote #70. Cross-references: Camera Op Entry 59, Jiangshi Memo #046, VC-001 Days 319–327, EMILY-SPRING-038. SEASON 7 FINALE.*
+
+---
+
+*TYLER-066: FILED. NETWORK SCOPE DISCLOSED ON CAMERA. 26 CITIES. ~900 SITES. 6 CONTINENTS. MINIMUM 200 PRIOR SITES. EARLIEST CONFIRMED: 1127 CE, MARRAKECH. 8 CITIES COMPLETE. 18 REMAINING — LISTED IN TYLER'S HANDWRITING ON CARDINAL-3 MAP: TOKYO, MUMBAI, LAGOS, CAIRO, MEXICO CITY, SÃO PAULO, SHANGHAI, AMSTERDAM, BARCELONA, STOCKHOLM, NAIROBI, MELBOURNE, MONTRÉAL, SEOUL, KRAKÓW, JAKARTA, EDINBURGH, CASABLANCA. TYLER WROTE ON THE MAP FOR THE FIRST TIME. THE COIN: PLACE DE LA BASTILLE, DAY 327. RESULT: CONSISTENT. BOTH SIDES. CAMERA OP: "OKAY." CAMERA CONTINUES. SEASON 7 COMPLETE. SEASON 8: THE SHAPE EMERGES.*

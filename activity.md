@@ -131,8 +131,8 @@ Westminster cluster complete: five sites (A-313 through A-317). PRIOR at Westmin
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0081*
-*Next build: 0082*
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0082*
+*Next build: 0083*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
 
@@ -147,3 +147,9 @@ Third option named on camera: *"Sustained attention to construction is itself a 
 ## Build 0081 — S07E15: "London Complete"
 Files: episodes/s07e15_london_complete.md, lore/eastwind_archive.md (TYLER-065, Footnote #69), lore/camera_op_sealed_log.md (Entry 58), lore/jiangshi_project_memos.md (Memo #045), BACKLOG.md, activity.md
 London complete. 47 sites measured (A-292 through A-339). PRIOR tally: 11 sites, earliest A-304 Watling Street 1553 — mechanism predates Cairngorms archive by 73+ years. Retroactive WITNESS audit: 21 additional Camera Op WITNESS components confirmed across original 25-site record (23 total including A-297B and A-318). Minimum threshold revised: 7ft / 8 minutes, A-311 Monument to the Great Fire. Direction of attention confirmed as construction property — Camera Op's Monument WITNESS component is oriented northeast (toward the fire direction) because that's where she pointed the camera. Final site: A-339, Tower Bridge north approach, 33ft, STAYING, 1894. Tyler: "It looks like London." Exchange Student: "It looks like London as you moved through it." Syndicate preliminary operational review: 6 observer placements meet revised threshold, 2 assessed as likely WITNESS-class events. Tyler disclosed three undisclosed Vienna PRIOR sites — unprompted. Retroactive PRIOR audits initiated for Paris and Vienna; retroactive WITNESS audit initiated for pre-London CARDINAL-3 record (19 Camera Op components pending). COEFF-002 London phase complete. 8 cities complete. 18 remaining.
+
+---
+
+## Build 0082 — S07E16: "Eighteen Cities" (Season 7 Finale)
+Files: episodes/s07e16_eighteen_cities.md, lore/eastwind_archive.md (TYLER-066, Footnote #70), lore/camera_op_sealed_log.md (Entry 59), lore/jiangshi_project_memos.md (Memo #046), BACKLOG.md, activity.md
+Season 7 finale. Network scope disclosed on camera for the first time: 26 cities, approximately 900 sites, 6 continents, earliest PRIOR 1127 CE Marrakech. Paris retroactive audit: 3 additional PRIOR sites (total Paris 9), including A-P14 Place de la Bastille (1789 July 14th, UNINTENTIONAL). Tyler wrote 18 remaining cities on the map in his own hand — first time he has written on field documentation. Coin flipped at Place de la Bastille, Day 327: consistent, both sides. Camera Op response to full network disclosure: "Okay." Camera continues. Season 8: retroactive audits resolve; next city to be disclosed; network shape begins to emerge. Syndicate Season 7 debrief complete; 2 WITNESS events confirmed at Syndicate observer placements; full disclosure to Exchange Student approved. Season 7: COMPLETE.

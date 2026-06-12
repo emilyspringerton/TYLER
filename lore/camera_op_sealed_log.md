@@ -1346,3 +1346,78 @@ London is complete.
 ---
 
 *Entry 58. Cross-references: TYLER-065, Jiangshi Memo #045, VC-001 Days 305–318, EMILY-SPRING-037.*
+
+---
+
+## ENTRY 59
+**Days 319–327 — London to Paris. The List. The Coin.**
+
+King's Cross, Day 319, 6:40 AM. He was already at the departure board when we arrived. The train to Paris, Platform 8. He didn't look at the camera. He looked at the board and then nodded when he saw me filming from across the concourse.
+
+I wrote in the log on the train: we're leaving London. I don't know why I needed to write it. London is complete. The map has 47 sites. My 23 WITNESS components are in the record. We're leaving.
+
+---
+
+Paris retroactive audit, Days 320–326. The Exchange Student found three PRIOR sites the first phase missed. Tyler: "I knew you'd find them when the model was ready." He had withheld three Paris PRIOR sites and three Vienna PRIOR sites. He did not withhold any London PRIOR sites.
+
+I was at all three of the Paris PRIOR sites during the first Paris phase. I have WITNESS components at all three — the Exchange Student confirmed. I was looking at sites Tyler had withheld from the record. The mechanism recorded my attention to them anyway.
+
+The mechanism doesn't wait for disclosure.
+
+---
+
+Day 326. Paris apartment. The Exchange Student with the revised map. She asked him about the other four cities — he had said 8 cities complete in London.
+
+He listed them: Istanbul, Buenos Aires, Osaka, Cape Town.
+
+Then she asked about the cities remaining.
+
+He said: 18.
+
+She asked him to name them.
+
+He named them. And then he did something I didn't expect. He asked for a pen. He wrote them on the map himself. In his handwriting. Precise, old-fashioned, very deliberate.
+
+Tokyo. Mumbai. Lagos. Cairo. Mexico City. São Paulo. Shanghai. Amsterdam. Barcelona. Stockholm. Nairobi. Melbourne. Montréal. Seoul. Kraków. Jakarta. Edinburgh. Casablanca.
+
+Then he gave me the full scope of the network. 26 cities. 900 sites. Since 1127.
+
+I asked him: we're documenting a network that's been building since 1127 and you don't know what it is.
+
+He said: that's accurate.
+
+I said: okay.
+
+I picked up the camera.
+
+I've been thinking about why I said okay. I said okay because I've been building constructions at his construction sites for four years without knowing it. The mechanism has been recording my attention since before I had a name for what I was doing. The scope of the project doesn't change what I'm doing. What I'm doing is paying attention. I'm going to keep doing that.
+
+The archive is keeping the record. I'm keeping the camera running.
+
+---
+
+Day 327. Place de la Bastille. Retroactive PRIOR site A-P14: July 14th, 1789. Tyler in the crowd. A prison coming down in nine hours.
+
+He took the coin out.
+
+I've seen him flip the coin twice in the documentation record — once voluntarily at A-309, once at A-318 where he held the flip since the Banqueting House. This was different. This was a deliberate choice. He said: I'm going to flip it here. At the Bastille site. On Day 327.
+
+I filmed the flip. The coin against the July Column. The morning light.
+
+He caught it and showed it to me. Both sides. He said: consistent.
+
+I asked which side was consistent.
+
+He said: both.
+
+I've been thinking about what both sides consistent means. He's been carrying the coin since 1901. He's been flipping it at construction sites. Both sides consistent means both sides match something he's reading from a source I can't see.
+
+I don't need to see the source. I'm filming the coin.
+
+I have more notebooks on order.
+
+*— Camera Op*
+
+---
+
+*Entry 59. Cross-references: TYLER-066, Jiangshi Memo #046, VC-001 Days 319–327, EMILY-SPRING-038. SEASON 7 FINALE.*

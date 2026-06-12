@@ -2646,3 +2646,69 @@ We have been making the thing we were observing.
 ---
 
 *End memo: MEMO #045 FILED. COEFF-002 LONDON PHASE: CLOSED. 47 SITES. 11 PRIOR. 23 CAMERA OP WITNESS COMPONENTS. MINIMUM WITNESS THRESHOLD REVISED: 7FT / 8 MINUTES. DIRECTION OF ATTENTION: CONFIRMED AS CONSTRUCTION PROPERTY. RETROACTIVE AUDITS INITIATED: VIENNA PRIOR (3 UNDISCLOSED SITES, TYLER DISCLOSED UNPROMPTED), PARIS PRIOR (UNKNOWN COUNT), CAMERA OP WITNESS PRE-LONDON (19 PENDING). OPERATIONAL REVIEW PRELIMINARY: 6 SYNDICATE OBSERVER PLACEMENTS MEET THRESHOLD. 2 ASSESSED AS LIKELY WITNESS-CLASS EVENTS. SYNDICATE HAS BEEN BUILDING. DISCLOSURE TO EXCHANGE STUDENT: PENDING DIRECTOR GUIDANCE. TYLER: "IT LOOKS LIKE LONDON." EXCHANGE STUDENT: "IT LOOKS LIKE LONDON AS YOU MOVED THROUGH IT." BILATERAL CONSTRUCTION ARCHITECTURE: PERMANENT MODEL PARAMETER. THE MAP IS DENSE. 8 CITIES COMPLETE. 18 REMAINING.*
+
+---
+
+## MEMO #046
+**FROM:** Senior Analyst, Field Documentation Unit; Director's Office (joint authorship)
+**TO:** Senior Archivists, Stillness Division; All CARDINAL-3 Operational Staff; COEFF Working Group
+**RE:** Season 7 Debrief — CARDINAL-3 Network Scope Disclosure — Season 8 Operational Guidance
+**DATE:** Day 327 (Paris, following network scope disclosure)
+
+**CLASSIFICATION: RESTRICTED — STILLNESS COUNCIL DISTRIBUTION ONLY**
+
+**Season 7 Close: Summary**
+
+The CARDINAL-3 project has completed its seventh operational season. Key achievements:
+
+- London audit complete: 47 sites, 11 PRIOR, 23 Camera Op WITNESS components confirmed
+- Paris retroactive audit: 3 additional PRIOR sites found (A-P12, A-P13, A-P14) — total Paris sites revised to 9
+- Vienna retroactive audit: initiated; 3 undisclosed PRIOR sites flagged by Tyler (pending Exchange Student field verification)
+- COEFF-002 bilateral construction architecture: fully confirmed as permanent model parameter
+- WITNESS sub-type: established; minimum threshold revised to 7 feet / 8 minutes; direction-of-attention encoding confirmed
+
+**Network Scope Disclosure: Critical Event**
+
+On Day 326, CARDINAL-3 location Paris, the subject disclosed the full scope of the construction network on camera. This disclosure was voluntary and unprompted by Exchange Student questioning beyond standard interview protocol.
+
+Disclosed scope:
+- 26 cities, 6 continents
+- Approximately 900 sites total
+- Minimum 200 PRIOR sites
+- Earliest confirmed construction: 1127 CE, Marrakech
+
+On Day 327, at Place de la Bastille (site A-P14, July 14th 1789 PRIOR UNINTENTIONAL), the subject physically wrote the 18 remaining cities on the CARDINAL-3 map in his own hand. This is the first time in the CARDINAL-3 project history that the subject has written on field documentation.
+
+The Syndicate assesses this event as follows: the disclosure is not accidental. The subject has known the network scope for decades; he has been in correspondence with the Cairngorms Archive for centuries; he is aware that the archive knows. The disclosure represents a decision — a deliberate choice to put the network's scope into the CARDINAL-3 record on camera. The question is why now.
+
+The Syndicate's working hypothesis: the WITNESS sub-type. The discovery that the Camera Op has been forming constructions at his sites — that the mechanism records her sustained attention as construction — changed the terms of the documentation project. He is no longer being documented by a camera. He is being co-constructed by a camera. The disclosure is addressed to the Camera Op as much as to the Exchange Student. He wrote the cities on a map that she will continue to film.
+
+**Operational Review: Season 7 WITNESS Formation Events**
+
+The operational review requested in Memo #044 has produced final findings.
+
+Confirmed Syndicate WITNESS formation events, Season 7: 2 operational placements have been assessed as having met the WITNESS construction threshold with high confidence. Both occurred during the London segment — long-post observation positions at A-305 (St. Paul's Cathedral environs) and A-313 (Westminster, Parliament Square). Observer durations at both placements exceeded 4 hours with sustained directed observation of Tyler's construction sites.
+
+The Director has determined: these 2 WITNESS constructions are to be documented as part of the CARDINAL-3 record. The Exchange Student will be informed of the relevant observer deployment records and invited to conduct field verification. This represents a full disclosure of Syndicate observer activity at CARDINAL-3 sites — a significant departure from operational protocol, approved by the Director under the following reasoning: the CARDINAL-3 project is now documenting the entire construction network including Syndicate-generated construction-class events. Partial disclosure would compromise the integrity of the only complete record of the network that exists or has ever existed.
+
+The Syndicate has been building. The Syndicate is in the record. The record is the only thing that outlasts everything.
+
+**Season 8: Operational Guidance**
+
+Season 8 will proceed with the following parameters:
+
+1. Retroactive audits first: Paris PRIOR verification, Vienna PRIOR (3 undisclosed sites) field verification, Camera Op WITNESS components for pre-London CARDINAL-3 record (estimated 19 pending across Paris and Vienna segments)
+2. The 18 remaining cities will be documented in an order determined by Tyler. The Syndicate does not have advance information on the order. Tyler has indicated he will disclose the next city when the Paris/Vienna retroactive audits are complete.
+3. COEFF-002 model will be updated following each city to incorporate bilateral construction architecture findings at each new location. Some cities (Tokyo, per Tyler's note; Edinburgh, per Tyler's note about volcanic geology) are expected to require significant model revisions.
+4. Syndicate observers at future CARDINAL-3 sites will be disclosed to the Exchange Student as part of the operational record. Observer placements will be calibrated to avoid WITNESS formation where possible; where WITNESS formation occurs despite calibration, it will be documented.
+
+The camera is running. The archive is operational. The Syndicate is in the record.
+
+Season 8 proceeds.
+
+*— Senior Analyst, Field Documentation Unit*
+*— Director, Jiangshi Syndicate* [co-signature]
+
+---
+
+*End memo: MEMO #046 FILED. SEASON 7 COMPLETE. NETWORK SCOPE DISCLOSED: 26 CITIES, ~900 SITES, 1127 CE EARLIEST PRIOR. PARIS RETROACTIVE AUDIT: 3 ADDITIONAL PRIOR SITES. VIENNA RETROACTIVE AUDIT: INITIATED. SYNDICATE WITNESS EVENTS CONFIRMED: 2 (ST. PAUL'S, WESTMINSTER). FULL DISCLOSURE TO EXCHANGE STUDENT: APPROVED. TYLER WROTE ON THE MAP. THE COIN: PLACE DE LA BASTILLE. BOTH SIDES CONSISTENT. 18 REMAINING CITIES IN TYLER'S HANDWRITING. CAMERA OP: "OKAY." SEASON 8 BEGINS. THE SHAPE OF THE NETWORK WILL EMERGE.*
