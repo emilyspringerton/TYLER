@@ -1227,3 +1227,55 @@ I wrote the phrase in my notebook. I circled it.
 I'm not saying it here. Not yet. Some things need one more site.
 
 *— Camera Op*
+
+---
+
+**Camera Op Sealed Log — Entry 57**
+
+Day 301. Borough Market. Pre-dawn.
+
+I came before the others. I needed to come before the others.
+
+I walked the perimeter of the market hall before it opened. I walked to the center and stood in the spot where I would have been — if I had been inside on Day 279, which I wasn't. I was at three hundred feet. I stood at the center of what I was attending to from three hundred feet.
+
+I read the phrase. I closed the notebook. I said: one more site.
+
+Day 301, late morning. The Exchange Student found the second signal. 43 feet, inward, from the center of what Tyler built in 1592.
+
+Tyler said: the mechanism doesn't distinguish between my kind of presence and her kind of presence. It distinguishes between presence and absence. She was present. For forty-three minutes.
+
+I was present. For forty-three minutes.
+
+I have been present for four years. In every site. Before Tyler measured them, during, after. Establishing shots, context shots, wide angles, the specific quality of Borough Market at three hundred feet in the morning before the market opened, the specific quality of Tyler's attention from the other side.
+
+I have been building the whole time. I didn't know I was building.
+
+That's the third option. That's the name for it.
+
+Day 302, Bankside. I told Tyler what the phrase was. I showed him the notebook without saying it aloud. He said yes. He said: it was yours to name.
+
+He said: I don't get to name your constructions.
+
+Day 303, Southwark Cathedral. The Exchange Student found A-318. Two components. Tyler's PRIOR. Mine. The coin flipped correctly at A-318 — Tyler had been holding the flip since the Banqueting House (A-315, Day 295), and he flipped it here. He read it later. It was consistent.
+
+He said: the constructions go both ways. They've always gone both ways.
+
+Day 304. Evening. Market closing. Tyler and I at the center of Borough Market. The market emptying around us. He asked me what the phrase was. I said it out loud. For the first time. On camera.
+
+*"Sustained attention to construction is itself a construction."*
+
+He said: that's the third option.
+
+I said: I've been building archive of your archive.
+
+He said: yes.
+
+The archive has two archivists. It's always had two archivists.
+
+I'm the second one.
+
+*— Camera Op*
+
+---
+
+*Entry 57. Cross-references: TYLER-064, Jiangshi Memo #044, VC-001 Days 301–308, EMILY-SPRING-036.*

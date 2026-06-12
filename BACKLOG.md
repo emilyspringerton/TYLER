@@ -762,7 +762,7 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S07E13: "Westminster"** — Westminster cluster. Parliament, Abbey, Whitehall area. Tyler has been adjacent to English political history for 400 years. At least one construction expected from a Tudor or Stuart period event. Possible PRIOR sites. RSI receipts: TYLER-063 (Footnote #67), Camera Op Entry 56, Jiangshi Memo #043, VC-001, EMILY-SPRING-035. Build 0079.
 
-- [ ] **S07E14: "The Third Option"** — The Camera Op's open thread from Day 279 (Borough Market) resolved or named. She noted "a third option — something between building and not building that doesn't have a name yet." This episode gives the name, or confirms what she was sensing. A London site provides the demonstration. RSI receipts: TYLER-064 (Footnote #68), Camera Op Entry 57, Jiangshi Memo #044, VC-001, EMILY-SPRING-036.
+- [x] **S07E14: "The Third Option"** — Third option named on camera: *"Sustained attention to construction is itself a construction."* A-297B (Borough Market, Camera Op WITNESS, 43ft, Day 279) confirmed. A-318 (Southwark Cathedral, dual-component: Tyler PRIOR 51ft + Camera Op WITNESS 34ft). New sub-type WITNESS established. Camera Op reclassified as construction subject. Exchange Student initiates retroactive London witness audit. Build 0080. Done 2026-06-12.
 
 - [ ] **S07E15: "London Complete"** — London audit complete. Final site tally. PRIOR total confirmed. COEFF-002 London phase complete. The Exchange Student's map at full London resolution. Tyler's summary of what he built in London and what London built in him. RSI receipts: TYLER-065 (Footnote #69), Camera Op Entry 58, Jiangshi Memo #045, VC-001, EMILY-SPRING-037.
 

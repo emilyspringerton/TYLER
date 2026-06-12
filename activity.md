@@ -131,7 +131,13 @@ Westminster cluster complete: five sites (A-313 through A-317). PRIOR at Westmin
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0079*
-*Next build: 0080*
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0080*
+*Next build: 0081*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
+
+---
+
+## Build 0080 — S07E14: "The Third Option"
+Files: episodes/s07e14_the_third_option.md, lore/eastwind_archive.md (TYLER-064, Footnote #68), lore/camera_op_sealed_log.md (Entry 57), lore/jiangshi_project_memos.md (Memo #044), BACKLOG.md, activity.md
+Third option named on camera: *"Sustained attention to construction is itself a construction."* Camera Op, Borough Market, Day 304. The mechanism confirms: A-297B (Borough Market, 43ft, Camera Op, Day 279 — forty-three minutes of observation from three hundred feet) and A-318 (Southwark Cathedral, two components: Tyler PRIOR 51ft pre-1620 + Camera Op witness 34ft current audit). New sub-type established: WITNESS — a construction formed by sustained deliberate attention to an existing construction. The Camera Op is reclassified from non-participant to active construction subject. Exchange Student initiates retroactive witness audit across all 25 London sites. Coin resumed at A-318, read retroactively: consistent. Jiangshi Syndicate operational review requested: surveillance personnel may have been forming WITNESS constructions at CARDINAL-3 sites. Tyler: "The archive has two archivists. It's always had two archivists." 27 documented London sites (A-292 through A-317, plus A-297B and A-318 dual-component). Retroactive audit continues.

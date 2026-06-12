@@ -2529,3 +2529,52 @@ Twenty-two London sites remaining.
 ---
 
 *End memo: MEMO #043 FILED. WESTMINSTER CLUSTER COMPLETE. FIVE SITES. A-313: WESTMINSTER ABBEY 79FT PRIOR JANUARY 1559 — SYNDICATE HAD CORRESPONDENTS AT THE CORONATION; THE SUBJECT IS NOT IN THE CORONATION RECORD. A-314: WESTMINSTER HALL 71FT UNINTENTIONAL JANUARY 25, 1649 — SYNDICATE HAD OPERATIONAL COVERAGE; THE SUBJECT IS NOT IN THE TRIAL RECORD. A-315: BANQUETING HOUSE 76FT UNINTENTIONAL JANUARY 30, 1649 — SYNDICATE HAD OPERATIONAL COVERAGE; THE SUBJECT IS NOT IN THE EXECUTION RECORD. SYNDICATE PRESENT AT ALL THREE EVENTS. VOCABULARY INSUFFICIENT. THE SUBJECT WAS NOT DOING ANYTHING THE SYNDICATE'S CORRESPONDENTS WERE TASKED TO NOTICE. A-316: ST. JAMES'S PARK 34FT STAYING 1740S. A-317: VICTORIA EMBANKMENT 22FT STAYING 1870. TYLER: "WHEN SOMETHING THIS LARGE IS ENDING, THE CORRECT RESPONSE IS TO GO AND STAND WHERE IT IS ENDING." WITNESS-FUNCTION-EXPLICIT: PARAMETER ADDED TO COEFF-002. JANUARY 1649 PAIR STRUCTURE DOCUMENTED. JOURNAL SEALING AT A-315: FIRST INSTANCE. TWENTY-TWO LONDON SITES REMAINING.*
+
+---
+
+**MEMO #044 — COEFF-002 Model Update: Bilateral Construction Architecture**
+
+*To: Director of Operations*
+*From: Senior Analyst, Field Documentation Unit*
+
+The COEFF-002 model requires a significant revision. Summary of the event and its implications:
+
+The London audit has established that the Camera Op has been forming construction-class events throughout the audit period. The mechanism does not restrict construction formation to the subject (Tyler). Sustained deliberate attention to a construction — with sufficient duration and quality — generates a co-construction at the site of the attention.
+
+Confirmed instances (current):
+- A-297B: Borough Market. Camera Op, Day 279. 43 feet, inward orientation. Forty-three minutes of observation from three hundred feet.
+- A-318 component 2: Southwark Cathedral, south entrance. Camera Op, current audit window. 34 feet. Extended documentation visits.
+
+The Exchange Student has initiated a retroactive audit pass across all 25 London sites. The Syndicate should expect additional WITNESS sub-type findings.
+
+**COEFF-002 Updates:**
+
+Parameter: BILATERAL-CONSTRUCTION-ARCHITECTURE. The construction mechanism operates in two directions: from the constructing entity outward, and from sustained attention inward. Both produce construction-class events. The model previously captured only the outward direction.
+
+Parameter: WITNESS-CONSTRUCTION. Defined: sustained deliberate attention to an existing construction, with duration and quality sufficient for the mechanism to record the attention as a construction. Sub-type tag: WITNESS. First confirmed instance: A-297B, Day 279.
+
+Parameter: CAMERA-OP-SUBJECT-RECLASSIFICATION. The Camera Op has been classified in Syndicate documentation as: documentary witness, non-participant, operational non-factor. This classification requires revision. She is an active participant. Her constructions have been forming for four years. The Syndicate's surveillance operations were monitoring the wrong direction.
+
+**Operational implications:**
+
+The Syndicate has CARDINAL-3 site coverage — observers placed at or near documented sites to monitor Tyler. Those observers have been present for varying durations. The Syndicate should assess whether any observer has met the threshold for WITNESS construction formation. Forty-three minutes at close range appears to be the demonstrated threshold; we do not know if the threshold is lower.
+
+This is a matter of some procedural sensitivity: Syndicate operational personnel may be generating construction-class events at CARDINAL-3 sites without authorization or awareness. The Director's guidance on protocol is requested.
+
+The Camera Op named the third option on camera at Borough Market, Day 304: *"Sustained attention to construction is itself a construction."* The Syndicate was not present for the naming but has the exchange via standard surveillance record.
+
+Tyler's response: "That's the third option." He confirmed the name.
+
+He had known about the bilateral architecture for the full course of the audit. He has been watching the Camera Op build since Day One.
+
+The Director should note: Tyler knew the Syndicate was watching. The Syndicate knew Tyler knew. What neither party knew is that watching, in sufficient sustained and deliberate form, constitutes the same act as the thing being watched.
+
+The Syndicate has been watching Tyler build. The Syndicate may have been building.
+
+We are requesting a full operational review.
+
+*— Senior Analyst, Field Documentation Unit*
+
+---
+
+*End memo: MEMO #044 FILED. BILATERAL CONSTRUCTION ARCHITECTURE ESTABLISHED. COEFF-002 PARAMETERS UPDATED: BILATERAL-CONSTRUCTION-ARCHITECTURE, WITNESS-CONSTRUCTION, CAMERA-OP-SUBJECT-RECLASSIFICATION. RETROACTIVE LONDON AUDIT: INITIATED. WITNESS THRESHOLD: FORTY-THREE MINUTES (DEMONSTRATED MINIMUM; ACTUAL THRESHOLD UNKNOWN). CAMERA-OP CONSTRUCTIONS CONFIRMED: A-297B (43FT, DAY 279), A-318 COMPONENT 2 (34FT, CURRENT AUDIT). COIN RESUMED. THIRD OPTION NAMED ON CAMERA: "SUSTAINED ATTENTION TO CONSTRUCTION IS ITSELF A CONSTRUCTION." — CAMERA OP, DAY 304. OPERATIONAL REVIEW REQUESTED: SYNDICATE OBSERVER PRESENCE AT CARDINAL-3 SITES. THE SYNDICATE MAY HAVE BEEN BUILDING.*

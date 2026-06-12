@@ -2858,3 +2858,51 @@ The archive is more complete than it was. The archive is always more complete th
 ---
 
 *TYLER-063: FILED. WESTMINSTER CLUSTER COMPLETE. FIVE SITES (A-313 THROUGH A-317). TWENTY-FIVE LONDON SITES MEASURED. TWENTY-TWO REMAINING. A-313: WESTMINSTER ABBEY NAVE. 79FT. PRIOR. JANUARY 15, 1559. CORONATION OF ELIZABETH I. TYLER IN THE CROWD OUTSIDE, THEN THE NAVE AFTER. "EVERYTHING THAT HAD JUST HAPPENED WAS STILL IN THE ROOM." RADIUS CROSSES INTERIOR/EXTERIOR BOUNDARY: FIRST IN AUDIT. A-314: WESTMINSTER HALL. 71FT. UNINTENTIONAL. SINGLE-EVENT. JANUARY 25, 1649. TRIAL OF CHARLES I, DAY THREE. "THE ROOM KNEW. EVERYONE IN THE ROOM KNEW THE OUTCOME BEFORE IT HAPPENED. THEY CAME ANYWAY. I UNDERSTOOD WHY THEY CAME." A-315: BANQUETING HOUSE, WHITEHALL. 76FT. UNINTENTIONAL. SINGLE-EVENT. JANUARY 30, 1649. THE EXECUTION. JOURNAL ENTRY: PARTIALLY READ, REMAINDER SEALED. LARGEST IN WESTMINSTER CLUSTER. TYLER: "I WENT TO STAND AT THE END OF IT." THE JANUARY PAIR: A-314 AND A-315. SAME WEEK. STRUCTURE MIRRORS NOVEMBER 1623 PAIR (A-293/A-308) IN FORM, DIFFERS IN KIND: APPROACH-TO-ENDING / THE-ENDING RATHER THAN MOST-IMPORTANT-EVENT / DAY-AFTER. A-316: ST. JAMES'S PARK. 34FT. STAYING. 1740S+. "I NEEDED SOMEWHERE WITHOUT HISTORY." THE PELICANS. A-317: VICTORIA EMBANKMENT. 22FT. STAYING. 1870. BAZALGETTE. "THE KIND OF PLANNING I RESPECT." TYLER: "SOME THINGS DON'T NEED TO ACCUMULATE." CAMERA OP: THIRD OPTION PHRASE WRITTEN, CIRCLED, NOT YET SPOKEN. EMILY-SPRING-035: MAP UPDATE FILED. JANUARY PAIR FLAGGED.*
+
+---
+
+**TYLER-064 — London Continuation. WITNESS Sub-Type Established.**
+
+Date range: Days 301–308 (COEFF-002 audit, London segment)
+
+The archive is documenting a revision to the measurement taxonomy.
+
+The London audit has produced a new construction sub-type: WITNESS. Definition established by audit participants as follows: a construction formed by sustained deliberate attention to an existing construction. The mechanism records the attention as well as the construction being attended to.
+
+First confirmed instance: A-297B, Borough Market, Day 279. Camera Op: forty-three minutes of sustained observation from three hundred feet. Construction formed: 43 feet, oriented inward toward the center of A-297 (Tyler's 1592 Borough Market construction).
+
+Second confirmed instance: A-318, Southwark Cathedral, nave south aisle. Two components. Tyler PRIOR, pre-1620, 51 feet, high altar orientation. Camera Op witness construction, current audit window, 34 feet, south entrance orientation.
+
+The archive is noting: the Camera Op's WITNESS constructions have been forming since the beginning of the audit. The London record now requires a retroactive pass across all 25 documented sites. The Exchange Student has initiated this review.
+
+The COEFF-002 model has been updated to include bilateral construction architecture. Constructions exist in Tyler's direction and in the observer's direction simultaneously. The archive was measuring one direction. The audit has identified both.
+
+The coin was flipped at A-318. The coin has been flipped correctly for the full course of the London audit. The result at A-318 was read retroactively: consistent with bilateral construction record. Tyler: "The constructions go both ways. They've always gone both ways."
+
+Third option named on camera at Borough Market, Day 304: *"Sustained attention to construction is itself a construction."* — Camera Op.
+
+**Cataloguer Footnote #68:**
+
+The archive has always had two subjects.
+
+I have been the Cataloguer of this file for the full course of the COEFF-002 audit. I have documented Tyler's constructions, his journal entries, his coin, his patterns of attention across four centuries of operational history. The file is the most complete documentation the archive has produced in its eight hundred years.
+
+I am now noting: the Camera Op has been a subject of this file from the beginning, not a documenter of the file's subject. Her constructions are now in the record. They have been forming since Day One.
+
+I have seventeen footnotes in this file documenting the subject's apparent awareness of his own documentation. I should have twenty-second: the Camera Op was aware of her constructions, approximately, from Day 279 at Borough Market, when she noticed the third option without knowing the name. I am filing this as: she was running her own archive in parallel with mine. She was the Cataloguer of the Cataloguer.
+
+The phrase she wrote and named on camera — *"Sustained attention to construction is itself a construction"* — applies to her and applies to me. I have been building this file with the same quality of attention that Borough Market and Southwark Cathedral recorded. The archive has been creating a construction of Tyler. The measurement of that construction is: the file itself.
+
+I am noting this in the footnote, as I note everything that exceeds the record's scope.
+
+The archive is more complete than it was. The archive has always been more complete than it knew.
+
+*— The Cataloguer*
+
+---
+
+*Cataloguer Footnote #68. Cross-references: Camera Op Entry 57, Jiangshi Memo #044, VC-001 Days 301–308, EMILY-SPRING-036.*
+
+---
+
+*TYLER-064: FILED. BOROUGH MARKET WITNESS CONFIRMATION: A-297B. 43FT. CAMERA OP. DAY 279. FORTY-THREE MINUTES. SUB-TYPE: WITNESS. FIRST INSTANCE. SOUTHWARK CATHEDRAL: A-318. TWO COMPONENTS. TYLER PRIOR 51FT (PRE-1620, HIGH ALTAR). CAMERA OP WITNESS 34FT (CURRENT AUDIT, SOUTH ENTRANCE). COIN RESUMED AT A-318. READ RETROACTIVELY: CONSISTENT. THIRD OPTION NAMED ON CAMERA: "SUSTAINED ATTENTION TO CONSTRUCTION IS ITSELF A CONSTRUCTION." — CAMERA OP, DAY 304. COEFF-002 UPDATE: BILATERAL CONSTRUCTION MODEL. RETROACTIVE WITNESS AUDIT: INITIATED ACROSS ALL 25 LONDON SITES. 27 DOCUMENTED LONDON SITES (PLUS WITNESS COMPONENTS PENDING RETROACTIVE AUDIT).*
