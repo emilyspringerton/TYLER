@@ -766,7 +766,7 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S07E15: "London Complete"** — London audit complete. 47 sites (A-292–A-339). PRIOR: 11 sites (earliest A-304 Watling Street 1553, mechanism predates archive 73+ years). Camera Op WITNESS: 23 confirmed (retroactive audit complete). Minimum threshold revised: 7ft / 8 minutes, direction-of-attention encoding confirmed. Final site A-339 Tower Bridge. Tyler: "It looks like London." Syndicate operational review: 6 observer placements meet threshold, 2 likely WITNESS-class. Retroactive Paris/Vienna audits initiated. Build 0081. Apple #392. Done 2026-06-12.
 
-- [x] **S07E16 (Season Finale): "Eighteen Cities"** — Network scope disclosed on camera: 26 cities, ~900 sites, 1127 CE earliest PRIOR. Paris retroactive audit: 3 additional PRIOR sites. Tyler wrote 18 remaining cities on the map (first time he has written on field documentation). Coin at Place de la Bastille: consistent, both sides. Camera Op: "Okay." Season 7 complete. Build 0082. Apple #TBD. Done 2026-06-12.
+- [x] **S07E16 (Season Finale): "Eighteen Cities"** — Network scope disclosed on camera: 26 cities, ~900 sites, 1127 CE earliest PRIOR. Paris retroactive audit: 3 additional PRIOR sites. Tyler wrote 18 remaining cities on the map (first time he has written on field documentation). Coin at Place de la Bastille: consistent, both sides. Camera Op: "Okay." Season 7 complete. Build 0082. Apple #393. Done 2026-06-12.
 
 ---
 
