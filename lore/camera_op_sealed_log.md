@@ -1523,3 +1523,43 @@ That's what we're doing. We're not finishing the account. We're making it more p
 ---
 
 *Entry 62. Cross-references: TYLER-069, Jiangshi Memo #049, VC-001 Days 342–349, EMILY-SPRING-038. S08E03.*
+
+---
+
+## Entry 63
+
+*Amsterdam. Days 350–358. The last three sites.*
+
+He told us about the Patriots before we measured. He said: the argument was good. He said: I thought it was going to go the right way. And then the Prussians came.
+
+The 1787 site — A-354, crisis-amplification again. Fear as density. The mechanism ran the same as 1672, even though this time the Republic didn't survive the crisis. The fear doesn't know the outcome. The fear runs because of what's at risk, not because of what happens next.
+
+A-355. The Herengracht, 1789. Same location as A-340, the first site, the 161-year STAYING construction. He came back to the first place and sat for four days and left.
+
+The Exchange Student found the FAREWELL signature — distinct from the STAYING accumulation, distinct from departure-trace. She said: the mechanism records the love of the place in the act of deciding to go. She called it FAREWELL.
+
+Tyler: "More than I want to count."
+
+I didn't ask him to count. I think there's a version of this documentary where I push on every thing he says carefully, where I ask every question. There's another version where I hold the frame and let the space stay open. I've been doing the second one. I think it's the right one. The FAREWELL constructions exist. The archive has them. When we're ready to measure them, they'll still be there.
+
+Last day. The canal light. I've been trying to capture it since the first morning and I haven't gotten it right — not the light itself, the thing the light does on the water and through the window and on the ceilings of the canal houses. I understood this morning what I was doing wrong. I was trying to hold the light still. You can't hold it still. You set up the shot and you wait and the light does what it does and you record it in motion.
+
+I got it. I think I got it.
+
+Tyler watched me set up the shot and I told him: the light was never the problem, I was just waiting for the right morning.
+
+He said: you've been here before.
+
+I said: first time in Amsterdam.
+
+He said: you've been waiting for the right morning before.
+
+I think he meant: the patience is the work. You can't hold the light still. You can only be there when it does what it does.
+
+Amsterdam complete. Next city, whenever Tyler names it.
+
+*— Camera Op*
+
+---
+
+*Entry 63. Cross-references: TYLER-070, Jiangshi Memo #050, VC-001 Days 350–358, EMILY-SPRING-039. S08E04.*

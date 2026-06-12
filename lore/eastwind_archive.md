@@ -3112,3 +3112,34 @@ J.H.P. proposed as Prior Correspondent in the credits. Director approved.
 ---
 
 *TYLER-069: FILED. RAMPJAAR CLUSTER COMPLETE. A-343–A-352. 247FT. CRISIS-AMPLIFICATION COEFFICIENT 1.38. "FEAR IS THE DENSITY." J.H.P.: PRIOR CORRESPONDENT. THE REPUBLIC SURVIVED. BUILD 0085.*
+
+---
+
+## TYLER-070
+
+**Cataloguer Entry 53 / Footnote #74**
+*Amsterdam, Day 358. The light was never the problem.*
+
+Amsterdam complete. Final cluster filed.
+
+**A-353**: Prinsengracht, 1785, 12 days, 31ft. The Patriot movement. Tyler present for the city deciding who it was. FOUND construction — information-seeking at a civic decision point. He thought the argument was going to prevail. The argument was good.
+
+**A-354**: Keizersgracht, 1787, 11 days, 44ft. The Prussian suppression. Crisis-amplification — fear during the ending of the argument. The coefficient ran the same as 1672. The mechanism doesn't know whether the crisis is survived. The fear is the density. In 1672 the Republic survived; in 1787 the argument didn't. The mechanism recorded the same fear against two different outcomes.
+
+**A-355**: Herengracht, 1789, 4 days. The return to the first site, A-340. Tyler at the Golden Bend. Sitting by the canal for four days, looking at the water, leaving.
+
+New construction type: **FAREWELL**. A construction formed by sustained presence at a site in the act of voluntary departure. The mechanism records the love of the place in the act of deciding to go. Not REFUSAL (which declines to amplify). Not DEPARTURE-TRACE (which records someone else's leaving). FAREWELL is: you, at the place, while ending your staying there.
+
+Tyler, asked how many FAREWELLs are in the archive: "More than I want to count."
+
+The archive may contain FAREWELLs at every city Tyler has visited and left. The full network is larger than we knew in a direction we haven't measured.
+
+The Camera Op finally captured the canal light on the last day. She said: "I stopped trying to hold it. The light was never the problem. I was just waiting for the right morning."
+
+Tyler watching her set up the shot. Tyler, who has been in this city since 1628 and left it in 1789 and came back 237 years later, watching the Camera Op find the light he had always known was there.
+
+*Cataloguer Footnote #74. Cross-references: Camera Op Entry 63, Jiangshi Memo #050, VC-001 Days 350–358, EMILY-SPRING-039.*
+
+---
+
+*TYLER-070: FILED. AMSTERDAM COMPLETE. 31 SITES. THE FAREWELL. THE LIGHT WAS NEVER THE PROBLEM. BUILD 0086.*

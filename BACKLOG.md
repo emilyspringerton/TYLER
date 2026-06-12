@@ -778,7 +778,7 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E03: "The Rampjaar"** — 1672 Amsterdam cluster. J.H.P.'s twelve-page log decoded. Sites A-343–A-352, 247ft, crisis-amplification coefficient 1.38. "I was afraid of losing it." COEFF-002 revision: attention density as primary variable. J.H.P. credited as Prior Correspondent. Tyler at A-352: "The account is ongoing." Build 0085. Apple #400. Done 2026-06-12.
 
-- [ ] **S08E04: "The Ending"** — The 1789 Amsterdam story disclosed. Tyler visits the sites from his last Amsterdam period — 1785–1789, Patriot Revolution and suppression. The Orange restoration. The Republic ending. Tyler's final three notations before the 237-year absence. He measures sites he didn't measure then, because then he was leaving. The construction from the departure itself — if any — would be a REFUSAL or a variant not yet in the taxonomy. Tyler on the city ending: "I don't stay for endings. I stayed for the near-ending in 1672. In 1789 it wasn't near." Camera Op: "What's the construction from leaving?" Build 0086.
+- [x] **S08E04: "The Ending"** — Amsterdam final cluster: A-353–A-355. Patriot period 1785–1789. FAREWELL type introduced: construction from sustained presence in the act of voluntary departure. Tyler: "More than I want to count." Camera Op captures canal light. Amsterdam complete. Build 0086. Apple #401. Done 2026-06-12.
 
 ---
 

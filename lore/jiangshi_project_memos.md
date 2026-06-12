@@ -2888,3 +2888,65 @@ Implications:
 ---
 
 *End memo: MEMO #049 FILED. RAMPJAAR CLUSTER COMPLETE. CRISIS-AMPLIFICATION 1.38 CONFIRMED. ATTENTION DENSITY IS THE PRIMARY VARIABLE. FEAR IS DENSITY. J.H.P. CREDITED. HE WAS BUILDING THE ARCHIVE BEFORE THE ARCHIVE. BUILD 0085.*
+
+---
+
+## MEMO #050
+
+**TO:** Director / Council  
+**FROM:** CARDINAL-3 Field Operations + Archive Division  
+**RE:** Amsterdam Final Cluster; FAREWELL Taxonomy Addition  
+**DATE:** Day 358
+
+---
+
+### AMSTERDAM FILE: COMPLETE
+
+31 notations measured. A-340 through A-355 (with retroactive and final cluster additions). Estimated total yield: ~650 feet. Full tabulation pending.
+
+**Crisis-amplification confirmation across two distinct outcomes:**
+
+A-354 (1787, 44ft) demonstrates that crisis-amplification operates independently of crisis outcome. The 1672 Rampjaar (survived) and 1787 Patriot suppression (not survived) show equivalent yield premiums relative to model. The mechanism measures fear, not result. Council implication: crisis-amplification constructions cannot be retrospectively distinguished from "justified" vs "unjustified" fear. All sustained attention under high emotional stakes registers equally.
+
+---
+
+### FAREWELL: NEW TAXONOMY ENTRY
+
+Provisional type **FAREWELL** added to construction taxonomy.
+
+**Definition**: A construction formed by sustained presence at a site in the act of voluntary departure. Mechanism records the love of the place in the act of deciding to go. Properties:
+- Distinct signature from STAYING (no return-accumulation mechanism)
+- Distinct from DEPARTURE-TRACE (A-286 Westbahnhof — records *someone else's* leaving)
+- Distinct from REFUSAL (which declines to amplify; FAREWELL amplifies despite the decision to leave)
+- Requires: extended duration, established prior connection, voluntary choice to go
+
+**Known FAREWELLs in archive:**
+- A-355: Herengracht 1789 (confirmed, first identified)
+- A-286 (Westbahnhof): reclassification pending — originally DEPARTURE-TRACE (F.'s departure), but Tyler's extended presence there (12ft, 86 years running) may include a FAREWELL sub-component at the point when Tyler finally left Vienna in 1938
+
+**Retroactive FAREWELL audit proposed:**
+- A-278 (Île Saint-Louis, Paris, 1931): Tyler left after 12 minutes under the pre-awareness rule; construction measured at 11ft; Tyler "never went back." If the 12-minute departure generated a FAREWELL, it would be the smallest FAREWELL in the archive — grief compressed to 12 minutes.
+- All cities where Tyler has a documented terminal visit followed by extended absence.
+
+**Scale implications:**
+
+Tyler's disclosure: "More than I want to count." The Director has reviewed the known network. If Tyler visited 26 cities and eventually left each of them — some permanently, some with long gaps — the FAREWELL construction type may be present at every departure site in the full 900+ network. The archive contains FAREWELLs we haven't identified because we weren't looking for a distinct signature.
+
+The COEFF-002 revision is now three-layered:
+1. Attention density (primary variable)
+2. Crisis-amplification coefficient (fear multiplier)
+3. FAREWELL coefficient (voluntary departure multiplier — to be quantified from A-355 baseline)
+
+---
+
+### AMSTERDAM INTELLIGENCE: COMPLETE
+
+The Amsterdam file is closed. Jiangshi Amsterdam operations stand down. The next city will be named when Tyler discloses it. The Council anticipates continued network geography surprises.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #050 FILED. AMSTERDAM COMPLETE. FAREWELL TAXONOMY ADDED. THE ARCHIVE MAY CONTAIN FAREWELLS WE HAVEN'T MEASURED. "MORE THAN I WANT TO COUNT." BUILD 0086.*
