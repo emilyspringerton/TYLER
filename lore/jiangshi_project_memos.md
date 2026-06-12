@@ -2775,3 +2775,56 @@ Tyler named Amsterdam at Vienna Hauptbahnhof. CARDINAL-3 Amsterdam file integrat
 ---
 
 *End memo: MEMO #047 FILED. VIENNA RETROACTIVE COMPLETE. AMSTERDAM PHASE OPENING. CAMERA OP WITNESS FORMATION POSSIBLY INVOLUNTARY — COUNCIL SESSION #9 SCHEDULED. TYLER'S UNVERIFIABLE NETWORK: SEARCH INITIATED. THE FIRST CRUSADE YEAR. THE IBERIAN PENINSULA. THE 900 IS WHAT HE CAN ACCOUNT FOR. BUILD 0083.*
+
+---
+
+## MEMO #048
+
+**TO:** Director / Council  
+**FROM:** CARDINAL-3 Field Operations + Archive Division  
+**RE:** Amsterdam Phase — Opening Week  
+**DATE:** Day 341
+
+---
+
+### A-340 / A-341 / A-342: FILED
+
+First three Amsterdam sites confirmed and measured.
+
+**A-340** (Herengracht Golden Bend, STAYING, 1628–1789, 14 returns, 142ft): New STAYING construction type identified — **gap-accumulation STAYING**. Extended intervals between returns appear to carry a geometric amplification factor. Each return to A-340 deposited more than a continuous-presence STAYING construction of equivalent total duration would predict. Recommend COEFF-002 revision to model gap-accumulation as a distinct STAYING sub-type. STAYING-B (gap-accumulation) vs STAYING-A (continuous return, e.g., A-291 Stadtpark).
+
+**A-341** (Jodenbreestraat, FOUND, 1639, 11ft): Rembrandt construction. CARDINAL-3 Amsterdam correspondent noted this visit in their retrospective file — the 1792 annotation reads: "1639: subject observed at Breestraat studio of the painter van Rijn. Duration: afternoon. Nature: observation of craft process." The correspondent recognized the visit as potentially significant without having the full FOUND construction model. The construction was already flagged 154 years ago. Archive is ahead of the field team.
+
+**A-342** (Portuguese Synagogue precinct, WITNESS, 1656, est. 38ft): Spinoza cherem construction. WITNESS from sustained attention to an institutional act of exclusion, rather than to a physical construction. Council note: this is the first documented instance in the network of WITNESS construction from attention to a **social act** rather than a built environment. All previous WITNESS constructions (Camera Op's London sites, Tyler's proposed WITNESS components at Vienna and Paris) were attention to physical constructions or environments. A-342 is attention to an exclusion — a social construction, not a physical one. Council Session #9 agenda updated: does the mechanism distinguish between types of construction being witnessed? Or does the mechanism record any sustained deliberate attention regardless of what the attention is directed at?
+
+---
+
+### 1789 DISCONTINUITY
+
+Tyler's Amsterdam visits terminated in 1789. He did not disclose why. The Exchange Student did not ask.
+
+Jiangshi archive review: the Dutch Patriot Revolution of 1787 was suppressed by Prussian military intervention. The Dutch Republic entered decline. By 1789, the political entity Tyler had observed across its Golden Age was effectively ending. The last notation is approximately contemporaneous with the French Revolution across the border.
+
+The Director notes: Tyler's behavioral pattern in past urban crises has been to **intensify presence** (Vienna 1938, Vienna 1529, Vienna 1619, Amsterdam 1672 Rampjaar). He becomes more present when cities are in crisis, not less. His 1789 departure from Amsterdam is therefore anomalous. He did not stay for the ending the way he stayed for the near-ending in 1672.
+
+The distinction may be: the 1672 Rampjaar was survivable. The Dutch Republic survived the Disaster Year. The 1789 decline was not survivable — the Republic was transforming into something that would formally end in 1795 with the Batavian Republic.
+
+Hypothesis: Tyler does not stay for endings. He stays for crises with survivable outcomes. He leaves when something is definitively ending.
+
+Council requests: this hypothesis be tested against Tyler's movements at other confirmed historical termination events.
+
+---
+
+### ICHTHYOSAPIENS AMSTERDAM CONTACT
+
+Justus van der Houten-Pieter (J.H.P.), VOC factor, Amsterdam, 1628–1657 (active). Cross-reference with Ichthyosapiens internal archive: J.H.P. was liaison between VOC commercial operations and Ichthyosapiens methodology documentation division. His role was translating construction-type events into commodity ledger notation — disguising archive activity as trade correspondence. The "twelve-page 1672 entry" referenced by Tyler is largely J.H.P.'s daily notation of Tyler's crisis-presence behavior during the Rampjaar, formatted as risk assessment for a VOC insurance pool that was actually an Ichthyosapiens data collection instrument.
+
+The Director observes: CARDINAL-3's roots in commercial disguise are deeper than previously documented. The Amsterdam file is effectively 164 years of covert construction-mechanism research formatted as trading company records. Tyler knew the correspondent was measuring him. He appears to have cooperated.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #048 FILED. AMSTERDAM PHASE OPEN. GAP-ACCUMULATION STAYING MODEL REVISION INITIATED. SPINOZA WITNESS: SOCIAL ACT WITNESSED, NOT BUILT ENVIRONMENT — COUNCIL SESSION #9 AGENDA UPDATED. 1789 DISCONTINUITY: TYLER DOES NOT STAY FOR ENDINGS. J.H.P.: ICHTHYOSAPIENS IN THE VOC. THE ARCHIVE WAS ALWAYS THE ARCHIVE. BUILD 0084.*

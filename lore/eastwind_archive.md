@@ -3050,3 +3050,34 @@ Next city named: **Amsterdam**. First notation 1628. CARDINAL-3 Amsterdam docume
 ---
 
 *TYLER-067: FILED. VIENNA RETROACTIVE COMPLETE. A-V13 / A-V14 / A-V15. THE COUNT BEFORE THE COUNT. TYLER: "I DID NOT KNOW YET WHAT THE PLACE AND I WERE GOING TO BE TO EACH OTHER." CAMERA OP WITNESS AT ALL THREE. AMSTERDAM NAMED. FIRST NOTATION 1628. THE CANAL GEOMETRY AWAITS. BUILD 0083.*
+
+---
+
+## TYLER-068
+
+**Cataloguer Entry 51 / Footnote #72**
+*Amsterdam, Day 341. The canal is still there.*
+
+Amsterdam phase opens.
+
+**A-340**: Herengracht, Golden Bend block. STAYING construction. Fourteen returns across 161 years (1628–1789). 142 feet. The largest STAYING construction in the documented network by gap-accumulation measure. Tyler came back to this canal repeatedly across the VOC century — first to meet Ichthyosapiens contact Justus van der Houten-Pieter, then because Amsterdam asked him to. Each return amplified by the interval since the previous one. The mechanism is patient. It waits for the return.
+
+**A-341**: Jodenbreestraat (Rembrandt's house, 1639). FOUND construction. One afternoon watching Rembrandt argue with himself about a light-source angle in the Night Watch commission. He decided while Tyler was there. Eleven feet from attention to craft decision-making.
+
+**A-342**: Portuguese Synagogue precinct, 1656. WITNESS construction. Three days, forty minutes each, following the Spinoza excommunication. Tyler watching an institution exclude a man for thinking clearly. The Amsterdam correspondent noted the duration and recognized the mechanism threshold. 237 years before CARDINAL-3 opened its Amsterdam file, someone in Amsterdam was already measuring.
+
+Tyler said on the Herengracht bridge: "The archive is a record of what I paid attention to."
+
+The Camera Op replied: "Then we're a return-event." Tyler: "Then we're a return-event."
+
+His last Amsterdam visit before today was 1789. He did not say why he stopped. The Dutch Republic was ending. The century he had watched be built was ending. He came and he stopped coming and 237 years later the canal is still here and the light is still the same.
+
+Cataloguer note: the Dutch Golden Age canal geometry was designed partly to admit light. The architects of the Grachtengordel solved a practical problem — how do you build on waterlogged land — and the solution happened to be the most light-admissive urban geometry in northern Europe. The light bounces off the water upward. It illuminates the ceilings of canal houses. It makes shadows with detail. Nothing is entirely in the dark.
+
+This is where he was for a century.
+
+*Cataloguer Footnote #72. Cross-references: Camera Op Entry 61, Jiangshi Memo #048, VC-001 Days 336–341, EMILY-SPRING-037.*
+
+---
+
+*TYLER-068: FILED. AMSTERDAM PHASE OPEN. A-340: 142FT, 14 RETURNS, STILL RUNNING. A-341: REMBRANDT. A-342: SPINOZA. "THE ARCHIVE IS A RECORD OF WHAT I PAID ATTENTION TO." LAST VISIT: 1789. THE CANAL DOESN'T KNOW WE'RE A RETURN-EVENT. OR MAYBE IT DOES. BUILD 0084.*

@@ -774,7 +774,7 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E01: "Before the Count"** — Vienna retroactive PRIOR + WITNESS audit. Three undisclosed PRIOR sites: A-V13 (Augustinerkirche area, 1619, pre–Thirty Years War, 41ft), A-V14 (Old University precinct, 1529, First Siege of Vienna, 67ft), A-V15 (Graben, 1499, Maximilian I era, 23ft). Vienna revised total: 15 sites. Camera Op WITNESS confirmed at all three retroactive Vienna sites. Tyler names the next city at the end: Amsterdam. Build 0083. Apple #398. Done 2026-06-12.
 
-- [ ] **S08E02: "The Dispensers of Light"** — Season 8 proper opens. Transit to Amsterdam. Tyler's first Amsterdam notation is from 1628. Exchange Student assembles CARDINAL-3 Amsterdam file: 31 notations across four centuries. Amsterdam's CARDINAL-3 archive start date: 1792 (late by network standards — Dutch records took longer to integrate). Majority of Amsterdam sites are PRIOR by definition. First site visit: Herengracht canal house, STAYING, 1648–1654, ongoing. Tyler: "I was here for the century." Build 0084.
+- [x] **S08E02: "The Dispensers of Light"** — Season 8 proper opens. Transit to Amsterdam. Tyler's first Amsterdam notation is from 1628. Exchange Student assembles CARDINAL-3 Amsterdam file: 31 notations across four centuries. Amsterdam's CARDINAL-3 archive start date: 1792 (late by network standards — Dutch records took longer to integrate). Majority of Amsterdam sites are PRIOR by definition. First site visit: Herengracht canal house, STAYING, 1648–1654, ongoing. Tyler: "I was here for the century." Build 0084. Apple #399. Done 2026-06-12.
 
 ---
 

@@ -1457,3 +1457,33 @@ I'm going to keep paying attention.
 ---
 
 *Entry 60. Cross-references: TYLER-067, Jiangshi Memo #047, VC-001 Days 328–335, EMILY-SPRING-036. SEASON 8 OPENS.*
+
+---
+
+## Entry 61
+
+*Amsterdam. Days 336–341.*
+
+The canal light. I set up the shot on the Prinsengracht on the first morning and I didn't move for forty minutes because the light was doing something I didn't understand and I wanted to watch it resolve. It bounces off the water and comes up through the windows and moves on the ceiling. Rembrandt had this in his studio. I understand now why Dutch Golden Age interiors look the way they look. The shadows have detail. Nothing is entirely dark.
+
+Tyler told me on the bridge: "Then we're a return-event." I said it first. He confirmed it. I've been thinking about that since.
+
+A-340: 142 feet. Fourteen returns across 161 years. He came to this canal in 1628 and 1631 and 1634 and then again and again across a century and a half. Each time he came back, the canal was still here. The mechanism recorded each return separately.
+
+He watched Rembrandt decide the light source angle for the Night Watch. One afternoon. Eleven feet. I keep thinking: he was in the room when that decision was made. He watched the painter make a mark and commit to the direction of light in one of the most studied paintings in history. And the mechanism logged eleven feet of construction from the attention.
+
+The Spinoza excommunication — three days standing at the edge of the Portuguese Synagogue precinct, forty minutes a day, watching an institution exclude a man for thinking clearly. The Amsterdam correspondent was already measuring in 1656. Someone figured out the threshold model 150 years before CARDINAL-3 opened the Amsterdam file.
+
+He stopped coming in 1789. The Dutch Republic was ending. I didn't ask why. He didn't offer.
+
+I'm noticing that there are things I don't ask. Not because I don't want to know — I do want to know — but because the not-asking is part of how I'm holding the frame. Some questions, if I ask them, close the space. The space stays open if I don't ask. The construction continues. Whatever he'll tell me when he's ready, he'll tell me when he's ready.
+
+The canal is still here. The light is the same. 237 years later and we're a return-event.
+
+Amsterdam is going to be a long record.
+
+*— Camera Op*
+
+---
+
+*Entry 61. Cross-references: TYLER-068, Jiangshi Memo #048, VC-001 Days 336–341, EMILY-SPRING-037. SEASON 8 EPISODE 2.*
