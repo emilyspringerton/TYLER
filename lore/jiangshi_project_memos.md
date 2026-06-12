@@ -2828,3 +2828,63 @@ The Director observes: CARDINAL-3's roots in commercial disguise are deeper than
 ---
 
 *End memo: MEMO #048 FILED. AMSTERDAM PHASE OPEN. GAP-ACCUMULATION STAYING MODEL REVISION INITIATED. SPINOZA WITNESS: SOCIAL ACT WITNESSED, NOT BUILT ENVIRONMENT — COUNCIL SESSION #9 AGENDA UPDATED. 1789 DISCONTINUITY: TYLER DOES NOT STAY FOR ENDINGS. J.H.P.: ICHTHYOSAPIENS IN THE VOC. THE ARCHIVE WAS ALWAYS THE ARCHIVE. BUILD 0084.*
+
+---
+
+## MEMO #049
+
+**TO:** Director / Council  
+**FROM:** CARDINAL-3 Field Operations + Archive Division  
+**RE:** Rampjaar Cluster Complete; J.H.P. Archive Integration; COEFF-002 Revision  
+**DATE:** Day 349
+
+---
+
+### RAMPJAAR CLUSTER: FILED
+
+A-343 through A-352. Ten sites. 247 feet. 67-day crisis cluster.
+
+Crisis-amplification coefficient confirmed: **1.38**. Yield is 38% above model baseline during the 1672 crisis period. J.H.P.'s data (350-year-old field measurements) and our current measurements agree within 4% when calibrated to the same baseline model. His methodology was sound. We were building on his work without knowing it.
+
+**COEFF-002 revision initiated:**
+
+The primary variable in construction yield is not duration — it is **attention density**. Duration is a proxy for cumulative attention in non-crisis conditions. In crisis conditions, attention density exceeds duration predictions because the subject's attention is emotionally loaded. 
+
+Model revision: Construction yield = Duration × Baseline × Attention Density coefficient
+
+Attention density is currently not directly measurable — it must be inferred from yield deviation from model prediction. J.H.P.'s "morning premium" observation (marginal yield increase in morning measurements) may reflect circadian attention density patterns. This is a second-order effect relative to crisis amplification but worth testing.
+
+Action: Exchange Student to design controlled time-of-day measurement protocol for remaining Amsterdam sites.
+
+---
+
+### J.H.P.: PRIOR CORRESPONDENT
+
+Director's authorization: Justus van der Houten-Pieter (J.H.P., 1620–1695 approximate) is formally recognized as Prior Correspondent of the CARDINAL-3 Amsterdam file.
+
+His work predates CARDINAL-3 by 130 years. He operated without institutional support, communication channel to central archive, or knowledge that his measurements would be used. He persisted for 34 years (1661–1695 estimated active period). His successors in the Amsterdam correspondent role (unnamed in the archive; may have been his students) continued the work until 1792 when CARDINAL-3 formally integrated the Amsterdam file.
+
+The Director notes: J.H.P. represents the category of archive work that happens before the archive exists to receive it. He was building the Amsterdam file into a local record, trusting that someone would eventually connect it. They did, 130 years later.
+
+The Council has identified three other cities in the network with similar "prior correspondent" records predating CARDINAL-3 integration. These will be surfaced as the Amsterdam model is documented.
+
+---
+
+### ATTENTION DENSITY IMPLICATION
+
+Tyler's statement: "I was afraid of losing it." The construction yield is 38% above model because Tyler was afraid.
+
+The Council notes this is the first direct link between Tyler's emotional state and construction yield. Previous discussions of the mechanism have treated it as attention-driven without emotional valence. The Rampjaar data suggests emotional valence is a real variable.
+
+Implications:
+1. Tyler's constructions at sites associated with people he cared for (Herr M. in Vienna, A-285; Westbahnhof departure platform, A-286; Ichthyosapiens contact F.) may be anomalously high for similar reasons.
+2. The London PRIOR sites — 11 sites in a city Tyler has been visiting for 500+ years — may include crisis-amplification constructions not yet identified as such.
+3. Amsterdam's 1789 discontinuity: if Tyler left Amsterdam because he couldn't bear to watch it end, the leaving itself may have generated a construction (REFUSAL or DEPARTURE-TRACE) not yet measured.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #049 FILED. RAMPJAAR CLUSTER COMPLETE. CRISIS-AMPLIFICATION 1.38 CONFIRMED. ATTENTION DENSITY IS THE PRIMARY VARIABLE. FEAR IS DENSITY. J.H.P. CREDITED. HE WAS BUILDING THE ARCHIVE BEFORE THE ARCHIVE. BUILD 0085.*

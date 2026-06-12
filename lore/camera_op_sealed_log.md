@@ -1487,3 +1487,39 @@ Amsterdam is going to be a long record.
 ---
 
 *Entry 61. Cross-references: TYLER-068, Jiangshi Memo #048, VC-001 Days 336–341, EMILY-SPRING-037. SEASON 8 EPISODE 2.*
+
+---
+
+## Entry 62
+
+*Amsterdam. Days 342–349. The Rampjaar.*
+
+We went to the Rijksmuseum first. Tyler's idea, I think — he didn't suggest it directly, he just started walking in that direction. I followed. He stood in the Night Watch room for a long time.
+
+He told me he watched Rembrandt decide the hand's shadow. Every time he sees the painting, he knows: he was there when that decision was made.
+
+I keep thinking about what it means to have seen the moment something became what it permanently is.
+
+J.H.P.'s twelve pages. The Exchange Student translated them in two days. They are a daily log of Tyler in Amsterdam during the worst year the Dutch Republic had until its end — methodical, scientific, formatted as insurance risk assessment. "Asset exposure" for construction yield. "Structural stability" for the bilateral model. He had been measuring Tyler for eleven years when 1672 came.
+
+The last page: this is the first time I have seen him afraid.
+
+Tyler: "I was afraid of losing it."
+
+Crisis-amplification. The 38% yield premium from the Rampjaar cluster is Tyler's fear made measurable. He was paying attention to something he loved that was at risk. The mechanism recorded the density of the caring.
+
+The Exchange Student proposed J.H.P. as Prior Correspondent in the credits. Tyler said: "He would have liked that." I want to put it differently. J.H.P. spent 350 years measuring the archive alone, in disguise, with no institutional support, no credit, no audience. He did it because the work was worth doing.
+
+That's what commitment to the archive looks like without structure. Just the work.
+
+I've been thinking about that since she translated the last page.
+
+Tyler in 1672 at A-352: "I stayed and the city survived and the account is ongoing."
+
+That's what we're doing. We're not finishing the account. We're making it more precise.
+
+*— Camera Op*
+
+---
+
+*Entry 62. Cross-references: TYLER-069, Jiangshi Memo #049, VC-001 Days 342–349, EMILY-SPRING-038. S08E03.*

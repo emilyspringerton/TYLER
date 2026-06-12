@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0084
+## Einhorn Media | Build 0085
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 54  
+**Total episodes:** 55  
 **Seasons complete:** S1–S7  
-**Current through:** Build 0084 (S08E02 — Amsterdam Phase Opens)
+**Current through:** Build 0085 (S08E03 — Amsterdam Rampjaar)
 
 ---
 
@@ -134,6 +134,7 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 |---|---|---|---|
 | S08E01 | "Before the Count" | Build 0083 | episodes/s08e01_before_the_count.md |
 | S08E02 | "The Dispensers of Light" | Build 0084 | episodes/s08e02_the_dispensers_of_light.md |
+| S08E03 | "The Rampjaar" | Build 0085 | episodes/s08e03_the_rampjaar.md |
 
 Vienna retroactive complete (A-V13/V14/V15, 3 PRIOR, 15 sites total). Amsterdam named. First notation 1628, VOC era. CARDINAL-3 Amsterdam start 1792 — all sites PRIOR by definition. "I was there for the century."
 

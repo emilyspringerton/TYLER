@@ -3081,3 +3081,34 @@ This is where he was for a century.
 ---
 
 *TYLER-068: FILED. AMSTERDAM PHASE OPEN. A-340: 142FT, 14 RETURNS, STILL RUNNING. A-341: REMBRANDT. A-342: SPINOZA. "THE ARCHIVE IS A RECORD OF WHAT I PAID ATTENTION TO." LAST VISIT: 1789. THE CANAL DOESN'T KNOW WE'RE A RETURN-EVENT. OR MAYBE IT DOES. BUILD 0084.*
+
+---
+
+## TYLER-069
+
+**Cataloguer Entry 52 / Footnote #73**
+*Amsterdam, Day 349. J.H.P. was here first.*
+
+Rampjaar cluster complete.
+
+The twelve-page entry in the CARDINAL-3 Amsterdam file, written by J.H.P. (Justus van der Houten-Pieter), is a day-by-day measurement log from the 1672 Disaster Year, formatted as VOC commodity insurance risk assessment. J.H.P. was running controlled observations. He had a precursor model. He was measuring Tyler's construction yield at multiple times of day to test the morning premium hypothesis. He was doing science, alone, in disguise, 350 years ago.
+
+A-343 through A-352: ten sites from the 67-day Rampjaar cluster. Total yield: 247 feet. The sites over-yield relative to COEFF-002 model by a factor the model doesn't account for. Crisis-amplification coefficient: 1.38. A 38% yield premium during the Disaster Year.
+
+Tyler's explanation: the fear. He was afraid of losing Amsterdam. He had been coming to Amsterdam for forty-four years. The Republic surviving mattered to him in a way that meant the attention was denser — loaded. The mechanism recorded the loading.
+
+J.H.P.'s final log entry: "This is the first time I have seen him afraid."
+
+He knew what he was seeing. He didn't have the model words but he knew what he was seeing.
+
+Tyler in 1672, writing at A-352 (the last day, the Prinsengracht near Westermarkt): "I stayed and the city survived and the account is not settled because the account is a different kind of thing than I thought it was."
+
+The account is ongoing.
+
+J.H.P. proposed as Prior Correspondent in the credits. Director approved.
+
+*Cataloguer Footnote #73. Cross-references: Camera Op Entry 62, Jiangshi Memo #049, VC-001 Days 342–349, EMILY-SPRING-038.*
+
+---
+
+*TYLER-069: FILED. RAMPJAAR CLUSTER COMPLETE. A-343–A-352. 247FT. CRISIS-AMPLIFICATION COEFFICIENT 1.38. "FEAR IS THE DENSITY." J.H.P.: PRIOR CORRESPONDENT. THE REPUBLIC SURVIVED. BUILD 0085.*
