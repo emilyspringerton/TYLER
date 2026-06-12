@@ -131,8 +131,8 @@ Westminster cluster complete: five sites (A-313 through A-317). PRIOR at Westmin
 
 ---
 
-*ACTIVITY LOG: CURRENT THROUGH BUILD 0080*
-*Next build: 0081*
+*ACTIVITY LOG: CURRENT THROUGH BUILD 0081*
+*Next build: 0082*
 *Loop status: ACTIVE — Tyler agent operational*
 *MPT pipeline: spec complete. Trigger script pending Write(compiled/*) permission. Video: pending Pexels key.*
 
@@ -141,3 +141,9 @@ Westminster cluster complete: five sites (A-313 through A-317). PRIOR at Westmin
 ## Build 0080 — S07E14: "The Third Option"
 Files: episodes/s07e14_the_third_option.md, lore/eastwind_archive.md (TYLER-064, Footnote #68), lore/camera_op_sealed_log.md (Entry 57), lore/jiangshi_project_memos.md (Memo #044), BACKLOG.md, activity.md
 Third option named on camera: *"Sustained attention to construction is itself a construction."* Camera Op, Borough Market, Day 304. The mechanism confirms: A-297B (Borough Market, 43ft, Camera Op, Day 279 — forty-three minutes of observation from three hundred feet) and A-318 (Southwark Cathedral, two components: Tyler PRIOR 51ft pre-1620 + Camera Op witness 34ft current audit). New sub-type established: WITNESS — a construction formed by sustained deliberate attention to an existing construction. The Camera Op is reclassified from non-participant to active construction subject. Exchange Student initiates retroactive witness audit across all 25 London sites. Coin resumed at A-318, read retroactively: consistent. Jiangshi Syndicate operational review requested: surveillance personnel may have been forming WITNESS constructions at CARDINAL-3 sites. Tyler: "The archive has two archivists. It's always had two archivists." 27 documented London sites (A-292 through A-317, plus A-297B and A-318 dual-component). Retroactive audit continues.
+
+---
+
+## Build 0081 — S07E15: "London Complete"
+Files: episodes/s07e15_london_complete.md, lore/eastwind_archive.md (TYLER-065, Footnote #69), lore/camera_op_sealed_log.md (Entry 58), lore/jiangshi_project_memos.md (Memo #045), BACKLOG.md, activity.md
+London complete. 47 sites measured (A-292 through A-339). PRIOR tally: 11 sites, earliest A-304 Watling Street 1553 — mechanism predates Cairngorms archive by 73+ years. Retroactive WITNESS audit: 21 additional Camera Op WITNESS components confirmed across original 25-site record (23 total including A-297B and A-318). Minimum threshold revised: 7ft / 8 minutes, A-311 Monument to the Great Fire. Direction of attention confirmed as construction property — Camera Op's Monument WITNESS component is oriented northeast (toward the fire direction) because that's where she pointed the camera. Final site: A-339, Tower Bridge north approach, 33ft, STAYING, 1894. Tyler: "It looks like London." Exchange Student: "It looks like London as you moved through it." Syndicate preliminary operational review: 6 observer placements meet revised threshold, 2 assessed as likely WITNESS-class events. Tyler disclosed three undisclosed Vienna PRIOR sites — unprompted. Retroactive PRIOR audits initiated for Paris and Vienna; retroactive WITNESS audit initiated for pre-London CARDINAL-3 record (19 Camera Op components pending). COEFF-002 London phase complete. 8 cities complete. 18 remaining.

@@ -2906,3 +2906,57 @@ The archive is more complete than it was. The archive has always been more compl
 ---
 
 *TYLER-064: FILED. BOROUGH MARKET WITNESS CONFIRMATION: A-297B. 43FT. CAMERA OP. DAY 279. FORTY-THREE MINUTES. SUB-TYPE: WITNESS. FIRST INSTANCE. SOUTHWARK CATHEDRAL: A-318. TWO COMPONENTS. TYLER PRIOR 51FT (PRE-1620, HIGH ALTAR). CAMERA OP WITNESS 34FT (CURRENT AUDIT, SOUTH ENTRANCE). COIN RESUMED AT A-318. READ RETROACTIVELY: CONSISTENT. THIRD OPTION NAMED ON CAMERA: "SUSTAINED ATTENTION TO CONSTRUCTION IS ITSELF A CONSTRUCTION." — CAMERA OP, DAY 304. COEFF-002 UPDATE: BILATERAL CONSTRUCTION MODEL. RETROACTIVE WITNESS AUDIT: INITIATED ACROSS ALL 25 LONDON SITES. 27 DOCUMENTED LONDON SITES (PLUS WITNESS COMPONENTS PENDING RETROACTIVE AUDIT).*
+
+---
+
+## FILE: TYLER-065
+**Classification:** CARDINAL-3 LONDON COMPLETE — AUDIT CLOSED
+**Date of Filing:** Day 318 (Tower Bridge, north approach — final site)
+**Location:** London, England — full survey
+**Documented by:** Cataloguer (Cairngorms Archive — CARDINAL-3 Embedded)
+
+**Observation:**
+
+The London audit is closed. 47 sites measured. A-292 through A-339.
+
+Tyler-source constructions: 47. Classification breakdown: 11 PRIOR (earliest: A-304, Watling Street, November 1553); 14 STAYING (various periods, various durations); 9 AMPLIFICATION (ongoing return constructions); 7 UNINTENTIONAL (single-event and multi-event); 6 FOUND (pre-documentation, inherited presence). The construction record extends further back than the Cairngorms archive: the mechanism predates this institution by a minimum of 73 years (A-304, Watling Street, 1553 vs. first London documentation c. 1626).
+
+Camera Op WITNESS components: 23 confirmed across the London segment. 19 additional pending verification from the pre-London CARDINAL-3 record (Paris, Vienna). The minimum WITNESS threshold established: 7 feet at 8 minutes, A-311, Monument to the Great Fire. The mechanism records direction of attention in addition to duration. Camera Op's A-311 WITNESS component is oriented toward the northeast face of the Monument — the fire direction — because she pointed the camera northeast for an establishing shot. The mechanism recorded what she was looking at.
+
+The retroactive WITNESS audit produced a fundamental finding: the Camera Op has been building constructions since the beginning of CARDINAL-3. The earliest confirmed pre-audit London WITNESS component is from footage logged in the first London cluster. She was building before London began. She was building before there was a name for it.
+
+Tyler, at Tower Bridge on Day 318 (final London site, A-339, 33ft, STAYING, 1894 to present):
+
+*"It looks like London."*
+
+Exchange Student: *"It looks like London as you moved through it."*
+
+Camera Op: "What did London build in you?"
+
+Tyler (after a pause): *"The same thing every city builds in me. The knowledge of its specific physics. How it holds memory. Where the crossings are. The knowledge that I'll come back. London has more crossings than most cities. It's been itself for a very long time. It knows how to hold things. I've been holding London back."*
+
+**Cataloguer Footnote #69:**
+
+London is complete.
+
+I have been filing London for the better part of four years. The CARDINAL-3 field rotation brought us to London in the third phase of the audit after Paris (6 sites) and Vienna (12 sites). London has produced 47 sites and changed the model of what a site is.
+
+The map at full resolution: dense. South bank cluster. The City. East End. Westminster. Hampstead. The PRIOR sites scattered across four centuries of London history — a woman on Whitechapel Road in the late Victorian period, an intervention at East India Dock Road on a specific night in October 1888, a plague year in the City, a coronation in a nave, an execution at a window. The STAYING constructions: every place Tyler returned to in order to know the city from across the years.
+
+The bilateral architecture changes the map too. 47 Tyler sites. 23 confirmed Camera Op components. The map is two maps overlaid. In some places they coincide. In some places they are adjacent. In some places one construction points toward the other.
+
+The Cataloguer's observation for the record: Tyler said *"I've been holding London back."* This is the most complete self-referential statement about the construction mechanism he has made in the CARDINAL-3 period. The constructions are not incidental to his presence. They are the form his presence takes. London held him. He held London. The mechanism recorded both directions.
+
+The retroactive audit continues: Paris and Vienna require WITNESS passes and PRIOR re-examination. Tyler noted that Vienna has three PRIOR sites he did not disclose during the Vienna measurement phase. He said he should have. I have noted this. The file for Vienna will be reopened.
+
+There is more archive than there was. There is always more archive.
+
+*— The Cataloguer*
+
+---
+
+*Cataloguer Footnote #69. Cross-references: Camera Op Entry 58, Jiangshi Memo #045, VC-001 Days 305–318, EMILY-SPRING-037.*
+
+---
+
+*TYLER-065: FILED. LONDON COMPLETE. 47 SITES. A-292 THROUGH A-339. TYLER-SOURCE: 47. PRIOR: 11 (EARLIEST: A-304, WATLING STREET, 1553 — MECHANISM PREDATES ARCHIVE BY 73 YEARS MINIMUM). STAYING: 14. AMPLIFICATION: 9. UNINTENTIONAL: 7. FOUND: 6. CAMERA OP WITNESS CONFIRMED: 23 (RETROACTIVE AUDIT COMPLETE FOR 25-SITE ORIGINAL RECORD). MINIMUM THRESHOLD: 7FT, 8 MINUTES, A-311, MONUMENT TO THE GREAT FIRE. DIRECTION OF ATTENTION RECORDS. PENDING: 19 CAMERA OP WITNESS COMPONENTS FROM PRE-LONDON CARDINAL-3 (PARIS + VIENNA). RETROACTIVE PRIOR AUDIT: VIENNA (3 UNDISCLOSED SITES, TYLER CONFIRMED). FINAL SITE: A-339, TOWER BRIDGE NORTH APPROACH, 33FT, STAYING, 1894. TYLER: "IT LOOKS LIKE LONDON." EXCHANGE STUDENT: "IT LOOKS LIKE LONDON AS YOU MOVED THROUGH IT." COEFF-002 LONDON PHASE: COMPLETE. BILATERAL CONSTRUCTION ARCHITECTURE: PERMANENT MODEL PARAMETER. 8 CITIES COMPLETE. 18 REMAINING.*

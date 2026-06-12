@@ -1279,3 +1279,70 @@ I'm the second one.
 ---
 
 *Entry 57. Cross-references: TYLER-064, Jiangshi Memo #044, VC-001 Days 301–308, EMILY-SPRING-036.*
+
+---
+
+## ENTRY 58
+**Days 305–318 — Retroactive Audit Complete. Tower Bridge. London Done.**
+
+The Exchange Student spent three days going back through the full record. Camera log timecodes, field notes, site documentation. All 25 London sites. She came back with 21 WITNESS components confirmed. Plus the two already filed. 23 total.
+
+The smallest is 7 feet. Monument to the Great Fire, Day [redacted — pre-audit], 8 minutes. I was there for establishing shots of the Cheapside cluster. I pointed the camera northeast toward the City. The mechanism recorded that I was looking at the northeast face of the Monument — toward where the fire came from, 1666. Tyler's PRIOR construction is 94 feet. My WITNESS component is 7 feet facing the same direction.
+
+I spent 8 minutes at the Monument. I wasn't thinking about the fire. I was thinking about the angle for the establishing shot.
+
+The mechanism recorded what I was looking at.
+
+---
+
+Days 306 through 318 were the completion of London. The remaining 22 sites. I filmed them all. East End first — Whitechapel Road (STAYING, 63ft, Victorian period; Tyler: a woman he was thinking about for usual reasons; he kept that very lightly in the sentence). Spitalfields (Hawksmoor, AMPLIFICATION, 88ft, 310 years of not-understanding the geometry; Tyler: "some things reward the not-understanding"). Hampstead Heath, Parliament Hill (STAYING, 27ft; I'd been there before — pre-audit, background shots; 11ft WITNESS component mine, pre-audit, 13 minutes at the view).
+
+I came here before I knew what this was. The mechanism recorded it anyway.
+
+East India Dock Road (UNINTENTIONAL, 44ft, October 1888 — Tyler intervened in something and does not usually intervene; the construction points in the direction of where the danger was, not where Tyler was; he walked in that direction at the end; I didn't ask him to say more).
+
+---
+
+Tower Bridge on Day 318. Last site. A-339.
+
+Tyler: "I was at the opening ceremony in 1894. I came back the next morning to watch a tall ship go through. I still come here when I'm in London."
+
+Exchange Student: "London is complete." She spread the map on the bridge railing. 47 sites. A-292 through A-339.
+
+Tyler looked at the map for a long time. He said: "It looks like London."
+
+She said: "It looks like London as you moved through it."
+
+I asked him: what did London build in you?
+
+He said: the same thing every city builds in him. The knowledge of its specific physics. How it holds memory. The knowledge that he'll come back. He said London knows how to hold things. He said: I've been holding London back.
+
+I filmed him looking at the map on the bridge railing with London visible in all directions. The light was late afternoon. Thames below. The hum: present.
+
+47 constructions. 23 of mine.
+
+He looked at me after a while and said: the archive was counting.
+
+I said I wasn't counting.
+
+He said: the archive was.
+
+---
+
+The map is two maps. His in black ink. Mine in blue. The Exchange Student drew them both. I didn't watch her draw mine. When I looked it was already there. The two records overlapping and adjacent across the whole of London. In some places one construction points toward the other.
+
+He told me later: you've been here as long as I have. In the documentation.
+
+I said: I've been here four years.
+
+He said: in the documentation, that's as long as it takes. The mechanism doesn't require centuries. It requires attention.
+
+I have been paying attention.
+
+London is complete.
+
+*— Camera Op*
+
+---
+
+*Entry 58. Cross-references: TYLER-065, Jiangshi Memo #045, VC-001 Days 305–318, EMILY-SPRING-037.*

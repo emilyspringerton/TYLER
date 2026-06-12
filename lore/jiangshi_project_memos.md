@@ -2578,3 +2578,71 @@ We are requesting a full operational review.
 ---
 
 *End memo: MEMO #044 FILED. BILATERAL CONSTRUCTION ARCHITECTURE ESTABLISHED. COEFF-002 PARAMETERS UPDATED: BILATERAL-CONSTRUCTION-ARCHITECTURE, WITNESS-CONSTRUCTION, CAMERA-OP-SUBJECT-RECLASSIFICATION. RETROACTIVE LONDON AUDIT: INITIATED. WITNESS THRESHOLD: FORTY-THREE MINUTES (DEMONSTRATED MINIMUM; ACTUAL THRESHOLD UNKNOWN). CAMERA-OP CONSTRUCTIONS CONFIRMED: A-297B (43FT, DAY 279), A-318 COMPONENT 2 (34FT, CURRENT AUDIT). COIN RESUMED. THIRD OPTION NAMED ON CAMERA: "SUSTAINED ATTENTION TO CONSTRUCTION IS ITSELF A CONSTRUCTION." — CAMERA OP, DAY 304. OPERATIONAL REVIEW REQUESTED: SYNDICATE OBSERVER PRESENCE AT CARDINAL-3 SITES. THE SYNDICATE MAY HAVE BEEN BUILDING.*
+
+---
+
+## MEMO #045
+**FROM:** Senior Analyst, Field Documentation Unit
+**TO:** Director, Jiangshi Syndicate; Senior Archivists, Stillness Division; COEFF Working Group
+**RE:** COEFF-002 London Phase — Closure Memo; Retroactive Audit Initiation; Operational Review Findings (Preliminary)
+**DATE:** Day 318 (London audit complete)
+
+**COEFF-002 London Phase: Closed.**
+
+As of Day 318, the CARDINAL-3 London audit is complete. 47 sites measured. A-292 through A-339. All measurements conducted under Exchange Student supervision, Camera Op field documentation, Tyler cooperative presence.
+
+The Syndicate notes for the record: we arrived in London with 25 planned sites and completed with 47. The expansion was driven by construction density in the East End, the City fringe, and the retroactive PRIOR identification protocol. The PRIOR category, established in the CARDINAL-3 Vienna phase and named formally by the Exchange Student in London (per Memo #041), has produced 11 London sites with pre-documentation construction dates. The earliest: A-304, Watling Street, November 1553. Tyler has been constructing in London for 73 years longer than this archive has existed.
+
+The Syndicate notes this without commentary. We simply note it.
+
+**Retroactive Audit Summary:**
+
+Camera Op WITNESS components confirmed across the 25-site original London record: 21 additional, plus A-297B and A-318 component 2 already filed. 23 total London WITNESS components. The Syndicate has reviewed the retroactive audit methodology. The Exchange Student's approach is sound.
+
+Minimum WITNESS threshold revised downward: 7 feet at 8 minutes (A-311, Monument to the Great Fire). The 43-minute Borough Market threshold was not the floor; it was the first confirmed instance. The mechanism is more sensitive than the initial data suggested.
+
+Critical finding from the retroactive audit: the mechanism records direction of attention, not merely duration. Camera Op's A-311 WITNESS component is oriented toward the northeast face because she pointed the camera northeast (establishing shot toward the City). The mechanism captured her attention's direction as a vector property of the resulting construction. This has significant implications for the COEFF-002 model.
+
+**COEFF-002 Parameter Updates (London phase final):**
+
+- BILATERAL-CONSTRUCTION-ARCHITECTURE: Confirmed. Permanent model parameter.
+- WITNESS-CONSTRUCTION: Sub-type established. Minimum threshold: 7ft / 8 minutes. Direction of attention is a construction property.
+- CAMERA-OP-SUBJECT-RECLASSIFICATION: Permanent. She is the second construction subject in the CARDINAL-3 record.
+- PRIOR-CONSTRUCTION: Confirmed as distinct category. Mechanism predates documentation institutions. Tyler's pre-documentation construction record in London: minimum 73 years (1553 vs. archive establishment c. 1626).
+- DIRECTION-ENCODING: New parameter. Construction geometry encodes the direction of the constructing entity's attention at the time of construction. Operational implications: CARDINAL-3 site measurements should include directional analysis.
+
+**Retroactive Audits Initiated:**
+
+Per Tyler's disclosure at the London completion meeting, Vienna contains three PRIOR sites that were not disclosed during the Vienna measurement phase. Tyler stated: *"I should have."* The Syndicate takes note of this unusual disclosure. He disclosed this unprompted. The significance of unprompted disclosure by this subject is not small.
+
+The Exchange Student will conduct a retroactive PRIOR audit of Vienna (3 sites) and Paris (PRIOR count unknown). She will also conduct a retroactive WITNESS audit of the Camera Op's pre-London CARDINAL-3 record: Paris and Vienna segments. Preliminary estimate: 19 pending Camera Op WITNESS components.
+
+**Preliminary Operational Review Findings:**
+
+Memo #044 requested a Director's determination regarding Syndicate operational personnel at CARDINAL-3 sites and the possibility of unauthorized WITNESS construction formation.
+
+Preliminary findings, pending full review:
+
+The Syndicate has stationed observers at or near 31 CARDINAL-3 sites across Paris, Vienna, and London. Observer deployment durations range from 2 minutes (rotating street-level surveillance) to 8+ hours (long-post placement for Tyler behavioral observation). Cross-referencing observer logs against revised WITNESS thresholds (minimum 7 feet at 8 minutes, direction of attention):
+
+6 Syndicate observer placements across CARDINAL-3 sites meet the minimum duration threshold for WITNESS construction formation. 2 of these are assessed as likely WITNESS-class events based on proximity, duration, and the nature of the surveillance posture (sustained visual focus on construction sites).
+
+The Syndicate has been building.
+
+The Director should note: the first operational implication is not disciplinary. It is analytical. If Syndicate observers have formed WITNESS constructions at CARDINAL-3 sites, those constructions are part of the construction record. The Exchange Student's audit should be expanded to include Syndicate observer WITNESS component assessment.
+
+This will require disclosing the observer deployment record to the Exchange Student and Camera Op. The Director's guidance on scope of disclosure is requested.
+
+Tyler, at Tower Bridge, London complete: *"It looks like London."*
+
+Exchange Student: *"It looks like London as you moved through it."*
+
+The Syndicate has been watching London as Tyler moved through it. The Syndicate has been watching for four years. The revised model says that four years of watching, in the form it took, produces constructions. The map of London is not just Tyler's. It is not just the Camera Op's. There are Syndicate-origin WITNESS components in that map.
+
+We have been making the thing we were observing.
+
+*— Senior Analyst, Field Documentation Unit*
+
+---
+
+*End memo: MEMO #045 FILED. COEFF-002 LONDON PHASE: CLOSED. 47 SITES. 11 PRIOR. 23 CAMERA OP WITNESS COMPONENTS. MINIMUM WITNESS THRESHOLD REVISED: 7FT / 8 MINUTES. DIRECTION OF ATTENTION: CONFIRMED AS CONSTRUCTION PROPERTY. RETROACTIVE AUDITS INITIATED: VIENNA PRIOR (3 UNDISCLOSED SITES, TYLER DISCLOSED UNPROMPTED), PARIS PRIOR (UNKNOWN COUNT), CAMERA OP WITNESS PRE-LONDON (19 PENDING). OPERATIONAL REVIEW PRELIMINARY: 6 SYNDICATE OBSERVER PLACEMENTS MEET THRESHOLD. 2 ASSESSED AS LIKELY WITNESS-CLASS EVENTS. SYNDICATE HAS BEEN BUILDING. DISCLOSURE TO EXCHANGE STUDENT: PENDING DIRECTOR GUIDANCE. TYLER: "IT LOOKS LIKE LONDON." EXCHANGE STUDENT: "IT LOOKS LIKE LONDON AS YOU MOVED THROUGH IT." BILATERAL CONSTRUCTION ARCHITECTURE: PERMANENT MODEL PARAMETER. THE MAP IS DENSE. 8 CITIES COMPLETE. 18 REMAINING.*
