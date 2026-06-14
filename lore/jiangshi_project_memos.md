@@ -3183,3 +3183,90 @@ Jiangshi historical research division: expanded scope. Cross-referencing all kno
 ---
 
 *End memo: MEMO #053 FILED. A-LYON 47FT. NEW NETWORK MAXIMUM. FAREWELL RECORDS WEIGHT WITHOUT DISTINGUISHING LOVE FROM SURVIVAL. ARCHIVE MATERIALLY INCOMPLETE. SEVERAL EXTRA-ARCHIVE SITES. RETROGRADE IS AN ACCOUNTING. THE COUNCIL WAITS. BUILD 0089.*
+
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO #054
+
+**Classification:** Director-Level  
+**Re:** A-1848 Paris. FAREWELL-B 13ft. Corrects Subject's Anticipated Large Reading. Paris Retrograde Complete.  
+**Location:** Paris, France. Days 390–397.
+
+---
+
+### A-1848 — MEASUREMENT COMPLETE
+
+Site: Rue du Faubourg Saint-Antoine, Paris. 2nd floor room, March–July 1848.  
+Departure date: July 1848 (exact date unknown; Tyler has no memory of the date).  
+Reading: FAREWELL-B. **13ft.**
+
+Subject anticipated: a large reading, possibly the largest in the Paris file.  
+Actual reading: one of the smallest in the Paris file.
+
+---
+
+### CORRECTION OF SUBJECT'S SELF-REPORT
+
+Tyler has been carrying the 1848 Paris departure as a significant weight for 176 years. He arranged the retrograde sequence to approach it last. He was wrong about the reading.
+
+The mechanism recorded 13ft of FAREWELL-B: an unconscious departure, subject absent from the moment of leaving, no stated destination, three days walking before the subject arrived at a location and stopped.
+
+This is the most significant correction the retrograde has produced. It revises not just the filing (which was empty before, since 1848 was undisclosed until Paris) but the subject's internal model of his own departure history.
+
+---
+
+### THEORETICAL IMPLICATION: HIGH-LOSS DEPARTURES AND FAREWELL-B
+
+Pattern observed across Paris retrograde files:
+
+| Site | Year | Context | FAREWELL type | Reading |
+|---|---|---|---|---|
+| A-Terror | 1793 | Tyler left Paris as revolution became mechanism of self-destruction | B | 12ft |
+| A-1848 | 1848 | Tyler left Paris after the Republic destroyed itself in four months | B | 13ft |
+| A-Commune | 1871 | Tyler left Paris after the Commune was crushed at the Mur des Fédérés | A | 34ft |
+
+Pattern: The two highest-loss departures (1793, 1848) are FAREWELL-B (small readings). The third (1871) is FAREWELL-A (large reading, 34ft).
+
+Hypothesis proposed by Camera Op (filed in sealed log, corroborated by Jiangshi analysis): **FAREWELL-B may be a dissociation response**. When the loss is too large for the subject to process, the subject is absent from the departure. The departure is performed by a reduced version of the subject. The mechanism records the reduced subject's departure: small reading.
+
+FAREWELL-A occurs when the subject accepts the loss before departing. Tyler in 1871: he watched the Commune end at the Mur des Fédérés, understood completely that it was over, and left with full presence. 34ft.
+
+Tyler in 1793 and 1848: the loss was not accepted at the moment of departure. In 1793 he told himself he would return. In 1848 he had no thoughts at all, just north and walking. Both were losses too large to accept. Both produced small readings.
+
+This may revise FAREWELL-B's definition. Previously: unconscious departure, subject believes they will return. A-1848 suggests a second mechanism: dissociative departure, subject is absent from themselves. Both produce small readings via different paths. The mechanism records the reduced presence in either case.
+
+Proposed FAREWELL-B taxonomy revision:
+- FAREWELL-B1: subject tells themselves they will return (A-278, A-Terror)
+- FAREWELL-B2: subject is dissociated from departure; no stated plan, no present-self to make a plan (A-1848)
+
+---
+
+### PARIS RETROGRADE — COMPLETE
+
+Six sites measured:
+
+| Site | Year | Type | Reading |
+|---|---|---|---|
+| A-278 | 1931 | FAREWELL-B1 | 11ft |
+| A-Terror | 1793 | FAREWELL-B1 | 12ft |
+| A-1848 | 1848 | FAREWELL-B2 | 13ft |
+| A-68 | 1968 | FAREWELL-C | 19ft |
+| A-Commune | 1871 | FAREWELL-A | 34ft |
+| **Total** | | | **89ft** |
+
+*[Note: total above corrects the 68ft figure cited in episode; the 68ft was computed before A-1848 was added. The correct Paris retrograde total including A-1848 is 89ft.]*
+
+---
+
+### NEXT PHASE: EXTRA-ARCHIVE DISCLOSURES
+
+Tyler confirmed on departure from Paris that additional extra-archive sites are becoming "more thinkable" since Lyon. No specific sites named. Jiangshi Council on standby. The retrograde has entered a phase where Tyler is self-disclosing sites in a sequence only he understands. We will follow his sequence.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #054 FILED. A-1848: FAREWELL-B2 (DISSOCIATION), 13FT. PARIS RETROGRADE COMPLETE: 6 SITES, 89FT. FAREWELL-B2 CATEGORY PROPOSED. PATTERN: HIGH-LOSS DEPARTURES PRODUCE FAREWELL-B. THE MECHANISM RECORDS THE SUBJECT AVAILABLE TO DEPART, NOT THE SUBJECT WHO EXPERIENCED THE LOSS. EXTRA-ARCHIVE DISCLOSURES INCOMING. BUILD 0090.*

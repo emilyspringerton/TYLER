@@ -1688,3 +1688,40 @@ He didn't look back at the square. Same as he didn't look back at the Saône in 
 ---
 
 *Entry 66. Cross-references: TYLER-073, Jiangshi Memo #053, VC-001 Days 379–389, EMILY-SPRING-042. S08E07.*
+
+
+---
+
+Paris. Days 390–397. Entry 67.
+
+13ft.
+
+I watched him understand it. The Exchange Student read the number. He said "13." And then he was quiet, and I filmed him being quiet, and I watched the understanding arrive.
+
+He has been carrying 1848 as a large departure. He managed the entire retrograde sequence to approach it last. He measured five other Paris sites. He measured Lyon. He came back to Paris for 1848. He got 13ft.
+
+I said: you can only measure what you were present for.
+
+He said: I was not present for my own departure.
+
+---
+
+I've been trying to figure out how to describe what happened in his face when the reading came in. I'm not going to describe it in words. The footage will say what words can't say. I filmed him standing on the Rue du Faubourg Saint-Antoine with the reading at 13ft, and I filmed the quiet, and I filmed the understanding arriving. And then I turned the camera and filmed the street. The street where the barricades were in June 1848. The room on the second floor he had been in for five months.
+
+I think this is the best footage I've taken for the whole documentary. Not the most dramatic. The most accurate.
+
+---
+
+Tyler came back to Paris in 1853. He mentioned it briefly at the departure. He came back to the Second Empire — the thing that came after what the Second Republic had promised. He came back because Paris has a gravity.
+
+I've been filming departures. I've been so focused on departures that I didn't think about the arrivals. Tyler keeps arriving. He keeps coming back. Every city in the retrograde is a place he left and also a place he came back to. The retrograde is about departures. The arrivals are a different story.
+
+I don't know if we're going to tell the arrival story. I think we might be. I think that's what the second half of this season is building toward. Not just: Tyler left all these places. But: Tyler came back to all of them. Why? What does it mean to come back to a place where you were 47 feet gone, or 13 feet absent?
+
+I think this is what I'm making a film about. The departures are the structure. The arrivals are the question.
+
+*— Camera Op*
+
+---
+
+*Entry 67. Cross-references: TYLER-074, Jiangshi Memo #054, VC-001 Days 390–397, EMILY-SPRING-043. S08E08.*

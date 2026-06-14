@@ -3355,3 +3355,69 @@ This entry is filed by a Cataloguer who has been doing this work long enough to 
 ---
 
 *TYLER-073: FILED. LYON. 47FT. NETWORK MAXIMUM. THE MECHANISM DOES NOT SEPARATE LOVE FROM SURVIVAL AT THE MOMENT OF DEPARTURE. THE PARTIAL RECORD IS BECOMING LESS PARTIAL. THE ACCOUNTING CONTINUES. BUILD 0089.*
+
+
+---
+
+## TYLER-074
+
+**Cataloguer Entry 57 / Footnote #78**
+*Paris, Days 390–397. The measurement Tyler was wrong about.*
+
+Tyler deferred the 1848 Paris measurement for the entire retrograde sequence. He said: "I already know what the reading will be." He arranged the retrograde to approach it last. He measured Paris before Lyon, Lyon before 1848. He believed 1848 would be the largest reading in the Paris file. He was managing the sequence to protect himself from a large reading.
+
+A-1848. Rue du Faubourg Saint-Antoine. July 1848.
+
+**FAREWELL-B. 13ft.**
+
+---
+
+The smallest reading in the Paris file. The most devastating departure in the Paris file. The same departure.
+
+Tyler walked out of Paris in July 1848 without knowing he was leaving. He walked north of the city without a destination. Three days walking before he arrived somewhere and decided to stay. He does not have a clear spatial memory of where he was during the June Days (June 23–26). He was somewhere indoors. He stayed indoors while the barricades were built and broken on the streets he had been walking for five months.
+
+For three days in February 1848 — February 24th through 27th — Tyler believed the argument had won. The Second Republic. Universal suffrage. The right to work. He had not believed this since the first weeks of 1789. He had not believed it again since.
+
+The June Days (June 23–26) destroyed the Second Republic before it had been anything for four months. The National Guard crushed the workers' uprising. The conservatives who had been elected by universal male suffrage — the first use of universal male suffrage in France — directed the suppression. The argument had won and then used its own winning to destroy itself in four months.
+
+Tyler was in a room during the June Days. He was in a room because he could not be in the streets watching the workers being shot for believing what he had believed in February.
+
+He left in July. He did not know he was leaving.
+
+---
+
+The mechanism records what the subject was present for at the moment of departure.
+
+Tyler was not present for the moment of departure. The July 1848 departure is 13 feet of someone walking north of Paris while absent from themselves. Not the grief of leaving — the grief was larger than the person left to carry it. The departure was performed by whatever part of Tyler was still functional in July 1848 while the rest of him was somewhere inside the June Days.
+
+This is the interpretation the Camera Op articulated: "You can only measure what you were present for." And: "You walked out of Paris while someone else — some diminished version of you — walked out of the city without knowing where they were going."
+
+Tyler: "I was not present for my own departure."
+
+---
+
+This is the most important correction the retrograde has produced so far.
+
+Tyler has been carrying 1848 as a large departure for a hundred and seventy-six years. The measurement says: the departure was not large. The loss was enormous. The departure was 13 feet of absence.
+
+The FAREWELL measures the subject. Not the event. Not the loss. The subject. If the subject is absent from the departure, the reading is small. The more devastating the loss, the more likely the subject is absent from the departure.
+
+Tyler walked out of Lyon knowing he was going. He was fully present at Lyon. 47 feet.
+
+Tyler walked out of Paris in 1848 not knowing where he was going. He was absent from Paris. 13 feet.
+
+The relationship between devastation and FAREWELL-B is: the most devastating losses can produce the smallest readings. Because the most devastating losses take the subject away from themselves before the departure can be registered.
+
+---
+
+One more note from this entry.
+
+Tyler said on the last day in Paris, about the other extra-archive sites: "Since Lyon, the others have become more thinkable."
+
+He named Lyon and then 1848. He is naming the hardest ones in sequence. There is something after 1848 that he has not named yet. This office will wait.
+
+*Cataloguer Footnote #78. Cross-references: Camera Op Entry 67, Jiangshi Memo #054, VC-001 Days 390–397, EMILY-SPRING-043.*
+
+---
+
+*TYLER-074: FILED. 1848. 13FT. THE MOST DEVASTATING DEPARTURE IS THE SMALLEST. THE FAREWELL MEASURES THE SUBJECT. TYLER WAS ABSENT FROM HIS OWN DEPARTURE. PARIS RETROGRADE COMPLETE. NETWORK MAXIMUM STILL LYON. SOMETHING AFTER 1848 THAT HE HAS NOT NAMED YET. BUILD 0090.*

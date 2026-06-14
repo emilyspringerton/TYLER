@@ -786,7 +786,9 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E07: "Lyon"** — First extra-archive episode. A-Lyon (Saône riverbank, February 14, 1794): FAREWELL-A, 47ft — new network maximum (exceeds A-Commune 34ft, A-355 30+ft). Tyler in Lyon July 1793–February 1794 for the federalist argument, siege, Convention reprisals. Never filed: Tyler believed departure was survival not love — a different category. Mechanism: FAREWELL-A regardless. 'Several' other undisclosed sites confirmed. The retrograde is now an accounting. Build 0089. Apple #491. Done 2026-06-14.
 
+- [x] **S08E08: "1848"** — The deferred measurement. Tyler was wrong about the reading. A-1848 (Rue du Faubourg Saint-Antoine, July 1848): FAREWELL-B, 13ft — not the large reading Tyler anticipated. He was absent from his own departure: walked out of Paris without knowing where he was going, three days north without a destination. The mechanism measures the subject's presence, not the magnitude of the loss. Paris retrograde complete: 6 sites, 68ft. Network maximum remains A-Lyon 47ft. More extra-archive sites becoming 'more thinkable.' Build 0090. Apple #492. Done 2026-06-14.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0089.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0090.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

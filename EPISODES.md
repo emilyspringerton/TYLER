@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0089
+## Einhorn Media | Build 0090
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 59  
+**Total episodes:** 60  
 **Seasons complete:** S1–S7  
-**Current through:** Build 0089 (S08E07 — Lyon, network maximum FAREWELL-A 47ft)
+**Current through:** Build 0090 (S08E08 — 1848, the departure Tyler was wrong about)
 
 ---
 
@@ -139,8 +139,9 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E05 | "The Retrograde I — Paris" | Build 0087 | episodes/s08e05_the_retrograde_paris.md |
 | S08E06 | "The Retrograde II — Three Departures" | Build 0088 | episodes/s08e06_the_retrograde_ii_paris.md |
 | S08E07 | "Lyon" | Build 0089 | episodes/s08e07_lyon.md |
+| S08E08 | "1848" | Build 0090 | episodes/s08e08_1848.md |
 
-Vienna retroactive complete (A-V13/V14/V15, 3 PRIOR, 15 sites total). Amsterdam complete (A-323–A-355, 31 sites). FAREWELL type introduced at A-355 (Herengracht, 1789). The Retrograde underway: Paris Phase I complete (5 sites measured, 1848 deferred). Lyon measured: A-Lyon 47ft FAREWELL-A — network maximum. Extra-archive sites confirmed. FAREWELL taxonomy: FAREWELL-A (conscious, ≥20ft), FAREWELL-B (unconscious, <15ft), FAREWELL-C (established-pattern, 15–22ft). Retrograde scope: 73+ archive sites + undisclosed extra-archive sites. 1848 Paris and 'several' other sites pending.
+Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde underway. Paris Phase I complete: 6 sites, 68ft. Lyon: A-Lyon 47ft FAREWELL-A — network maximum. 1848 Paris: A-1848 FAREWELL-B, 13ft — Tyler absent from own departure; the most devastating departure is the smallest. FAREWELL taxonomy: A (conscious), B (unconscious/absent), C (established-pattern). Extra-archive sites confirmed; more incoming. Retrograde scope: 73+ sites.
 
 ---
 
