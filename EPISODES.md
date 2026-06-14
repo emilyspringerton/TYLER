@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0095
+## Einhorn Media | Build 0096
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 65  
+**Total episodes:** 66  
 **Seasons complete:** S1–S7  
-**Current through:** Build 0095 (S08E13 — The Ratio, FAREWELL-A constant 0.36, 64% remainder theorem, network = inventory of losses)
+**Current through:** Build 0096 (S08E14 — Marrakech, FAREWELL-C ratio 0.21, network age unknown, mechanism starts before 1127)
 
 ---
 
@@ -145,6 +145,7 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E11 | "Burgundy" | Build 0093 | episodes/s08e11_burgundy.md |
 | S08E12 | "Prague" | Build 0094 | episodes/s08e12_prague.md |
 | S08E13 | "The Ratio" | Build 0095 | episodes/s08e13_the_ratio.md |
+| S08E14 | "Marrakech" | Build 0096 | episodes/s08e14_marrakech.md |
 
 Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde expanded: departures, arrivals, and pre-archive. Paris Phase I complete: 6 sites. Lyon: A-Lyon 47ft. Strasbourg: REFUGE, 22ft. Avignon: WITNESS-LONG, 89ft — former network maximum. 676 years of accumulation. Passive pre-archive recording confirmed (mechanism active 1348). Burgundy: CARRIED, 8ft — residual discharge from Avignon, front-loaded. Two years suspension. Navigation-by-construction confirmed: instrument and Tyler's direct perception access the same construction data. Prague: DWELLING, 144ft — NEW NETWORK MAXIMUM. 5 sites. Voluntary inhabitation generates more than catastrophic witnessing over comparable period. Network measures quality of presence, not duration. Archive = events; extra-archive = life. FAREWELL-A intensity ratio 0.36 proposed. Construction taxonomy: FAREWELL A/B/B2/C/D, REFUGE, WITNESS-LONG, CARRIED, DWELLING, DWELLING(finite).
 
