@@ -4,9 +4,9 @@
 
 ---
 
-**Total episodes:** 67  
+**Total episodes:** 68  
 **Seasons complete:** S1–S8  
-**Current through:** Build 0097 (S08E15 — The Reckoning, Season 8 finale, taxonomy complete, the choosing matters)
+**Current through:** Build 0098 (S09E01 — The Interval, Season 9 opens, Córdoba disclosed, the gap is the question)
 
 ---
 
@@ -149,6 +149,16 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E15 ★ | "The Reckoning" | Build 0097 | episodes/s08e15_the_reckoning.md |
 
 Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde: departure taxonomy, extra-archive disclosures, pre-archive passive recording confirmed. Paris (6 sites). Lyon: FAREWELL-A 47ft. Strasbourg: REFUGE 22ft. Avignon: WITNESS-LONG 89ft (676yr passive). Burgundy: CARRIED 8ft. Prague: DWELLING 144ft — NETWORK MAXIMUM. Marrakech: oldest archive site, FAREWELL-C ratio 0.21. The Reckoning: taxonomy complete, FAREWELL-A 0.36 / FAREWELL-C 0.21, network minimum age 899yr true age unknown, mechanism origin unknown. The choosing matters. Season 9 pending: 8 cities remaining + pre-1127. Full taxonomy: FAREWELL A/B/B2/C/D · REFUGE · WITNESS-LONG · CARRIED · DWELLING · DWELLING(finite/urgent) · STAYING.
+
+---
+
+## SEASON 9 — THE DEEP ARCHIVE
+
+| Code | Title | Build | File |
+|---|---|---|---|
+| S09E01 | "The Interval" | Build 0098 | episodes/s09e01_the_interval.md |
+
+Season 9 opens three months after the S08 finale. Tyler in Seville — chose it deliberately, testing conscious choosing. Discloses first pre-archive site: Córdoba, al-Andalus, approximate 10th century CE (Caliphate era). Construction type: DWELLING (implicit) + FAREWELL-A departure, duration unknown. Mechanism may not have been recording yet — unconfirmed. New question: the gap between Córdoba (~950 CE) and Marrakech (1127 CE) is compressed in Tyler's memory. 100–200 years Tyler cannot clearly recall. The archive may contain more of Tyler's history than Tyler does. 8 cities remaining from S8 map. Pre-1127 investigation begins.
 
 ---
 

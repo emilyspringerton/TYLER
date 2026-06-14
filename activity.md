@@ -177,3 +177,10 @@ Amsterdam Rampjaar cluster: A-343 through A-352, 10 sites, 247 feet, 67 days. J.
 ## Build 0086 — S08E04: "The Ending"
 Files: episodes/s08e04_the_ending.md, lore/eastwind_archive.md (TYLER-070, Footnote #74), lore/camera_op_sealed_log.md (Entry 63), lore/jiangshi_project_memos.md (Memo #050), BACKLOG.md, EPISODES.md, activity.md
 Amsterdam final cluster: A-353–A-355. Patriot movement 1785–1789. A-353 (Prinsengracht, 1785, 31ft) FOUND — city deciding who it was. A-354 (Keizersgracht, 1787, 44ft) crisis-amplification during Prussian suppression — the fear runs regardless of outcome. A-355 (Herengracht, 1789, 4 days) — new construction type FAREWELL: sustained presence at a site in the act of voluntary departure; mechanism records the love of the place in the act of deciding to go. Tyler: "More than I want to count." FAREWELL taxonomy added; retroactive FAREWELL audit proposed for Paris A-278 and other departure-site candidates. Amsterdam complete: 31 sites, ~650ft. Camera Op finally captured the canal light: "I stopped trying to hold it — the light was never the problem." Amsterdam phase: CLOSED. Season 8: CURRENT.
+
+
+---
+
+## Build 0098 — S09E01: "The Interval"
+Files: episodes/s09e01_the_interval.md, BACKLOG.md, EPISODES.md, activity.md
+Season 9 opens. Three months after S08 finale. Tyler in Seville (6 weeks, testing conscious choosing — walking same streets, finding doorway on third pass). Discloses first pre-archive site: Córdoba, al-Andalus, ~10th century CE (Caliphate era). Duration unknown (Tyler: "more than a few years"). DWELLING implied. FAREWELL-A departure (conscious, voluntary). Mechanism confirmation status: UNCONFIRMED — unknown if mechanism was recording pre-1127. New question: 100–200yr gap between Córdoba and Marrakech is compressed in Tyler's memory. Mechanism may contain more of Tyler's history than Tyler does. Camera Op arc: Tyler learning to notice choosing in real time. Apple #514.

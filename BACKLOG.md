@@ -797,7 +797,21 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 - [x] **S08E14: "Marrakech"** — Oldest archived site. DWELLING 73ft residence + 44ft mosque work + FAREWELL-C 25ft gate. 142ft total. FAREWELL-C ratio: 0.21 — 79% stays (vs 64% for FAREWELL-A). Unaware-of-permanence departure leaves more behind. Type-weighted global remainder revised >30,000ft. Mechanism consistent across 224 years (1127 Marrakech ≈ 1351 Prague ratios). Tyler does not know his own age. Network minimum 899 years; true age unknown. Marrakech = where record starts, not where mechanism starts. Build 0096. Apple #510. Done 2026-06-14.
 - [x] **S08E15: "The Reckoning" ★ SEASON FINALE** — Season 8 complete. Synthesis: full taxonomy, constants (FAREWELL-A 0.36, FAREWELL-C 0.21, work-to-residence 1.3:1), network stats (144ft Prague max, 899yr minimum age, true age unknown, mechanism unknown). Tyler: "I have been managing exits, not inhabiting arrivals." → "I don't know yet what I'm going to do with that." Camera Op arc complete: thought she was making documentary about unusual man; made documentary about what it means to choose. Season 9 setup: 8 remaining cities from 18-city map, pre-1127 sites, mechanism question. Build 0097. Apple #511. Done 2026-06-14.
 
+- [x] **S09E01: "The Interval"** — Season 9 opens. Three months after S08 finale. Tyler in Seville (6 weeks, chose it, walking same streets, testing conscious choosing). Discloses first pre-archive site: Córdoba, al-Andalus, ~10th century CE (Caliphate era). DWELLING (implicit), FAREWELL-A departure, duration unknown. New question: 100–200 year gap between Córdoba and Marrakech is compressed in memory. Mechanism may have more of Tyler's history than Tyler does. Camera Op arc: Tyler finding a doorway on the third pass. Build 0098. Apple #514. Done 2026-06-14.
+
+- [ ] **S09E02: "Córdoba"** — Team travels to Córdoba. First measurement of pre-archive site.
+  If mechanism was recording: construction magnitude unknown (potentially 500+ft). Determine if
+  network maximum shifts. Construction type: DWELLING expected. Departure type: FAREWELL-A.
+  Gap sites (between Córdoba and Marrakech) to be investigated: what does Tyler find when he
+  tries to locate the lost 100–200 years? First pre-archive Eastwind entry. Apple #514.
+  RSI receipts: Eastwind (TYLER-083, first pre-archive measurement), Camera Op Entry 76,
+  Jiangshi Memo #063 (first pre-1127 instrument data).
+
+- [ ] **S09E03** — Measurement results. If construction exists, magnitude disclosed. If mechanism
+  was not recording: Tyler confronts a site that generated nothing (or that he chose and the
+  mechanism missed). New taxonomy question: DWELLING before mechanism activation.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0097.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0098.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
