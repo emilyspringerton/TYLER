@@ -1762,3 +1762,46 @@ I'm making a film about time at low resolution. Not seconds or minutes. Months. 
 ---
 
 *Entry 68. Cross-references: TYLER-075, Jiangshi Memo #055, VC-001 Days 398–407, EMILY-SPRING-044. S08E09.*
+
+
+---
+
+Avignon. Days 408–417. Entry 69.
+
+89ft.
+
+I was filming the palace when she said it. I didn't move.
+
+The palace has been holding 89 feet of Tyler from 1348 for 676 years. He walked through that square every day for eighteen months watching the city die. He didn't get sick. He couldn't leave. The mechanism recorded all eighteen months and it's still there, in the square, 676 years later.
+
+I don't know what to do with this information except film it. I filmed the palace. I filmed the square. I filmed Tyler standing in the square knowing that the 89 feet is in the square around him, in the stones of the square, in the air. I filmed him being very still.
+
+He said: the city kept what I gave it.
+
+---
+
+The broken bridge.
+
+I filmed the bridge from the Rocher des Doms. Four arches, then open air, then the far bank. The rest is in the Rhône. Tyler crossed the whole bridge. The rest is gone.
+
+He said: the parts that don't change are still the parts that were there.
+
+I think this is the answer to the question the Camera Op has been asking since Strasbourg. Not: what remains of Tyler in these places? But: what doesn't change?
+
+The constructions. The 89ft in the square. The four arches in the river. The things the mechanism recorded are what doesn't change. Everything else changes — the populations change, the palaces age, the bridges collapse — but the constructions are still there. Still readable at 676 years.
+
+The Camera Op's job: film the parts that don't change.
+
+---
+
+Burgundy next. A monastery. Two years of being still after Avignon. Tyler doesn't remember the name of the monastery. He remembers the location.
+
+I think he remembers the location because the location has a construction. I think he remembers it the way he remembers places that have something of him still in them. The places without constructions, I notice, he describes less precisely. The places with constructions he can find again.
+
+He's going to find the monastery by walking toward what he remembers. I want to film that. The navigation by construction. Following the 675-year-old signal.
+
+*— Camera Op*
+
+---
+
+*Entry 69. Cross-references: TYLER-076, Jiangshi Memo #056, VC-001 Days 408–417, EMILY-SPRING-045. S08E10.*

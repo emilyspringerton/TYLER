@@ -790,7 +790,9 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E09: "Strasbourg"** — The arrival. Camera Op question opens the arrival archive. A-Strasbourg-1848: REFUGE construction (first documented), 22ft, even density, 8 months (July 1848–March 1849). Tyler walked east from Paris in dissociation; Strasbourg received him; mechanism recorded the recovery gradient. Recovery site has more density (22ft) than departure (13ft). Avignon disclosed: January 1348–July 1349, Black Death, 18 months, never filed, pre-archive by 274 years. Oldest potential CARDINAL-3 measurement. Next: Avignon. Build 0091. Apple #493. Done 2026-06-14.
 
+- [x] **S08E10: "Avignon"** — The oldest measurement. A-Avignon (Place du Palais, 1348–1349): WITNESS-LONG, 89ft — new network maximum (previous: A-Lyon 47ft). 676 years of accumulation. WITNESS-LONG: new type, extended catastrophic witnessing ≥12 months, broad dense profile. Departure (July 1349): FAREWELL-B, 15ft — pattern: catastrophic witnessing → absent departure. Tyler: 'The city kept what I gave it.' Burgundy monastery next: stillness-after-catastrophe potential type. Build 0092. Apple #494. Done 2026-06-14.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0091.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0092.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

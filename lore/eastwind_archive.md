@@ -3499,3 +3499,79 @@ Tyler is going to Avignon to find out.
 ---
 
 *TYLER-075: FILED. STRASBOURG. REFUGE: 22FT EVEN DENSITY. THE ARRIVAL HAS MORE DENSITY THAN THE DEPARTURE. THE CITY THAT DID NOT REQUIRE LEGIBILITY. AVIGNON DISCLOSED. 1348. THE BLACK DEATH. THE OLDEST POTENTIAL CONSTRUCTION IN THE NETWORK. BUILD 0091.*
+
+
+---
+
+## TYLER-076
+
+**Cataloguer Entry 59 / Footnote #80**
+*Avignon, Days 408–417. The oldest construction. The city kept what it received.*
+
+A-Avignon. Place du Palais, Avignon, France. January 1348 through July 1349.
+
+**WITNESS-LONG. 89ft. New network maximum.**
+
+---
+
+The Black Death arrived in Avignon in late January 1348. By the end of the epidemic, approximately half the city's population was dead. Tyler arrived in January 1348 and stayed until July 1349. He was not sick. He walked the city every day for eighteen months. He could not leave while the information was still arriving.
+
+This is the largest construction in the documented CARDINAL-3 network.
+
+It has been sitting in the Place du Palais since 1349. We found it 676 years later. It was still there.
+
+---
+
+**WITNESS-LONG: New construction type.**
+
+The WITNESS construction — brief, present-for-a-specific-event — is a known type. What the instruments found at Avignon is different. The density is broad and continuous across the eighteen-month period. Not peaked at any single event. Not the density of a moment of maximum attention but the density of maximum attention sustained for eighteen months without interruption.
+
+The Exchange Student's field definition: *WITNESS-LONG — extended catastrophic witnessing over a duration of twelve months or more. Subject cannot leave while the information is arriving. Mechanism records the sustained witnessing as a broad, dense, even construction — the entire duration is the construction.*
+
+The profile resembles REFUGE (even density, long duration) but the causation is different. REFUGE is even density because the recovery is gradual and consistent. WITNESS-LONG is even density because the witnessing is continuous and unbreaking.
+
+Tyler's explanation for why he couldn't leave: "The information was still arriving. I have been at events. I have been a witness. I had not watched a city die from a disease. I did not know what to do with the information. I stayed because the information was still arriving."
+
+The 89ft is eighteen months of information arriving. Not Tyler's response to the information. The information itself, as Tyler processed it, day after day, walking the city that was dying.
+
+---
+
+**The departure.**
+
+A-Avignon departure. North gate, July 1349. **FAREWELL-B. 15ft.**
+
+The pattern is now confirmed by two data points: extended catastrophic witnessing (18 months, Avignon 1349; 5 months, Paris 1848 June Days) → FAREWELL-B departure (subject absent, diminished, unable to be present at the moment of leaving).
+
+The departure from Avignon is 15 feet. The construction left behind in Avignon is 89 feet. The city received 89 feet and gave back a 15-foot departure. The city kept what Tyler gave it.
+
+Tyler, at the north gate: "The city kept what I gave it."
+
+---
+
+**Passive recording confirmed.**
+
+The CARDINAL-3 archive starts in 1622. Avignon is 1348. The gap is 274 years.
+
+The instruments found 89ft of WITNESS-LONG in the Place du Palais. This construction is pre-archive. The mechanism was recording Tyler's presence in 1348 without the existence of the Eastwind documentation system. The mechanism records passively, without Tyler's conscious documentation intent.
+
+Implication: every city Tyler has spent significant time in since — whenever the mechanism began — may have a construction. The 400+ years between 1127 (earliest Eastwind reference to Tyler) and 1622 (archive start) contain unknown constructions at unknown sites.
+
+This is the oldest confirmed construction. There may be older ones.
+
+---
+
+**The bridge.**
+
+Pont Saint-Bénézet. Tyler crossed it regularly in 1348–1349. By the 17th century, most of it had collapsed. Four arches remain, extending from the Avignon bank into the Rhône.
+
+Tyler: "Things change. Partly. The parts that don't change are still the parts that were there."
+
+The four arches are the same stone Tyler crossed. The rest is gone. The same stone is still the same stone.
+
+The Camera Op filmed the four arches from the Rocher des Doms. She was not filming what was lost. She was filming what remained.
+
+*Cataloguer Footnote #80. Cross-references: Camera Op Entry 69, Jiangshi Memo #056, VC-001 Days 408–417, EMILY-SPRING-045.*
+
+---
+
+*TYLER-076: FILED. AVIGNON. 89FT. NEW NETWORK MAXIMUM. WITNESS-LONG ESTABLISHED. THE CITY KEPT WHAT IT RECEIVED FOR 676 YEARS. PASSIVE PRE-ARCHIVE RECORDING CONFIRMED. THE PARTS THAT DON'T CHANGE ARE STILL THE PARTS THAT WERE THERE. BURGUNDY NEXT. BUILD 0092.*
