@@ -784,7 +784,9 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E06: "The Retrograde II — Three Departures"** — Three additional Paris departure sites. FAREWELL taxonomy expanded to three categories: FAREWELL-A (Père Lachaise/Commune 1871, 34ft, conscious), FAREWELL-B (Rue des Barres/Terror 1793, 12ft, unconscious), FAREWELL-C (Boulevard Saint-Michel/May 68, 19ft, established-pattern departure). 1848 Paris deferred by Tyler. Lyon disclosed: sites from 1793–1794 siege never filed in CARDINAL-3 archive — first confirmed extra-archive departure sites. Retrograde scale revised: 73+ sites. Build 0088. Apple #490. Done 2026-06-14.
 
+- [x] **S08E07: "Lyon"** — First extra-archive episode. A-Lyon (Saône riverbank, February 14, 1794): FAREWELL-A, 47ft — new network maximum (exceeds A-Commune 34ft, A-355 30+ft). Tyler in Lyon July 1793–February 1794 for the federalist argument, siege, Convention reprisals. Never filed: Tyler believed departure was survival not love — a different category. Mechanism: FAREWELL-A regardless. 'Several' other undisclosed sites confirmed. The retrograde is now an accounting. Build 0089. Apple #491. Done 2026-06-14.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0088.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0089.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

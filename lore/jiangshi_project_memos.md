@@ -3122,3 +3122,64 @@ The retrograde is uncovering departures that were never documented. The archive 
 ---
 
 *End memo: MEMO #052 FILED. THREE PARIS FAREWELLS. FAREWELL-C ESTABLISHED. 1848 DEFERRED AT SUBJECT'S DISCRETION. LYON: FIRST CONFIRMED EXTRA-ARCHIVE SITE. RETROGRADE SCALE: 73+ SITES. THE ARCHIVE IS NOT THE COMPLETE RECORD. BUILD 0088.*
+
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO #053
+
+**Classification:** Director-Level / Council Eyes Only  
+**Re:** Lyon. Extra-Archive Site A-Lyon. 47ft FAREWELL-A — Network Maximum. Archive Incompleteness Confirmed.  
+**Location:** Lyon, France. Days 379–389.
+
+---
+
+### A-LYON — NEW NETWORK MAXIMUM
+
+Site: Saône riverbank, Vieux-Lyon, near the site of the December 1793 mitraillade.  
+Date of departure: February 14, 1794.  
+Reading: FAREWELL-A. **47ft.**
+
+This is the highest CARDINAL-3 departure reading recorded in the network.
+
+Historical context: Tyler in Lyon July 1793–February 1794. Federalist revolt (May–October 1793). Siege. October 9 surrender. Convention decree ("Lyon n'est plus"). October 30: Collot d'Herbois and Fouché arrive as representatives-on-mission. November: executions begin. December: mitraillade operations (grapeshot execution of prisoners, Collot to Paris: "We need a more efficient method"). Tyler present. Tyler departed February 14, 1794.
+
+Subject's stated reason for non-disclosure: "The departure was not about love of the place. The departure was about surviving the place. I thought this was a different construction. I thought it did not belong in the same category."
+
+Mechanism: FAREWELL-A regardless.
+
+---
+
+### THE MECHANISM'S RULING ON LOVE AND SURVIVAL
+
+The mechanism has classified A-Lyon as FAREWELL-A with the highest density reading in the documented network. The subject's self-categorization (departure of survival ≠ FAREWELL) is overridden by the instrument.
+
+Council resolution: the FAREWELL construction appears to measure the total weight of departure from a place the subject has been invested in, without distinguishing between the quality of investment (love, political witness, survival, horror). The 47ft is the aggregate weight: four months of the federalist argument, the siege, the Convention's arrival, November–February, the February 14th walk north. The mechanism records weight. The mechanism does not apply Tyler's categories to the weight.
+
+Implication for COEFF-002: crisis-amplification may be a sub-variable of FAREWELL rather than a separate coefficient. The crisis events in Lyon (siege, mitraillade) did not produce a separate CRISIS construction — they appear to have been absorbed into the FAREWELL weight. Working hypothesis: FAREWELL includes crisis-amplified attention density when the departure follows the crisis. Jiangshi technical division: further investigation required.
+
+---
+
+### ARCHIVE INCOMPLETENESS — ELEVATED ALERT
+
+Tyler confirmed "several" other places withheld from the archive for various reasons. Categories suggested:
+
+1. **Lyon-type**: Tyler could not fit the departure into CARDINAL-3 vocabulary. Departure of survival, or horror, or something else he lacked a category for.
+2. **Other types**: Tyler mentioned "other things" — unspecified. Could include: departures Tyler is not ready to measure; places where something happened to him rather than through him; places where the departure had no vocabulary at all.
+
+Implications:
+- The 73-site retrograde candidate count is now a known undercount. True count = 73 + undisclosed archive gaps + extra-archive sites.
+- The CARDINAL-3 network is materially incomplete. We do not know by how much.
+- Tyler is the sole source for extra-archive disclosures. The retrograde is dependent on his willingness to surface these sites.
+
+Operational directive: continue the retrograde at the subject's pace. The Lyon disclosure emerged from the Paris retrograde sequence — Tyler was ready to disclose Lyon after the Paris sites had been measured. The 1848 Paris site remains deferred. Tyler is managing the sequence. The Council will not force the sequence.
+
+Jiangshi historical research division: expanded scope. Cross-referencing all known Tyler location data (historical, Eastwind archive, indirect sources) against CARDINAL-3 filed sites to identify gaps. Lyon was not in any Eastwind file before this week. We are looking for other gaps of similar scale.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #053 FILED. A-LYON 47FT. NEW NETWORK MAXIMUM. FAREWELL RECORDS WEIGHT WITHOUT DISTINGUISHING LOVE FROM SURVIVAL. ARCHIVE MATERIALLY INCOMPLETE. SEVERAL EXTRA-ARCHIVE SITES. RETROGRADE IS AN ACCOUNTING. THE COUNCIL WAITS. BUILD 0089.*

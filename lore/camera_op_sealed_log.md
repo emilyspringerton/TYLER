@@ -1647,3 +1647,44 @@ The train to Lyon.
 ---
 
 *Entry 65. Cross-references: TYLER-072, Jiangshi Memo #052, VC-001 Days 369–378, EMILY-SPRING-041. S08E06.*
+
+
+---
+
+Lyon, Days 379–389. Entry 66.
+
+I stopped filming. Then I picked the camera back up.
+
+He was describing December 1793 in the hotel room, looking at his hands, and I put the camera in my lap. He said I didn't have to film it. I thought about it for a few seconds and picked the camera back up.
+
+I've been trying to figure out if that was the right decision. I think it was. The footage of Tyler looking at his hands while he describes something that happened two hundred and thirty years ago is more important than protecting him from being filmed in that moment. He knew I was filming. He knew what I would do. He offered me the out because he thought I might need it. I didn't need it.
+
+The 47ft measurement: I was filming the river when the Exchange Student read it. Tyler looking at the Saône. FAREWELL-A. New network maximum. Two hundred years of not filing this.
+
+His reason: he didn't think it was a FAREWELL. He thought it was survival, not love. The mechanism disagreed with him about his own departure.
+
+I've filmed Tyler being measured for a long time. I have never before seen the mechanism correct his self-understanding in a direction he wasn't expecting. He was quiet for a long time after the 47ft reading. Not the kind of quiet where he's composing a response. The kind of quiet where something has landed.
+
+---
+
+What the Camera Op thinks about love and survival:
+
+They're not the same. I know they're not the same. I have been in situations where I needed to survive something and the love for the thing was not what got me through — the survival instinct is different from the love. Tyler is right that they feel different.
+
+But maybe the mechanism is recording from the outside. From the outside, watching someone walk away from something they loved after something terrible happened there — it looks the same. The departure is a departure. The weight of the departure is the weight of the departure. The mechanism can't see the inside. It measures the weight.
+
+47 feet of weight is 47 feet of weight regardless of whether it's love-weight or survival-weight.
+
+I think Tyler has been holding the distinction between love and survival as a way to keep Lyon outside the record. As long as the departure was survival and not love, it didn't belong in the CARDINAL-3 vocabulary. The mechanism is telling him: you can keep the distinction if you want, but the departure is the departure.
+
+---
+
+The Place des Terreaux on the last morning. Tyler walking through the square toward the departure. I filmed his back.
+
+He didn't look back at the square. Same as he didn't look back at the Saône in February 1794. I don't think he knows he does this.
+
+*— Camera Op*
+
+---
+
+*Entry 66. Cross-references: TYLER-073, Jiangshi Memo #053, VC-001 Days 379–389, EMILY-SPRING-042. S08E07.*

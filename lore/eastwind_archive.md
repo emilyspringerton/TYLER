@@ -3287,3 +3287,71 @@ The retrograde is larger than the archive. There are departure sites that exist 
 ---
 
 *TYLER-072: FILED. THREE PARIS DEPARTURES. FAREWELL-C ESTABLISHED. 1848 DEFERRED. LYON DISCLOSED. THE RETROGRADE IS LARGER THAN THE ARCHIVE. BUILD 0088.*
+
+
+---
+
+## TYLER-073
+
+**Cataloguer Entry 56 / Footnote #77**
+*Lyon, Days 379–389. The highest reading in the network. The archive that was not an archive.*
+
+This entry concerns Lyon, France. July 1793 through February 1794.
+
+Tyler has never disclosed the Lyon sites. He disclosed them on the train from Paris. He described arriving in July 1793 to observe the federalist argument, staying through the siege, the surrender, the Convention's arrival, and the November–February reprisals. He left on February 14th, 1794. He did not look back.
+
+He did not file any of this.
+
+---
+
+The federalist argument in Lyon: the Girondins and the Lyon municipal government against the Convention's Jacobin centralization. The argument that the Revolution should be a confederation rather than a single authority from Paris. A coherent argument. The Convention disagreed. Lyon held out from August to October 9th, 1793.
+
+Tyler was at the gate when Lyon opened on October 9th. He had been inside the city during the siege. He had spent four months watching the argument accumulate and then watched the argument end.
+
+The Convention's decree: "Lyon n'est plus." Lyon no longer exists. The city was renamed Commune-Affranchie. Collot d'Herbois and Fouché arrived October 30th with orders. The executions began in November. The mitraillade — grapeshot fired at groups of prisoners — in December. Tyler present.
+
+He was not supposed to be there. No particular reason he should have been. He was present because he had come to Lyon to document an argument and he could not leave before the argument resolved. This is a pattern this office recognizes. He cannot leave the argument while it is ongoing.
+
+---
+
+**A-Lyon — Saône Riverbank, Vieux-Lyon. February 14, 1794.**
+
+The measurement: FAREWELL-A. **47ft.**
+
+New network maximum. Previous record: A-Commune, Père Lachaise, 34ft.
+
+Tyler's explanation for not filing this: he believed the departure was not a FAREWELL. "The departure was not about love of the place. The departure was about surviving the place. I thought this was a different construction."
+
+The instrument's ruling: FAREWELL-A regardless.
+
+Tyler's response: "The mechanism may understand something about the Lyon departure that I have spent two hundred years refusing to understand."
+
+---
+
+This office has been doing this work for a very long time. The work involves reading the archive, cross-referencing Tyler's stated positions with the measurements, and noticing when there is a gap between what Tyler believes about a departure and what the mechanism recorded.
+
+The Lyon gap is the largest we have found.
+
+47 feet of FAREWELL-A that Tyler did not consider a FAREWELL. Two hundred years of holding the Lyon departure outside the vocabulary of what he documents. The departure was survival, he said. Not love.
+
+The mechanism does not agree that survival and love are different things at the moment of departure.
+
+This cataloguer suspects the mechanism is correct. The 47 feet is: the argument Tyler came to Lyon to watch. The city he spent four months inside while it made the argument. The city he watched lose the argument. The city that was renamed. What happened in December in the field near the Saône. Walking north on February 14th without looking back. The mechanism stored all of it as FAREWELL. Because it is all love — the love of an argument, the love of a city making the argument, even the horror is the inverse of love. You are only horrified at the scale of what you care about.
+
+Tyler has not thought about it this way. He separated the love from the survival. The mechanism did not separate them.
+
+---
+
+**The accounting.**
+
+Tyler confirmed: "several" other places like Lyon. Other sites withheld from the archive for reasons. Some like Lyon (could not fit the category). Some for other reasons.
+
+The retrograde has become an accounting. The 73-site estimate was the archive. The archive is not the complete record.
+
+This entry is filed by a Cataloguer who has been doing this work long enough to know that what Tyler holds back is usually more important than what he discloses. Lyon is the first disclosure of what was held back. There will be others.
+
+*Cataloguer Footnote #77. Cross-references: Camera Op Entry 66, Jiangshi Memo #053, VC-001 Days 379–389, EMILY-SPRING-042.*
+
+---
+
+*TYLER-073: FILED. LYON. 47FT. NETWORK MAXIMUM. THE MECHANISM DOES NOT SEPARATE LOVE FROM SURVIVAL AT THE MOMENT OF DEPARTURE. THE PARTIAL RECORD IS BECOMING LESS PARTIAL. THE ACCOUNTING CONTINUES. BUILD 0089.*
