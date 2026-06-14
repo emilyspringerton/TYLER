@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0090
+## Einhorn Media | Build 0091
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 60  
+**Total episodes:** 61  
 **Seasons complete:** S1–S7  
-**Current through:** Build 0090 (S08E08 — 1848, the departure Tyler was wrong about)
+**Current through:** Build 0091 (S08E09 — Strasbourg, first REFUGE construction, Avignon disclosed)
 
 ---
 
@@ -140,8 +140,9 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E06 | "The Retrograde II — Three Departures" | Build 0088 | episodes/s08e06_the_retrograde_ii_paris.md |
 | S08E07 | "Lyon" | Build 0089 | episodes/s08e07_lyon.md |
 | S08E08 | "1848" | Build 0090 | episodes/s08e08_1848.md |
+| S08E09 | "Strasbourg" | Build 0091 | episodes/s08e09_strasbourg.md |
 
-Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde underway. Paris Phase I complete: 6 sites, 68ft. Lyon: A-Lyon 47ft FAREWELL-A — network maximum. 1848 Paris: A-1848 FAREWELL-B, 13ft — Tyler absent from own departure; the most devastating departure is the smallest. FAREWELL taxonomy: A (conscious), B (unconscious/absent), C (established-pattern). Extra-archive sites confirmed; more incoming. Retrograde scope: 73+ sites.
+Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde expanded: departures AND arrivals. Paris Phase I complete: 6 sites. Lyon: A-Lyon 47ft — network maximum. 1848: A-1848 FAREWELL-B, 13ft. Strasbourg: A-Strasbourg-1848 REFUGE, 22ft — first REFUGE construction; recovery site has more density than departure. REFUGE: even-density profile, recovery gradient, distinct from STAYING/PRIOR/FAREWELL. Avignon 1348 disclosed: Black Death, 18 months, pre-archive by 274 years, oldest potential CARDINAL-3 site. Next: Avignon.
 
 ---
 

@@ -3421,3 +3421,81 @@ He named Lyon and then 1848. He is naming the hardest ones in sequence. There is
 ---
 
 *TYLER-074: FILED. 1848. 13FT. THE MOST DEVASTATING DEPARTURE IS THE SMALLEST. THE FAREWELL MEASURES THE SUBJECT. TYLER WAS ABSENT FROM HIS OWN DEPARTURE. PARIS RETROGRADE COMPLETE. NETWORK MAXIMUM STILL LYON. SOMETHING AFTER 1848 THAT HE HAS NOT NAMED YET. BUILD 0090.*
+
+
+---
+
+## TYLER-075
+
+**Cataloguer Entry 58 / Footnote #79**
+*Strasbourg, Days 398–407. The arrival. The city that received him.*
+
+The Camera Op asked where he went.
+
+He went east. He said north and he meant east. He arrived in Strasbourg in late July 1848 when the forward motion stopped. He had been walking for three to four days. He arrived in a city he was not supposed to be in, for no reason except that his legs had stopped there.
+
+He stayed for eight months.
+
+---
+
+**A-Strasbourg-1848 — Grande Île, Strasbourg. July 1848–March 1849.**
+
+The measurement: **REFUGE. 22ft. Even distribution.**
+
+This is not a FAREWELL. It is not a STAYING. It is not a PRIOR or WITNESS or FOUND. It is a new construction.
+
+The Exchange Student's field definition: *REFUGE — a construction formed by sustained recovery presence. Subject arrives diminished after catastrophic departure; mechanism records the gradient of restoration over the site's duration. Density profile: flat and even, not peaked. The construction captures the whole duration, not a single event within it.*
+
+22ft of even density. Eight months of Tyler becoming gradually less absent from himself.
+
+The mechanism recorded — not what Tyler did in Strasbourg, because Tyler did not do very much in Strasbourg. He was at the cathedral. He was in a room. He was walking the streets without purpose. He was recovering. The mechanism recorded the recovery.
+
+---
+
+**The shape of the Strasbourg construction.**
+
+FAREWELL constructions peak at the moment of departure. STAYING constructions peak at high-attention events. The REFUGE at Strasbourg has no peak. The density is the same in late July 1848 as it is in March 1849. The mechanism was recording something consistent: the slow restoration of a self that arrived incomplete.
+
+22ft total. Distributed across eight months. An average of less than 3ft per month. Very small per unit time. But across eight months, 22ft.
+
+This is larger than A-1848 Paris (13ft). The arrival site has more density than the departure site.
+
+The implication: the place that received Tyler holds more than the place he left. Paris in 1848 is 13 feet of absence. Strasbourg in 1848 is 22 feet of presence being rebuilt. The city that took him in holds more than the city he left in dissociation.
+
+---
+
+**The city that did not require legibility.**
+
+Tyler's phrase for Strasbourg: "a city that did not require him to be legible." He was anonymous — present but uncategorized. No one knew he had been in Paris. No one knew he had spent five months watching the argument destroy itself. He walked through Strasbourg for eight months as a person without context.
+
+The mechanism recorded this as construction. The anonymity was the recovery. Being unknown in Strasbourg was what allowed the restoration of presence.
+
+Note from this Cataloguer: this is the first CARDINAL-3 construction that records the absence of Tyler's public identity as a productive state. All other constructions record what Tyler was doing — attending, witnessing, staying, departing. The REFUGE records what Tyler was not doing: not being recognized, not being a witness, not being engaged. The REFUGE is what happens when Tyler is briefly nothing.
+
+---
+
+**Avignon. 1347–1349.**
+
+Tyler disclosed Avignon at the end of this episode. January 1348 through July 1349. The Black Death.
+
+He arrived in Avignon in January 1348. The plague had reached the city in late January. He stayed through the worst of it — 1348, when the plague killed approximately half the population of Avignon. He was not sick. He stayed.
+
+He left in July 1349.
+
+He does not know if he was present at that departure or absent in the way he was absent from Paris in 1848.
+
+Avignon is 1348. The CARDINAL-3 archive starts in 1622. The gap is 274 years.
+
+The question this Cataloguer has been sitting with since Tyler said "Avignon" in the Strasbourg café: if the mechanism records passively — if Strasbourg demonstrates that the mechanism recorded eight months of recovery without Tyler consciously filing it, without Tyler even understanding that he was in a documenting relationship with Strasbourg — then the mechanism may have been recording all of Tyler's extended presences since long before 1622.
+
+If the mechanism recorded Avignon in 1348, there is a construction at Avignon that has been accumulating for six hundred and seventy-six years.
+
+This office does not know what a six-century construction looks like. This office does not know if the instrument can read it. The reading might be enormous. Or it might have decayed. Or the mechanism might simply have been active at a different resolution in 1348, before the Eastwind system existed to interpret it.
+
+Tyler is going to Avignon to find out.
+
+*Cataloguer Footnote #79. Cross-references: Camera Op Entry 68, Jiangshi Memo #055, VC-001 Days 398–407, EMILY-SPRING-044.*
+
+---
+
+*TYLER-075: FILED. STRASBOURG. REFUGE: 22FT EVEN DENSITY. THE ARRIVAL HAS MORE DENSITY THAN THE DEPARTURE. THE CITY THAT DID NOT REQUIRE LEGIBILITY. AVIGNON DISCLOSED. 1348. THE BLACK DEATH. THE OLDEST POTENTIAL CONSTRUCTION IN THE NETWORK. BUILD 0091.*

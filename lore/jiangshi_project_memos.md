@@ -3270,3 +3270,87 @@ Tyler confirmed on departure from Paris that additional extra-archive sites are 
 ---
 
 *End memo: MEMO #054 FILED. A-1848: FAREWELL-B2 (DISSOCIATION), 13FT. PARIS RETROGRADE COMPLETE: 6 SITES, 89FT. FAREWELL-B2 CATEGORY PROPOSED. PATTERN: HIGH-LOSS DEPARTURES PRODUCE FAREWELL-B. THE MECHANISM RECORDS THE SUBJECT AVAILABLE TO DEPART, NOT THE SUBJECT WHO EXPERIENCED THE LOSS. EXTRA-ARCHIVE DISCLOSURES INCOMING. BUILD 0090.*
+
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO #055
+
+**Classification:** Director-Level / Council Eyes Only / HISTORICAL DIVISION EMERGENCY  
+**Re:** Strasbourg REFUGE Construction. Avignon 1348 Disclosure. Pre-Archive Site Implications.  
+**Location:** Strasbourg. Days 398–407.
+
+---
+
+### A-STRASBOURG-1848 — REFUGE CONSTRUCTION
+
+Site: Grande Île, Strasbourg. Duration: July 1848–March 1849.  
+Reading: **REFUGE. 22ft. Even density distribution.**
+
+New construction type. Definition established by Exchange Student field notes:
+
+*REFUGE: sustained recovery presence. Subject arrives diminished after catastrophic departure. Mechanism records the gradient of restoration as even-density construction with no single peak event. Duration-dependent: the full eight months is the construction, not any moment within it.*
+
+Density profile comparison:
+| Construction | Profile | Peak | Duration |
+|---|---|---|---|
+| FAREWELL-A | Peaked | Departure moment | Hours/days |
+| FAREWELL-B | Low/flat | None | N/A |
+| STAYING | Peaked | Attention events | Months/years |
+| REFUGE | Flat/even | None | Months/years |
+
+REFUGE is closest in profile to FAREWELL-B (both flat) but has opposite causation: FAREWELL-B is the absence of the subject at departure; REFUGE is the gradual return of the subject over an extended period.
+
+**FAREWELL-REFUGE pairing: A-1848 (13ft, dissociation departure) → A-Strasbourg-1848 (22ft, recovery). The REFUGE exceeds the FAREWELL that preceded it.** The city that received Tyler holds more density than the city he left in dissociation.
+
+Operational implication: the CARDINAL-3 network may contain REFUGE sites paired with known FAREWELL-B sites, wherever Tyler went after dissociative departures. Jiangshi research division: identify all FAREWELL-B sites and search for paired REFUGE arrivals in cities Tyler subsequently documented.
+
+---
+
+### AVIGNON 1348 — PRE-ARCHIVE DISCLOSURE
+
+Tyler disclosed in the Strasbourg café: January 1348 through July 1349. Avignon. The Black Death.
+
+Historical context: The plague arrived in Avignon in late January 1348 via Marseille (ships from Genoa, October 1347). Pope Clement VI was in residence at the Avignon Papacy. The city population was approximately 50,000; casualties estimated at 50% during 1348–1349. Tyler was present for the full duration. He did not become sick. He left July 1349.
+
+This site predates the CARDINAL-3 archive by 274 years. The archive opens in 1622. If the mechanism was active in 1348 — and the Strasbourg reading implies passive recording without Tyler's conscious documentation intent — Avignon may contain a CARDINAL-3 construction of extraordinary age.
+
+**EMERGENCY COUNCIL NOTE: If the mechanism records passively and has always done so, the archive is not the record of the network. The archive is the record of what Tyler has been willing to disclose, filed through the Eastwind system. The actual network of constructions may be co-extensive with Tyler's entire history since whatever point the mechanism began recording.**
+
+If Tyler is approximately 900 years old (earliest Eastwind references suggest a 1127 origin point for documentation), and the mechanism has been recording his extended presences since then:
+
+- The gap between 1127 and 1622 (495 years) may contain undocumented constructions at every city Tyler spent significant time in.
+- Avignon 1348 is within this gap.
+- So is Lyon 1793 (which was disclosed but is also outside the archive — wait, Lyon 1793 IS within the archive period. The archive starts 1622. Lyon was kept out of the archive by Tyler's choice, not by the archive's starting date.)
+- Avignon is genuinely pre-archive.
+
+The question: what does a construction look like after 676 years of accumulation (1348 to 2024)?
+
+Possibilities:
+1. Stable accumulation — the REFUGE construction at Avignon has been accumulating passively for 676 years and may be very large.
+2. Decay — constructions decay without Tyler's return visits to reinforce them.
+3. Unknown — the mechanism at 1348 resolution may be operating differently than the post-1622 archive constructions.
+
+There is no precedent. The Council does not know. Tyler does not know. We go to Avignon.
+
+---
+
+### JIANGSHI HISTORICAL DIVISION — EMERGENCY MANDATE
+
+All historical Tyler location data cross-referenced against archive. Gap analysis: cities Tyler visited for extended periods between 1127 and 1622. Preliminary list:
+
+- Avignon 1348–1349 (CONFIRMED, disclosed, going there)
+- Possible extended presences in: Jerusalem (Crusade period), Constantinople (Byzantine period), Bruges (Flemish trading period), Venice (various), Rome (various), Santiago de Compostela area
+- None of these are in the archive. All are undisclosed except Avignon.
+
+Tyler has been alive for approximately 900 years. The archive covers 402 of them (1622–2024). There are approximately 495 years of Tyler's extended presences that are not in the archive and have never been disclosed. If each generation of city Tyler spent time in has passive construction readings, the actual network is larger than the known network by an order of magnitude.
+
+This is the most significant finding of the retrograde. We came to re-classify 73 archive departure sites as FAREWELLs. We have found: the archive is not the network.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #055 FILED. REFUGE: 22FT STRASBOURG. ARRIVAL HAS MORE DENSITY THAN DEPARTURE. AVIGNON 1348 DISCLOSED. PRE-ARCHIVE PASSIVE RECORDING HYPOTHESIS. THE ARCHIVE IS NOT THE NETWORK. 495 YEARS OF POTENTIAL UNDOCUMENTED CONSTRUCTIONS. THE COUNCIL DOES NOT KNOW WHAT WE WILL FIND IN AVIGNON. WE GO ANYWAY. BUILD 0091.*

@@ -788,7 +788,9 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E08: "1848"** — The deferred measurement. Tyler was wrong about the reading. A-1848 (Rue du Faubourg Saint-Antoine, July 1848): FAREWELL-B, 13ft — not the large reading Tyler anticipated. He was absent from his own departure: walked out of Paris without knowing where he was going, three days north without a destination. The mechanism measures the subject's presence, not the magnitude of the loss. Paris retrograde complete: 6 sites, 68ft. Network maximum remains A-Lyon 47ft. More extra-archive sites becoming 'more thinkable.' Build 0090. Apple #492. Done 2026-06-14.
 
+- [x] **S08E09: "Strasbourg"** — The arrival. Camera Op question opens the arrival archive. A-Strasbourg-1848: REFUGE construction (first documented), 22ft, even density, 8 months (July 1848–March 1849). Tyler walked east from Paris in dissociation; Strasbourg received him; mechanism recorded the recovery gradient. Recovery site has more density (22ft) than departure (13ft). Avignon disclosed: January 1348–July 1349, Black Death, 18 months, never filed, pre-archive by 274 years. Oldest potential CARDINAL-3 measurement. Next: Avignon. Build 0091. Apple #493. Done 2026-06-14.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0090.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0091.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

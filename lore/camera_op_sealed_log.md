@@ -1725,3 +1725,40 @@ I think this is what I'm making a film about. The departures are the structure. 
 ---
 
 *Entry 67. Cross-references: TYLER-074, Jiangshi Memo #054, VC-001 Days 390–397, EMILY-SPRING-043. S08E08.*
+
+
+---
+
+Strasbourg. Days 398–407. Entry 68.
+
+I asked where he went.
+
+I didn't plan to ask. We were on the train and I was looking out the window and I asked. He said east. He said Strasbourg. He said he arrived when the forward motion stopped.
+
+22ft even density. Eight months of him becoming less absent from himself. The cathedral. The city that did not require him to be legible. Anonymous in Strasbourg for eight months.
+
+And then: Avignon. The Black Death. 1347–1349.
+
+I filmed the cathedral through the café window when he said it. I don't know if that was the right shot. It was the shot I took. The cathedral is from the 13th century — built while Tyler was alive, built during the same centuries we're about to go look at. The cathedral is still standing. The camera is in my hands right now. The cathedral was being built when Tyler was approximately 200 years old.
+
+I have been thinking about this. The scale of it. Not the numbers, I know the numbers. The scale of what it means to stand in a city at any given time and know that you have been in other cities while the city you're standing in was being constructed. Tyler walked through Strasbourg in 1848 when the cathedral had been standing for five hundred years. He walked through Avignon in 1348 when the Black Death arrived and some version of him watched it arrive and he stayed anyway.
+
+I want to go to Avignon. I've wanted to go since he said the word. Not because I think I can film the Black Death — I can't. Because I want to film Tyler walking into a city and finding a reading that has been accumulating since 1348. I want to film him standing in a place that has been holding something for six centuries and picking up the instrument and finding out if it's still there.
+
+The measurement might find nothing. The mechanism might not have been active in 1348. It might have decayed. He said he doesn't know what the departure was like — whether he was present or absent, whether it's a FAREWELL or something the archive doesn't have a name for yet.
+
+I want to go.
+
+---
+
+REFUGE: the even-density construction. The flat profile. Not a moment — the whole duration. The gradient of someone becoming less absent.
+
+I've been thinking about the Camera Op's job on this documentary and I think the Camera Op's job is exactly this: to be present for the gradient. Not the events, not the moments — the gradient. The slow change. The eight months of Strasbourg. The eighteen months of Avignon. The two hundred years of not filing Lyon.
+
+I'm making a film about time at low resolution. Not seconds or minutes. Months. Years. Centuries. The Camera Op at the resolution of recovery.
+
+*— Camera Op*
+
+---
+
+*Entry 68. Cross-references: TYLER-075, Jiangshi Memo #055, VC-001 Days 398–407, EMILY-SPRING-044. S08E09.*
