@@ -782,7 +782,9 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S08E05: "The Retrograde I — Paris"** — The Retrograde arc begins. Return to Paris for retroactive FAREWELL audit. A-278 Île Saint-Louis re-measured: REFUSAL (18ft, 1931, pre-awareness) co-located with FAREWELL-B (11ft, unconscious departure, subject told himself he would return). FAREWELL taxonomy: FAREWELL-A (conscious, ≥20ft, A-355) vs FAREWELL-B (unconscious, <11ft, A-278). 73 candidate departure sites across the 355-site archive. Amsterdam–Paris 1789 arc: Dutch Patriots in exile; Tyler followed the argument; A-P14 Bastille. Camera Op films the river, not Tyler. Build 0087. Apple #489. Done 2026-06-14.
 
+- [x] **S08E06: "The Retrograde II — Three Departures"** — Three additional Paris departure sites. FAREWELL taxonomy expanded to three categories: FAREWELL-A (Père Lachaise/Commune 1871, 34ft, conscious), FAREWELL-B (Rue des Barres/Terror 1793, 12ft, unconscious), FAREWELL-C (Boulevard Saint-Michel/May 68, 19ft, established-pattern departure). 1848 Paris deferred by Tyler. Lyon disclosed: sites from 1793–1794 siege never filed in CARDINAL-3 archive — first confirmed extra-archive departure sites. Retrograde scale revised: 73+ sites. Build 0088. Apple #490. Done 2026-06-14.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0087.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0088.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

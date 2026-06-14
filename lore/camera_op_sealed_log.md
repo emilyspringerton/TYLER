@@ -1602,3 +1602,48 @@ I think this is what the 11 feet is. The window and the light and the thing he w
 ---
 
 *Entry 64. Cross-references: TYLER-071, Jiangshi Memo #051, VC-001 Days 359–368, EMILY-SPRING-040. S08E05.*
+
+
+---
+
+Paris, three sites, Days 369–378. Entry 65.
+
+I am not filming history. I am filming someone who keeps attending the same moment in different cities.
+
+The Mur des Fédérés. A wall in a cemetery where something ended on May 28, 1871. Tyler was here. I wasn't — I don't have that footage. I have Tyler standing at the wall now, in the late morning, in 2024, knowing what happened here because he watched it happen. And that is what I am filming. Not the event. The residue of the event in someone who was present for it.
+
+I filmed the names carved near the wall. The thousands of Communards buried in the cemetery. Not Tyler. The names.
+
+I think I'm making a different film than I was making in Amsterdam.
+
+In Amsterdam I was trying to capture the light — the canal light, the morning light, the thing that was physically present and slipping away if you didn't film it right. In Paris I am trying to capture something that is not physically present. Tyler's presence at things I cannot see. Three sites in three different centuries. Three departures. The FAREWELL-C category we added today: you know you're leaving but you believe the pattern of return makes it temporary. The mechanism knows the pattern isn't a guarantee.
+
+---
+
+The Rue des Barres site was the hardest for me to film. The 1793 site. A narrow medieval street. Tyler at the building looking up at the window where he had a room in 1793. He lived in Paris for four years and then left and told himself he was coming back. The reading was 12 feet. FAREWELL-B. Smaller than I expected for four years.
+
+He explained: the mechanism rewards clarity of departure. A blurred departure is smaller. He didn't know he was leaving, so the 12 feet is the love without the knowledge of loss. The love at the moment of departure that didn't register as departure.
+
+I think 12 feet of departure-you-didn't-know-was-departure might be more painful to find than 34 feet of departure-you-knew-exactly. The 34 feet you have the memory of knowing. The 12 feet you don't even have that.
+
+---
+
+The 1848 departure. Tyler said he won't measure it on this visit. "I already know what the reading will be."
+
+He let us measure 1793, 1871, 1968. He will not measure 1848. 
+
+I have no footage of 1848. I don't know what happened to Tyler in Paris in 1848 other than what he's told us: he was there, February through July, the Second Republic, the June Days. For three days in February he believed the argument had won. The most convinced he had ever been.
+
+I think the 1848 reading is the largest thing we haven't measured yet.
+
+I think Tyler is letting the retrograde approach it slowly. He is managing the sequence. He said: Paris. Then three sites. Then "not 1848 yet." Then Lyon, which he has never told anyone about.
+
+I am not going to push him on the 1848 site. I am going to keep filming what he shows me and wait for him to be ready to show me the rest.
+
+The train to Lyon.
+
+*— Camera Op*
+
+---
+
+*Entry 65. Cross-references: TYLER-072, Jiangshi Memo #052, VC-001 Days 369–378, EMILY-SPRING-041. S08E06.*

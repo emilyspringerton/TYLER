@@ -3207,3 +3207,83 @@ The window had not changed.
 ---
 
 *TYLER-071: FILED. THE RETROGRADE BEGINS. A-278 FAREWELL-B DISCOVERED. THE REFUSAL AND THE FAREWELL AT THE SAME ADDRESS. THE 1931 RULE WAS THE YEAR HE LEFT WITHOUT KNOWING HE WAS LEAVING. 73 SITES. THE LIGHT IN THE MORNINGS WAS ALWAYS GOOD. BUILD 0087.*
+
+
+---
+
+## TYLER-072
+
+**Cataloguer Entry 55 / Footnote #76**
+*Paris, Days 369–378. The shape of Paris in three departures.*
+
+Tyler has been in Paris five times for revolutionary moments: 1789, 1793, 1848, 1871, 1968. He has left after each one. The Retrograde is documenting the departures for the first time.
+
+**A-Commune** — Père Lachaise Cemetery, Mur des Fédérés. May 28, 1871.
+
+Tyler was inside the Commune's lines from March through May 1871. Two months inside the densest political experiment he describes since he began documenting them. The argument knew the odds were wrong. It ran anyway. On May 28th the last Communards were brought to this wall and shot. Tyler was there. He left through the Vincennes gate that afternoon.
+
+FAREWELL-A. 34ft. Highest reading in the Paris retrograde file. The clearest departure Tyler has made. He knew he was going while standing at this wall.
+
+"The 34 feet is May 28th at this wall. The knowledge that the thing I had been watching for two months was over, and that I was going."
+
+The mechanism rewards clarity of departure. This was the clearest.
+
+**A-Terror** — Rue des Barres, Saint-Gervais. August 3rd, 1793.
+
+Tyler had been in Paris since July 1789. Four years. He left in August 1793 when the Committee of Public Safety began its acceleration. He told himself the political environment was untenable. He told himself he would return when it stabilized.
+
+FAREWELL-B. 12ft. He told himself he was coming back.
+
+He returned in 1795. Not to the room. Not to that Paris. He came back to a city that had exhausted itself and called the exhaustion stability.
+
+Comparison: A-Terror (12ft, 1793, four years in Paris) is smaller than A-278 (11ft, 1931, two years on the Île Saint-Louis) only slightly — the mechanism records not the length of the attachment but the quality of the departure. Both are FAREWELL-B. Both are Tyler telling himself he is coming back.
+
+**A-68** — Boulevard Saint-Michel. August 1968.
+
+Tyler arrived in March 1968 to observe the student organizing at Nanterre. He was present for the May barricades. He left in August when the argument resolved into negotiation and exhaustion.
+
+FAREWELL-C. 19ft. New category.
+
+Tyler knew he was leaving but he had been in Paris in 1789, in 1871, and each time had come back. He had a pattern of return. He believed the pattern would hold. He said "I will come back in September." He came back in 1974. Six years.
+
+The FAREWELL-C mechanism: the self-deception of pattern. The subject does not believe the departure is permanent because the place has always taken them back before. The mechanism records the departure as departure. The mechanism does not consider the pattern a guarantee.
+
+"The mechanism knows Paris doesn't owe me a return."
+
+---
+
+**FAREWELL TAXONOMY — COMPLETE (PROVISIONAL)**
+
+| Type | Description | Density | Exemplars |
+|---|---|---|---|
+| FAREWELL-A | Subject knows departure is permanent. Deliberate. Density of knowing. | ≥20ft | A-355 (30+ft, Amsterdam 1789), A-Commune (34ft, Paris 1871) |
+| FAREWELL-B | Subject tells himself he is coming back. Departure is permanent; subject does not register it. | <15ft | A-278 (11ft, Paris 1931), A-Terror (12ft, Paris 1793) |
+| FAREWELL-C | Subject knows departure but believes established pattern of return makes permanence impossible. Pattern breaks. | 15–22ft | A-68 (19ft, Paris 1968) |
+
+---
+
+**1848 DEFERRED**
+
+Tyler disclosed that he was in Paris in February–July 1848 (Second Republic, June Days). He stated he will not measure the 1848 departure site on this visit.
+
+"I already know what the reading will be."
+
+This is the first documented case of Tyler managing the retrograde's emotional sequence. He is deferring the largest reading he expects to find. This office will not speculate on the density of the 1848 Paris departure. We will wait.
+
+---
+
+**LYON — NOT IN THE ARCHIVE**
+
+Tyler disclosed on departure from Paris: he was in Lyon in 1793–1794. The siege of Lyon (August–October 1793, Convention forces against the federalist uprising) and its aftermath. He left Lyon in February 1794.
+
+These sites have never been entered into the CARDINAL-3 archive.
+
+"I have never told anyone about Lyon 1793–1794."
+
+The retrograde is larger than the archive. There are departure sites that exist outside the documented network. Lyon is the first confirmed case. The scale of Tyler's unmeasured departures is unknown.
+
+*Cataloguer Footnote #76. Cross-references: Camera Op Entry 65, Jiangshi Memo #052, VC-001 Days 369–378, EMILY-SPRING-041.*
+
+---
+
+*TYLER-072: FILED. THREE PARIS DEPARTURES. FAREWELL-C ESTABLISHED. 1848 DEFERRED. LYON DISCLOSED. THE RETROGRADE IS LARGER THAN THE ARCHIVE. BUILD 0088.*

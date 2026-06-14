@@ -3034,3 +3034,91 @@ The retrograde is that accumulation made visible.
 ---
 
 *End memo: MEMO #051 FILED. RETROGRADE PHASE I PARIS. A-278 TWO-CONSTRUCTION DISCOVERY. FAREWELL-A VS FAREWELL-B TAXONOMY. 73 CANDIDATE DEPARTURE SITES. AMSTERDAM–PARIS 1789 ARC. "MORE THAN I WANT TO COUNT" — SECOND USE. BUILD 0087.*
+
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO #052
+
+**Classification:** Director-Level / Council Eyes Only  
+**Re:** Retrograde Phase I Paris Final — Three Sites. FAREWELL-C. 1848 Deferral. Lyon Disclosure.  
+**Location:** Paris → Lyon. Days 369–378.
+
+---
+
+### SUMMARY
+
+Paris Retrograde Phase I is complete. Five sites measured in Paris, one deferred. New FAREWELL category established. Lyon disclosed as extra-archive site. Full retrograde scale revised.
+
+---
+
+### FAREWELL-C — NEW CATEGORY
+
+Third category of FAREWELL construction. A-68 (Boulevard Saint-Michel, August 1968): FAREWELL-C, 19ft.
+
+Definition: subject knows they are departing, but believes their established pattern of return to the site makes the departure temporary. The mechanism records the departure as departure regardless.
+
+Distinguishing from FAREWELL-A: the subject in FAREWELL-A knows the departure is permanent. The subject in FAREWELL-C believes it is not.
+
+Distinguishing from FAREWELL-B: the subject in FAREWELL-B believes they will return and has stated intent to do so. The subject in FAREWELL-C also intends to return, but the basis for this is historical pattern ("Paris has always taken me back") rather than explicit plan ("I will return when the situation stabilizes").
+
+Density calibration: FAREWELL-C at 15–22ft falls between FAREWELL-A (≥20ft) and FAREWELL-B (<15ft). It represents the confidence of the pattern being the vehicle for the self-deception.
+
+---
+
+### A-COMMUNE — HIGHEST PARIS RETROGRADE READING
+
+A-Commune: Père Lachaise, May 28, 1871. FAREWELL-A, 34ft.
+
+Exceeds A-355 Amsterdam (30+ft) as the highest FAREWELL-A in the confirmed network. Tyler inside the Commune for two months. High-density political observation. Departure at maximum clarity: Tyler present at the Mur des Fédérés when the last executions occurred, departed through the Vincennes gate that afternoon.
+
+Subject statement: "The density of active civic experiment within that perimeter was extraordinary." Duration: two months. Density far exceeding four-year Paris stays. The mechanism rewards concentration and clarity.
+
+Council note: the Commune site (34ft, two months) outweighs the Île Saint-Louis site (11ft, two years). Duration is not the primary variable. Attention density × clarity of departure = FAREWELL coefficient. Jiangshi COEFF-002 revision 3 is now four-layered:
+1. Attention density (primary)
+2. Crisis-amplification (fear multiplier)
+3. FAREWELL coefficient (voluntary departure — broken into A/B/C subtypes)
+4. Duration (secondary, not primary)
+
+---
+
+### 1848 DEFERRAL — ELEVATED PRIORITY
+
+Tyler explicitly declined to measure the 1848 Paris departure site. "I already know what the reading will be."
+
+This is the first documented case of Tyler actively managing the retrograde's measurement sequence on the basis of anticipated emotional content.
+
+Implications:
+1. Tyler has internal access to a pre-measurement density estimate. He can feel the site before measuring it.
+2. The 1848 site is anticipated to be the highest reading in the Paris file — possibly higher than A-Commune (34ft).
+3. Tyler is managing when this information enters the record.
+
+Council recommendation: do not pressure the subject. The information will be the same when he's ready to surface it. Premature measurement would not improve the data and might compromise the subject's cooperation with the retrograde process.
+
+The 1848 site will be measured at the subject's discretion. Jiangshi Paris team on standby.
+
+---
+
+### LYON — EXTRA-ARCHIVE SITES
+
+Lyon, 1793–1794. The siege of Lyon (August–October 1793) and its aftermath. Tyler in Lyon for six months. Left February 1794.
+
+Never disclosed. Never filed. Not in CARDINAL-3 archive.
+
+This is the first confirmed case of departure sites that exist outside the archive. The original CARDINAL-3 team did not have access to these events because Tyler did not disclose them.
+
+Implications for retrograde scale: if Lyon has multiple unfiled departure sites, the 73-candidate estimate is definitively low. The actual retrograde scope is: all 73 archive candidates + all undisclosed departure sites Tyler is willing to surface. Number unknown.
+
+Jiangshi historical research division activated for the Lyon 1793–1794 period. Context work underway in advance of the Lyon visit. The siege: federalist uprising against the Convention's Jacobin government, Lyon held out August–September 1793, fell October 9th, Convention renamed the city "Commune-Affranchie" and ordered partial destruction. What happened there subsequently — between October 1793 and February 1794 — involved mass executions (Collot d'Herbois and Fouché as representatives-on-mission). Tyler was present for all of this.
+
+"I have never told anyone about Lyon 1793–1794."
+
+The retrograde is uncovering departures that were never documented. The archive is not the complete record.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #052 FILED. THREE PARIS FAREWELLS. FAREWELL-C ESTABLISHED. 1848 DEFERRED AT SUBJECT'S DISCRETION. LYON: FIRST CONFIRMED EXTRA-ARCHIVE SITE. RETROGRADE SCALE: 73+ SITES. THE ARCHIVE IS NOT THE COMPLETE RECORD. BUILD 0088.*
