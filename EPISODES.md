@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0096
+## Einhorn Media | Build 0097
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 66  
-**Seasons complete:** S1–S7  
-**Current through:** Build 0096 (S08E14 — Marrakech, FAREWELL-C ratio 0.21, network age unknown, mechanism starts before 1127)
+**Total episodes:** 67  
+**Seasons complete:** S1–S8  
+**Current through:** Build 0097 (S08E15 — The Reckoning, Season 8 finale, taxonomy complete, the choosing matters)
 
 ---
 
@@ -128,7 +128,7 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 
 ---
 
-## SEASON 8 — THE RETROGRADE + AMSTERDAM
+## SEASON 8 — THE RETROGRADE + AMSTERDAM ★ COMPLETE
 
 | Code | Title | Build | File |
 |---|---|---|---|
@@ -146,8 +146,9 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E12 | "Prague" | Build 0094 | episodes/s08e12_prague.md |
 | S08E13 | "The Ratio" | Build 0095 | episodes/s08e13_the_ratio.md |
 | S08E14 | "Marrakech" | Build 0096 | episodes/s08e14_marrakech.md |
+| S08E15 ★ | "The Reckoning" | Build 0097 | episodes/s08e15_the_reckoning.md |
 
-Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde expanded: departures, arrivals, and pre-archive. Paris Phase I complete: 6 sites. Lyon: A-Lyon 47ft. Strasbourg: REFUGE, 22ft. Avignon: WITNESS-LONG, 89ft — former network maximum. 676 years of accumulation. Passive pre-archive recording confirmed (mechanism active 1348). Burgundy: CARRIED, 8ft — residual discharge from Avignon, front-loaded. Two years suspension. Navigation-by-construction confirmed: instrument and Tyler's direct perception access the same construction data. Prague: DWELLING, 144ft — NEW NETWORK MAXIMUM. 5 sites. Voluntary inhabitation generates more than catastrophic witnessing over comparable period. Network measures quality of presence, not duration. Archive = events; extra-archive = life. FAREWELL-A intensity ratio 0.36 proposed. Construction taxonomy: FAREWELL A/B/B2/C/D, REFUGE, WITNESS-LONG, CARRIED, DWELLING, DWELLING(finite).
+Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde: departure taxonomy, extra-archive disclosures, pre-archive passive recording confirmed. Paris (6 sites). Lyon: FAREWELL-A 47ft. Strasbourg: REFUGE 22ft. Avignon: WITNESS-LONG 89ft (676yr passive). Burgundy: CARRIED 8ft. Prague: DWELLING 144ft — NETWORK MAXIMUM. Marrakech: oldest archive site, FAREWELL-C ratio 0.21. The Reckoning: taxonomy complete, FAREWELL-A 0.36 / FAREWELL-C 0.21, network minimum age 899yr true age unknown, mechanism origin unknown. The choosing matters. Season 9 pending: 8 cities remaining + pre-1127. Full taxonomy: FAREWELL A/B/B2/C/D · REFUGE · WITNESS-LONG · CARRIED · DWELLING · DWELLING(finite/urgent) · STAYING.
 
 ---
 
