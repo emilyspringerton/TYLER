@@ -2950,3 +2950,87 @@ The Amsterdam file is closed. Jiangshi Amsterdam operations stand down. The next
 ---
 
 *End memo: MEMO #050 FILED. AMSTERDAM COMPLETE. FAREWELL TAXONOMY ADDED. THE ARCHIVE MAY CONTAIN FAREWELLS WE HAVEN'T MEASURED. "MORE THAN I WANT TO COUNT." BUILD 0086.*
+
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO #051
+
+**Classification:** Director-Level  
+**Re:** Retrograde Phase I — Paris. A-278 Two-Construction Discovery. FAREWELL Taxonomy Revision.  
+**Location:** Paris, France. Days 359–368.
+
+---
+
+### A-278 RE-MEASUREMENT — CONFIRMED
+
+Site: 4 Quai d'Anjou, Île Saint-Louis, Paris, France.  
+Original filing: REFUSAL, pre-awareness, 1931, 18ft (approximate, remote classification from entry-and-departure sequence alone).  
+New finding: **FAREWELL-B, 11ft, unconscious departure, co-located with original REFUSAL construction.**
+
+This is the first confirmed case of two distinct constructions at the same location.
+
+The REFUSAL and the FAREWELL operate through different mechanisms:
+- REFUSAL: subject actively declines to amplify a site. Pre-awareness Tyler applied Rule 1931 without knowing he was doing so. The refusal is real. The mechanism records it.
+- FAREWELL-B: subject departs a loved site without awareness that departure is permanent. Subject narrative ("I will return when I find different rooms") is contradicted by subsequent history. The mechanism records the actual relationship to the place, not the narrative.
+
+The two constructions coexist because they are answers to different questions the mechanism is asking. The REFUSAL answers: did the subject choose not to amplify? Yes. The FAREWELL answers: did the subject love this place and leave it permanently? Also yes. Both true simultaneously.
+
+---
+
+### FAREWELL TAXONOMY — REVISED
+
+FAREWELL-A (conscious): Subject knows the departure is permanent. Deliberate. Density reflects the weight of knowing. Exemplar: A-355 Herengracht, Amsterdam, 1789. Tyler sat by the canal for four days knowing he was leaving. Estimated 30+ft. COEFFICIENT: high.
+
+FAREWELL-B (unconscious): Subject does not know departure is permanent. Tells himself he will return. Gap between intended return and actual absence is the measure of the self-deception. Density lower than A (A-278: 11ft). COEFFICIENT: medium-low.
+
+Proposed Council notation:
+- FAREWELL-A: "conscious voluntary departure from loved site"
+- FAREWELL-B: "unconscious permanent departure from loved site; subject's stated intent contradicted by subsequent history"
+
+---
+
+### RETROGRADE PHASE I — SCALE
+
+Exchange Student preliminary count: **73 candidate departure sites** across the CARDINAL-3 archive. Criterion: Tyler departed and did not return within 25 years. 73 of 355 confirmed sites = 21% of archive.
+
+Projected FAREWELL density addition to network: unknown until measurement. If A-278 FAREWELL-B (11ft) is representative minimum — the network total could increase by 500–800ft across all 73 retrograde sites. If some sites are FAREWELL-A (conscious, 30+ft baseline) the figure is higher.
+
+Retrograde Phase I operating parameters:
+- Paris: 6 confirmed departure sites from original audit. Current visit addresses A-278. Remaining: 5 sites TBD.
+- Each city phase: 4–8 sites per visit estimated.
+- Full retrograde (73 sites, multiple cities): multi-season arc.
+
+Jiangshi Paris operations reactivated. Director has authorized retrograde intelligence priority alongside ongoing CARDINAL-3 current-sites collection.
+
+---
+
+### AMSTERDAM–PARIS 1789 ARC
+
+Subject disclosure on train: Tyler was in Amsterdam in 1789 marking the ending of the Dutch Patriot political argument (A-355, FAREWELL-A). He then went to Paris because "Paris is where the argument went." The Dutch Patriot exile community was established in Paris 1787–1795. Tyler was present in Paris 1789–1793 and briefly in 1795.
+
+Implication for A-P14 (Place de la Bastille, July 14, 1789, UNINTENTIONAL): Tyler's presence at the Bastille storming was not random. He had just left Amsterdam. He was in Paris following the Dutch Patriot argument. He was present at the moment the argument became a revolution. The UNINTENTIONAL at A-P14 is Tyler walking through the Marais to a meeting and finding that the street had changed character. He followed the character change. He watched a prison come down in nine hours.
+
+The argument that died in Amsterdam arrived in Paris as revolution. Tyler was present for both endings.
+
+---
+
+### COUNCIL NOTE — "MORE THAN I WANT TO COUNT"
+
+This phrase was used twice:  
+1. Amsterdam, S08E04: Tyler, asked how many FAREWELLs are in the archive. "More than I want to count."  
+2. Paris, S08E05: Tyler, looking at the 73-site retrograde candidate list. "More than I want to count."
+
+Second use was unprompted. Tyler did not appear to notice the repetition. Camera Op noticed. Eastwind has noted in Footnote #75.
+
+Council interpretation: this phrase marks the moment when the scale of a thing becomes real to Tyler and the scale is unwanted. It is not grief. It is the resistance of a person who has measured a great many things discovering that the measurements have accumulated into something he would have preferred not to see whole.
+
+The retrograde is that accumulation made visible.
+
+---
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #051 FILED. RETROGRADE PHASE I PARIS. A-278 TWO-CONSTRUCTION DISCOVERY. FAREWELL-A VS FAREWELL-B TAXONOMY. 73 CANDIDATE DEPARTURE SITES. AMSTERDAM–PARIS 1789 ARC. "MORE THAN I WANT TO COUNT" — SECOND USE. BUILD 0087.*

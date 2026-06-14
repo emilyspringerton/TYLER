@@ -1563,3 +1563,42 @@ Amsterdam complete. Next city, whenever Tyler names it.
 ---
 
 *Entry 63. Cross-references: TYLER-070, Jiangshi Memo #050, VC-001 Days 350–358, EMILY-SPRING-039. S08E04.*
+
+
+---
+
+Paris, Île Saint-Louis. Days 359–368. Entry 64.
+
+I didn't film Tyler at the building. I filmed the river.
+
+There was something about standing outside 4 Quai d'Anjou — the address where he lived from 1929 to 1931, the address the 1931 rule is named for, the address where the work stopped and he told himself he would come back — and I didn't want to film him looking at it. It felt like the wrong shot. The river was the right shot. The light on the Paris water in the early evening.
+
+The instruments said 11 feet. FAREWELL-B. Unconscious departure from a place he loved. He told himself he would return. The mechanism knew he wouldn't.
+
+I told him: the 1931 rule might be "I enter a place I love and I leave before I understand that I'm leaving."
+
+He said: that might be a more accurate description of the rule.
+
+He has been calling it the 1931 rule for a long time. He named it for the year. The year was the year he left this address.
+
+---
+
+73 candidate sites. The Exchange Student has the list. Cities he left. Rooms he left. Streets he was on and then wasn't. Some of them he knew he was leaving. Some of them he told himself he was coming back. The retrograde will tell us which.
+
+Tyler, looking at the list: "More than I want to count." He used the same phrase in Amsterdam, looking at the canal on the last day. He didn't seem to notice he was using it again. I noticed.
+
+I think "more than I want to count" is what he says when the scale of something becomes clear and the scale is unwanted. Not grief exactly. More like: the number is real and I would prefer it not to be.
+
+---
+
+The Paris light is different from Amsterdam. Amsterdam gave me a morning. Paris is giving me evenings. They are both good. I was expecting to miss Amsterdam and I don't — I expected the missing to be about the light and it turns out it was always about what we were doing in the light, and we're still doing the same thing here.
+
+The work that stopped at 4 Quai d'Anjou in 1931 — Tyler doesn't remember what it was about. He remembers the window facing the Seine. He remembers the light in the mornings was good.
+
+I think this is what the 11 feet is. The window and the light and the thing he was trying to do. He kept the light in his memory. He lost the work. The mechanism, apparently, kept both.
+
+*— Camera Op*
+
+---
+
+*Entry 64. Cross-references: TYLER-071, Jiangshi Memo #051, VC-001 Days 359–368, EMILY-SPRING-040. S08E05.*

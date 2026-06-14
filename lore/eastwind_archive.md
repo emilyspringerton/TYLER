@@ -3143,3 +3143,67 @@ Tyler watching her set up the shot. Tyler, who has been in this city since 1628 
 ---
 
 *TYLER-070: FILED. AMSTERDAM COMPLETE. 31 SITES. THE FAREWELL. THE LIGHT WAS NEVER THE PROBLEM. BUILD 0086.*
+
+
+---
+
+## TYLER-071
+
+**Cataloguer Entry 54 / Footnote #75**
+*Paris, Days 359–368. The REFUSAL and the FAREWELL at the same address.*
+
+The Retrograde has begun.
+
+Tyler named Paris first. The reason: Dutch Patriots who fled Amsterdam after the 1787 Prussian suppression went to Paris. Tyler went to Amsterdam in 1789 to mark the ending of the argument. He then went to Paris because Paris is where the argument went. "In Paris the argument became the Revolution."
+
+This office already has A-P14 filed: Place de la Bastille, July 14, 1789, UNINTENTIONAL. Tyler was present at the storming. He was walking through the Marais and followed the change in street character. The mechanism recorded it. He did not know he was doing anything. He was watching a prison come down in nine hours.
+
+He stayed in Paris 1789–1793. Left before the Terror became systematic. Returned briefly in 1795 when the Batavian Republic was declared — the Dutch Patriots came home, via French bayonets. Tyler was in Paris to see it. Then left again. He describes a man named Cornelis: a competent Amsterdam council member who spent six years in Paris waiting to go home, and found the thing he had wanted arriving in a form he hadn't wanted.
+
+**A-278 RE-MEASUREMENT: Île Saint-Louis, 4 Quai d'Anjou**
+
+Original classification: REFUSAL, pre-awareness, 1931. Tyler lived here 1929–1931. Writing that he describes as having felt important and that he has no copies of. He left when the work stopped and told himself he would return when he found different rooms.
+
+The 1931 rule is named for the year. The year the pattern first appeared. The year he left this address.
+
+New finding: **FAREWELL-B at A-278. 11ft. Unconscious departure.**
+
+The REFUSAL (18ft) and the FAREWELL-B (11ft) are distinct constructions at the same location. The REFUSAL records the pre-awareness application of Rule 1931 — the decision not to amplify. The FAREWELL-B records the departure from a loved place without the subject's awareness that the departure was permanent.
+
+Tyler told himself he would come back. He did not come back. The mechanism recorded the actual relationship to the place regardless of his narrative about leaving.
+
+Exchange Student, field notes: *FAREWELL-UNCONSCIOUS. The mechanism apparently understood that the return wouldn't happen. The subject did not provide the density of conscious departure. He provided the density of someone who left without saying goodbye.*
+
+Camera Op, during measurement: *"The 1931 rule might be: I enter a place I love and I leave before I understand that I'm leaving."*
+
+Tyler: *"That might be a more accurate description of the rule."*
+
+---
+
+**FAREWELL TAXONOMY — PROVISIONAL**
+
+FAREWELL-A (conscious): Subject knows the departure is permanent. Sits with the place. Provides density of deliberate leaving. Exemplar: A-355 Herengracht, 1789. 30+ft.
+
+FAREWELL-B (unconscious): Subject tells himself he will return. The mechanism records the actual permanence regardless. Smaller density (A-278: 11ft) — the gap between what the subject intended and what the mechanism recorded is the measure of the self-deception.
+
+---
+
+**RETROGRADE SCALE: 73 CANDIDATE SITES**
+
+Departure sites across the CARDINAL-3 archive where Tyler left and did not return within 25 years: 73. Twenty-one percent of 355 confirmed sites. Some FAREWELL-A (he knew he was leaving). Some FAREWELL-B (he told himself he was coming back). The distinction unknown until measurement.
+
+Tyler, on the full retrograde: "More than I want to count." Second use of this phrase. He did not seem to notice the repetition. The Cataloguer noticed.
+
+---
+
+What Tyler was writing at 4 Quai d'Anjou in 1929–1931: he does not remember what it was about. He remembers the window. He remembers the light in the mornings was good. He remembers that the light in the mornings was always good.
+
+The work stopped. He left. He said the window had changed.
+
+The window had not changed.
+
+*Cataloguer Footnote #75. Cross-references: Camera Op Entry 64, Jiangshi Memo #051, VC-001 Days 359–368, EMILY-SPRING-040.*
+
+---
+
+*TYLER-071: FILED. THE RETROGRADE BEGINS. A-278 FAREWELL-B DISCOVERED. THE REFUSAL AND THE FAREWELL AT THE SAME ADDRESS. THE 1931 RULE WAS THE YEAR HE LEFT WITHOUT KNOWING HE WAS LEAVING. 73 SITES. THE LIGHT IN THE MORNINGS WAS ALWAYS GOOD. BUILD 0087.*
