@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0093
+## Einhorn Media | Build 0094
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 63  
+**Total episodes:** 64  
 **Seasons complete:** S1–S7  
-**Current through:** Build 0093 (S08E11 — Burgundy, CARRIED construction established, navigation-by-construction confirmed)
+**Current through:** Build 0094 (S08E12 — Prague, DWELLING 144ft NEW NETWORK MAXIMUM, voluntary inhabitation > catastrophic witnessing)
 
 ---
 
@@ -143,8 +143,9 @@ CARDINAL-3 audit: Paris (9 sites), Vienna (15 sites), London (47 sites). PRIOR c
 | S08E09 | "Strasbourg" | Build 0091 | episodes/s08e09_strasbourg.md |
 | S08E10 | "Avignon" | Build 0092 | episodes/s08e10_avignon.md |
 | S08E11 | "Burgundy" | Build 0093 | episodes/s08e11_burgundy.md |
+| S08E12 | "Prague" | Build 0094 | episodes/s08e12_prague.md |
 
-Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde expanded: departures, arrivals, and pre-archive. Paris Phase I complete: 6 sites. Lyon: A-Lyon 47ft. Strasbourg: REFUGE, 22ft. Avignon: WITNESS-LONG, 89ft — NEW NETWORK MAXIMUM. 676 years of accumulation. Passive pre-archive recording confirmed (mechanism active 1348). Burgundy: CARRIED, 8ft — residual discharge from Avignon, front-loaded. Two years suspension. Navigation-by-construction confirmed: instrument and Tyler's direct perception access the same construction data. Avignon may have never fully discharged — present at fractional levels in all post-1349 sites. Network audit implication: small readings require CARRIED re-analysis. Construction taxonomy: FAREWELL A/B/C/D, REFUGE, WITNESS-LONG, CARRIED.
+Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The Retrograde expanded: departures, arrivals, and pre-archive. Paris Phase I complete: 6 sites. Lyon: A-Lyon 47ft. Strasbourg: REFUGE, 22ft. Avignon: WITNESS-LONG, 89ft — former network maximum. 676 years of accumulation. Passive pre-archive recording confirmed (mechanism active 1348). Burgundy: CARRIED, 8ft — residual discharge from Avignon, front-loaded. Two years suspension. Navigation-by-construction confirmed: instrument and Tyler's direct perception access the same construction data. Prague: DWELLING, 144ft — NEW NETWORK MAXIMUM. 5 sites. Voluntary inhabitation generates more than catastrophic witnessing over comparable period. Network measures quality of presence, not duration. Archive = events; extra-archive = life. FAREWELL-A intensity ratio 0.36 proposed. Construction taxonomy: FAREWELL A/B/B2/C/D, REFUGE, WITNESS-LONG, CARRIED, DWELLING, DWELLING(finite).
 
 ---
 
