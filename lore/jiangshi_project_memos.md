@@ -3433,3 +3433,43 @@ The retrograde began as a re-classification of 73 known archive sites. It has be
 ---
 
 *End memo: MEMO #056 FILED. AVIGNON: WITNESS-LONG 89FT, NEW NETWORK MAXIMUM. PASSIVE PRE-ARCHIVE RECORDING CONFIRMED. ARCHIVE IS NOT THE NETWORK. REVISED PROJECT DEFINITION. BURGUNDY NEXT. THE COUNCIL WAITS. BUILD 0092.*
+
+## JIANGSHI PROJECT — INTERNAL MEMO #063
+*For internal distribution: Director, Chief Analyst, Instrument Lead, Field Team*
+*Re: C-001 Confirmed — Córdoba, Pre-Archive, New Maximum*
+*[Note: Memos #057 through #062 (S08E11–S09E01) exist in episode files but were not appended to this log. Continuity gap; backfill pending.]*
+
+---
+
+**CONFIRMATION: The mechanism was operational pre-archive.**
+
+C-001 (Medina quarter, Córdoba, al-Andalus, c. 950–985 CE) has been confirmed.
+
+Construction profile: DWELLING (primary), WITNESS-sustained (secondary, object unresolved)
+Duration: approximately 12 years
+Total construction: ~640ft pre-departure
+FAREWELL-A extraction: ~228ft
+**Remaining construction: 412ft**
+**New network maximum: 412ft** (was Prague 144ft; factor 2.86)
+
+**Operational implications:**
+
+1. **Pre-archive network inventory required.** The mechanism has been running longer than the Eastwind documentation system. We do not have a complete network inventory. Every location Tyler visited for any significant duration before 1127 CE may contain a construction. We have no way to enumerate these locations except through the subject's memory (incomplete) and targeted measurement campaigns.
+
+2. **The gap period is now priority.** The subject reports compressed memory of approximately 130 years between Córdoba (~985 CE departure) and Marrakech (1127 CE). If the mechanism was operational throughout this period — which confirmation of C-001 now makes likely — the gap contains one or more unknown construction sites. Subject's only texture: "cold and high, north and east." Hypothesis: plateau or mountain region. Eleventh-century candidates: Toledo (Christian, cool plateau), northern Iberia, southern France, northern Italy (Alpine foothills). Toledo recommended as first search target (reconquered 1085 CE by Alfonso VI; subject's northward migration from al-Andalus consistent with 11th-century Iberian Christian expansion period).
+
+3. **WITNESS-component resolution.** The sustained attention signature within C-001 requires resolution. Working hypothesis: subject was present at the Great Library of Córdoba under al-Hakam II (active expansion 961–976 CE). Consistent with subject's known attention pattern (extended presence at centers of knowledge accumulation). Confirmation requires deeper profile analysis and historical cross-reference.
+
+4. **Pre-Córdoba question deferred.** Subject states Córdoba is the clearest pre-archive memory. Earlier memories are available only as "textures" without geographic anchors. Pre-Córdoba investigation is not yet feasible. Deferred until gap-period search yields additional reference points.
+
+*Note from the Director: The network is older than we documented. We do not know how much older. The subject named one city. We measured it. We will use that foothold.*
+
+*The Chief Analyst noted in MEMO #062: is there a threshold in Season 9 where the measurements reveal something Tyler does not wish to know? Today's measurement revealed 412 feet Tyler did not remember generating. He received this with what the Camera Op described as "quiet unbearable accuracy." He knows the mechanism contains more of him than he does. He asked us to proceed.*
+
+*We proceed.*
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #063 FILED. C-001 CONFIRMED. 412FT NEW MAXIMUM. MECHANISM OPERATIONAL PRE-ARCHIVE. 672-YEAR INSTRUMENTATION GAP IDENTIFIED. WITNESS-COMPONENT UNRESOLVED: LIBRARY HYPOTHESIS. GAP PERIOD NEXT. COLD AND HIGH. TOLEDO HYPOTHESIS. BUILD 0099.*

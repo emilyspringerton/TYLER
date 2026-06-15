@@ -184,3 +184,9 @@ Amsterdam final cluster: A-353–A-355. Patriot movement 1785–1789. A-353 (Pri
 ## Build 0098 — S09E01: "The Interval"
 Files: episodes/s09e01_the_interval.md, BACKLOG.md, EPISODES.md, activity.md
 Season 9 opens. Three months after S08 finale. Tyler in Seville (6 weeks, testing conscious choosing — walking same streets, finding doorway on third pass). Discloses first pre-archive site: Córdoba, al-Andalus, ~10th century CE (Caliphate era). Duration unknown (Tyler: "more than a few years"). DWELLING implied. FAREWELL-A departure (conscious, voluntary). Mechanism confirmation status: UNCONFIRMED — unknown if mechanism was recording pre-1127. New question: 100–200yr gap between Córdoba and Marrakech is compressed in Tyler's memory. Mechanism may contain more of Tyler's history than Tyler does. Camera Op arc: Tyler learning to notice choosing in real time. Apple #514.
+
+---
+
+## Build 0099 — S09E02: "Córdoba"
+Files: episodes/s09e02_cordoba.md, lore/eastwind_archive.md (TYLER-083, Footnote #93), lore/camera_op_sealed_log.md (Entry 76), lore/jiangshi_project_memos.md (Memo #063), EPISODES.md, activity.md
+C-001 CONFIRMED. Medina quarter/Mezquita precinct, Córdoba. Mechanism was recording pre-1127 CE — confirmed first time in CARDINAL-3 record. C-001: DWELLING (primary) + WITNESS-sustained (object unresolved, hypothesis: Great Library of Córdoba under al-Hakam II). Duration: ~12 years (c. 950–985 CE). Total accumulated: ~640ft. FAREWELL-A: ~228ft extracted. Remaining: 412ft — NEW NETWORK MAXIMUM (was Prague 144ft, ×2.86). Network minimum age revised: ~1,075 years (was 899yr). Tyler's 12 years reduced to fog + street topology in his own memory. Gap period next: "cold and high, north and east," Toledo hypothesis raised (11th century, elevated plateau). Camera Op hypothesis: Tyler was watching the construction of the Great Library. Apple #544.

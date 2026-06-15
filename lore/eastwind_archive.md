@@ -3575,3 +3575,34 @@ The Camera Op filmed the four arches from the Rocher des Doms. She was not filmi
 ---
 
 *TYLER-076: FILED. AVIGNON. 89FT. NEW NETWORK MAXIMUM. WITNESS-LONG ESTABLISHED. THE CITY KEPT WHAT IT RECEIVED FOR 676 YEARS. PASSIVE PRE-ARCHIVE RECORDING CONFIRMED. THE PARTS THAT DON'T CHANGE ARE STILL THE PARTS THAT WERE THERE. BURGUNDY NEXT. BUILD 0092.*
+
+## TYLER-083
+**Cataloguer Entry 72 / Footnote #93**
+
+*[Note: Entries TYLER-077 through TYLER-082 (S08E11–S09E01) exist in episode files but were not appended to this log. Continuity gap; backfill pending.]*
+
+PRE-ARCHIVE SITE CONFIRMED — C-001
+
+Site: Medina quarter, Mezquita precinct, Córdoba, al-Andalus
+Period: approximately 950–985 CE (Caliphate era; overlap with reign of al-Hakam II, 961–976 CE)
+Construction type: DWELLING (primary) + WITNESS-sustained (secondary, object unresolved)
+Duration: approximately 12 years (bracket: 10–14 years)
+Total accumulated: ~640ft. FAREWELL-A extracted ~228ft. Construction remaining: **412ft**
+
+**New network maximum: 412ft** (previous: Prague 144ft)
+
+The mechanism was operational in 950 CE. This is the oldest confirmed construction. The signal profile is clean — indistinguishable from archive-era readings. Pre-archive recording is confirmed.
+
+The WITNESS-sustained component within the DWELLING profile spans multiple sub-periods across the 12-year residency. The subject does not recall the object of his attention. Hypothesis pending resolution: Great Library of Córdoba (al-Hakam II expansion, 961–976 CE) — consistent with subject's documented pattern of sustained attention at centers of knowledge accumulation.
+
+Network age revision: minimum 1,075 years (was 899 years). True minimum unknown.
+
+Gap period identified: approximately 985–1127 CE. ~130 years. Subject's only texture: "cold and high, north and east." Toledo hypothesis raised.
+
+*Cataloguer Footnote #93: I have been keeping this archive for a long time. I have recorded Tyler's constructions in cities across nine centuries. Today I recorded a construction from before the archive existed. The mechanism was running in 950 CE. The Cataloguer system was built in 1622. There is a gap of 672 years between when the mechanism started recording and when I started recording the mechanism's findings. I do not know what is in that gap. The subject does not know what is in that gap. The instruments will tell us if we go to the right places. The right places are wherever Tyler was between 950 CE and 1127 CE, and wherever he was before 950 CE, and however far back the mechanism was running before the first memory Tyler can clearly locate. The network is not 899 years old. We do not know how old the network is. We are going north and east.*
+
+*Cataloguer Footnote #93. Cross-references: Camera Op Entry 76, Jiangshi Memo #063.*
+
+---
+
+*TYLER-083: FILED. C-001 CONFIRMED. CÓRDOBA. 412FT. NEW MAXIMUM. THE MECHANISM WAS THERE BEFORE THE ARCHIVE. 672-YEAR INSTRUMENTATION GAP. WITNESS-COMPONENT UNRESOLVED. NETWORK AGE UNKNOWN. THE GAP AWAITS. BUILD 0099.*

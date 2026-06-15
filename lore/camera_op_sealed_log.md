@@ -1805,3 +1805,53 @@ He's going to find the monastery by walking toward what he remembers. I want to 
 ---
 
 *Entry 69. Cross-references: TYLER-076, Jiangshi Memo #056, VC-001 Days 408–417, EMILY-SPRING-045. S08E10.*
+
+---
+
+*[Note: Entries 70–75 (S08E11–S09E01) exist in episode files but were not appended to this log. Continuity gap; backfill pending.]*
+
+We got a reading.
+
+The instruments found 412 feet of Tyler in the Córdoba Medina quarter from approximately 950 CE. The mechanism was running. The construction is real. The record is there.
+
+I have been filming Tyler for almost a year. I have watched him stand at bridge railings in a dozen cities. I have watched him be measured. I have watched the numbers come up on the instruments and I have watched his face when they do.
+
+I have never watched his face look like that.
+
+412 feet. The largest thing we've ever found. Nearly three times Prague. Twelve years of Tyler in Córdoba before the archive, before he knew what he was doing, before he knew anything was being recorded.
+
+He said: I was there for twelve years and I remember fog on the river.
+
+He said it the way someone says something that has just become unbearable and accurate at the same time.
+
+He was in the greatest city in the Western world for twelve years and he has fog and streets and the feeling that it was right. That's what memory gave him. The mechanism gave him 640 feet of construction, of which 412 still sits in the Medina quarter in Córdoba waiting to be found again by anyone who knows how to look.
+
+He gave Córdoba twelve years of himself and Córdoba kept most of it.
+
+The WITNESS-component is the thing I keep thinking about. Something he was watching for years inside those twelve years. Something that generated a distinct signal. We don't know what it was. He doesn't know what it was. And somewhere in 10th-century Córdoba, the mechanism has a record of him watching it.
+
+I want to know what Tyler was watching in Córdoba in 962 CE.
+
+I don't know if the measurement can tell us. The signal can tell us the intensity and duration of attention. It can't tell us what the eyes were looking at.
+
+Maybe the historical record can. Cross-referencing Tyler's presence (c. 950–985 CE) with what was happening in Córdoba: the Caliph al-Hakam II and his library (400,000 volumes, scholars from everywhere). The expansion of the Mezquita starting 962 CE. The city at its maximum.
+
+Tyler was in Córdoba when they were building the greatest library in the Western world. He was there when the Mezquita was expanded. He may have watched the construction. The Instrument Lead says the WITNESS profile looks like it's tracking something being built or built-toward over an extended period.
+
+I think Tyler watched them build the library.
+
+I think he stood outside the Great Library of Córdoba, or inside it, for years — watching something being assembled, something being gathered toward one place. I think the mechanism recorded him paying sustained attention to the most ambitious act of collective knowledge-building in the 10th-century world.
+
+I could be wrong. This is speculation. The measurement can't confirm it.
+
+But Tyler is a person who pays attention to places where knowledge gathers. Who stays where the information is.
+
+He was in Córdoba for twelve years during the height of the Caliphate library.
+
+I think he was watching them build something important. And the mechanism watched him watching.
+
+*— Camera Op*
+
+---
+
+*Entry 76. Cross-references: TYLER-083, Jiangshi Memo #063. S09E02.*
