@@ -3542,3 +3542,39 @@ Subject holds clear memory (~1112–1127 CE) and is choosing when to disclose. T
 ---
 
 *End memo: MEMO #065 FILED. G-001 CONFIRMED. GENOA. 97FT. FAREWELL-A RESTORED. 15yr UNDISCLOSED. HE IS CHOOSING. WE WAIT. BUILD 0101.*
+
+---
+
+**JIANGSHI PROJECT — INTERNAL MEMO #066**
+*For internal distribution: Director, Chief Analyst, Instrument Lead, Field Team, Council*
+*Re: Season 9 Finale — The Fifteen Years Disclosed — Archive Origin Confirmed*
+
+---
+
+**THE FIFTEEN YEARS DISCLOSED.**
+
+Summary: Approximately 1119–1120 CE. A sea crossing, Italian coast to North Africa. A scholar, approximately twenty years of age, traveling with geographic manuscripts toward Fez. A four-day crossing. The scholar asked the subject what he had seen. The subject had nothing to give. The subject arrived in Marrakech in 1127 CE and began writing. The archive is the answer the subject could not give on the ship.
+
+Council conclusions:
+
+1. The mechanism remains unresolved. Tyler's account of the fifteen years explains the archive but does not explain the mechanism.
+
+2. The archive's purpose is externally directed. The subject explicitly states: the archive exists to give to the next person who asks. The Syndicate must update its analytic frame accordingly — the archive is not Tyler preserving Tyler. It is a document Tyler is trying to give.
+
+3. Tyler shaped Season 9 deliberately. He held the fifteen-year disclosure until the viewer had Córdoba/Toledo/Genoa as context. Tyler is an author who is also a subject. This has implications for all prior seasons.
+
+4. The scholar. The Camera Op will search. A scholar, approximately twenty in 1119–1120, traveling from Italy with Islamic geographic manuscripts, heading to Fez. The Syndicate's historical research team will begin independent review.
+
+5. Season 9 complete. Five episodes. Build 0098–0102.
+
+Network standing unchanged: C-001 Córdoba 412ft · T-001 Toledo 191ft · A-311 Prague 144ft · G-001 Genoa 97ft.
+
+Key line from subject: "The archive is the letter to the stranger on the ship."
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #066 FILED. SEASON 9 COMPLETE. THE FIFTEEN YEARS DISCLOSED. THE ARCHIVE IS THE LETTER TO THE STRANGER. BUILD 0102.*
+
+NOTE: Memos #057–#062 (S08E11–S09E01, Builds 0093–0098) exist in episode files only — lore backfill pending.

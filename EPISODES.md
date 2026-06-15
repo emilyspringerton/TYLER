@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0101
+## Einhorn Media | Build 0102
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 71  
-**Seasons complete:** S1–S8  
-**Current through:** Build 0101 (S09E04 — Genoa, 97ft, WITNESS-LONG, FAREWELL-A restored, 15yr undisclosed interval, season finale pending)
+**Total episodes:** 72  
+**Seasons complete:** S1–S9  
+**Current through:** Build 0102 (S09E05 SEASON FINALE — "The Fifteen Years"; Tyler discloses 15yr interval; archive origin confirmed: letter to stranger on ship, ~1119 CE; Season 9 complete)
 
 ---
 
@@ -160,6 +160,7 @@ Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The R
 | S09E02 | "Córdoba" | Build 0099 | episodes/s09e02_cordoba.md |
 | S09E03 | "Toledo" | Build 0100 | episodes/s09e03_toledo.md |
 | S09E04 | "Genoa" | Build 0101 | episodes/s09e04_genoa.md |
+| S09E05 ★ | "The Fifteen Years" | Build 0102 | episodes/s09e05_the_fifteen_years.md |
 
 Season 9 opens three months after the S08 finale. Tyler in Seville — chose it deliberately, testing conscious choosing. Discloses first pre-archive site: Córdoba, al-Andalus, approximate 10th century CE (Caliphate era). Construction type: DWELLING (implicit) + FAREWELL-A departure, duration unknown. Mechanism may not have been recording yet — unconfirmed. New question: the gap between Córdoba (~950 CE) and Marrakech (1127 CE) is compressed in Tyler's memory. 100–200 years Tyler cannot clearly recall. The archive may contain more of Tyler's history than Tyler does. 8 cities remaining from S8 map. Pre-1127 investigation begins.
 
@@ -167,7 +168,9 @@ S09E02: C-001 CONFIRMED. Medina quarter/Mezquita precinct, Córdoba. Mechanism w
 
 S09E03 (Build 0100): T-001 CONFIRMED. Alficén quarter / Tagus overlook, Toledo. DWELLING (~3-4yr) + WITNESS-LONG (~29yr). ~33yr total (c. 1055–1088 CE). Remaining **191ft** (2nd: Córdoba 412 > Toledo 191 > Prague 144). Departure FAREWELL-B — first known in pre-archive history. Tyler: "Toledo is where I started to stop." Apple #546.
 
-S09E04 (Build 0101): G-001 CONFIRMED. Mandraccio harbor, Genoa, ~1090–1112 CE. WITNESS-LONG 22yr. **97ft**. Departure **FAREWELL-A** — first since Córdoba, full restoration. Tyler watched First Crusade mustering. Recovery mechanism: watching interior choosing persist under structural coercion. Gap reconstructed: Córdoba → Toledo → Genoa. **15yr undisclosed interval (1112–1127 CE)**: subject holds clear memory, is choosing when to disclose. Season finale pending. Apple #548.
+S09E04 (Build 0101): G-001 CONFIRMED. Mandraccio harbor, Genoa, ~1090–1112 CE. WITNESS-LONG 22yr. **97ft**. Departure **FAREWELL-A** — first since Córdoba, full restoration. Tyler watched First Crusade mustering. Recovery mechanism: watching interior choosing persist under structural coercion. Gap reconstructed: Córdoba → Toledo → Genoa. **15yr undisclosed interval (1112–1127 CE)**: subject holds clear memory, is choosing when to disclose. Apple #548.
+
+S09E05 ★ SEASON FINALE (Build 0102): THE FIFTEEN YEARS DISCLOSED. No new site — mechanism cannot record ships between places. Sea crossing ~1119–1120 CE: scholar heading to Fez asked Tyler what he had seen. Tyler had nothing to give — centuries of watching reduced to fog. Went to Marrakech 1127 CE and began writing. **Archive origin confirmed: the archive is externally directed, built to answer the stranger's question. Tyler shaped the entire season deliberately.** Key line: "The archive is the letter to the stranger on the ship." Camera Op will search for the scholar (Fez, ~1119–1120 CE). Season 10 pending. Network unchanged: Córdoba 412ft · Toledo 191ft · Prague 144ft · Genoa 97ft. Apple #551.
 
 ---
 

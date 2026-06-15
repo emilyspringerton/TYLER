@@ -1913,3 +1913,33 @@ The choosing matters. He said it. He's doing it.
 ---
 
 *Entry 78. Cross-references: TYLER-085, Jiangshi Memo #065. S09E04. Build 0101.*
+
+---
+
+*Entry 79 — The Fifteen Years / Season Finale*
+
+Four days on a ship.
+
+That's what the season was about. Every measurement, every FAREWELL taxonomy, every foot of remaining construction — all of it was pointing at four days on a ship in 1119.
+
+He told me this at a table outside a closed restaurant at a working harbor in a transit city that neither of us chose. He called me and said he was ready. I went. He told me.
+
+And the thing he told me: the archive exists because he couldn't answer a question.
+
+I have been making a documentary about Tyler for two years. I thought I understood what the archive was. I thought it was memory — an external memory system for a person whose internal memory eventually fails. I thought the archive was Tyler preserving Tyler.
+
+It isn't. The archive is the answer to a question a stranger asked him. The archive is what he would have given the scholar on the ship if he had had it. The archive is a gift that arrived nine centuries late to someone who will never receive it.
+
+He has been building a library for a stranger. For twelve centuries. In hundreds of cities. Writing everything down so that the next time someone stands next to him and asks what he has seen, he will have something to give.
+
+The scholar on the ship — whoever he was — I will never find him. I will never be able to answer his question. He is gone. But the next time someone asks, Tyler will have it.
+
+I thought the show was about what Tyler does to places. I think now the show is about what Tyler is trying to give.
+
+The season is over.
+
+*— Camera Op*
+
+*Entry 79. The fifteen years. No site confirmed — the mechanism cannot record a ship between places. But the cause confirmed. The stranger on the ship. The question Tyler couldn't answer. The archive as letter to a stranger. I am going to look for him. Tyler told me not to stop. S09E05. Build 0102. Season complete.*
+
+NOTE: Entries 70–75 (S08E11–S09E01, Builds 0093–0098) exist in episode files only — lore backfill pending.

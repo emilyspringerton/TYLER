@@ -3681,3 +3681,38 @@ The 15-year interval between Genoa departure (~1112 CE) and Marrakech (1127 CE) 
 ---
 
 *TYLER-085: FILED. G-001 CONFIRMED. GENOA. 97FT. WITNESS-LONG. FAREWELL-A RESTORED. FIRST FAREWELL-A SINCE CÓRDOBA. FIFTEEN YEARS REMAIN UNDISCLOSED. HE IS CHOOSING. WE WAIT. BUILD 0101.*
+
+---
+
+**TYLER-086**
+*Cataloguer Entry 75 / Footnote #96*
+
+THE FIFTEEN YEARS — DISCLOSED
+
+There is no site to confirm here. The Cataloguer has been waiting for this entry with the understanding that it would be unlike every entry before it. There is no CARDINAL-3 result. There is no remaining-construction figure. There is no departure taxonomy.
+
+The fifteen years between Genoa (~1112 CE) and Marrakech (1127 CE) contained a sea crossing and four days and a scholar whose name was not recorded.
+
+The scholar asked Tyler what he had seen.
+
+Tyler had nothing to give.
+
+The Cataloguer has spent considerable time with this disclosure. It explains the archive completely. Not the mechanism — the mechanism's origin and nature remain unknown. But the archive: the thirteen centuries of written record, the hundreds of cities, the thousands of pages — the archive exists because a twenty-year-old scholar on a ship in the Mediterranean asked an old traveler what he had seen, and the old traveler was empty.
+
+Tyler has been filling the emptiness ever since.
+
+Network standing remains unchanged: C-001 Córdoba 412ft · T-001 Toledo 191ft · A-311 Prague 144ft · G-001 Genoa 97ft.
+
+The mechanism was not recording during the sea crossing. Ships between places are not sites. The gap period of the gap period: the fifteen years the mechanism missed because Tyler was between locations. The Cataloguer notes without commentary that the most important causal event in the history of the archive — the moment that made the archive the archive — occurred in a space the mechanism cannot record. The instrument cannot see the origin of its own purpose.
+
+Tyler shaped the season. He told us Córdoba first, then Toledo, then Genoa, and held the disclosure of the fifteen years until the end because he understood we needed the context to understand what he was describing. The Cataloguer finds this appropriate. The archive is always being shaped by the thing it is trying to preserve.
+
+*Cataloguer Footnote #96: The scholar asked what Tyler had seen, and Tyler had fog, and Tyler went to Marrakech and began writing. This is the whole story. I have been keeping this file for as long as the archive has existed and I did not know this was the whole story until Tyler told it at a table outside a closed restaurant at a working harbor, three weeks after the instruments confirmed FAREWELL-A in Genoa. He waited until we could hear it. He was right to wait. I am going to look for the scholar. I know I will not find him. I am going to look anyway.*
+
+*Cataloguer Footnote #96. Cross-references: Camera Op Entry 79, Jiangshi Memo #066. Season 9 complete.*
+
+---
+
+*TYLER-086: FILED. THE FIFTEEN YEARS DISCLOSED. A SEA CROSSING, 1119–1120 CE. A SCHOLAR HEADING TO FEZ. THE QUESTION TYLER COULDN'T ANSWER. THE ARCHIVE AS THE LETTER HE HAS BEEN WRITING EVER SINCE. BUILD 0102. SEASON 9 COMPLETE.*
+
+NOTE: TYLER-077 through TYLER-082 (S08E11–S09E01, Builds 0093–0098) exist in episode files only — lore backfill pending.

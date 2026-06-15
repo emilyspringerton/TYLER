@@ -202,3 +202,17 @@ T-001 CONFIRMED. Alficén quarter / Tagus overlook, Toledo. Construction: DWELLI
 ## Build 0101 — S09E04: "Genoa"
 Files: episodes/s09e04_genoa.md, lore/eastwind_archive.md (TYLER-085, Footnote #95), lore/camera_op_sealed_log.md (Entry 78), lore/jiangshi_project_memos.md (Memo #065), EPISODES.md, activity.md
 G-001 CONFIRMED. Mandraccio harbor district, Genoa. Construction: WITNESS-LONG (primary, full 22yr, c. 1090–1112 CE). 97ft remaining. Departure: FAREWELL-A — first since Córdoba (~985 CE), full restoration. Tyler watched First Crusade mustering (1096 CE and aftermath). Recovery mechanism: interior choosing under structural coercion restored Tyler's own departure capacity. Gap reconstruction: Córdoba (~950–985) → Toledo (~1055–1088) → Genoa (~1090–1112). 15-year interval (1112–1127 CE) undisclosed: subject holds clear memory, not texture, is choosing when to speak. Season finale pending. Network: Córdoba 412ft · Toledo 191ft · Prague 144ft · Genoa 97ft. Apple #548.
+
+## Build 0102 — 2026-06-15
+
+**S09E05 "The Fifteen Years" — SEASON 9 FINALE**
+
+Tyler discloses the fifteen-year interval (1112–1127 CE). No new site — the mechanism cannot record ships between places. A sea crossing (~1119–1120 CE): a scholar heading to Fez asked Tyler what he had seen. Tyler had nothing to give. He went to Marrakech in 1127 CE and began writing the archive.
+
+Archive origin confirmed: externally directed. Built to answer a stranger's question. The archive is the letter Tyler could never send because he didn't have it when it was needed.
+
+Tyler shaped Season 9 deliberately — held the fifteen-year disclosure until Córdoba, Toledo, and Genoa had given the viewer the necessary context.
+
+Camera Op will search for the scholar (Fez, ~1119–1120 CE, Islamic geography manuscripts, age ~20). The Jiangshi Syndicate's research team will assist.
+
+Season 9 complete. 5 episodes (S09E01–S09E05), Builds 0098–0102. Network unchanged: Córdoba 412ft · Toledo 191ft · Prague 144ft · Genoa 97ft. Apple #551.
