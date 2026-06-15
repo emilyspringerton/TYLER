@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0099
+## Einhorn Media | Build 0100
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 69  
+**Total episodes:** 70  
 **Seasons complete:** S1–S8  
-**Current through:** Build 0099 (S09E02 — Córdoba, first pre-archive site confirmed, 412ft new network maximum, mechanism operational pre-1127 CE, the gap awaits)
+**Current through:** Build 0100 MILESTONE (S09E03 — Toledo, 191ft, DWELLING→WITNESS-LONG→FAREWELL-B, Tyler started to stop, Mediterranean harbor next)
 
 ---
 
@@ -158,10 +158,13 @@ Vienna retroactive complete. Amsterdam complete (A-323–A-355, 31 sites). The R
 |---|---|---|---|
 | S09E01 | "The Interval" | Build 0098 | episodes/s09e01_the_interval.md |
 | S09E02 | "Córdoba" | Build 0099 | episodes/s09e02_cordoba.md |
+| S09E03 | "Toledo" | Build 0100 | episodes/s09e03_toledo.md |
 
 Season 9 opens three months after the S08 finale. Tyler in Seville — chose it deliberately, testing conscious choosing. Discloses first pre-archive site: Córdoba, al-Andalus, approximate 10th century CE (Caliphate era). Construction type: DWELLING (implicit) + FAREWELL-A departure, duration unknown. Mechanism may not have been recording yet — unconfirmed. New question: the gap between Córdoba (~950 CE) and Marrakech (1127 CE) is compressed in Tyler's memory. 100–200 years Tyler cannot clearly recall. The archive may contain more of Tyler's history than Tyler does. 8 cities remaining from S8 map. Pre-1127 investigation begins.
 
-S09E02: C-001 CONFIRMED. Medina quarter/Mezquita precinct, Córdoba. Mechanism was recording pre-1127 CE (confirmed). Construction: DWELLING (primary) + WITNESS-sustained (object unresolved). Duration: ~12 years (c. 950–985 CE). Total accumulated: ~640ft. FAREWELL-A extracted ~228ft. Remaining: **412ft — NEW NETWORK MAXIMUM** (was Prague 144ft). Tyler was in Córdoba during al-Hakam II's reign; WITNESS-component hypothesis: Great Library of Córdoba. Network age revised: minimum 1,075 years (was 899). Gap period (c. 985–1127 CE) next: Tyler's texture — "cold and high, north and east." Toledo hypothesis raised.
+S09E02: C-001 CONFIRMED. Medina quarter/Mezquita precinct, Córdoba. Mechanism was recording pre-1127 CE (confirmed). DWELLING + WITNESS-sustained. ~12yr (c. 950–985 CE). ~640ft accumulated; FAREWELL-A -228ft; remaining **412ft — NETWORK MAXIMUM**. Library of Córdoba hypothesis. Network age min 1,075yr. Apple #544.
+
+S09E03 (Build 0100 MILESTONE): T-001 CONFIRMED. Alficén quarter / Tagus overlook, Toledo. DWELLING (~3-4yr) + WITNESS-LONG (~29yr). ~33yr total (c. 1055–1088 CE). Remaining **191ft** (2nd: Córdoba 412 > Toledo 191 > Prague 144). Departure FAREWELL-B — first known in pre-archive history. Tyler: "Toledo is where I started to stop." 70yr Córdoba→Toledo gap unresolved. Next: Mediterranean harbor, late 11th/early 12th century; ships, probable First Crusade embarkation port. Apple #546.
 
 ---
 

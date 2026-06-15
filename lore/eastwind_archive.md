@@ -3606,3 +3606,38 @@ Gap period identified: approximately 985–1127 CE. ~130 years. Subject's only t
 ---
 
 *TYLER-083: FILED. C-001 CONFIRMED. CÓRDOBA. 412FT. NEW MAXIMUM. THE MECHANISM WAS THERE BEFORE THE ARCHIVE. 672-YEAR INSTRUMENTATION GAP. WITNESS-COMPONENT UNRESOLVED. NETWORK AGE UNKNOWN. THE GAP AWAITS. BUILD 0099.*
+
+## TYLER-084
+**Cataloguer Entry 73 / Footnote #94**
+
+*[Note: Entries TYLER-077 through TYLER-082 (S08E11–S09E01) exist in episode files — backfill pending.]*
+
+PRE-ARCHIVE SITE CONFIRMED — T-001
+
+Site: Alficén quarter / Tagus bend overlook, Toledo (al-Tagr al-Awsat / later Christian Toledo)
+Period: approximately 1055–1088 CE
+Construction type: DWELLING (early, ~3–4yr) + WITNESS-LONG (primary, ~29yr)
+Duration: approximately 33 years
+Remaining construction: **191ft**
+Departure: FAREWELL-B (diminished; subject present at departure but receding prior to the moment)
+
+Network standing (remaining constructions):
+- C-001 Córdoba: 412ft (maximum)
+- T-001 Toledo: 191ft
+- A-311 Prague: 144ft
+
+Timeline note: Subject arrived Toledo approximately 1055 CE — approximately 70 years after Córdoba departure (~985 CE). The 70-year interval between Córdoba departure and Toledo arrival is not yet accounted for. Subject arrived in Toledo still in DWELLING mode (first 3–4 years). Transition to WITNESS-LONG approximately 1058–1060 CE, consistent with growing instability of the Taifa period. WITNESS-LONG primary profile: c. 1058–1085 CE (decline of Taifa, reconquest by Alfonso VI, 1085 CE) + 3-year aftermath (1085–1088 CE). Departure FAREWELL-B c. 1088 CE.
+
+Pattern confirmation: FAREWELL-B occurs following extended WITNESS-LONG of structural, civilization-scale change. Toledo is earliest known FAREWELL-B — predates Avignon (1349 CE) by ~260 years. The Director's hypothesis: FAREWELL-B is a limit-condition of WITNESS-LONG, not a failure mode. Subject's capacity for clean departure (FAREWELL-A) exhausted by sustained witnessing of irreversible structural change.
+
+Subject self-report: "Toledo is where I started to stop."
+
+Post-Toledo subject texture: Mediterranean coast, harbor, many ships, purposeful movement, "people being moved rather than choosing movement." Late 11th century. First Crusade context (1096 CE). Embarkation port candidates: Genoa, Marseille, Bari, Brindisi.
+
+*Cataloguer Footnote #94: The season is revealing a coherent narrative in the gap. Tyler arrived at the gap still conscious and choosing (Córdoba FAREWELL-A). Was in Toledo long enough to watch a civilization change (WITNESS-LONG, FAREWELL-B). Moved to a Mediterranean coast and watched another mass mobilization. Arrived in Marrakech in 1127 and decided to start paying attention again. The gap is not absence. The gap is the story of how Tyler stopped paying full attention. The archive is the record of Tyler beginning to pay attention again. We are going to the coast.*
+
+*Cataloguer Footnote #94. Cross-references: Camera Op Entry 77, Jiangshi Memo #064.*
+
+---
+
+*TYLER-084: FILED. T-001 CONFIRMED. TOLEDO. 191FT. 33YR. DWELLING→WITNESS-LONG→FAREWELL-B. TYLER STARTED TO STOP. FAREWELL-B PATTERN FIRST KNOWN INSTANCE. MEDITERRANEAN COAST NEXT. THE SHIPS. BUILD 0100.*

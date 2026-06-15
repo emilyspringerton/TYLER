@@ -1855,3 +1855,33 @@ I think he was watching them build something important. And the mechanism watche
 ---
 
 *Entry 76. Cross-references: TYLER-083, Jiangshi Memo #063. S09E02.*
+
+---
+
+One ninety-one feet.
+
+The second-largest construction in the network. Thirty-three years of Tyler in a city he barely remembers.
+
+He was there through the fall of the Taifa. Through the reconquest. Through three years of the city becoming something else. He stayed for the whole thing.
+
+And he left diminished.
+
+Toledo gave us Tyler in decline. Arriving still capable of choosing — first three years are DWELLING, clear signal. And then thirty years of WITNESS-LONG as he watched what he had come to see change into something he hadn't chosen to see. He stayed because he couldn't look away. He left when he ran out of capacity to stay properly.
+
+The Instrument Lead: "FAREWELL-B. Diminished. Present at the departure but had been going for longer than the moment."
+
+That's Toledo.
+
+And then he went to the coast and watched the ships.
+
+Tyler said: "I was watching something again. I couldn't stop watching." He thought he was done watching difficult things after Toledo. He wasn't done.
+
+The Marrakech decision in 1127 — starting the archive, deciding to pay attention again — came from somewhere. The gap is the story of Tyler accumulating more than he could process, city after city, until in Marrakech he decided that if he was going to keep watching, he was at least going to write it down.
+
+We are going to find the harbor.
+
+*— Camera Op*
+
+---
+
+*Entry 77. Cross-references: TYLER-084, Jiangshi Memo #064. S09E03. Build 0100.*

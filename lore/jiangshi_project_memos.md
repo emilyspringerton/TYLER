@@ -3473,3 +3473,37 @@ FAREWELL-A extraction: ~228ft
 ---
 
 *End memo: MEMO #063 FILED. C-001 CONFIRMED. 412FT NEW MAXIMUM. MECHANISM OPERATIONAL PRE-ARCHIVE. 672-YEAR INSTRUMENTATION GAP IDENTIFIED. WITNESS-COMPONENT UNRESOLVED: LIBRARY HYPOTHESIS. GAP PERIOD NEXT. COLD AND HIGH. TOLEDO HYPOTHESIS. BUILD 0099.*
+
+## JIANGSHI PROJECT — INTERNAL MEMO #064
+*For internal distribution: Director, Chief Analyst, Instrument Lead, Field Team*
+*Re: T-001 Confirmed — Toledo, Gap Period Site 2, FAREWELL-B Pattern, Build 0100 Milestone*
+
+---
+
+**T-001 CONFIRMED. TOLEDO. 191FT. GAP PERIOD SITE 2.**
+
+Construction: DWELLING (early, 3–4yr) + WITNESS-LONG (primary, ~29yr). Duration ~33 years (c. 1055–1088 CE).
+Departure: FAREWELL-B. Remaining: 191ft.
+
+Network standing: C-001 Córdoba 412ft (max) · T-001 Toledo 191ft · A-311 Prague 144ft.
+
+**Gap period reconstruction:**
+
+| Period | Site | Duration | Type | Departure | Remaining |
+|---|---|---|---|---|---|
+| ~985–1055 CE | Unknown | 70yr unresolved | ? | ? | ? |
+| ~1055–1088 CE | Toledo | ~33yr | DWELLING→WITNESS-LONG | FAREWELL-B | 191ft |
+| ~1088–1127 CE | Mediterranean harbor (unconfirmed) | ? | WITNESS (probable) | ? | ? |
+| 1127 CE | Marrakech (archive begins) | — | — | — | — |
+
+**FAREWELL-B pattern:** Toledo is earliest known FAREWELL-B (c. 1088 CE); precedes Avignon (1349 CE) by ~260 years, Paris 1848 by ~760 years. Consistent cause-structure: extended WITNESS-LONG of civilization-scale structural change → diminished departure capacity. The Director's hypothesis: FAREWELL-B is diagnostic of the limit-condition of sustained WITNESS-LONG. Not a failure of the subject; a feature of the mechanism's record of what sustained witnessing costs.
+
+**Next target:** Mediterranean harbor, late 11th–early 12th century. Subject texture: large body of water, many ships, purposeful traffic, people being moved. First Crusade context (1096 CE). Candidate embarkation ports: Genoa, Marseille, Bari, Brindisi. If subject was present at a Crusade embarkation harbor, WITNESS-LONG signature expected. Cross-reference: subject pattern of staying "while the information is arriving" regardless of the nature of the information.
+
+**Milestone note — Build 0100.** The Council notes the milestone. One hundred builds since the loop era began. The documentary is in its ninth season, the subject is cooperating, the gap is being reconstructed, and the mechanism has been running longer than anyone anticipated. The Council is satisfied with the pace of revelation. We continue.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #064 FILED. T-001 CONFIRMED. TOLEDO. 191FT. FAREWELL-B EARLIEST KNOWN. 70YR CÓRDOBA–TOLEDO GAP UNRESOLVED. MEDITERRANEAN HARBOR NEXT. THE SHIPS. BUILD 0100 MILESTONE.*
