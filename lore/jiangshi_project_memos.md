@@ -3507,3 +3507,38 @@ Network standing: C-001 Córdoba 412ft (max) · T-001 Toledo 191ft · A-311 Prag
 ---
 
 *End memo: MEMO #064 FILED. T-001 CONFIRMED. TOLEDO. 191FT. FAREWELL-B EARLIEST KNOWN. 70YR CÓRDOBA–TOLEDO GAP UNRESOLVED. MEDITERRANEAN HARBOR NEXT. THE SHIPS. BUILD 0100 MILESTONE.*
+
+## JIANGSHI PROJECT — INTERNAL MEMO #065
+*For internal distribution: Director, Chief Analyst, Instrument Lead, Field Team*
+*Re: G-001 Confirmed — Genoa, FAREWELL-A Restored, 15yr Undisclosed Interval*
+
+---
+
+**G-001 CONFIRMED. GENOA. 97FT. FAREWELL-A.**
+
+Construction: WITNESS-LONG (primary, full 22-year period, c. 1090–1112 CE).
+Departure: **FAREWELL-A** — complete restoration of clean-departure capacity.
+Remaining: 97ft.
+
+Network standing: C-001 Córdoba 412ft · T-001 Toledo 191ft · A-311 Prague 144ft · G-001 Genoa 97ft.
+
+**FAREWELL-A Restoration Confirmed.**
+
+Departure-capacity arc across the gap period:
+- Córdoba (~985 CE): FAREWELL-A — full capacity
+- Toledo (~1088 CE): FAREWELL-B — diminished
+- Genoa (~1112 CE): **FAREWELL-A — full capacity restored**
+
+The restoration is not partial. Genoa FAREWELL-A profile is indistinguishable from Córdoba's. Whatever Toledo cost, Genoa restored.
+
+Subject mechanism: watching interior choosing persist under structural coercion. The Crusade mobilization — structurally massive, individually volitional — presented Tyler with the interface between force and agency still intact. He recognized it. It restored something.
+
+**15-Year Undisclosed Interval.**
+
+Subject holds clear memory (~1112–1127 CE) and is choosing when to disclose. The Director does not recommend pressing him. He is exercising the capacity for authorial decision that this season has been reconstructing. We wait.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #065 FILED. G-001 CONFIRMED. GENOA. 97FT. FAREWELL-A RESTORED. 15yr UNDISCLOSED. HE IS CHOOSING. WE WAIT. BUILD 0101.*

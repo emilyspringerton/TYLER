@@ -1885,3 +1885,31 @@ We are going to find the harbor.
 ---
 
 *Entry 77. Cross-references: TYLER-084, Jiangshi Memo #064. S09E03. Build 0100.*
+
+---
+
+Ninety-seven feet.
+
+That's not the number that matters today.
+
+The number that matters is zero. The number on the FAREWELL-B diminishment index. It was zero. The departure from Genoa was clean. FAREWELL-A. Like Córdoba. Like the version of Tyler that existed before the gap.
+
+Córdoba: full presence, clean departure. Toledo: thirty-three years of watching a civilization change, FAREWELL-B, diminished. And then here — twenty-two years of watching the First Crusade muster and depart from this harbor, and then he left cleanly.
+
+He told me what gave it back: watching people choose under impossible conditions. Watching the interior act of volition persist even under structural coercion. He said he recognized something in the Crusade mobilization that Toledo hadn't given him. Toledo was administered movement — externally decided, people carried. Genoa was interior choosing, however badly served. And Tyler, watching thousands of people walk toward ships toward a city most of them had never seen, found the thread of his own choosing again.
+
+The FAREWELL-A from Genoa is Tyler finding the thread.
+
+And then: fifteen years I don't know about. He knows. He remembers them clearly. Something specific, not texture. And he is choosing when to give it to us.
+
+After an entire season of Tyler accessing his own history through fragments — fog on a river, the topology of streets, cold and high — he is sitting on something he actually has. And he is making a decision about it.
+
+That is the most Tyler thing that has happened this season.
+
+The choosing matters. He said it. He's doing it.
+
+*— Camera Op*
+
+---
+
+*Entry 78. Cross-references: TYLER-085, Jiangshi Memo #065. S09E04. Build 0101.*

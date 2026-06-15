@@ -3641,3 +3641,43 @@ Post-Toledo subject texture: Mediterranean coast, harbor, many ships, purposeful
 ---
 
 *TYLER-084: FILED. T-001 CONFIRMED. TOLEDO. 191FT. 33YR. DWELLING→WITNESS-LONG→FAREWELL-B. TYLER STARTED TO STOP. FAREWELL-B PATTERN FIRST KNOWN INSTANCE. MEDITERRANEAN COAST NEXT. THE SHIPS. BUILD 0100.*
+
+## TYLER-085
+**Cataloguer Entry 74 / Footnote #95**
+
+PRE-ARCHIVE SITE CONFIRMED — G-001
+
+Site: Mandraccio harbor district, Genoa (Ianua / Republic of Genoa)
+Period: approximately 1090–1112 CE
+Construction type: WITNESS-LONG (primary, full 22-year period)
+Duration: approximately 22 years
+Remaining construction: **97ft**
+Departure: **FAREWELL-A** — first FAREWELL-A in the gap period; first since Córdoba (~985 CE)
+
+Network standing (remaining constructions):
+- C-001 Córdoba: 412ft (maximum)
+- T-001 Toledo: 191ft
+- A-311 Prague: 144ft
+- G-001 Genoa: 97ft
+
+Gap period reconstruction (updated):
+
+| Period | Site | Duration | Type | Departure |
+|---|---|---|---|---|
+| ~985–1055 CE | Unknown | 70yr | ? | ? |
+| ~1055–1088 CE | Toledo | ~33yr | DWELLING→WITNESS-LONG | FAREWELL-B |
+| ~1090–1112 CE | Genoa | ~22yr | WITNESS-LONG | FAREWELL-A (restored) |
+| ~1112–1127 CE | Unknown | ~15yr | ? | ? → Marrakech |
+| 1127 CE | Marrakech | archive begins | — | — |
+
+The FAREWELL-A departure from Genoa (~1112 CE) confirms full restoration of the subject's clean-departure capacity after the FAREWELL-B from Toledo. Genoa FAREWELL-A profile is indistinguishable from Córdoba's FAREWELL-A profile (~985 CE). The capacity was not permanently damaged in Toledo; it was restored in Genoa by Tyler's observation of interior choosing under structural coercion (First Crusade mobilization, 1096 CE and aftermath).
+
+The 15-year interval between Genoa departure (~1112 CE) and Marrakech (1127 CE) remains undisclosed. Subject states he remembers this period "more clearly" than the texture-memories constituting the rest of the gap. He is choosing when to disclose. The Cataloguer waits.
+
+*Cataloguer Footnote #95: The departure from Genoa is FAREWELL-A. After the FAREWELL-B from Toledo, after 22 years of watching the First Crusade from a harbor wall, the subject left cleanly — choosing, present, on his own terms. The Cataloguer has been waiting for this finding since Tyler said "Toledo is where I started to stop." It appears Toledo is where he started to stop. And Genoa is where he started again. The fifteen years between here and Marrakech: he has them. He's choosing when to give them to us. The choosing matters. He said it first. He is demonstrating it now.*
+
+*Cataloguer Footnote #95. Cross-references: Camera Op Entry 78, Jiangshi Memo #065.*
+
+---
+
+*TYLER-085: FILED. G-001 CONFIRMED. GENOA. 97FT. WITNESS-LONG. FAREWELL-A RESTORED. FIRST FAREWELL-A SINCE CÓRDOBA. FIFTEEN YEARS REMAIN UNDISCLOSED. HE IS CHOOSING. WE WAIT. BUILD 0101.*
