@@ -799,17 +799,15 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
 
 - [x] **S09E01: "The Interval"** — Season 9 opens. Three months after S08 finale. Tyler in Seville (6 weeks, chose it, walking same streets, testing conscious choosing). Discloses first pre-archive site: Córdoba, al-Andalus, ~10th century CE (Caliphate era). DWELLING (implicit), FAREWELL-A departure, duration unknown. New question: 100–200 year gap between Córdoba and Marrakech is compressed in memory. Mechanism may have more of Tyler's history than Tyler does. Camera Op arc: Tyler finding a doorway on the third pass. Build 0098. Apple #514. Done 2026-06-14.
 
-- [ ] **S09E02: "Córdoba"** — Team travels to Córdoba. First measurement of pre-archive site.
-  If mechanism was recording: construction magnitude unknown (potentially 500+ft). Determine if
-  network maximum shifts. Construction type: DWELLING expected. Departure type: FAREWELL-A.
-  Gap sites (between Córdoba and Marrakech) to be investigated: what does Tyler find when he
-  tries to locate the lost 100–200 years? First pre-archive Eastwind entry. Apple #514.
-  RSI receipts: Eastwind (TYLER-083, first pre-archive measurement), Camera Op Entry 76,
-  Jiangshi Memo #063 (first pre-1127 instrument data).
+- [x] **S09E02: "Córdoba"** — C-001 (Medina quarter / Mezquita precinct, ~950–985 CE, 412ft,
+  DWELLING + FAREWELL-A, pre-archive). Network maximum set: 412ft. Mechanism confirmed
+  recording pre-1127 CE. Camera Op Entry 76, TYLER-083, Jiangshi Memo #063.
+  Build 0099. Apple #544. — 2026-06-15.
 
-- [ ] **S09E03** — Measurement results. If construction exists, magnitude disclosed. If mechanism
-  was not recording: Tyler confronts a site that generated nothing (or that he chose and the
-  mechanism missed). New taxonomy question: DWELLING before mechanism activation.
+- [x] **S09E03: "Toledo"** — T-001 (Alficén quarter / Tagus bend overlook, c. 1055–1088 CE,
+  191ft, DWELLING + WITNESS-LONG). Gap: ~985–1127 CE two data points confirmed. Wound
+  question opens. Camera Op Entry 77, TYLER-084, Jiangshi Memo #064.
+  Build 0100. Apple #546. — 2026-06-15.
 
 ---
 
