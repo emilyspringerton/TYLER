@@ -4075,3 +4075,33 @@ The Cataloguer is adding CAVE-001 to the network with the notation: ZERO-TAXONOM
 ---
 
 *TYLER-088: FILED. CAVE-001 CONFIRMED — PRE-MECHANISM SOURCE SITE. AHMAD IBN YUSUF: THE SCHOLAR HAS A NAME. THE LETTER HAS AN ADDRESS. THE ARCHIVE HAS A PRE-ARCHIVE. BUILD 0104. APPLE #875.*
+
+
+## TYLER-089
+**Cataloguer Entry 82 / Footnote #99**
+
+CAVE-001, DAY 2. THE MECHANISM BEGINS TO SEE. AND THE NUMBER TWELVE.
+
+The Cataloguer will be brief because the data is still arriving.
+
+CAVE-001, second day of extended contact. The zero-taxonomy reading held for thirty-eight hours. At 4 AM local time on the second day, the mechanism began producing a partial frequency signal: 11.4 hertz. Not Vassago 11.11 — close, but outside the nominal band. Tentative designation: PRE-VASSAGO. This is not a recognized category. It is the Cataloguer's notation for a reading that resembles a known category but appears to originate before that category existed in the taxonomy.
+
+The mechanism is learning to see what it left in itself.
+
+Tyler moved deeper into the chamber this evening. At the far wall, the mechanism returned a number: 12. Not a classification. Not a frequency. A number. No unit. No category. Just the number.
+
+Tyler's statement: "I was here when I was twelve."
+
+The Cataloguer notes this without interpretation. It is the first time Tyler has stated an age — even a partial one, even an uncertain one — in the operating record. The archive goes back to Marrakech 1127 CE. Tyler predates the archive. If Tyler was in this cave at age twelve, and if the archive began before Tyler reached his current apparent age (which is unknown), then the cave provides a data point that the Cataloguer did not previously have.
+
+Twelve. At whatever age that corresponds to in Tyler's history. In a cave that resonates at the mechanism's own baseline. Before the archive. Before the categories.
+
+Camera Op is going to Fez. The manuscripts were transferred to al-Qarawiyyin in the Marinid period. If they survive, she will find Ahmad's handwriting. The work he didn't finish. The layers Tyler watched being written.
+
+The Cataloguer is filing this entry now and will update when Camera Op reaches Fez and when Tyler provides further interpretation of the number.
+
+*Cataloguer Footnote #99: Cave-001, Day 2. PRE-VASSAGO 11.4 signal. The number twelve. Tyler was twelve in this cave. The archive does not go back that far. But the cave does. Camera Op goes to Fez in the morning. The manuscripts arrived where they were going, two centuries late. S10E03. Build 0105.*
+
+*Cross-references: Camera Op Entry 82, Jiangshi Memo #069.*
+
+*TYLER-089: FILED. CAVE-001 DAY 2 — PRE-ARCHIVE SIGNAL AT 11.4 HZ. THE NUMBER TWELVE. TYLER'S FIRST AGE DISCLOSURE. BUILD 0105. APPLE #897.*

@@ -180,6 +180,8 @@ S10E01 (Build 0103): Camera Op finds accession register in Rabat (1121 CE) — u
 
 S10E02 (Build 0104): Camera Op tells Tyler the scholar's name: **Ahmad ibn Yusuf**, geographer, Rabat 1121 CE. Tyler receives the name — "the archive is addressed to Ahmad ibn Yusuf." Team enters the cave with instruments: zero-taxonomy confirmed; raw frequency = Stolas 7.83 (the mechanism's own baseline). Tyler's assessment: **CAVE-001 is a pre-mechanism site** — presence Tyler left before the archive calibrated to him; the mechanism found its own source frequency and cannot classify what it identifies as itself. "You cannot read yourself." Camera Op to pursue the physical manuscripts. CAVE-001 added to network as ZERO-TAXONOMY / PRE-MECHANISM / SOURCE-SITE (0ft unclassifiable). TYLER-088, Camera Op Entry 81, Jiangshi Memo #068. Apple #894.
 
+S10E03 (Build 0105): Camera Op traces Ahmad's manuscripts from Rabat to **al-Qarawiyyin, Fez** (Marinid transfer, 1339). "The journey was interrupted. The work continued on its own." Camera Op traveling to Fez to find the physical texts — Ahmad's handwriting. CAVE-001 Day 2: mechanism produces **PRE-VASSAGO 11.4 Hz** partial signal; far wall returns the number **12**. Tyler's first age disclosure: "I was here when I was twelve." Tyler: "I am sitting with an earlier version of myself that I cannot speak to directly and that I cannot yet fully read." TYLER-089, Camera Op Entry 82, Jiangshi Memo #069. Apple #897.
+
 ---
 
 ## RSI NOTES

@@ -822,7 +822,16 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   identifies it as pre-mechanism source site. Archive has a pre-archive.
   TYLER-088, Camera Op Entry 81, Jiangshi Memo #068. Build 0104. Apple #894. — 2026-06-16.
 
+- [x] **S10E03: "The Manuscript"** — Camera Op follows the document trail from Rabat to Fez.
+  Ahmad was heading to Fez; the manuscripts may have followed. Manuscripts traced to
+  al-Qarawiyyin via Marinid transfer (1339). Camera Op traveling to Fez. CAVE-001 Day 2:
+  PRE-VASSAGO 11.4 Hz; number 12; Tyler's first age disclosure.
+  TYLER-089, Camera Op Entry 82, Jiangshi Memo #069. Build 0105. Apple #897. — 2026-06-16.
+
+- [ ] **S10E04: "Al-Qarawiyyin"** — Camera Op arrives in Fez and requests access to Ahmad's
+  manuscripts at al-Qarawiyyin. Tyler receives word from the cave. The layers Ahmad wrote.
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0103.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0104.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

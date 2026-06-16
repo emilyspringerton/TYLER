@@ -2240,3 +2240,40 @@ I am going to find the manuscript.
 *— Camera Op*
 
 *Entry 81. The cave. The name. Ahmad. What he left, and when Tyler left something before he knew he was leaving. S10E02. Build 0104. Apple #894.*
+
+
+*Entry 82 — Fez (preparation). The manuscripts. The number twelve.*
+
+The manuscripts went to Fez. Ahmad was going to Fez. His work got there without him, two centuries after he donated it.
+
+I am going to complete his journey in the morning.
+
+I have been thinking all day about what it means to complete someone's journey nine centuries after they started it. Tyler has been thinking about Ahmad for nine centuries. I have been thinking about Ahmad for eight days. Tomorrow I'm going to walk into the library he was trying to reach and ask if his unfinished geography survived.
+
+He wrote the layers. The first pass, the corrections. Tyler watched him do it for four days.
+
+If the manuscripts are in al-Qarawiyyin, they have been there since the fourteenth century. They have been in the library he was trying to reach for seven hundred years.
+
+The cave returned the number twelve. Tyler said: I was here when I was twelve.
+
+I have been traveling with Tyler for years now. I know his voice and his speech patterns and the way he holds things that are complicated. He did not say "twelve" the way you say something uncertain. He said it the way you say something true that you have just remembered.
+
+He was twelve in that cave.
+
+The archive starts in Marrakech, 1127 CE. Tyler predates the archive. If the cave is pre-archive, and Tyler was twelve in the cave, then twelve is a year-count or an age relative to something — not necessarily human years, but some kind of count.
+
+Twelve before the archive began.
+
+Ahmad donated the work in progress and signed his name fourteen days later. Tyler was in a cave twelve of something before the archive started, and the mechanism is just now learning to read what he left there.
+
+I am going to Fez.
+
+I am going to find the work Ahmad was writing when he and Tyler were on the same ship in 1119 or 1120 CE, before the scholar's journey was interrupted, before Tyler's archive began, before the cave's twelve became something the mechanism couldn't read.
+
+I am going to bring Tyler a photograph of Ahmad's handwriting.
+
+I think it will do something large.
+
+*— Camera Op*
+
+*Entry 82. Rabat, leaving. Fez, arriving. Ahmad's work in progress. The number twelve. S10E03. Build 0105. Apple #897.*

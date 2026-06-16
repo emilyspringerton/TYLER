@@ -3999,3 +3999,64 @@ Stand by for further.
 ---
 
 *End memo: MEMO #068 FILED. CAVE-001 — PRE-MECHANISM ORIGIN SITE. AHMAD IBN YUSUF — GEOGRAPHER, RABAT, 1121 CE, SIGNED HIS NAME. THE ARCHIVE IS ADDRESSED. S10E02. BUILD 0104. APPLE #875.*
+
+
+---
+
+**Memo #069 — DIRECTOR TO COUNCIL**
+**SUBJECT: CAVE-001 DAY 2 — PARTIAL SIGNAL + AGE DISCLOSURE; MANUSCRIPTS LOCATED**
+**CLASSIFICATION: TIER ONE**
+
+Council,
+
+Two significant developments from Episode 3. The council should assess both carefully.
+
+**Development One: Cave-001, Day 2 — PRE-VASSAGO 11.4 and the Number Twelve**
+
+After thirty-eight hours of zero-taxonomy reading, the mechanism began producing partial output at 11.4 hertz. This frequency is proximate to Vassago #42 (11.11 hz, soft precognition) but outside the nominal Vassago band. The council's interpretation: this is a pre-formation version of a frequency Tyler later categorized as Vassago. The mechanism is finding, in the pre-archive deposit, the precursor to a signal it has known for centuries without knowing its origin.
+
+We are beginning to understand what the mechanism is made of.
+
+The number twelve requires more attention.
+
+Tyler moved to the far wall of the chamber. The mechanism returned the number 12. Not a frequency. Not a classification. A number. Tyler's statement was immediate and unequivocal: "I was here when I was twelve."
+
+The council should note what this implies:
+
+Tyler has never given an age. Not in the operational record, not in the documentary footage. Tyler's age is formally unknown. The network minimum (Marrakech 1127 CE) establishes that Tyler is at minimum 899 years old as of this year, but "at minimum" is doing significant work in that statement. Tyler predates the archive.
+
+If Tyler was twelve when he was in this cave, we now have a pre-archive data point. The cave predates Marrakech. If Tyler's twelve corresponds to years of age (which the council cannot assume — it may be cycles, or stages, or something without a human analogue), then Tyler was in this cave before the events that led to the archive's formation.
+
+The council is operating without a framework for Tyler's pre-formation history. The cave is beginning to provide one.
+
+RECOMMENDATION: Tyler should not be asked to leave CAVE-001. Whatever the cave is disclosing, it is disclosing slowly and requires extended contact. The mechanism is developing new interpretive capacity in real time. Removing Tyler now would interrupt a process that took twelve centuries to arrive at.
+
+**Development Two: The Manuscripts**
+
+The manuscripts donated by Ahmad ibn Yusuf in Rabat, 1121 CE, were transferred to al-Qarawiyyin library in Fez in the Marinid period (mid-to-late 14th century). Camera Op has confirmed this via the institutional transfer records held by the Bibliothèque nationale.
+
+Camera Op is traveling to Fez in the morning.
+
+The council should assess the implication: Ahmad was traveling to Fez when his journey was interrupted. His work was transferred to Fez two hundred years after his death. Camera Op is now completing his intended journey to deliver the work to the city he never reached.
+
+If the manuscripts survive at al-Qarawiyyin and Camera Op obtains access — if she can document Ahmad's handwriting and bring the record to Tyler — the council should be prepared for a significant integration event.
+
+Tyler watched Ahmad write for four days. Tyler has spent nine centuries writing a letter to the person he watched writing. If Tyler is presented with physical evidence of Ahmad's hand — the unfinished work, the layered corrections — the council has no model for what the integration of that contact looks like.
+
+We recommend observation. No intervention. The archive has carried this letter for nine centuries. The manuscript has been waiting in Fez for seven hundred years. These timelines have been converging toward this moment since 1121 CE.
+
+The council's function is to document what happens.
+
+Stolas 7.83 stable at CAVE-001. PRE-VASSAGO 11.4 appearing at irregular intervals. The number twelve appears to be anchored to the far wall of the chamber.
+
+Tyler is sitting in front of the far wall with his hand on the stone.
+
+He has been there for three hours.
+
+Stand by for Fez report.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #069 FILED. CAVE-001 DAY 2: 11.4 HZ PRE-VASSAGO, NUMBER TWELVE, TYLER'S FIRST AGE DISCLOSURE. MANUSCRIPTS AT AL-QARAWIYYIN, FEZ. CAMERA OP TRAVELING. S10E03. BUILD 0105. APPLE #897.*
