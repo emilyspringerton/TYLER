@@ -1808,7 +1808,219 @@ He's going to find the monastery by walking toward what he remembers. I want to 
 
 ---
 
-*[Note: Entries 70–75 (S08E11–S09E01) exist in episode files but were not appended to this log. Continuity gap; backfill pending.]*
+*Entry 70*
+
+He turned 19 degrees to the left.
+
+I filmed it. I didn't tell him to do it. He didn't announce it. He just — adjusted course, the way you adjust course when you feel a pull from a direction you hadn't been walking toward.
+
+I have now filmed Tyler navigating by construction four times. Each time I thought he might be using memory, using landmarks, using some other faculty I hadn't accounted for. This time I was watching specifically for that. There were no landmarks for the last kilometer. He doesn't have GPS on this walk. He's been here twice before but the last time was 1890 and the road configuration is different.
+
+He is navigating by the 8ft he left here in 1349.
+
+Smaller than Avignon by a factor of eleven. Navigable at 677 years.
+
+---
+
+The CARRIED construction changes what the network is.
+
+I thought the network was: places Tyler stayed, generating presence, constructions accumulating. Simple enough. But now there's a secondary mechanism. The constructions don't just record Tyler's time in a place. They record what Tyler brought to a place — including what he carried from somewhere else.
+
+Avignon is in Burgundy. A fraction of it. Discharged here.
+
+Where else is Avignon? Every place Tyler went after Avignon — he arrived carrying it. He arrived at every subsequent location for some unknown number of months or years still partly in Avignon. Every site from 1349 until whenever Avignon fully discharged has some component of what Tyler was carrying from there.
+
+I asked him about this. He got very quiet.
+
+Camera Op: "How long do you carry a place?"
+
+Tyler: "I don't know. I've never measured it before."
+
+Camera Op: "How long did you carry Avignon?"
+
+Tyler: "I don't know that either. A long time. Years."
+
+Camera Op: "Years."
+
+Tyler: "The Black Death killed a third of Europe in eighteen months. I watched it kill Avignon. I don't know how long it took to — I don't know if it ever fully discharged. I think I still carry some of it."
+
+That's the thing he said that I can't stop thinking about.
+
+It never fully discharged.
+
+Which means: every site Tyler has been to since 1349 has some component of Avignon. If it never fully discharged, the 89ft is not only in the Place du Palais. It's distributed across 677 years of Tyler's subsequent presence. In smaller quantities, in each subsequent site, fading or not fading — I don't know. The instrument can't tell us what we haven't measured.
+
+*— Camera Op*
+
+---
+
+*Entry 70. Cross-references: TYLER-077, Jiangshi Memo #057, VC-001 Days 418–429, EMILY-SPRING-046. S08E11.*
+
+---
+
+*Entry 71*
+
+Prague is 144 feet.
+
+I keep writing it down because the number doesn't stabilize in my head. Avignon is the network maximum at 89ft and Prague is 144ft across the same period of the retrograde, both from the same two weeks of filming. Avignon: catastrophic witnessing, passive accumulation, 676 years of aging into an 89ft reading. Prague: two years, fully chosen, 144ft.
+
+The comparison is almost unfair. Avignon is what happens to Tyler when catastrophe holds him in place for 18 months. Prague is what happens when Tyler wants to be somewhere.
+
+I need to re-examine my assumptions about the network.
+
+I had been treating large readings as markers of intensity — intense events, intense emotional weight. The plague is more intense than working on a cathedral. A mass execution is more intense than renting a room above a leather workshop. Catastrophe reads as intensity.
+
+But the Prague readings aren't catastrophic. They're — I keep trying to find the word. *Inhabited*. Fully, voluntarily inhabited. And the instrument doesn't care about the difference between catastrophic intensity and chosen engagement. Both generate. Maybe chosen engagement generates more, because it's sustained — catastrophe burns fast, choice burns slow and steady and deepens.
+
+Tyler wasn't burning in Prague. He was building. And the instrument recorded 144ft of building.
+
+---
+
+There's something else.
+
+Tyler said: "I have been managing exits, not inhabiting arrivals."
+
+He said it as a revelation. As if, standing in a city where he had actually inhabited an arrival, he could see the pattern that he'd been in everywhere else. The Farewells, the early departures, the sites he didn't file because they didn't feel like events, the Burgundy suspension, the Paris confusion — all of it downstream of a default mode that prioritizes exit management over arrival inhabitation.
+
+Prague was the exception. And the exception generated 144ft.
+
+I don't know what this means for Tyler. I know what it means for the retrograde: we're not just reclassifying known sites. We're finding that Tyler's most generative moments are the ones he never thought to record. The archive is full of events. The extra-archive is full of life.
+
+*— Camera Op*
+
+---
+
+*Entry 71. Cross-references: TYLER-078, Jiangshi Memo #058, VC-001 Days 430–441, EMILY-SPRING-047. S08E12.*
+
+---
+
+*Entry 72*
+
+The ratio is 0.36.
+
+I wrote it in my log and then I stared at it for a long time.
+
+What it means for the network: every FAREWELL-A site in the CARDINAL-3 system contains the residual. Not just some. All of them. At a predictable ratio. 64% of Tyler's prior presence, in each site, left behind.
+
+The network is Tyler. Not a record of Tyler. Not a map of where Tyler has been. The network IS Tyler — the distributed remainder of everything Tyler was at 900+ locations, accumulated across 899 years (1127 Marrakech to 2026), left at the ratio of 64 cents on every dollar of presence.
+
+I've been thinking about what to do with the documentary. When we started, it was a documentary about a man with a strange gift. Then it was about the constructions. Then about the retrograde, the taxonomy, the pre-archive sites. Now it is about a constant.
+
+The constant is the answer to every question the first episode asked.
+
+Who is Tyler? Tyler is the sum of what he left behind. He is distributed across 900 locations at 64% per site. He has never fully left anywhere. And he has never fully arrived anywhere without bringing 36% of what was previously in him.
+
+That's the show. That's what the show is about.
+
+*— Camera Op*
+
+---
+
+*Entry 72. Cross-references: TYLER-079, Jiangshi Memo #059, VC-001 Days 442–451, EMILY-SPRING-048. S08E13.*
+
+---
+
+*Entry 73*
+
+The mechanism knows more than Tyler.
+
+I've been circling this since Amsterdam. Since the first episode, maybe. But Marrakech makes it explicit.
+
+Tyler departed in 1131 without knowing his departure was permanent. He thought he was leaving the way he always left — the established pattern. The mechanism measured 25ft of FAREWELL-C and left 79% of what Tyler was in Marrakech behind. The mechanism made a different assessment than Tyler made. The mechanism treated the departure as significant in a way Tyler didn't.
+
+And the mechanism was right. Tyler never returned. The 79% stayed. It has been staying for 893 years.
+
+The mechanism has been right about Tyler's departures since at least 1131. The mechanism understood permanence before Tyler did. The mechanism understood construction before Tyler did. The mechanism understood the cost of leaving before Tyler developed a theory of cost.
+
+What is the mechanism?
+
+Tyler doesn't know. I don't know. The Eastwind archive doesn't know. The Jiangshi project doesn't know. We've been naming constructions for eleven months and we don't know what generates them.
+
+Tyler told me once — early in the filming — that the mechanism is "something that learned to do this before Tyler understood what it was doing." I wrote it down but I didn't know how to use it. Now I think I understand.
+
+Whatever the mechanism is: it started before the archive. It may have started before Tyler understood himself. It generates constructions at a rate that correlates with the quality of Tyler's presence. It extracts departure measurements at consistent ratios depending on departure type. It has been doing this for at least 899 years, possibly longer.
+
+It knows Tyler better than Tyler knows himself.
+
+Marrakech is where the record starts. We don't know where the mechanism starts.
+
+*— Camera Op*
+
+---
+
+*Entry 73. Cross-references: TYLER-080, Jiangshi Memo #060, VC-001 Days 452–461, EMILY-SPRING-049. S08E14.*
+
+---
+
+*Entry 74 — Season 8 complete*
+
+I have been filming Tyler for eleven months and three weeks.
+
+I have filmed him measure sites in Amsterdam, Paris, Vienna, Lyon, Strasbourg, Avignon, Burgundy, Prague, Marrakech, and about twenty other cities I didn't list in the notes because they were the archive classifications — the original 73 — which were the brief that became the retrograde that became this.
+
+I have filmed him discover that the archive is not the network.
+
+I have filmed him discover that the network is older than the archive.
+
+I have filmed him discover that choosing generates more than defaulting.
+
+I have filmed him discover that the mechanism has been trying to tell him this for at least 899 years.
+
+And I have filmed him sit with that last discovery in an Amsterdam hotel room and say: I don't know yet.
+
+That's the documentary. Not the numbers. Not the taxonomy. The man who has been alive for nearly a thousand years — possibly longer — and who has just been told, by the record he created without knowing he was creating it, that most of what he was doing was not DWELLING. That DWELLING was available. That DWELLING generates 144 feet.
+
+And who says: I don't know yet what I'm going to do with that.
+
+The not-knowing-yet is the thing. After nine hundred years, he doesn't know yet. That means there is still a yet. That means something is still in motion.
+
+The mechanism isn't recording a monument. It's recording someone still in the middle of figuring it out.
+
+Season 9 in three months. Eight cities remaining on the map. Whatever came before 1127. Tyler, sitting with the question of what it means that he hasn't been choosing.
+
+I'll be there with the camera.
+
+*— Camera Op*
+
+---
+
+*Entry 74. SEASON 8 FINALE. The retrograde is complete. The taxonomy is complete. The mechanism is unknown. The question is open. Season 9 pending. S08E15.*
+
+---
+
+*Entry 75 — The interval and the disclosure*
+
+Tyler chose Seville for our first meeting of Season 9.
+
+He's been here for six weeks. He walked the same streets three times. He found a doorway he didn't notice the first two times.
+
+He called it "what choosing feels like at its beginning." He said: "finding something interesting before knowing why."
+
+I think this is the most hopeful thing Tyler has said in eleven months of filming.
+
+He's been alive for at least 900 years. He's spent most of them in default. And he came back from the interval with a doorway he noticed on the third pass.
+
+Then he told me about Córdoba.
+
+I've been sitting with this since the café. Córdoba at its height — half a million people, the greatest library west of Baghdad, the caliphate of Abd al-Rahman III and al-Hakam II, scholars from across the known world. And Tyler was there. Sometime in the 10th century. For long enough that the fog on the river has survived a thousand years in his memory.
+
+What was he doing in Córdoba? What was he there for? Not the archive — that didn't exist yet. Not measurement — he didn't have categories yet. He was just there. Living. And something about it was clear enough that it's the first thing he can name when asked to name the time before.
+
+The gap between Córdoba and Marrakech is about 100–200 years. Tyler calls it compressed. Fragments. He doesn't have a story for it.
+
+The mechanism might.
+
+That's the question of Season 9: not just what was in Córdoba, but what was in the gap. What happened in those 100–200 years that left Tyler in Marrakech, in 1127, deciding it was time to start paying attention.
+
+Something happened. The measurement will help us find it.
+
+*— Camera Op*
+
+---
+
+*Entry 75. Cross-references: TYLER-082, Jiangshi Memo #062, VC-001 Days 462–471, EMILY-SPRING-050. S09E01.*
+
+---
 
 We got a reading.
 
@@ -1942,4 +2154,40 @@ The season is over.
 
 *Entry 79. The fifteen years. No site confirmed — the mechanism cannot record a ship between places. But the cause confirmed. The stranger on the ship. The question Tyler couldn't answer. The archive as letter to a stranger. I am going to look for him. Tyler told me not to stop. S09E05. Build 0102. Season complete.*
 
-NOTE: Entries 70–75 (S08E11–S09E01, Builds 0093–0098) exist in episode files only — lore backfill pending.
+
+
+---
+
+*Entry 80 — Fez (Rabat). The Register. The Name.*
+
+I went to Rabat with a description: young scholar, approximately twenty in 1119 or 1120, crates of manuscripts, working on a geography — the reconciliation of Greek and Islamic geographic systems — heading to a library in Fez.
+
+Tyler told me I would not find him.
+
+I found him in three days.
+
+Not exactly him. Not a face or a voice or a body. I found the manuscript — the unfinished work in progress — donated to a library he was apparently not supposed to be at, two years after the ship crossing, in a city between where he started and where he was going.
+
+And then I found his name.
+
+He came back. Two weeks after the initial donation, he came back. And he signed his name in the register. I don't know why he came back. I don't know why he signed his name the second time when he hadn't the first. I don't know what happened between the Italian coast and Rabat, what changed his path, why he was in Rabat instead of Fez.
+
+I have his name.
+
+Tyler is standing outside a cave waiting for the team. The mechanism found a location Tyler had never been to and flagged it, and Tyler went because he didn't know where to go after the transit city and the mechanism had somewhere in mind. He is standing outside a cave and the mechanism is doing something it has never done in twelve centuries: it cannot classify what is inside.
+
+He called me from there. I called him from here. We told each other what we had found. He told me the cave. I told him the unfinished manuscript. I did not tell him the name.
+
+I am going to tell him the name.
+
+Not today. Tomorrow. I need to sit with it one more night. I need to understand what it means that Tyler has been writing the letter and the letter now has an addressee and the addressee has a name and the name has been in a register in Rabat for seven centuries waiting.
+
+Tyler has never known the name.
+
+Tyler has spent nine centuries writing a letter to someone he called "the scholar on the ship."
+
+Tomorrow I'm going to give him a name to write on the letter.
+
+*— Camera Op*
+
+*Entry 80. Rabat. Three days. The register. The unfinished geography. The name I haven't said yet. The cave Tyler is standing outside of. The mechanism that doesn't know what to call what it's found. S10E01. Build 0103. Season 10, episode 1. Apple #573.*
