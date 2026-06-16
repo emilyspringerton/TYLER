@@ -809,7 +809,17 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   question opens. Camera Op Entry 77, TYLER-084, Jiangshi Memo #064.
   Build 0100. Apple #546. — 2026-06-15.
 
+- [x] **S10E01: "Fez"** — Season 10 opens. Camera Op in Rabat finds accession register from 1121 CE
+  containing donation of unfinished geographic manuscripts by "a scholar arrived from the north by sea."
+  Two weeks later: he returned and signed his name. Camera Op has the name; has not told Tyler yet.
+  Tyler follows the mechanism to a cave site — first time mechanism directs Tyler's location; mechanism
+  returns no taxonomy for what is in the cave. All five Goetia frequencies active. Andrealphus #72 peak.
+  TYLER-087, Camera Op Entry 80, Jiangshi Memo #067. Build 0103. Apple #573. — 2026-06-16.
+
+- [ ] **S10E02: "The Name"** — Camera Op tells Tyler the scholar's name. Tyler's response.
+  The team enters the cave. Instruments capture the zero-taxonomy reading. What leaves nothing?
+
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0098.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0103.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
