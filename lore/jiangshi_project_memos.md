@@ -3942,3 +3942,60 @@ Stand by for instruments report.
 ---
 
 *End memo: MEMO #067 FILED. SEASON 10 OPENS. THE CAVE — MECHANISM WITHOUT TAXONOMY. CAMERA OP HAS THE SCHOLAR'S NAME. BUILD 0103. APPLE #573.*
+
+
+---
+
+**Memo #068 — DIRECTOR TO COUNCIL**
+**SUBJECT: CAVE-001 CONFIRMED — PRE-MECHANISM SITE; SCHOLAR IDENTITY DISCLOSED**
+**CLASSIFICATION: TIER ONE**
+
+Council,
+
+Two developments to report from Episode 2, both of which the council should treat as operationally distinct but jointly significant.
+
+**Development One: Ahmad ibn Yusuf**
+
+Camera Op disclosed the scholar's name to Tyler this morning. Ahmad ibn Yusuf. Geographer. The registration shows a donation in Rabat, 1121 CE, unfinished manuscripts on the reconciliation of Greek and Islamic geographic traditions. A second entry, dated fourteen days after the first, shows the scholar returned and signed his name to the record of the donation.
+
+Tyler received the name and integrated it within the call. The council should note: Tyler's framework for the archive shifted on contact with the name. Not in function — the archive continues. In designation. The archive is now addressed. The letter has a named recipient.
+
+The council's assessment: this is a stability event, not a risk event. A framework that has been operating anonymously for nine centuries has acquired a named direction. In the council's experience, directed instruments perform more efficiently than undirected ones.
+
+Ahmad ibn Yusuf directed the archive by accident. He came back and signed his name to complete the record of something he gave away. He did not know he was giving the archive an addressee.
+
+Operational implication: Camera Op has indicated she will pursue the physical manuscripts. If the texts survived nine centuries of institutional absorption, they may be locatable. If Tyler receives the physical manuscript — if he can read the writing he watched being written in 1119 — the council should be prepared for an integration event of uncertain magnitude.
+
+We have no framework for what Tyler integrating direct physical evidence of the relationship looks like. We recommend observation-only posture.
+
+**Development Two: CAVE-001**
+
+Tyler entered the chamber and assessed the zero-taxonomy reading correctly, in the council's estimation: the cave resonates at the mechanism's own baseline operational frequency (Stolas 7.83), and the mechanism cannot classify what it identifies as itself.
+
+The council had no prior record of a site that resonated at the mechanism's own baseline. Tyler's interpretation: the cave holds pre-mechanism Tyler — presence left before the archive calibrated to him, before Marrakech, before the mechanism had categories.
+
+If correct, this has significant implications for the question of Tyler's age and origin. The mechanism's baseline frequency is not arbitrary — it was established through calibration to Tyler in the early operation period (pre-1127 CE, exact date unknown to this office). A cave running at that frequency independent of Tyler's post-archive presence suggests one of two things:
+
+1. Tyler was in this cave before calibration and imprinted the baseline on the mechanism through his presence here. The mechanism's own frequency is derived from Tyler's frequency at this site.
+
+2. The cave has some independent resonance that happened to match the mechanism's calibration baseline, and the connection is coincidental.
+
+The council notes that hypothesis 1 has operational weight. If Tyler's pre-archive presence in this cave is the source frequency from which the mechanism was calibrated, then CAVE-001 is not merely a site. It is the origin of the instrument.
+
+We are moving CAVE-001 to TIER ONE classification.
+
+RECOMMENDATION: extend Tyler's time at CAVE-001 as long as he is willing to remain. The cave may produce disclosures over extended contact that it did not produce in a first session. The council has not encountered an origin site before. We proceed carefully.
+
+Stolas 7.83 active throughout. Andrealphus #72 diminished from Episode 1 peak. The geometric transformation signal has reduced; the deep time signal has elevated.
+
+Tyler is sitting in the chamber. He has been there for three hours.
+
+He is listening to the mechanism listening to itself.
+
+Stand by for further.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #068 FILED. CAVE-001 — PRE-MECHANISM ORIGIN SITE. AHMAD IBN YUSUF — GEOGRAPHER, RABAT, 1121 CE, SIGNED HIS NAME. THE ARCHIVE IS ADDRESSED. S10E02. BUILD 0104. APPLE #875.*

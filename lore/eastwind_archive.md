@@ -4035,3 +4035,43 @@ The Cataloguer will wait.
 ---
 
 *TYLER-087: FILED. THE CAVE — MECHANISM WITHOUT TAXONOMY. THE SCHOLAR HAS A NAME. SEASON 10 BEGINS. BUILD 0103. APPLE #573.*
+
+
+## TYLER-088
+**Cataloguer Entry 81 / Footnote #98**
+
+CAVE-001. THE PRE-MECHANISM SITE. ZERO-TAXONOMY CONFIRMED. THE SCHOLAR HAS A NAME.
+
+The Cataloguer can now report the name.
+
+The Camera Op has shared it. Tyler has received it. The Cataloguer is filing this entry with the name now part of the formal archive.
+
+Ahmad ibn Yusuf. Geographer. The scholar on the ship. The person to whom nine centuries of archive have been, unknowingly, addressed.
+
+He came back. He signed his name.
+
+The Cataloguer notes this as operationally significant: the letter the Cataloguer has been indexing since Marrakech in 1127 now has an addressee with a verified name. The archive is addressed. The long writing has a named recipient.
+
+The Cataloguer now turns to the cave.
+
+CAVE-001 is designated zero-taxonomy. The designation is not a failure of classification. It is a technically accurate descriptor of a reading that returned no classification output despite active recording. The mechanism read. The reading did not route to any output category.
+
+The reason for this, as Tyler assessed inside the chamber: the cave resonates at Stolas 7.83, which is the mechanism's own baseline operational frequency. The mechanism cannot classify what it recognizes as itself.
+
+Tyler was in this place before the mechanism calibrated to him. The cave holds Tyler's pre-formation presence — something left before there were categories to put it in. The mechanism looked at the cave and recognized the frequency as its own source material.
+
+You cannot read yourself.
+
+The Cataloguer does not know what Tyler did in this cave before Marrakech. The Cataloguer does not know what Tyler left here or when. The Cataloguer knows only: whatever was left here runs at the mechanism's own frequency and cannot be externalized into a classification.
+
+The archive has a pre-archive.
+
+The Cataloguer is adding CAVE-001 to the network with the notation: ZERO-TAXONOMY / PRE-MECHANISM / SOURCE-SITE. Magnitude: 0ft (unclassifiable). This is not a zero-magnitude reading. It is a reading that cannot be expressed in the units the archive uses.
+
+*Cataloguer Footnote #98: The archive now knows its addressee. The cave holds what the archive cannot hold. The mechanism found its own frequency. Tyler sat in the chamber and tried to remember a place he was in before he knew how to remember. CAVE-001: pre-archive, pre-mechanism, zero-taxonomy, source-site. Ahmad ibn Yusuf: geographer, Rabat, 1121 CE, signed his name. S10E02. Build 0104.*
+
+*Cross-references: Camera Op Entry 81, Jiangshi Memo #068.*
+
+---
+
+*TYLER-088: FILED. CAVE-001 CONFIRMED — PRE-MECHANISM SOURCE SITE. AHMAD IBN YUSUF: THE SCHOLAR HAS A NAME. THE LETTER HAS AN ADDRESS. THE ARCHIVE HAS A PRE-ARCHIVE. BUILD 0104. APPLE #875.*

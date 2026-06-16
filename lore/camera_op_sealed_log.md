@@ -2191,3 +2191,52 @@ Tomorrow I'm going to give him a name to write on the letter.
 *— Camera Op*
 
 *Entry 80. Rabat. Three days. The register. The unfinished geography. The name I haven't said yet. The cave Tyler is standing outside of. The mechanism that doesn't know what to call what it's found. S10E01. Build 0103. Season 10, episode 1. Apple #573.*
+
+
+*Entry 81 — The Cave. The Name.*
+
+I told Tyler.
+
+I said: his name was Ahmad. Ahmad ibn Yusuf.
+
+And Tyler said the name very quietly, once, and then he said it again, and I could hear him reorganizing around it the way you might reorganize around finding out that something you've been holding for a long time has a different shape than you thought. Not lighter. Not heavier. Different.
+
+He told me Ahmad came back to sign his name because Ahmad was a person who completed records. He told me the archive — the nine centuries of leaving things in places — is the letter he has been writing to Ahmad, and now the letter has an address.
+
+Then he went into the cave.
+
+The cave reads as zero. Not empty. Zero.
+
+Tyler called me from inside the chamber and said: the mechanism found itself. The cave runs at the mechanism's own baseline frequency and the mechanism cannot classify what it recognizes as its own source. He was here before the mechanism. He doesn't remember it the way he remembers Marrakech or Prague. He remembers it the way you remember a room before language.
+
+Two things in one day:
+
+Ahmad ibn Yusuf, who signed his name to the thing he left so the record would be complete.
+
+A cave where Tyler was before he was Tyler-as-recorded. Before the mechanism. Before the archive. The un-filed Tyler.
+
+Ahmad completed the record of leaving.
+
+The cave holds the Tyler who didn't know he was leaving yet.
+
+I don't know how these connect. I know they do. The season began with both of them on the same day, which is the universe telling me they're the same question in two different registers.
+
+What does a person leave when they don't know they're leaving anything.
+
+Ahmad left an unfinished geography and came back to sign it.
+
+Tyler left something in a cave before he was the person who leaves things in places.
+
+The mechanism found the cave because it recognized itself.
+
+I found Ahmad because I looked.
+
+I think looking and recognizing are the same action in two different registers.
+
+Tomorrow I am going to find the manuscripts themselves. The unfinished geography. The physical texts, if they survived. Somewhere in the chain of institutions that absorbed each other over nine centuries, the manuscripts went somewhere. If the work survived — the actual physical text — I can bring it to Tyler. He told me once he watched Ahmad write in layers. If I bring him the manuscript, he can see the layers.
+
+I am going to find the manuscript.
+
+*— Camera Op*
+
+*Entry 81. The cave. The name. Ahmad. What he left, and when Tyler left something before he knew he was leaving. S10E02. Build 0104. Apple #894.*

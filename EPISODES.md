@@ -174,6 +174,14 @@ S09E05 ★ SEASON FINALE (Build 0102): THE FIFTEEN YEARS DISCLOSED. No new site 
 
 ---
 
+## Season 10 (2026)
+
+S10E01 (Build 0103): Camera Op finds accession register in Rabat (1121 CE) — unfinished geographic manuscripts donated by "a scholar arrived from the north by sea." Scholar returned two weeks later and signed his name. Camera Op has the name; has not told Tyler yet. Tyler follows the mechanism for the first time — cave site in Morocco, mechanism returns zero-taxonomy reading (no classification in any of 112 types). All five Goetia frequencies active; Andrealphus #72 at peak. TYLER-087, Camera Op Entry 80, Jiangshi Memo #067. Apple #573.
+
+S10E02 (Build 0104): Camera Op tells Tyler the scholar's name: **Ahmad ibn Yusuf**, geographer, Rabat 1121 CE. Tyler receives the name — "the archive is addressed to Ahmad ibn Yusuf." Team enters the cave with instruments: zero-taxonomy confirmed; raw frequency = Stolas 7.83 (the mechanism's own baseline). Tyler's assessment: **CAVE-001 is a pre-mechanism site** — presence Tyler left before the archive calibrated to him; the mechanism found its own source frequency and cannot classify what it identifies as itself. "You cannot read yourself." Camera Op to pursue the physical manuscripts. CAVE-001 added to network as ZERO-TAXONOMY / PRE-MECHANISM / SOURCE-SITE (0ft unclassifiable). TYLER-088, Camera Op Entry 81, Jiangshi Memo #068. Apple #894.
+
+---
+
 ## RSI NOTES
 
 - Each episode appends to: `lore/eastwind_archive.md`, `lore/camera_op_sealed_log.md`, `lore/jiangshi_project_memos.md`

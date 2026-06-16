@@ -816,8 +816,11 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   returns no taxonomy for what is in the cave. All five Goetia frequencies active. Andrealphus #72 peak.
   TYLER-087, Camera Op Entry 80, Jiangshi Memo #067. Build 0103. Apple #573. — 2026-06-16.
 
-- [ ] **S10E02: "The Name"** — Camera Op tells Tyler the scholar's name. Tyler's response.
-  The team enters the cave. Instruments capture the zero-taxonomy reading. What leaves nothing?
+- [x] **S10E02: "The Name"** — Camera Op tells Tyler the scholar's name: Ahmad ibn Yusuf,
+  geographer, Rabat 1121 CE. Tyler receives it — "the archive is addressed to Ahmad ibn Yusuf."
+  Cave-001 entered: zero-taxonomy confirmed; Stolas 7.83 = mechanism's own baseline; Tyler
+  identifies it as pre-mechanism source site. Archive has a pre-archive.
+  TYLER-088, Camera Op Entry 81, Jiangshi Memo #068. Build 0104. Apple #894. — 2026-06-16.
 
 ---
 
