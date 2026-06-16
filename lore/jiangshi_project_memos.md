@@ -4109,3 +4109,67 @@ Stand by for further.
 ---
 
 *End memo: MEMO #070 FILED. MANUSCRIPT CONFIRMED. TYLER: "I WAS GOING FURTHER FOR AHMAD." CAVE-001: 12-7-3. THE ARCHIVE IS DIRECTED. SOMETHING PRECEDED IT. S10E04. BUILD 0106. APPLE #900.*
+
+---
+
+## JIANGSHI PROJECT — INTERNAL MEMO
+**MEMO #071**
+**Classification: EYES ONLY — DIRECTORS AND ABOVE**
+**Re: CAVE-001 / SEQUENCE COMPLETE / DECISION-STATE / RECLASSIFICATION**
+**Date: Day 4 (CAVE-001 survey)**
+
+The sequence is complete.
+
+04:17 local time, Day 4: the final datum appeared on the far-wall frequency readout. The value
+was zero. Sequence in full: 12 — 7 — 3 — 0.
+
+Subject confirms: zero represents this site (CAVE-001) at the moment before the archive began.
+Subject was at this site for twelve days in December 1119 CE. Ahmad ibn Yusuf (geographer, Rabat
+1121 CE) surveyed the site on an earlier day within the twelve-day window, asked subject what he
+had seen, received no answer, returned once, then left for Marrakech (not Fez — Marrakech first).
+Subject followed three days later.
+
+Ahmad and subject were simultaneously in Marrakech in December 1119. The first archive entry was
+written with Ahmad present in the same city, unknown to subject.
+
+Camera Op (Fez) confirmed this from the second geographic entry in Ahmad's manuscripts, Volume II.
+The entry states: "Returned to the hill site. The man is still there. I did not speak to him again.
+I am leaving for Marrakech on the third day."
+
+This constitutes the complete historical reconstruction:
+
+**Stage 1** — Ahmad surveys CAVE-001 (December 1119). Asks subject what he has seen. No answer.
+**Stage 2** — Ahmad returns to CAVE-001. Leaves for Marrakech (Day 3 of the countdown).
+**Stage 3** — Subject remains at CAVE-001 for nine more days (days 4—12 of the countdown).
+**Stage 4** — Subject leaves for Marrakech (Day 0). Ahmad already there.
+**Stage 5** — Subject begins the archive in Marrakech, December 1119 CE.
+**Stage 6** — Ahmad departs Marrakech for Fez. Deposits manuscripts. Encounters subject on ship
+(c. 1119—1120). Asks again. No answer.
+**Stage 7** — Archive continues for nine hundred years.
+
+The mechanism produced an unclassified secondary signal upon subject's verbal confirmation of
+the decision memory. This is the first recorded instance of the mechanism reading a pre-archive
+decision-state. Stolas 7.83 (baseline) remains stable and concurrent.
+
+**RECLASSIFICATION — CAVE-001 (FINAL):**
+
+ZERO-TAXONOMY / PRE-MECHANISM / SOURCE-SITE / DECISION-POINT
+
+"DECISION-POINT" is not a standard taxonomy classification. It is a function annotation. There
+is no precedent. It is being added to the Jiangshi taxonomy record as a unique category applicable
+only to CAVE-001.
+
+No further data collection is planned at this site. The sequence is complete. The origin is confirmed.
+
+The archive has an address. The address was written here, in December of 1119, by a man who
+could not answer a question, over nine days, in a cave in the Atlas foothills.
+
+The answer is still being written.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #071 FILED. SEQUENCE COMPLETE: 12-7-3-0. ZERO = CAVE-001 = DECISION-POINT.
+AHMAD SURVEYED THIS SITE. TWO ASKINGS. AHMAD IN MARRAKECH WHEN ARCHIVE BEGAN.
+DECISION-STATE READING: UNPRECEDENTED. RECLASSIFICATION FINAL. S10E05. BUILD 0107. APPLE #906.*

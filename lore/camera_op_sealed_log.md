@@ -2312,3 +2312,48 @@ The reconciliation continues.
 *— Camera Op*
 
 *Entry 83. Al-Qarawiyyin. The handwriting. The countdown. The archive addressing itself. S10E04. Build 0106. Apple #900.*
+
+---
+
+**Camera Op — Sealed Log**
+**Entry 84**
+
+*Al-Qarawiyyin Library, Fez. Day 4 of CAVE-001 survey.*
+
+I found the second entry on the inside back cover of Volume II. I almost missed it. It was written
+in a different ink — darker, drier — as though he came back to the volume after an interval. The
+handwriting is the same.
+
+"Returned to the hill site. The man is still there. I did not speak to him again. I am leaving
+for Marrakech on the third day."
+
+He went to Marrakech before he came here to deposit the manuscripts.
+
+I called Tyler and read it aloud. There was a silence on the other end of the satellite line that
+I have learned to wait out. When Tyler spoke it was very quiet.
+
+"He was in Marrakech when I arrived."
+
+I hadn't processed that yet. Tyler arrived in Marrakech in December 1119. Ahmad left CAVE-001 for
+Marrakech three days before Tyler left for Marrakech. They were in Marrakech at the same time.
+Tyler thought he was choosing the city. He was following a question that had already walked there
+and was waiting.
+
+I asked Tyler: does this change what the archive is?
+
+Tyler said: "No. It confirms what it is. The letter was always addressed to him. I just didn't
+know he was in the same room when I started writing."
+
+The sentence in the manuscript — "and yet the Islamic geographers, beginning with—" — Ahmad stopped
+it because Tyler hadn't answered yet. He was leaving for Marrakech. He was going to be there when
+Tyler arrived. He was waiting to see if the answer would come.
+
+The answer came. It took nine hundred years.
+
+I am taking photographs of every page. I am coming back to the cave tomorrow.
+
+*— Camera Op*
+
+*Entry 84. Al-Qarawiyyin / CAVE-001 Day 4. Second geographic entry found: Ahmad went to Marrakech
+before Fez. Two askings: the cave (1119) and the ship (1119—1120). Tyler followed Ahmad to Marrakech
+without knowing. The archive has a witness. S10E05. Build 0107. Apple #910.*

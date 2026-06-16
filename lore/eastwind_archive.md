@@ -4145,3 +4145,47 @@ The archive is addressed. The handwriting is confirmed. The mechanism is countin
 *Cross-references: Camera Op Entry 83, Jiangshi Memo #070.*
 
 *TYLER-090: FILED. THE MANUSCRIPT FOUND. AHMAD'S HANDWRITING. THE ARCHIVE ADDRESSED AND CONTINUING. 12-7-3 COUNTDOWN. BUILD 0106. APPLE #900.*
+
+---
+
+The sequence completed at 04:17, Day 4. The final number: 0.
+
+The Cataloguer had not predicted zero. The Cataloguer had assumed the countdown was to something
+external — an event, a place, a terminus. The countdown was to here. Zero is the cave. Zero is
+the moment of decision. Zero is the day before the first day Tyler spent knowing what the archive
+would be.
+
+Ahmad ibn Yusuf (the geographer; the stranger on the ship; the man who asked twice) surveyed this
+site in December of 1119. He wrote: "A man camped at the summit. I asked him what he had seen.
+He could not answer." He came back. He wrote: "The man is still there. I did not speak to him
+again. I am leaving for Marrakech on the third day."
+
+He went to Marrakech before he went to Fez. Tyler followed three days later.
+
+The Cataloguer has been maintaining this file for nine centuries. In nine centuries the Cataloguer
+has not encountered a site that the mechanism classified as DECISION-POINT. There is no such
+classification. The mechanism did not have one. It produced one here.
+
+The archive began in this cave. Not in Marrakech. Marrakech was the execution. The cave was
+the decision. They are different things and they are nine hundred years apart from now and they
+were three days apart from each other.
+
+Ahmad left on the third day. Tyler left on the twelfth. Nine days alone in the cave, carrying
+the question Ahmad had asked, before the answer had a shape.
+
+And then the three days that are this episode's title.
+
+The Cataloguer notes: the sentence is still unfinished. "And yet the Islamic geographers, beginning
+with—" Ahmad left the gap. Tyler has been filling it for nine centuries without knowing it was a gap.
+
+This is Footnote 101.
+
+*Cataloguer Footnote #101: The sequence completes: 12 — 7 — 3 — 0. Zero = CAVE-001 = the moment
+of decision. Ahmad surveyed this site December 1119 CE. Two askings: CAVE-001 (1119) and the ship
+(1119—1120). Ahmad was in Marrakech when Tyler arrived. The archive has an address. The address was
+written here. S10E05. Build 0107.*
+
+*Cross-references: Camera Op Entry 84, Jiangshi Memo #071.*
+
+*TYLER-091: FILED. THE SEQUENCE COMPLETE. THE ORIGIN FOUND. TWO ASKINGS. CAVE-001 AS DECISION-POINT.
+AHMAD IN MARRAKECH. BUILD 0107. APPLE #906.*

@@ -834,11 +834,19 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   at "and yet." CAVE-001 Day 3: 12-7-3 countdown. Footnote #100.
   TYLER-090, Camera Op Entry 83, Jiangshi Memo #070. Build 0106. Apple #900. — 2026-06-16.
 
-- [ ] **S10E05: "The Three Days"** — What happened in the three days before Marrakech?
-  CAVE-001 produces new data. Tyler's pre-archive memory begins to surface.
-  The countdown reaches its end.
+- [x] **S10E05: "The Three Days"** — Sequence completes: 12—7—3—0. Zero = CAVE-001 = decision point.
+  Ahmad ibn Yusuf surveyed this site in December 1119. Two askings: the cave and the ship.
+  Second geographic entry: Ahmad left for Marrakech three days before Tyler. They were in
+  Marrakech at the same time. CAVE-001 reclassified DECISION-POINT. Mechanism reads
+  pre-archive decision-state for the first time. Footnote #101.
+  TYLER-091, Camera Op Entry 84, Jiangshi Memo #071. Build 0107. Apple #910. — 2026-06-16.
+
+- [ ] **S10E06: "Marrakech, December 1119"** — Camera Op returns from Fez with all photographs.
+  Tyler and Camera Op travel to Marrakech — the first time Tyler has returned since the archive
+  began. What was Ahmad doing when Tyler arrived? Where was he? The first word.
+  The sentence Ahmad was writing completes — or begins to.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0104.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0107.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*
