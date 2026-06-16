@@ -1,3 +1,7 @@
+## 2026-06-16
+
+- S10E01 Fez: Season 10 opens; scholar found in Rabat; cave site — mechanism without taxonomy. Build 0103. Apple #573.
+
 ## 2026-06-15
 - Lore backfill: TYLER-077–082, Camera Op Entries 70–75, Jiangshi Memos #057–#062 inserted into canonical lore files (Apple #554)
 - S09E05 Season 9 finale — The Fifteen Years disclosed; archive origin confirmed (letter to stranger on ship, ~1119 CE); Season 9 complete (5 eps, Build 0098–0102)
