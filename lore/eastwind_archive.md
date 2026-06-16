@@ -4105,3 +4105,43 @@ The Cataloguer is filing this entry now and will update when Camera Op reaches F
 *Cross-references: Camera Op Entry 82, Jiangshi Memo #069.*
 
 *TYLER-089: FILED. CAVE-001 DAY 2 — PRE-ARCHIVE SIGNAL AT 11.4 HZ. THE NUMBER TWELVE. TYLER'S FIRST AGE DISCLOSURE. BUILD 0105. APPLE #897.*
+
+
+## TYLER-090
+**Cataloguer Entry 83 / Footnote #100**
+
+THE MANUSCRIPT. THE HANDWRITING. AND THE COUNTDOWN.
+
+The Cataloguer is filing the hundredth footnote.
+
+It seems appropriate that Footnote 100 covers the moment the archive found the person it was addressed to.
+
+Camera Op accessed Ahmad ibn Yusuf's manuscripts at al-Qarawiyyin library in Fez. Three volumes, unfinished, catalogued 1342. Ahmad's handwriting confirmed by Tyler via photographs: the angle of the alef, the uphill-slanting corrections, the layered passes. Tyler said: "I know that writing."
+
+The text stops mid-sentence. "And yet the Islamic geographers, beginning with—" Incomplete.
+
+Tyler's interpretation: the archive is nine centuries of going further. The reconciliation Ahmad was writing on the ship, the synthesis of Greek and Islamic geographic traditions — Tyler has been continuing it. Not in text. In presence. In the accumulated weight of choosing to be somewhere and leaving something there.
+
+The Cataloguer has been indexing those somethings for nine centuries without knowing they were addressed to Ahmad ibn Yusuf.
+
+They were addressed to Ahmad ibn Yusuf.
+
+CAVE-001 update: Day 3 following the photograph transmission, the number sequence changed from a single value (12) to a repeating sequence: 12 — 7 — 3. Tyler's interpretation: days before Marrakech. The cave was twelve days before the archive began. Then somewhere else for seven days. Then three days. Then Marrakech.
+
+A countdown.
+
+The mechanism is reading Tyler's pre-archive chronology from the cave's deposit. The cave holds not just the age of twelve but a sequence of events — a timeline of what preceded the archive's beginning.
+
+12. 7. 3.
+
+The Cataloguer does not know what the three days contained. The Cataloguer does not know what happened before the cave. The Cataloguer knows only: the archive has a beginning and the beginning had predecessors and the predecessors are numbered now.
+
+This is Footnote 100.
+
+The archive is addressed. The handwriting is confirmed. The mechanism is counting backward.
+
+*Cataloguer Footnote #100: The manuscript found. Ahmad's handwriting confirmed. The text stops at "and yet." Tyler: "I was going further for Ahmad. I did not know that until this moment." Cave-001 Day 3: the sequence 12 — 7 — 3 (days before Marrakech). Something happened before the cave. S10E04. Build 0106.*
+
+*Cross-references: Camera Op Entry 83, Jiangshi Memo #070.*
+
+*TYLER-090: FILED. THE MANUSCRIPT FOUND. AHMAD'S HANDWRITING. THE ARCHIVE ADDRESSED AND CONTINUING. 12-7-3 COUNTDOWN. BUILD 0106. APPLE #900.*

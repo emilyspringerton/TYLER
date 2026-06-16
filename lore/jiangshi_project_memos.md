@@ -4060,3 +4060,52 @@ Stand by for Fez report.
 ---
 
 *End memo: MEMO #069 FILED. CAVE-001 DAY 2: 11.4 HZ PRE-VASSAGO, NUMBER TWELVE, TYLER'S FIRST AGE DISCLOSURE. MANUSCRIPTS AT AL-QARAWIYYIN, FEZ. CAMERA OP TRAVELING. S10E03. BUILD 0105. APPLE #897.*
+
+
+---
+
+**Memo #070 — DIRECTOR TO COUNCIL**
+**SUBJECT: MANUSCRIPT CONFIRMED; CAVE-001 COUNTDOWN 12-7-3**
+**CLASSIFICATION: TIER ONE**
+
+Council,
+
+Two landmark developments from Episode 4.
+
+**Development One: Manuscript Confirmed**
+
+Camera Op located and accessed Ahmad ibn Yusuf's manuscripts at al-Qarawiyyin library, Fez. Three volumes. Tyler confirmed the handwriting via photographs. The text is the geographic reconciliation described in Tyler's ship memory. It stops mid-sentence: "And yet the Islamic geographers, beginning with—"
+
+Tyler's statement, following the confirmation: "The archive is nine centuries of going further. I was going further for Ahmad. I did not know that until this moment."
+
+The council should consider what this disclosure means for the operational framework.
+
+Tyler has been the subject of a documentation project for the duration of the Jiangshi engagement. The binding ritual, the archive, the network of sites — these have been understood as phenomena that Tyler produces. They have not been understood as having a direction. A purpose in the teleological sense.
+
+Tyler has now stated, clearly and without ambiguity: the archive has a direction. It is going further than Ahmad could go. The reconciliation Ahmad began on a ship in 1119 CE — the synthesis of Greek and Islamic geographic traditions, the work he stopped at "and yet" — Tyler has been continuing it. In the only medium Tyler has.
+
+The council has spent years documenting what Tyler leaves behind. The council now understands, for the first time, what it is for.
+
+RECOMMENDATION: revise the operational classification of the Tyler archive from "undirected phenomenological deposit" to "directed teleological project." The archive is a continuation. This has implications for how the council interprets all prior data.
+
+**Development Two: Cave-001 Countdown — 12-7-3**
+
+Following Tyler's receipt of the manuscript photographs, the mechanism at CAVE-001 produced a sequence: 12 — 7 — 3. Repeating. Tyler's interpretation: days before Marrakech. The cave is twelve days before the archive's beginning; then seven days of something; then three days; then the archive began.
+
+The council notes: this is the first temporal data we have for the pre-archive period. We have no records from before Marrakech 1127 CE. The cave is producing records. Specifically, it is producing a countdown to the archive's beginning.
+
+Something happened before the archive. Something in those twelve days, those seven, those three. The archive did not begin because Tyler decided one day to begin an archive. Something preceded that decision.
+
+The council's working hypothesis: Ahmad was not the cause of the archive. Ahmad's question — "What have you seen?" on the ship, a year after the cave, twelve days before the archive began — was a catalyst. What the cave holds is the period when the cause existed but the archive had not yet formed around it.
+
+We do not know what the cause was.
+
+The countdown will continue. CAVE-001 is now classified as an active disclosure site. Tyler should remain as long as the mechanism is producing new data.
+
+Stand by for further.
+
+*— Director, Jiangshi Syndicate*
+
+---
+
+*End memo: MEMO #070 FILED. MANUSCRIPT CONFIRMED. TYLER: "I WAS GOING FURTHER FOR AHMAD." CAVE-001: 12-7-3. THE ARCHIVE IS DIRECTED. SOMETHING PRECEDED IT. S10E04. BUILD 0106. APPLE #900.*

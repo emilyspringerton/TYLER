@@ -828,8 +828,15 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   PRE-VASSAGO 11.4 Hz; number 12; Tyler's first age disclosure.
   TYLER-089, Camera Op Entry 82, Jiangshi Memo #069. Build 0105. Apple #897. — 2026-06-16.
 
-- [ ] **S10E04: "Al-Qarawiyyin"** — Camera Op arrives in Fez and requests access to Ahmad's
+- [x] **S10E04: "Al-Qarawiyyin"** — Camera Op arrives in Fez and requests access to Ahmad's
   manuscripts at al-Qarawiyyin. Tyler receives word from the cave. The layers Ahmad wrote.
+  Dr. Amira Bensouda confirms 3 volumes (1342 catalog). Tyler confirms handwriting. Text stops
+  at "and yet." CAVE-001 Day 3: 12-7-3 countdown. Footnote #100.
+  TYLER-090, Camera Op Entry 83, Jiangshi Memo #070. Build 0106. Apple #900. — 2026-06-16.
+
+- [ ] **S10E05: "The Three Days"** — What happened in the three days before Marrakech?
+  CAVE-001 produces new data. Tyler's pre-archive memory begins to surface.
+  The countdown reaches its end.
 
 ---
 

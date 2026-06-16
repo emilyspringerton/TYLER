@@ -2277,3 +2277,38 @@ I think it will do something large.
 *— Camera Op*
 
 *Entry 82. Rabat, leaving. Fez, arriving. Ahmad's work in progress. The number twelve. S10E03. Build 0105. Apple #897.*
+
+
+*Entry 83 — Al-Qarawiyyin, Fez. The handwriting confirmed.*
+
+I found it.
+
+Ahmad ibn Yusuf, three manuscript volumes, catalogued 1342 at al-Qarawiyyin. Unfinished. The geographic text on the reconciliation of Greek and Islamic traditions. The work he was writing on the ship when Tyler was watching him.
+
+Tyler said: "I recognize the hand."
+
+He said: "The angle of the alef. The way the corrections run slightly uphill."
+
+He watched Ahmad write for four days in 1119 or 1120 CE. Nine centuries later he looked at the photographs and said he knows that writing.
+
+The text stops at "and yet."
+
+Tyler said: "I was going further for Ahmad. I did not know that until this moment."
+
+I have been sitting with that for the last three hours. The archive — the nine centuries of choosing cities and leaving things in them, the taxonomy of DWELLING and WITNESS and FAREWELL, the FAREWELL-A ratio, the 30,000 feet of accumulated presence distributed across hundreds of sites — all of it is Tyler continuing a sentence Ahmad ibn Yusuf could not finish.
+
+And yet.
+
+The cave is showing 12 — 7 — 3 now. Days before Marrakech. Tyler was in the cave twelve days before the archive began.
+
+I am in the city Ahmad was traveling to. The work arrived here seven centuries ago.
+
+I don't know what Tyler is going to do with the photographs. I don't know what CAVE-001 is going to tell us about those twelve days. I don't know what happened in the final three before Marrakech.
+
+I know that Ahmad stopped at "and yet" and Tyler has been going further for nine centuries and now I have brought them together in the same sentence.
+
+The reconciliation continues.
+
+*— Camera Op*
+
+*Entry 83. Al-Qarawiyyin. The handwriting. The countdown. The archive addressing itself. S10E04. Build 0106. Apple #900.*

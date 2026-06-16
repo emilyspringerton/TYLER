@@ -182,6 +182,8 @@ S10E02 (Build 0104): Camera Op tells Tyler the scholar's name: **Ahmad ibn Yusuf
 
 S10E03 (Build 0105): Camera Op traces Ahmad's manuscripts from Rabat to **al-Qarawiyyin, Fez** (Marinid transfer, 1339). "The journey was interrupted. The work continued on its own." Camera Op traveling to Fez to find the physical texts — Ahmad's handwriting. CAVE-001 Day 2: mechanism produces **PRE-VASSAGO 11.4 Hz** partial signal; far wall returns the number **12**. Tyler's first age disclosure: "I was here when I was twelve." Tyler: "I am sitting with an earlier version of myself that I cannot speak to directly and that I cannot yet fully read." TYLER-089, Camera Op Entry 82, Jiangshi Memo #069. Apple #897.
 
+S10E04 (Build 0106): Camera Op accesses Ahmad's manuscripts at al-Qarawiyyin (Dr. Amira Bensouda). Three volumes, catalogued 1342. Tyler confirms handwriting via photographs: "I recognize the hand." Text stops at "**and yet the Islamic geographers, beginning with—**" — mid-sentence, at the pivot. Tyler: "I was going further for Ahmad. I did not know that until this moment." **The archive is a continuation of Ahmad's unfinished reconciliation.** CAVE-001 Day 3: sequence **12—7—3** (days before Marrakech). Tyler: "I am beginning to remember something I did not know I had forgotten." Jiangshi reclassifies archive: "directed teleological project." Footnote #100. TYLER-090, Camera Op Entry 83, Jiangshi Memo #070. Apple #900.
+
 ---
 
 ## RSI NOTES
