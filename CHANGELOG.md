@@ -1,4 +1,5 @@
 ## 2026-06-16
+- S10E03 'The Manuscript': manuscripts traced to al-Qarawiyyin Fez; CAVE-001 Day 2 PRE-VASSAGO 11.4 Hz + number 12; Tyler age disclosure; Build 0105, Apple #897
 - S10E02 'The Name': Ahmad ibn Yusuf disclosed; CAVE-001 pre-mechanism source site; Build 0104, Apple #894
 
 - S10E01 Fez: Season 10 opens; scholar found in Rabat; cave site — mechanism without taxonomy. Build 0103. Apple #573.
