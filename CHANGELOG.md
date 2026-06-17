@@ -1,3 +1,7 @@
+## 2026-06-17
+
+- S10E06 'Marrakech, December 1119' (Build 0108): archive origin found — first word was name of CAVE-001; MARRAKECH-001 classified EXECUTION-SITE/ARCHIVE-ORIGIN; two 0ft sites; Ahmad watched Tyler begin; Footnote #102; 78 episodes. Apple #941.
+
 ## 2026-06-16
 - S10E05 'The Three Days' (Build 0107): sequence 12-7-3-0 complete; CAVE-001 is decision point; two askings (cave + ship); Ahmad in Marrakech; DECISION-POINT reclassification; Footnote #101; Apple #910
 - S10E04 'Al-Qarawiyyin': manuscript confirmed, Ahmad's handwriting, 12-7-3 countdown, archive reclassified as directed project; Footnote #100; Build 0106, Apple #900
