@@ -2393,3 +2393,35 @@ I think that is what this site requires.
 *Entry 85. Marrakech. Archive origin found: Almoravid wall, old quarter. First word: name of
 CAVE-001. Ahmad watched Tyler begin. Tyler: "I have been answering." Mechanism archive-state
 signal locks. MARRAKECH-001 classified. S10E06. Build 0108. Apple #941.*
+
+---
+
+## Entry 86
+
+*Field log. Marrakech, Day 3. S10E07.*
+
+Laid out all three volumes this morning. The whole thing. Took most of the previous night to
+print everything from my Fez photographs. I wanted to see the argument Ahmad was making.
+
+He was a better writer than I expected. The introduction is careful, methodical, building.
+He had a framework. He had a term: *al-idrak al-muttasil*. Continuous perception. He had
+been building toward the concept for a long time — traces of it in the earlier sections,
+circles around it. He didn't name it until the final pages. And then the sentence stopped
+before he could apply the name to a person.
+
+I think he stopped because the person was right there. Tyler was at the wall. Ahmad was at
+his table. He had just watched Tyler write the first word. The sentence in front of him was
+too small. He closed the manuscript and went to Fez.
+
+The question-state signal started this morning when I laid the manuscripts out. Jiangshi
+measured it starting from 06:40. I laid them out at 06:38.
+
+Tyler said the archive and the question haven't met yet. I'm not sure that's true. I think
+they met this morning. I think they've been meeting every time someone reads the archive
+while knowing about the blank.
+
+*— Camera Op*
+
+*Entry 86. Marrakech, Day 3. Ahmad's argument reconstructed: al-idrak al-muttasil. Three-signal
+site confirmed. Tyler: "Someone else will write the close." Question-state signal began on
+manuscript layout. S10E07. Build 0109. Apple #951.*

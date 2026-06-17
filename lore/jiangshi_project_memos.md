@@ -4217,3 +4217,31 @@ The sentence he was writing has been completing for nine hundred years. It is st
 *End memo: MEMO #072 FILED. MARRAKECH-001 CLASSIFIED: EXECUTION-SITE / ARCHIVE-ORIGIN.
 ARCHIVE-STATE SIGNAL LOCKS. FIRST WORD = NAME OF CAVE. AHMAD PRESENT. DISTANCE ZERO.
 TWO 0ft SITES: CAVE-001 (DECISION) AND MARRAKECH-001 (EXECUTION). S10E06. BUILD 0108.*
+
+---
+
+## MEMO #073 — THIRD SIGNAL: QUESTION-STATE. MARRAKECH-001 THREE-SIGNAL SITE.
+
+*Project: TIDES OF PARADOX | Filed: Marrakech field station, Day 3. S10E07.*
+
+At 06:40 local, MARRAKECH-001 acquired a third coexistent signal. Quieter, variable, non-decaying.
+
+Correlation: Camera Op began laying out Ahmad ibn Yusuf's full manuscript set at 06:38. Signal
+appeared 2 minutes later. Mechanism reads the content of the manuscripts, or the act of their
+examination, or Ahmad's presence in the record made physically present through his own writing.
+
+**Signal analysis:**
+- Stolas 7.83: unchanged since Day 1. Baseline.
+- Archive-state: locked Day 2. Stable. Tyler's crystallized intention.
+- Question-state: appeared Day 3 on manuscript examination. Variable. Non-decaying after 14h.
+  Ahmad's open question — still active, waiting for the reader who will close the naming.
+
+MARRAKECH-001 is the only known three-signal site. Question-state required neither Tyler's
+presence nor engagement — it began on contact with Ahmad's manuscripts. Ahmad is not present.
+His question is.
+
+**Updated MARRAKECH-001 classification:**
+ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE
+
+*End memo: MEMO #073 FILED. THIRD SIGNAL: QUESTION-STATE. AHMAD PRESENT VIA MANUSCRIPT.
+THREE-SIGNAL SITE. MARRAKECH-001 RECLASSIFIED. S10E07. BUILD 0109.*

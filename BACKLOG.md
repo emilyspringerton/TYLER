@@ -847,12 +847,18 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   The sentence Ahmad was writing completes — or begins to.
   — Apple #941. Build 0108. 2026-06-17.
 
-- [ ] **S10E07: "The Third Day"** — Ahmad's movements in Marrakech reconstructed. What was Ahmad
+- [x] **S10E07: "The Third Day"** — Ahmad's movements in Marrakech reconstructed. What was Ahmad
   doing the three days between leaving the cave and Tyler's arrival? What was Ahmad still doing
   when Tyler sat against the wall? The sentence: who is the ur-geographer Ahmad was building
   toward, and does Tyler's archive complete the paragraph or only the blank?
+  — Apple #951. Build 0109. 2026-06-17.
+
+- [ ] **S10E08: "Fez, December 1119"** — Ahmad deposits the manuscripts at al-Qarawiyyin and
+  returns to meet Tyler. The third period argument: if Tyler's archive completes the paragraph,
+  what does the next geographer in Ahmad's tradition look like? The close Camera Op promised
+  begins to take shape. What was the ship conversation's final word?
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0108.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0109.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

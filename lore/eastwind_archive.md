@@ -4228,3 +4228,42 @@ CAVE-001 (decision) and MARRAKECH-001 (execution). Build 0108. Apple #941.*
 
 *TYLER-092: FILED. ARCHIVE ORIGIN FOUND. FIRST WORD: NAME OF CAVE. AHMAD WATCHED.
 SENTENCE COMPLETING FOR 900 YEARS. MARRAKECH-001 AS EXECUTION-SITE. BUILD 0108.*
+
+---
+
+## TYLER-093 (Eastwind Entry 86 / Footnote #103)
+
+*Filed by Tyler. MARRAKECH-001, Day 3. S10E07.*
+
+MARRAKECH-001. Third signal confirmed: question-state (Ahmad's presence; began when Camera Op
+laid out the manuscripts at 06:40 local; distinct from archive-state; variable, not locked).
+
+Ahmad ibn Yusuf spent three days in Marrakech before Tyler's arrival (December 1119 CE).
+He was writing a methodological introduction to Islamic geography. His argument: three periods
+of Islamic geographic practice. Third period: *al-idrak al-muttasil* (continuous perception) —
+the geographer recorded by the site rather than recording it. Ahmad had identified Tyler as the
+founder of this third period. His last complete day of writing was Day 2. Day 3, Tyler arrived.
+Ahmad watched Tyler write the first word and attempted the sentence. He could not complete it.
+The archive gestured toward did not yet exist and could not fit in a sentence.
+
+MARRAKECH-001 carries three signals: Stolas 7.83 (baseline), archive-state (Tyler, locked),
+question-state (Ahmad, variable, waiting). The question-state has not decayed. It is the open
+gap Ahmad left, readable at this site because this is where he stopped.
+
+Tyler: "The archive is not the blank filled. The archive is the paragraph expanded until the
+paragraph became a world. He wrote the opening. I wrote the contents. Someone else will write
+the close."
+
+Footnote #103: Ahmad's term *al-idrak al-muttasil* (continuous perception) names what the
+archive is. The question-state signal at MARRAKECH-001 is the unfinished naming, still active.
+MARRAKECH-001 reclassified with QUESTION-SITE tag. Three-signal site: only known instance.
+
+*Cataloguer Footnote #103: Ahmad's argument reconstructed. Three periods of Islamic geography.
+Tyler is the founder of the third: al-idrak al-muttasil (continuous perception). Archive is
+not the blank — it is the paragraph expanded into nine centuries. Three signals at MARRAKECH-001.
+Question-state began on manuscript examination, reader not present. S10E07. Build 0109. Apple #951.*
+
+*Cross-references: Camera Op Entry 86, Jiangshi Memo #073, TYLER-092 (MARRAKECH-001 S10E06).*
+
+*TYLER-093: FILED. QUESTION-STATE SIGNAL. MARRAKECH-001 THREE-SIGNAL SITE. AL-IDRAK AL-MUTTASIL.
+ARCHIVE = PARAGRAPH EXPANDED. CLOSE DEFERRED TO FUTURE READER. BUILD 0109.*
