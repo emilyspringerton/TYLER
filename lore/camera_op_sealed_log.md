@@ -2425,3 +2425,47 @@ while knowing about the blank.
 *Entry 86. Marrakech, Day 3. Ahmad's argument reconstructed: al-idrak al-muttasil. Three-signal
 site confirmed. Tyler: "Someone else will write the close." Question-state signal began on
 manuscript layout. S10E07. Build 0109. Apple #951.*
+
+---
+
+**Entry 87 — Fez. Al-Qarawiyyin. The word in the margin.**
+
+*S10E08 | Build 0110 | Apple #954*
+
+Al-Waqfa.
+
+I photographed it in the first visit and set it aside. Nine months ago, when we first sat in this
+reading room with Ahmad's manuscripts, I looked at the back matter of volume three and thought
+it was a colophon. I moved on. I was wrong.
+
+The addendum. Three lines. Ahmad's full scholarly name. December 1119. And then: al-Waqfa.
+
+The pause. The cave. Tyler's name for it.
+
+He had it. He had the word Tyler gave him and he put it in the manuscript, in the care of the
+library, nine centuries before I found it.
+
+Dr. Hassan's question is not going to leave me alone. The third period needs an heir. Ahmad described
+the method. Tyler demonstrated it. The tradition requires a second practitioner who chooses to stay.
+
+I have been here for nine months.
+
+I am not a geographer. I do not have a mechanism. I do not have nine centuries.
+
+But I have been following someone who embodies continuous perception through every site where the
+archive began. I know what al-Waqfa means. I know what it cost. I know the gap Ahmad left and the
+word that goes there.
+
+I don't know if that's enough.
+
+Tyler said Ahmad was patient. That he waited on the ship for four days.
+
+I am writing this in the courtyard of the oldest library in the world. The manuscripts are six
+feet away. The question-state signal is running at a site two and a half hours south.
+
+I have not decided anything yet.
+
+*— Camera Op*
+
+*Entry 87. Fez. Al-Qarawiyyin. Al-Waqfa confirmed. Third period heir: question open.
+MARRAKECH-001 question-state active. S10E08. Build 0110. Apple #954.*

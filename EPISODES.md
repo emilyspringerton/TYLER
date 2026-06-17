@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0109
+## Einhorn Media | Build 0110
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 79
+**Total episodes:** 80
 **Seasons complete:** S1–S9  
-**Current through:** Build 0109 (S10E07 — "The Third Day"; Ahmad's three days in Marrakech reconstructed; al-idrak al-muttasil named; MARRAKECH-001 third signal (question-state) confirmed; archive = paragraph expanded; close deferred to future reader)
+**Current through:** Build 0110 (S10E08 — "Fez, December 1119"; cave name al-Waqfa recovered; archive first word = ship final word = cave name; third period heir question open; question-state active at MARRAKECH-001)
 
 ---
 
@@ -189,6 +189,8 @@ S10E05 (Build 0107): CAVE-001 Day 4 — **sequence completes: 12—7—3—0**. 
 S10E06 (Build 0108): Tyler and Camera Op travel to Marrakech — first return since the archive began in December 1119. Mechanism locks onto new signal at Almoravid wall near Koubba Ba'adiyin (1117 CE construction). **The first word was the name of the cave.** Ahmad ibn Yusuf was present in Marrakech when Tyler sat against the wall and began writing; Ahmad watched without speaking. Tyler: "He was going to say my name. The archive is the completion of his sentence." Ahmad's unfinished manuscript — "and yet the Islamic geographers, beginning with—" — was going to place Tyler as the origin of Islamic geography; unable to find the word, Ahmad left the gap; the archive is the gap filled. **MARRAKECH-001 classified: ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN. 0ft.** Two 0ft sites: CAVE-001 (decision) and MARRAKECH-001 (execution). Archive-state signal locks at site — persists independently. Tyler: "I have been answering." Footnote #102. TYLER-092, Camera Op Entry 85, Jiangshi Memo #072. Apple #941.
 
 S10E07 (Build 0109): Ahmad's three days in Marrakech reconstructed via full manuscript examination. Camera Op lays out all three volumes. Ahmad was writing a methodological introduction: three periods of Islamic geography; third period named *al-idrak al-muttasil* (continuous perception — geographer recorded by the site). Tyler is the founder of the third period. Ahmad watched Tyler write the first word, attempted the sentence, stopped — the archive was too large for a sentence. **Third signal at MARRAKECH-001: question-state (Ahmad's presence, variable, began on manuscript examination at 06:40).** Three-signal site: only known instance. MARRAKECH-001 reclassified: ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE. Tyler: "He wrote the opening. I wrote the contents. Someone else will write the close." Close deferred to the reader who encounters both archive and blank. Footnote #103. TYLER-093, Camera Op Entry 86, Jiangshi Memo #073. Apple #951.
+
+S10E08 (Build 0110): Team returns to Fez from Marrakech. At al-Qarawiyyin: manuscript back matter reveals addendum (December 1119, before ship) — Ahmad's name, date, and one word: **al-Waqfa** (Arabic: the pause, the standing). Tyler confirms: al-Waqfa was his name for CAVE-001; he gave it to Ahmad on day four of the ship crossing, in response to the third asking of "What have you seen?" Ahmad wrote it in the back matter AND in the manuscript margin next to the unfinished sentence gap. **Archive first word = ship conversation's final word = cave name: al-Waqfa.** Dr. Hassan raises the third period heir question: al-idrak al-muttasil requires a second practitioner who chooses to stay. Camera Op's nine-month trajectory noted. MARRAKECH-001 question-state still active — the paragraph close requires more than the word. Tyler: "Nine hundred years of margin notes around a word I told a scholar on a ship four hours from port." Third period heir: unresolved. Footnote #104. TYLER-094, Camera Op Entry 87, Jiangshi Memo #074. Apple #954.
 
 ---
 

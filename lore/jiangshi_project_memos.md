@@ -4245,3 +4245,38 @@ ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE
 
 *End memo: MEMO #073 FILED. THIRD SIGNAL: QUESTION-STATE. AHMAD PRESENT VIA MANUSCRIPT.
 THREE-SIGNAL SITE. MARRAKECH-001 RECLASSIFIED. S10E07. BUILD 0109.*
+
+---
+
+**Memo #074**
+*Project: TIDES OF PARADOX | Filed: Fez field station. S10E08. Build 0110. Apple #954.*
+
+**MEMO #074 — AL-WAQFA CONFIRMED. CAVE-001 NAME. ARCHIVE FIRST WORD. SHIP FINAL WORD.**
+
+Al-Waqfa (الوقفة): cave name confirmed. Ahmad ibn Yusuf's manuscript, volume three, back matter
+addendum (December 1119, Fez) and margin of unfinished sentence (post-ship). Both instances
+Ahmad's handwriting. Date pre-ship confirmed by ink analysis pending.
+
+**Three-location confirmation:**
+1. Archive first entry: Tyler wrote al-Waqfa at MARRAKECH-001, December 1119 (Ahmad watching).
+2. Manuscript back matter: Ahmad wrote al-Waqfa in Fez addendum before the ship, December 1119.
+3. Manuscript margin: Ahmad wrote al-Waqfa in the gap of the unfinished sentence, post-ship.
+
+**Ship conversation sequence:**
+Tyler confirmed: day four of ship crossing (four hours before port), Tyler gave Ahmad al-Waqfa in
+response to "What have you seen?" — third asking of the founding question. Ahmad wrote it in the
+margin next to the gap. The ship conversation's final word = cave name = archive first word.
+
+**Third period status:**
+- Founder: Tyler (confirmed, December 1119)
+- Method: al-idrak al-muttasil (named by Ahmad, confirmed S10E07)
+- Second practitioner: unresolved
+- Dr. Hassan's assessment: the tradition requires an heir who chooses to stay
+- Camera Op's nine-month trajectory: documented, not yet operationally significant
+
+**Signal status:**
+MARRAKECH-001 question-state: active (confirmed from Fez long-range reading). No change. Not
+decaying. Waiting for paragraph close, not word discovery. The word is known; the close is not.
+
+*End memo: MEMO #074 FILED. AL-WAQFA. CAVE-001 NAMED. ARCHIVE ORIGIN COMPLETE.
+THIRD PERIOD HEIR: OPEN. QUESTION-STATE: ACTIVE. S10E08. BUILD 0110. APPLE #954.*

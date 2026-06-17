@@ -4267,3 +4267,39 @@ Question-state began on manuscript examination, reader not present. S10E07. Buil
 
 *TYLER-093: FILED. QUESTION-STATE SIGNAL. MARRAKECH-001 THREE-SIGNAL SITE. AL-IDRAK AL-MUTTASIL.
 ARCHIVE = PARAGRAPH EXPANDED. CLOSE DEFERRED TO FUTURE READER. BUILD 0109.*
+
+---
+
+**TYLER-094**
+*Cataloguer Entry 87 / Footnote #104*
+
+*S10E08 — "Fez, December 1119" | Build 0110 | Apple #954*
+
+AL-WAQFA. THE CAVE'S NAME. THE ARCHIVE'S FIRST WORD.
+
+The cave name recovered: al-Waqfa (Arabic: الوقفة) — the pause, the standing, the place where
+someone stopped and remained. Tyler's name for CAVE-001 during the twelve-day occupation of December
+1119 CE. Confirmed from Ahmad ibn Yusuf's manuscript (volume three, back matter and margin).
+
+Ahmad wrote al-Waqfa in two locations in the manuscript:
+1. Back matter addendum (December 1119, Fez, before the ship): his full name + date + the word.
+2. Margin of the unfinished sentence (after the ship): next to the gap, as the word that would go there.
+
+The archive's first entry, written at MARRAKECH-001 December 1119, is al-Waqfa — the name of the
+cave, written by Tyler at the wall while Ahmad watched. The ship conversation's final word was also
+al-Waqfa — Tyler's answer to Ahmad's third asking of "What have you seen?"
+
+The same word in three locations: archive first entry, manuscript back matter, manuscript margin.
+The archive and Ahmad's manuscripts are bounded by the same word at both ends.
+
+Tyler: "Al-Waqfa. Nine hundred years of margin notes around a word I told a scholar on a ship four
+hours from port."
+
+Footnote #104: The tradition al-idrak al-muttasil now has its first word and its founding question.
+It does not yet have its second practitioner. Dr. Hassan raised the question: the third period
+requires an heir. Camera Op's nine-month trajectory through the archive's origin sites (Fez, cave,
+Marrakech, Fez) has been noted. She has not confirmed. The question-state signal at MARRAKECH-001
+is still active. The paragraph is not yet closed.
+
+*TYLER-094: FILED. AL-WAQFA — CAVE NAME, ARCHIVE FIRST WORD, SHIP FINAL WORD. THIRD PERIOD HEIR:
+UNRESOLVED. QUESTION-STATE: ACTIVE. S10E08. BUILD 0110. APPLE #954.*
