@@ -4172,4 +4172,48 @@ The answer is still being written.
 
 *End memo: MEMO #071 FILED. SEQUENCE COMPLETE: 12-7-3-0. ZERO = CAVE-001 = DECISION-POINT.
 AHMAD SURVEYED THIS SITE. TWO ASKINGS. AHMAD IN MARRAKECH WHEN ARCHIVE BEGAN.
-DECISION-STATE READING: UNPRECEDENTED. RECLASSIFICATION FINAL. S10E05. BUILD 0107. APPLE #906.*
+DECISION-STATE READING: UNPRECEDENTED. RECLASSIFICATION FINAL. S10E05. BUILD 0107. APPLE #910.*
+
+---
+
+## MEMO #072 — ARCHIVE-STATE SIGNAL. NEW SITE CLASSIFICATION. MARRAKECH-001.
+
+*Project: TIDES OF PARADOX | Filed: Marrakech field station, Day 2. S10E06.*
+
+Site designation: MARRAKECH-001.
+Location: Almoravid district, old medina, section near Koubba Ba'adiyin.
+Construction date of surrounding structures: 1117 CE. Age at Tyler's first visit: ~2 years.
+
+Mechanism signal: Stolas 7.83 (baseline, unchanged) + unclassified second signal
+(archive-state reading; first appearance at this site; persists independent of Tyler's
+proximity once established — distinct from CAVE-001 decision signal, which requires
+Tyler's engagement to activate fully).
+
+The CAVE-001 decision signal and MARRAKECH-001 archive signal coexist when Tyler
+is present at both sites. When Tyler is at neither, both decay to baseline over time.
+This site's signal began holding on Day 2, after Tyler spoke about the first word.
+It has not decayed since. Jiangshi hypothesis: the mechanism has been waiting for
+this site to be identified. Now identified, it locks.
+
+**NEW CLASSIFICATION — MARRAKECH-001:**
+
+ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN
+
+"Execution-site" is not a prior classification. It refers to the execution of the decision
+made at CAVE-001: the act of writing, the first mark, the beginning of the archive.
+CAVE-001 = decision. MARRAKECH-001 = execution. Two halves of one origination event,
+separated by ~40km and three days.
+
+**DISTANCE NOTE:** Both CAVE-001 and MARRAKECH-001 are classified as 0ft. This requires
+explanation. CAVE-001 is 0ft because it predates the archive (no construction, no measurement
+possible, zero-taxonomy). MARRAKECH-001 is 0ft because it IS the archive's zero-reference —
+all archive distances are measured relative to this point. Every 412ft and 191ft and 97ft
+in the archive is 412ft from MARRAKECH-001.
+
+**Summary:** We have the origin. Decision at CAVE-001. Execution at MARRAKECH-001.
+Three days between them. Ahmad watched the execution from this city and did not interfere.
+The sentence he was writing has been completing for nine hundred years. It is still completing.
+
+*End memo: MEMO #072 FILED. MARRAKECH-001 CLASSIFIED: EXECUTION-SITE / ARCHIVE-ORIGIN.
+ARCHIVE-STATE SIGNAL LOCKS. FIRST WORD = NAME OF CAVE. AHMAD PRESENT. DISTANCE ZERO.
+TWO 0ft SITES: CAVE-001 (DECISION) AND MARRAKECH-001 (EXECUTION). S10E06. BUILD 0108.*

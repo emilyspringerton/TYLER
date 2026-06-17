@@ -841,12 +841,18 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   pre-archive decision-state for the first time. Footnote #101.
   TYLER-091, Camera Op Entry 84, Jiangshi Memo #071. Build 0107. Apple #910. — 2026-06-16.
 
-- [ ] **S10E06: "Marrakech, December 1119"** — Camera Op returns from Fez with all photographs.
+- [x] **S10E06: "Marrakech, December 1119"** — Camera Op returns from Fez with all photographs.
   Tyler and Camera Op travel to Marrakech — the first time Tyler has returned since the archive
   began. What was Ahmad doing when Tyler arrived? Where was he? The first word.
   The sentence Ahmad was writing completes — or begins to.
+  — Apple #941. Build 0108. 2026-06-17.
+
+- [ ] **S10E07: "The Third Day"** — Ahmad's movements in Marrakech reconstructed. What was Ahmad
+  doing the three days between leaving the cave and Tyler's arrival? What was Ahmad still doing
+  when Tyler sat against the wall? The sentence: who is the ur-geographer Ahmad was building
+  toward, and does Tyler's archive complete the paragraph or only the blank?
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0107.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0108.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

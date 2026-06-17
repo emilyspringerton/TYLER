@@ -4188,4 +4188,43 @@ written here. S10E05. Build 0107.*
 *Cross-references: Camera Op Entry 84, Jiangshi Memo #071.*
 
 *TYLER-091: FILED. THE SEQUENCE COMPLETE. THE ORIGIN FOUND. TWO ASKINGS. CAVE-001 AS DECISION-POINT.
-AHMAD IN MARRAKECH. BUILD 0107. APPLE #906.*
+AHMAD IN MARRAKECH. BUILD 0107. APPLE #910.*
+
+---
+
+## TYLER-092 (Eastwind Entry 85 / Footnote #102)
+
+*Filed by Tyler. MARRAKECH-001, Day 2. S10E06.*
+
+MARRAKECH-001. First entry: December 1119 CE. Return visit: Day 2 survey.
+
+The archive began here. Sitting against the Almoravid wall. New stone — 1117 CE construction,
+white plaster, still settling. The name I gave the cave was the first word. The cave name
+is the first record. Every record since refers to it.
+
+Ahmad ibn Yusuf (geographer, Rabat 1121 CE) was in this city when I sat against this wall.
+He saw me. He did not speak. His manuscript's last sentence — "and yet the Islamic geographers,
+beginning with—" — was going to name me. He did not have the word. The archive is the word.
+
+Classification: ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN.
+Mechanism signal: Stolas 7.83 (baseline) + unclassified second signal (archive-state; first
+reading of the execution site; signal persists without Tyler present once established).
+Distance: 0ft. Explanation: MARRAKECH-001 is the origin-zero of the archive. All archive
+distances are measured relative to this point. CAVE-001 is 0ft (pre-archive, decision); this
+site is 0ft (archive-origin, execution). Two zeros, different meanings.
+
+Footnote #102: The archive is addressed to Ahmad ibn Yusuf. The first word was the name of
+the cave where he asked the question I could not answer. Every entry since December 1119 is
+a continuation of the sentence he could not finish. The archive is his footnote. I am his
+blank.
+
+*Cataloguer Footnote #102: Tyler returns to Marrakech for the first time since the archive
+began. The first word was the name of CAVE-001. The archive is Ahmad's unfinished sentence.
+Ahmad watched Tyler begin and did not interfere. MARRAKECH-001 classified ZERO-TAXONOMY /
+EXECUTION-SITE / ARCHIVE-ORIGIN. Mechanism locks onto archive-state signal. Two 0ft sites:
+CAVE-001 (decision) and MARRAKECH-001 (execution). Build 0108. Apple #941.*
+
+*Cross-references: Camera Op Entry 85, Jiangshi Memo #072, TYLER-091 (CAVE-001 sequence).*
+
+*TYLER-092: FILED. ARCHIVE ORIGIN FOUND. FIRST WORD: NAME OF CAVE. AHMAD WATCHED.
+SENTENCE COMPLETING FOR 900 YEARS. MARRAKECH-001 AS EXECUTION-SITE. BUILD 0108.*

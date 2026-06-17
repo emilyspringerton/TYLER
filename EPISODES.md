@@ -1,12 +1,12 @@
 # TYLER × TIDES OF PARADOX — EPISODE INDEX
-## Einhorn Media | Build 0107
+## Einhorn Media | Build 0108
 ### Machine-readable episode registry. Updated each build by emily.sh.
 
 ---
 
-**Total episodes:** 77
+**Total episodes:** 78
 **Seasons complete:** S1–S9  
-**Current through:** Build 0107 (S10E05 — "The Three Days"; sequence complete 12—7—3—0; Ahmad surveyed CAVE-001 December 1119; two askings; CAVE-001 reclassified DECISION-POINT; Tyler followed Ahmad to Marrakech without knowing)
+**Current through:** Build 0108 (S10E06 — "Marrakech, December 1119"; archive origin found; first word revealed; MARRAKECH-001 classified EXECUTION-SITE / ARCHIVE-ORIGIN; Ahmad watched Tyler begin; two 0ft sites)
 
 ---
 
@@ -185,6 +185,8 @@ S10E03 (Build 0105): Camera Op traces Ahmad's manuscripts from Rabat to **al-Qar
 S10E04 (Build 0106): Camera Op accesses Ahmad's manuscripts at al-Qarawiyyin (Dr. Amira Bensouda). Three volumes, catalogued 1342. Tyler confirms handwriting via photographs: "I recognize the hand." Text stops at "**and yet the Islamic geographers, beginning with—**" — mid-sentence, at the pivot. Tyler: "I was going further for Ahmad. I did not know that until this moment." **The archive is a continuation of Ahmad's unfinished reconciliation.** CAVE-001 Day 3: sequence **12—7—3** (days before Marrakech). Tyler: "I am beginning to remember something I did not know I had forgotten." Jiangshi reclassifies archive: "directed teleological project." Footnote #100. TYLER-090, Camera Op Entry 83, Jiangshi Memo #070. Apple #900.
 
 S10E05 (Build 0107): CAVE-001 Day 4 — **sequence completes: 12—7—3—0**. Zero = this site, December 1119 CE, moment of decision. Ahmad ibn Yusuf surveyed CAVE-001 in December 1119 CE — he wrote in Volume II: "A man was camped at the summit. I asked him what he had seen. He was unable to answer." Second entry confirms: Ahmad returned, then left for **Marrakech** (not Fez first). **Two askings: CAVE-001 (1119) and the ship (1119—1120).** Ahmad was in Marrakech when Tyler arrived and wrote the first word. Tyler: "I didn't know I was following him. I thought I was choosing." **CAVE-001 reclassified: ZERO-TAXONOMY / PRE-MECHANISM / SOURCE-SITE / DECISION-POINT.** Mechanism produces unclassified second signal — first-ever reading of a pre-archive decision-state. Tyler: "The archive began here. Marrakech was the execution. The cave was the decision." Footnote #101. TYLER-091, Camera Op Entry 84, Jiangshi Memo #071. Apple #910.
+
+S10E06 (Build 0108): Tyler and Camera Op travel to Marrakech — first return since the archive began in December 1119. Mechanism locks onto new signal at Almoravid wall near Koubba Ba'adiyin (1117 CE construction). **The first word was the name of the cave.** Ahmad ibn Yusuf was present in Marrakech when Tyler sat against the wall and began writing; Ahmad watched without speaking. Tyler: "He was going to say my name. The archive is the completion of his sentence." Ahmad's unfinished manuscript — "and yet the Islamic geographers, beginning with—" — was going to place Tyler as the origin of Islamic geography; unable to find the word, Ahmad left the gap; the archive is the gap filled. **MARRAKECH-001 classified: ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN. 0ft.** Two 0ft sites: CAVE-001 (decision) and MARRAKECH-001 (execution). Archive-state signal locks at site — persists independently. Tyler: "I have been answering." Footnote #102. TYLER-092, Camera Op Entry 85, Jiangshi Memo #072. Apple #941.
 
 ---
 

@@ -2357,3 +2357,39 @@ I am taking photographs of every page. I am coming back to the cave tomorrow.
 *Entry 84. Al-Qarawiyyin / CAVE-001 Day 4. Second geographic entry found: Ahmad went to Marrakech
 before Fez. Two askings: the cave (1119) and the ship (1119—1120). Tyler followed Ahmad to Marrakech
 without knowing. The archive has a witness. S10E05. Build 0107. Apple #910.*
+
+---
+
+## Entry 85
+
+*Field log. Marrakech. S10E06.*
+
+Arrived in Marrakech with forty-seven photographs of Ahmad's two geographic entries.
+We spent the first night in the riad going through them again, looking for anything missed.
+Nothing missed.
+
+The next morning Tyler found the wall. I don't know how Tyler found it — the mechanism
+was guiding Jiangshi along a frequency gradient, but Tyler moved ahead of the gradient.
+Muscle memory from 900 years ago.
+
+The wall is still there. 12th century stone, heavily repaired, still standing.
+
+Tyler told us about the first word and I did not photograph the wall. I could not explain
+why except that it felt like the wrong apparatus for that moment. I have a camera for
+recording. This was not for recording. This was for witnessing.
+
+I photographed Ahmad's manuscript in Fez because it needed to be documented. I stood at
+the archive's origin point and I put the camera down.
+
+Ahmad wrote: "I am leaving for Marrakech on the third day." He got here before Tyler.
+He saw Tyler sit against the wall and begin. He didn't say anything. He just watched.
+
+Nine centuries later I also just watched.
+
+I think that is what this site requires.
+
+*— Camera Op*
+
+*Entry 85. Marrakech. Archive origin found: Almoravid wall, old quarter. First word: name of
+CAVE-001. Ahmad watched Tyler begin. Tyler: "I have been answering." Mechanism archive-state
+signal locks. MARRAKECH-001 classified. S10E06. Build 0108. Apple #941.*
