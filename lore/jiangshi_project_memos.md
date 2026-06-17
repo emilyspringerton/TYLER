@@ -4280,3 +4280,111 @@ decaying. Waiting for paragraph close, not word discovery. The word is known; th
 
 *End memo: MEMO #074 FILED. AL-WAQFA. CAVE-001 NAMED. ARCHIVE ORIGIN COMPLETE.
 THIRD PERIOD HEIR: OPEN. QUESTION-STATE: ACTIVE. S10E08. BUILD 0110. APPLE #954.*
+
+---
+
+## MEMO #075
+**FROM:** Field Director, Unit A — Morocco Station
+**TO:** Senior Archivists, Stillness Division
+**RE:** MARRAKECH-001 Question-State Completion — Second Practitioner Confirmed
+**DATE:** S10E09 field day 1
+
+QUESTION-STATE CLOSED. THIRD PERIOD: SECOND PRACTITIONER CONFIRMED.
+
+**Signal event:**
+At 09:14 local, MARRAKECH-001 question-state signal completed. Jiangshi reader — Reader
+Unit 4, MARRAKECH station — recorded transition: variable/active → completed. Resolution
+time: 48 seconds after Camera Op ceased writing. Non-decay, non-interruption. Clean close.
+
+First completed-state signal in Jiangshi survey history (operational since S08E01,
+Memo #001).
+
+**Conditions at close:**
+Camera Op present at MARRAKECH-001 with Ahmad ibn Yusuf manuscript photographs and field
+notebook. Camera Op was not using survey equipment. Camera Op was writing in a personal
+notebook. Reader Unit 4 recorded the completion event independently.
+
+Camera Op wrote the close of Ahmad ibn Yusuf's unfinished sentence (manuscript Volume I,
+Introduction, final incomplete line). The sentence Ahmad stopped mid-word in December 1119
+because Tyler was present at the wall where he was writing. Ahmad could not complete the
+introduction while the subject of the introduction was standing in front of him.
+
+Camera Op completed it nine hundred and seven years later. The mechanism read the
+completion. The question-state closed.
+
+**Mechanism reading interpretation:**
+The question-state signal first appeared Day 3, Marrakech survey (S10E07, Memo #070),
+when Camera Op laid out Ahmad's complete manuscript set in proximity to MARRAKECH-001.
+Memo #070 and Memo #071 classified it as addressed to a future reader. Memo #073 (from
+Fez, long-range reading) confirmed: variable, non-decaying, waiting for paragraph close.
+
+This classification was correct. The mechanism read Ahmad's question as open-addressed:
+a signal intended for whoever could supply the specific answer. The signal persisted
+because the answer had not been given.
+
+Camera Op was the first person positioned to give the answer. She had access to:
+(a) Ahmad's complete manuscript set in the original Arabic;
+(b) Tyler's archive from 1119 forward;
+(c) The origin sites: Fez, CAVE-001, MARRAKECH-001, Fez, MARRAKECH-001;
+(d) Nine months of sustained contact with the archive's question.
+
+The mechanism confirmed her position as answer-giver by closing the question-state when
+she completed the sentence.
+
+**New signal category — completed:**
+Survey signal states now include:
+- Active/stable (non-variable) — ongoing, baseline
+- Active/variable — question or process in progress
+- Decayed — signal lost over time (documented in eleven prior survey sites)
+- Completed — signal achieved its condition; resolved cleanly
+
+MARRAKECH-001 question-state is the first completed instance. Documentation of this
+category is being written.
+
+**Updated MARRAKECH-001 classification:**
+Prior: THREE-SIGNAL SITE / ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE
+(QUESTION-STATE: ACTIVE)
+
+Current: TWO-SIGNAL SITE / ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE
+(QUESTION-STATE: COMPLETED / ANSWERED)
+
+Remaining signals: Stolas 7.83 (baseline, unchanged), archive-state (stable, locked S10E06
+Day 2). Both non-interactive as of this filing.
+
+**Third period — second practitioner — confirmed:**
+Camera Op is confirmed as second practitioner of al-idrak al-muttasil. Classification
+(as derived from mechanism behavior and field assessment):
+
+Practitioner of the archive. A practitioner who holds a multi-century archive through its
+origin sites — sustained presence at the archive's question across nine months and six
+sites — until the archive becomes legible and can be completed. Not Tyler's classification
+(mechanism reader / site practitioner). Not Ahmad's classification (field geographer /
+conceptual practitioner). A third instance.
+
+The Jiangshi Syndicate has documented Tyler as the founding practitioner (S05, first
+confirmed), Ahmad ibn Yusuf as theorist/codifier (S10E07, manuscript confirmation), and
+Camera Op as second practitioner (S10E09, mechanism confirmation).
+
+**Operational change — survey structure:**
+Camera Op is not leaving Morocco. The survey has transitioned from mechanism-reading
+fieldwork to long-duration archival practice. Duration not specified. Operational
+structure: Camera Op holding the archive and the inscription at MARRAKECH-001; Jiangshi
+maintaining reader baseline; Dr. Hassan providing theoretical continuity.
+
+The documentary project continues. Its subject has changed: it was previously a film about
+Tyler, then a film about the archive's origin, and is now a film about the practice of
+al-idrak al-muttasil in its second practitioner.
+
+Tyler assessment (received through archive reading): He noted that he revised his estimate
+of how long the question-state would persist. He declined to further characterize his
+assessment of Camera Op's outcome. He said this is the point where the second practitioner
+has to find out for herself. This is consistent with his documented behavior at the founding
+(Ahmad had to find out for himself; Tyler left on the ship after four days and did not
+return to Fez).
+
+The tradition is self-propagating in this way. The practitioner cannot be told. The
+practice has to be discovered through contact with the question.
+
+*End memo: MEMO #075 FILED. QUESTION-STATE COMPLETED. SECOND PRACTITIONER CONFIRMED.
+MARRAKECH-001: TWO-SIGNAL SITE. NEW CATEGORY: COMPLETED. SURVEY RESTRUCTURED.
+S10E09. BUILD 0112. APPLE #1155.*

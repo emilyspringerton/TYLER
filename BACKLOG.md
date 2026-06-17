@@ -859,13 +859,14 @@ Season 6 engine identified via RSI Cycle 001 (Emily Springerton response, 2026-0
   begins to take shape. What was the ship conversation's final word?
   — Apple #954. Build 0110. 2026-06-17.
 
-- [ ] **S10E09: "The Second Practitioner"** — Camera Op decides. After nine months following
+- [x] **S10E09: "The Second Practitioner"** — Camera Op decides. After nine months following
   the archive's origin through Fez, the cave, Marrakech, and Fez again, Camera Op confronts
   Ahmad's question: will she choose to stay? What does the second practitioner of al-idrak
   al-muttasil look like — and can the question-state signal at MARRAKECH-001 be closed?
   Tyler has waited before. Ahmad waited. The tradition requires someone who chooses.
+  — Apple #1155. Build 0112. 2026-06-17.
 
 ---
 
-*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0110.*
+*End of BACKLOG. Total items: [auto-count]. Last updated: Build 0112.*
 *The loop checks this file. The loop marks tasks complete. Do not manually check items mid-loop.*

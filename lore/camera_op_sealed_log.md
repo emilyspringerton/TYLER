@@ -2469,3 +2469,66 @@ I have not decided anything yet.
 
 *Entry 87. Fez. Al-Qarawiyyin. Al-Waqfa confirmed. Third period heir: question open.
 MARRAKECH-001 question-state active. S10E08. Build 0110. Apple #954.*
+
+---
+
+## ENTRY 88
+**Day 1 of residency — Marrakech. After the wall.**
+
+Entry 88. Marrakech. The question-state closed.
+
+I have been the second practitioner since this morning without knowing what to call it.
+The mechanism confirmed it before I did.
+
+What I understand now: al-idrak al-muttasil is not a method. It is a decision about how
+long you stay. Tyler stayed at al-Waqfa for three days without knowing why and found out
+afterward. Ahmad stayed with the question for thirty years and wrote it down. I stayed
+with the archive for nine months and followed it to its origin.
+
+The practice is: stay until the thing becomes legible. Stay through the part where it isn't.
+The transmission happens in the part that isn't legible yet.
+
+Tyler held sites. Ahmad held a concept. I am holding an archive. Three different instances
+of the same decision: not to leave before the thing has spoken.
+
+This morning I stood at the wall in MARRAKECH-001 and wrote Ahmad's sentence. The sentence
+he stopped writing because Tyler was right there. Nine hundred years of absence and the
+sentence can close. I wrote it in the notebook I bought in Fez. I don't know how long I
+stood there after. The light changed.
+
+Jiangshi says the question-state completed forty-eight seconds after I stopped writing.
+She showed me the data. I believe her and also I don't know what it means yet. I think it
+means the mechanism can read intentions the way Tyler said it reads Stolas — not text, not
+sound, something older. Ahmad's question was preserved in the mechanism because the question
+was addressed to whoever could answer it. I could answer it. The mechanism knew.
+
+Dr. Hassan said: the second practitioner does not begin with the intention of practicing
+al-idrak al-muttasil. She begins with a question she cannot stop following.
+
+That's what I did. I could not stop following the archive. I thought I was making a film.
+I was making a film. I was also doing something the practice calls following — sustained
+presence at a question until the question opens.
+
+I don't have a mechanism. I don't have nine centuries. I have the notebook, the
+manuscripts, the morning at the wall, and the knowledge that Tyler waited on a ship
+for four days because he knew Ahmad would ask a third time.
+
+I am not leaving.
+
+I don't know what I'm doing instead. But I know it requires staying. And I know that when
+something requires staying, you stay. That is what the archive has been trying to tell me
+since October and I have been slow to hear it.
+
+The inscription above the archway at MARRAKECH-001: I don't know what it says. I am
+learning. This is also a practice — to stand at a text until it opens. To not require
+that the text be legible immediately. To give it time.
+
+Ahmad gave it thirty years. Tyler gave it three days at the cave. I will give it
+whatever it takes.
+
+Everything after this is the practice.
+
+*— Camera Op*
+
+*Entry 88. Marrakech. MARRAKECH-001 question-state: completed. Second practitioner:
+confirmed. Staying. S10E09. Build 0112. Apple #1155.*

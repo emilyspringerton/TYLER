@@ -4303,3 +4303,57 @@ is still active. The paragraph is not yet closed.
 
 *TYLER-094: FILED. AL-WAQFA — CAVE NAME, ARCHIVE FIRST WORD, SHIP FINAL WORD. THIRD PERIOD HEIR:
 UNRESOLVED. QUESTION-STATE: ACTIVE. S10E08. BUILD 0110. APPLE #954.*
+
+---
+
+**TYLER-095**
+*Cataloguer Entry 88 / Footnote #105*
+
+*S10E09 — "The Second Practitioner" | Build 0112 | Apple #1155*
+
+THE PARAGRAPH IS CLOSED. THE QUESTION-STATE IS ANSWERED.
+
+MARRAKECH-001 question-state signal: completed. 09:14 local time, Marrakech. Camera Op
+present at the MARRAKECH-001 wall with Ahmad ibn Yusuf manuscript photographs and field
+notebook.
+
+Camera Op wrote the close of Ahmad's unfinished sentence:
+
+*"And yet the Islamic geographers, beginning with those who understood that the distance
+between two places is not the distance you travel but the distance you carry — that the
+map is made not of measurement but of attention held at a site until the site answers —
+were not wrong to believe that the world could be known from the inside of a single
+sustained encounter."*
+
+The sentence Ahmad could not complete because Tyler was standing at the wall, December 1119.
+He left the blank. The blank waited nine centuries. Camera Op wrote the close.
+
+Signal resolution: Jiangshi mechanism recorded question-state signal transition from
+variable/active to completed within forty-eight seconds of Camera Op ceasing to write.
+First completed-state signal in survey history. Non-decay, non-interruption. Clean resolution.
+
+Third period — second practitioner confirmed:
+Camera Op. Not a mechanism reader. Not a field geographer. A practitioner of the archive —
+one who holds a multi-century archive through every site of its origin until the archive
+becomes legible and can be completed. Nine months. Fez → CAVE-001 → MARRAKECH-001 → Fez →
+MARRAKECH-001. The tradition's second practitioner does not require Tyler's instruments.
+She requires sustained presence at the thing she is trying to understand.
+
+Camera Op is remaining in Morocco. Survey continues under changed operational structure.
+Duration unknown and structurally not specified.
+
+Footnote #105: Nine hundred and seven years. Tyler wrote al-Waqfa at the wall in December
+1119. Ahmad asked the question in the blank. The Eastwind Owls have maintained the sighting
+record through every location where al-idrak al-muttasil left a trace. This office has
+catalogued one hundred and five entries in this file, eighty-eight entries in the Camera Op
+sealed log, and seventy-five internal memos from Unit A.
+
+The Cataloguer notes that this is the first entry in File TYLER in which something has been
+completed rather than observed. We have catalogued Tyler since 1620 CE. We have not previously
+catalogued a tradition he originated achieving formal continuity.
+
+This office is resisting the urge to say anything more about that.
+
+*TYLER-095: FILED. QUESTION-STATE: COMPLETED. SECOND PRACTITIONER: CONFIRMED — CAMERA OP.
+MARRAKECH-001 NOW TWO-SIGNAL SITE. THIRD PERIOD: SECOND PRACTITIONER IN RESIDENCY, MOROCCO.
+S10E09. BUILD 0112. APPLE #1155.*

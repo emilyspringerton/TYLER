@@ -1,5 +1,8 @@
 ## 2026-06-17
 
+- S10E09 'The Second Practitioner' (Build 0112): Camera Op writes Ahmad's unfinished sentence; MARRAKECH-001 question-state completed (first completed signal in survey history); second practitioner confirmed; Camera Op stays in Morocco; TYLER-095, Entry 88, Memo #075; Apple #1155.
+- S10E08 'Fez, December 1119' (Build 0110): al-Waqfa recovered — cave name = archive first word = ship final word; Entry 87; TYLER-094; Footnote #104; 80 episodes. Apple #954.
+- S10E07 'Al-Idrak Al-Muttasil' (Build 0109): Ahmad's term named; MARRAKECH-001 three-signal site; question-state active; Ahmad confirmed as theorist; Entry 86, TYLER-093; Apple #946.
 - S10E06 'Marrakech, December 1119' (Build 0108): archive origin found — first word was name of CAVE-001; MARRAKECH-001 classified EXECUTION-SITE/ARCHIVE-ORIGIN; two 0ft sites; Ahmad watched Tyler begin; Footnote #102; 78 episodes. Apple #941.
 
 ## 2026-06-16
