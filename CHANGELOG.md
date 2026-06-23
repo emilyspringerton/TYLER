@@ -1,3 +1,7 @@
+## 2026-06-23
+
+- MPT trigger script — compiled/mpt_episode_trigger.sh: extract MPT_TOPIC, generate payload, POST to MPT API, poll, route output, write Emily Prime observation. --dry-run and --check modes. Dry-run verified on S01E01.
+
 ## 2026-06-17
 
 - S10E09 'The Second Practitioner' (Build 0112): Camera Op writes Ahmad's unfinished sentence; MARRAKECH-001 question-state completed (first completed signal in survey history); second practitioner confirmed; Camera Op stays in Morocco; TYLER-095, Entry 88, Memo #075; Apple #1155.
