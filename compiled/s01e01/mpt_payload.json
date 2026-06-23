@@ -1,16 +1,24 @@
 {
-  "video_subject": "Tyler — a man who refuses to be documented — is followed by a camera crew through a Detroit night. He washes his hands too carefully. A security camera placed him in this city in 1901; the footage was shot tonight. A coin in his pocket carries a date that keeps changing. The camera is always half a second too late to catch it. The crew keeps filming.",
+  "video_subject": "A documentary episode: \"Just a Normal Night\". Location: Detroit, MI. Year ambiguous (estimated: present-adjacent).",
   "video_language": "en",
   "voice_name": "en-GB-RyanNeural",
-  "video_aspect": "landscape",
-  "video_size": "1920x1080",
+  "video_aspect": "portrait",
   "video_count": 3,
-  "video_clip_duration": 5,
   "subtitle_enabled": true,
-  "subtitle_font": "Anton",
+  "subtitle_font_name": "Anton",
+  "subtitle_font_size": 60,
   "subtitle_color": "#FFFFFF",
-  "subtitle_size": 60,
-  "subtitle_position": "bottom",
+  "subtitle_stroke_color": "#000000",
+  "subtitle_stroke_width": 1.5,
   "bgm_type": "random",
-  "bgm_volume": 0.08
+  "bgm_volume": 0.1,
+  "segment_min_duration": 3,
+  "segment_max_duration": 5,
+  "terms": [
+    "documentary",
+    "urban",
+    "night",
+    "candid footage",
+    "film noir"
+  ]
 }
