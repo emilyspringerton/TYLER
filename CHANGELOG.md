@@ -1,3 +1,7 @@
+## 2026-06-25
+
+- Build 0006: The Hybrid Arc — Tyler transforms into interference pattern; mercury retrograde transit stop scene; four-line Emily OS file; Eastwind archive TYLER-096 (no founding artifact)
+
 ## 2026-06-23
 
 - MPT trigger script — compiled/mpt_episode_trigger.sh: extract MPT_TOPIC, generate payload, POST to MPT API, poll, route output, write Emily Prime observation. --dry-run and --check modes. Dry-run verified on S01E01.
