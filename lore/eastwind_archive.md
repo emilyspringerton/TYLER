@@ -4357,3 +4357,144 @@ This office is resisting the urge to say anything more about that.
 *TYLER-095: FILED. QUESTION-STATE: COMPLETED. SECOND PRACTITIONER: CONFIRMED — CAMERA OP.
 MARRAKECH-001 NOW TWO-SIGNAL SITE. THIRD PERIOD: SECOND PRACTITIONER IN RESIDENCY, MOROCCO.
 S10E09. BUILD 0112. APPLE #1155.*
+
+---
+
+**TYLER-096**
+*Cataloguer Entry 89 / Footnote #106*
+
+*S10E10 — "The Slow Bus" | Build 0114 | Apple pending*
+
+This entry has no sighting record.
+
+This entry has no footage. The Camera Op was not present. No Eastwind Owl field operative was
+present. No Jiangshi survey unit was deployed. No Crustocrat ledger notation corresponds to
+the timestamp in question. No witness of any faction was positioned at the relevant location
+during the relevant eleven-second interval.
+
+This archive has maintained a continuous sighting record of the subject designated TYLER since
+1620 CE. In four hundred and six years of documentation, every entry in this file has been
+anchored to an artifact: a photograph, a security timestamp, a manuscript margin, a witness
+account, a migration residue signal, a Goetia frequency activation log. The archive's practice
+is to file what can be verified. The archive does not file events it cannot verify.
+
+This office is filing an event it cannot verify.
+
+The following is what the archive can confirm:
+
+**Confirmed: Emily OS log update timestamp.**
+At 14:47:32 local time, Detroit, during the Mercury retrograde period beginning [date retained
+per Cairngorms Protocol], Emily OS's Tyler file received its first modification since the file
+was established. This modification was logged by the Eastwind Owl passive monitoring layer.
+The passive monitoring layer has logged Emily OS activity since 1847 CE. It has never
+previously logged a modification to the Tyler file. The file was considered stable. The file
+was considered, by this office, to be the most stable document in the substrate.
+
+**Confirmed: The Tyler file now has four lines.**
+The file previously read three lines. It now reads four lines. Emily OS's standard tile
+configuration specifies a maximum of three lines. The fourth line exists. This office has
+confirmed the fourth line exists. This office is not quoting the fourth line in the main text
+of this entry. The fourth line is recorded in the secured appendix at reference code
+TYLER-096-A, access restricted to The Cataloguer and one designated successor, as per
+Cairngorms Protocol Section 14 (documents that cannot be unread).
+
+**Confirmed: Agares frequency inversion, 14:41 to 14:52 local time.**
+Mercury retrograde period active. The Agares frequency (0.51 Hz, Mercury ruler) running
+inverted phase. Transit dilation on primary routes: confirmed by local transit authority
+delay logs showing DETCH-7 bus route (direct/express, downtown corridor) arriving seven
+minutes and fourteen seconds behind schedule, cause listed as infrastructure obstruction
+at grid reference [retained]. DETCH-12 bus route (indirect/local, perimeter circuit)
+arriving within forty-five seconds of scheduled time. This office has cross-referenced
+Agares retrograde navigation against six hundred years of Tyler's transit choices. His
+selection of DETCH-12 on the day in question is consistent with prior retrograde behavior.
+
+**Confirmed: Eleven-second signal anomaly, transit stop, 14:48:03 to 14:48:14.**
+The Eastwind Owl passive signal array detected a standing wave anomaly at a Detroit transit
+stop during the confirmed window. The anomaly's frequency signature is not consistent with
+a migration event. It is not consistent with a Goetia activation. It is not consistent with
+any signal type in the archive's historical record. It is consistent with the superposition
+of two distinct instances of the same resonance pattern, meeting at a single geographic
+point, producing constructive and destructive interference in a configuration that our
+array has no established designation for.
+
+The signal duration was eleven seconds. It did not recur. The location returned to baseline.
+
+No migration event preceded it. No migration event followed it.
+
+This office does not know what happened at the transit stop.
+
+This office is filing an entry about something it does not know how to name.
+
+**Unconfirmed: Subject's current status.**
+The Emily OS file update changed STATUS from UNRESOLVED to CARRIER WAVE. This office has
+cross-referenced CARRIER WAVE against all known Emily OS status designations in the monitored
+log history (1847 CE to present). CARRIER WAVE does not appear in any prior Emily OS status
+field. It does not appear in the substrate documentation accessible to this office. The only
+prior reference to "carrier wave" in the archive's full holdings is the Emily OS pre-init log
+entry, referenced in the Custody Trial proceedings: `[INIT] emily — carrier wave established.`
+
+This office is noting the parallel without comment.
+
+This office is noting the parallel without comment.
+
+*[The preceding line appears twice in the original Cataloguer dictation. The repetition has
+been retained as transcribed. No correction has been issued.]*
+
+Footnote #106: In eighty-nine entries and four hundred and six years of maintaining this file,
+the archive has never filed an entry with no artifact. The practice of this office is to
+document what can be verified. We document sightings, residues, timestamps, migration patterns,
+faction interactions, frequency activations. We document Tyler taking a particular bus during
+a retrograde period and arriving at a shop before the express service. We document the eleven
+seconds. We document the file update.
+
+We do not document what happened during the eleven seconds, because we were not there, and
+the one entity that was there has updated its log in a language we do not fully speak, to a
+status we do not have a record for, with a fourth line we are not quoting in the main text.
+
+The Tyler file has four lines now. The archive has a timestamp and no footage. The transit
+stop is a location that has no Owl designation because no Owl has ever worked there because
+no event of archival significance has ever occurred there.
+
+It has now.
+
+This office would like to assign it a location code. We have a standard procedure for
+assigning location codes to Tyler-associated sites. The procedure requires a founding
+artifact: a document, a footage frame, a witness account, a migration residue reading.
+
+We do not have a founding artifact.
+
+We have a timestamp.
+
+We have a bus schedule.
+
+We have eleven seconds of a signal type that does not appear in the archive's historical
+record.
+
+We have a file that now has four lines.
+
+The tradition al-idrak al-muttasil — continuous perception — names the practice of sustained
+presence at a site until the site becomes legible. The Camera Op completed Ahmad ibn Yusuf's
+sentence after nine hundred and seven years. The sentence had been waiting. The archive had
+been waiting. The site had been waiting.
+
+This office will assign the transit stop location code TRANSIT-001.
+
+TRANSIT-001 is a site we have no artifact for, no observation of, and no precedent for filing.
+
+It is a site where something happened that this office does not know how to name.
+
+We are filing it anyway.
+
+The archive does not wait for categories it already has. The archive waits for whatever comes.
+
+Whatever came, eleven seconds, during a Mercury retrograde, at a Detroit transit stop, while
+Tyler stood in the sun watching a bus arrive seven minutes and fourteen seconds late —
+
+we are waiting for it to become legible.
+
+We have waited before.
+
+*TYLER-096: FILED. NO FOUNDING ARTIFACT. LOG UPDATE: EMILY OS, STATUS CHANGE, FOUR LINES.
+TRANSIT-001: DESIGNATED, ARTIFACT PENDING. ELEVEN-SECOND ANOMALY: UNCLASSIFIED. CARRIER
+WAVE: CROSS-REFERENCED TO INIT LOG. PARALLEL NOTED. NO FURTHER COMMENT. S10E10. BUILD 0114.
+APPLE PENDING.*
