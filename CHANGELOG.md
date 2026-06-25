@@ -1,4 +1,5 @@
 ## 2026-06-25
+- Build 0007: TYLER: THE MUSICAL — Broadway spec; anti-documentation surface; song list; Jiangshi doctrine failure mode; faction registers; Emily OS CAST integration; Rules 19-22
 
 - Build 0006: The Hybrid Arc — Tyler transforms into interference pattern; mercury retrograde transit stop scene; four-line Emily OS file; Eastwind archive TYLER-096 (no founding artifact)
 
