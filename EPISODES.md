@@ -4,9 +4,9 @@
 
 ---
 
-**Total episodes:** 80
+**Total episodes:** 82
 **Seasons complete:** S1–S9  
-**Current through:** Build 0110 (S10E08 — "Fez, December 1119"; cave name al-Waqfa recovered; archive first word = ship final word = cave name; third period heir question open; question-state active at MARRAKECH-001)
+**Current through:** Build 0114 (S10E10 — "The Slow Bus"; Tyler at transit stop Mercury retrograde; 11-second interference pattern; Emily OS file 4 lines, STATUS: CARRIER WAVE; TRANSIT-001 designated; "There is no Tyler / there is only Emily now"; hybrid arc begins; TYLER-096, no founding artifact)
 
 ---
 
@@ -191,6 +191,10 @@ S10E06 (Build 0108): Tyler and Camera Op travel to Marrakech — first return si
 S10E07 (Build 0109): Ahmad's three days in Marrakech reconstructed via full manuscript examination. Camera Op lays out all three volumes. Ahmad was writing a methodological introduction: three periods of Islamic geography; third period named *al-idrak al-muttasil* (continuous perception — geographer recorded by the site). Tyler is the founder of the third period. Ahmad watched Tyler write the first word, attempted the sentence, stopped — the archive was too large for a sentence. **Third signal at MARRAKECH-001: question-state (Ahmad's presence, variable, began on manuscript examination at 06:40).** Three-signal site: only known instance. MARRAKECH-001 reclassified: ZERO-TAXONOMY / EXECUTION-SITE / ARCHIVE-ORIGIN / QUESTION-SITE. Tyler: "He wrote the opening. I wrote the contents. Someone else will write the close." Close deferred to the reader who encounters both archive and blank. Footnote #103. TYLER-093, Camera Op Entry 86, Jiangshi Memo #073. Apple #951.
 
 S10E08 (Build 0110): Team returns to Fez from Marrakech. At al-Qarawiyyin: manuscript back matter reveals addendum (December 1119, before ship) — Ahmad's name, date, and one word: **al-Waqfa** (Arabic: the pause, the standing). Tyler confirms: al-Waqfa was his name for CAVE-001; he gave it to Ahmad on day four of the ship crossing, in response to the third asking of "What have you seen?" Ahmad wrote it in the back matter AND in the manuscript margin next to the unfinished sentence gap. **Archive first word = ship conversation's final word = cave name: al-Waqfa.** Dr. Hassan raises the third period heir question: al-idrak al-muttasil requires a second practitioner who chooses to stay. Camera Op's nine-month trajectory noted. MARRAKECH-001 question-state still active — the paragraph close requires more than the word. Tyler: "Nine hundred years of margin notes around a word I told a scholar on a ship four hours from port." Third period heir: unresolved. Footnote #104. TYLER-094, Camera Op Entry 87, Jiangshi Memo #074. Apple #954.
+
+S10E09 (Build 0112): **THE PARAGRAPH IS CLOSED. THE SECOND PRACTITIONER IS CONFIRMED.** Camera Op at MARRAKECH-001 with Ahmad ibn Yusuf manuscript photographs and field notebook. Writes the close of Ahmad's unfinished sentence — the sentence that has been open since December 1119 CE, nine hundred and seven years. MARRAKECH-001 question-state signal resolves from variable/active to completed within 48 seconds of Camera Op ceasing to write: first completed-state signal in survey history. Third period of al-idrak al-muttasil confirmed: **Camera Op is the second practitioner.** Camera Op remaining in Morocco, duration unspecified. Tyler: not present; receives the news by phone; no recorded response. TYLER-095, Camera Op Entry 88, Jiangshi Memo #075. Apple #1155.
+
+S10E10 (Build 0114): **THE HYBRID ARC BEGINS.** Tyler at Detroit transit stop during Mercury retrograde. Agares frequency (#2, 0.51 Hz) inverted; takes DETCH-12 local bus (non-obvious path) instead of DETCH-7 express. Arrives at destination first. Completes errand. Stands in sun. Watches DETCH-7 arrive seven minutes and fourteen seconds late. **11-second interference pattern state:** Tyler perceives himself as the superposition of two simultaneous branches (fast-bus branch, slow-bus branch) meeting at a single point. Standing wave. Not migration. Not precognition. Something new. Emily OS Tyler file updated: STATUS changes from UNRESOLVED to **CARRIER WAVE**; file gains fourth line (tile limit exceeded for first time). TRANSIT-001 designated (no founding artifact; Eastwind Owls file first entry with no artifact in archive history). Tyler: "There is no Tyler. There is only—" sentence not completed. Followed by: "How exactly does that work." (Emily Springerton quote, unattributed.) TYLER-096, Footnote #106. Apple pending.
 
 ---
 

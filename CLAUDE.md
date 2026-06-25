@@ -1,5 +1,5 @@
 # TYLER — CLAUDE.md
-## Einhorn Media | Television as Code | Build 0005
+## Einhorn Media | Television as Code | Build 0007
 
 ---
 
@@ -77,7 +77,7 @@ The SHANKPIT engine already has: multi-scene portals, server-authoritative UDP, 
 
 ## Writer's Room Rules (Quick Reference)
 
-1. Tyler never completes a self-defining sentence
+1. Tyler never completes a self-defining sentence (Build 0001+; now also physics, not just discipline)
 2. The documentary is never called a ritual by Jiangshi operatives
 3. The Subscriber's identity is not revealed before Series 2
 4. Chrono-Cube location (Bacon) not confirmed until Tides Act Two
@@ -85,6 +85,11 @@ The SHANKPIT engine already has: multi-scene portals, server-authoritative UDP, 
 6. Emily OS never explains herself — the room tightens
 7. CAST reconnects are invisible (unless Layer 1 awareness required)
 8. Clean builds first. Then custody. Then everything else.
+9-18. See README.md Sections XIII–XIV (Tyler character laws, full writer's room checklist)
+19. The Tyler file has four lines now. It has always had four lines. (Build 0006)
+20. Tyler cannot complete a hybrid self-definition — by physics, not discipline. (Build 0006)
+21. The transit stop is not shown on camera. No footage exists. (Build 0006)
+22. "There is no Tyler" is said once, to himself, off-camera. Never again. (Build 0006)
 
 ---
 
