@@ -1,0 +1,4 @@
+=== 2026-06-23T11:03:36Z TRIGGER START ===
+[trigger] Payload written: /home/fatbaby/TYLER/compiled/s01e01/mpt_payload.json
+[trigger] DRY RUN complete. Payload generated at: /home/fatbaby/TYLER/compiled/s01e01/mpt_payload.json
+[trigger] To compile: /home/fatbaby/TYLER/compiled/mpt_episode_trigger.sh /home/fatbaby/TYLER/episodes/s01e01_pilot.md

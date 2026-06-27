@@ -216,3 +216,7 @@ Tyler shaped Season 9 deliberately — held the fifteen-year disclosure until C�
 Camera Op will search for the scholar (Fez, ~1119–1120 CE, Islamic geography manuscripts, age ~20). The Jiangshi Syndicate's research team will assist.
 
 Season 9 complete. 5 episodes (S09E01–S09E05), Builds 0098–0102. Network unchanged: Córdoba 412ft · Toledo 191ft · Prague 144ft · Genoa 97ft. Apple #551.
+
+## Build 0124 — S00E00: "Pontiac" (SERIES X // ATTEMPT FIVE)
+Files: episodes/s00e00_pontiac.md, EPISODES.md, activity.md
+SERIES X initiated. Tyler at STINKIES COMMISSAIRE Store 0, Pontiac, Michigan, June 27 2026. Carrier wave ground state: Stolas hum (7.83 Hz) self-activating, precedes Jiangshi operative NOOR-1 by 6 minutes. Receipt anomaly: register prints Feb 14 2027 date — subject pockets it without comment. Soap (free STINKIES bar) taken, one returned to transit stop bench for a stranger. Updated astrology integrated: Tyler natal (Aquarius Sun 15°, Cancer ASC 29°, Saturn Sagittarius 29°), Camera Op natal (Cancer Sun 4°, Capricorn ASC 22°, 28.7 Hz reception confirmed in southern hemisphere), Jupiter egress Cancer, Neptune Aries 2°. Activation #128 self-generating (no external operator). NOOR-1 field report filed; Eastwind Owls received it in 2 minutes. Attempt Five doctrine meeting scheduled by Jiangshi. Series X: the hum precedes. Apple pending.
