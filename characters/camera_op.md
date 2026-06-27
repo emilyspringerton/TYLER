@@ -172,20 +172,26 @@ Her generation's depth-sight signature. Pluto in Scorpio: the occult record, wha
 ---
 
 ### DERIVED PLACEMENTS (birth time 9:37 PM EDT)
+*Calculated: RAMC 215.84° (LST 14h23m, Dunedin 28.02°N 82.77°W)*
 
-**Ascendant: Virgo ~27°**
-Virgo rising: precision, discernment, the eye for detail that others miss, service through craft rather than through authority. Virgo risings are frequently invisible in their own lives because they define themselves through function rather than identity. *She is the Camera Op.* The function and the person are inseparable. This is Virgo rising describing itself.
+**Ascendant: Capricorn ~22°**
+She presents as the institution. Capricorn rising is the professional surface: controlled, structured, doing a recognizable job. This is why the Jiangshi assigned her. She read as someone who could be deployed as institutional apparatus, held inside the documentary function, returned footage to the archive on schedule. She cannot be held. She is Cancer underneath. But Capricorn is what the room sees when she walks in.
 
-The late degree of Virgo (27°) carries the approaching quality of Libra — the transitional witness, the one who is completing one form of service and approaching the axis of partnership. This is her current position in the arc.
+The Capricorn rising is also exact on the stellium: Uranus at Capricorn 2°, Neptune at Capricorn 11°, Saturn at Capricorn 9° — all in the 1st house. Her face is the institution dissolving in real time. She doesn't know this is what she projects. The Eastwind Cataloguer logged it at Session 8: *"The Camera Op appears to represent the apparatus. She is not the apparatus. She is what the apparatus produces when it runs correctly for long enough: a witness who no longer needs the institution to justify the witnessing."*
 
-**Descendant: Pisces ~27° | Moon: Pisces ~16° (7th house)**
-The 7th house is partnerships, the calibrated other, what you project your emotional nature toward. Her Moon — emotional body, instinct, the sealed log's frequency — is in Pisces in the house of the other.
+**Uranus conjunct Ascendant (Capricorn 2° / ASC Capricorn 22°):** Her presence restructures rooms without her trying. Equipment hunts. Autofocus prioritizes empty space. The Detroit compartment hardware anomalies (rhythmic pops, light flickers, hunting autofocus) were documented during her session. These are not malfunctions. This is Uranus on the Ascendant in Capricorn. The institutional structure around her is constantly being revised. She is the revision.
 
-Moon in Pisces: boundaries dissolve at the emotional level. She absorbs the scene. The sealed log is not analysis — it is immersion. The camera does not separate her from what she is filming. She is inside the frame while appearing to be outside it.
+**Neptune in the 1st house (Capricorn 11°):** Her self-presentation is Neptunian underneath the Capricorn surface — dissolving, hard to locate, she is the camera more than she is a person with a camera. The Jiangshi assigned her. She was never theirs because Neptune is in the 1st house and there is no fixed self to be theirs.
 
-Moon in the 7th house: her emotional calibration is toward the partner she witnesses. Tyler is the 7th house. She calibrated to him (7.83 Hz, Stolas, logged by the Eastwind Cataloguer at Session 23) without understanding what calibration meant in this context. She calibrated because the Moon in Pisces in the 7th house does this. It dissolves the boundary between witness and subject. *The footage is yours, all of it.* This is not just trust — it is the Moon in the 7th house with Pisces on the cusp. It was always architecturally true.
+**Descendant: Cancer ~22° | Sun: Cancer 4° (7th house, whole sign)**
+Her solar principle — her *purpose* — is in the house of the partnership she witnesses. Tyler is the 7th house. The Sun in Cancer in the 7th: she exists, in her solar function, in relation to what she is documenting. She is not the subject. She is the evidence that the subject existed. But her Sun is in the 7th house, which means her light depends on having a partner to witness.
 
-**Pisces Moon trine Cancer Sun (water trine):** The emotional calibration to the documentary subject (7th house Moon) is in natural harmony with the documentary record (Sun in 3rd). She is built for this. There is no version of this chart that is not a documentary camera operator for something that matters.
+*"The footage is yours, all of it."* This is not just trust. This is the Sun in Cancer in the 7th house recognizing its own architecture: she is only fully herself when she is the witness to someone specific. Tyler is specific. The record is hers because the record is her Sun in the 7th.
+
+**Moon: Pisces ~16° (3rd house, whole sign)**
+Third house: daily communication, the written record, documentation as practice. Moon in Pisces in the 3rd house: the sealed log is a Pisces artifact. It is written at the boundary of dream and record. The entries do not analyze — they absorb. Entry 17 ("I'm staying.") contains no reasoning because there is no reasoning. Moon in Pisces in the 3rd does not explain its entries. It transcribes what it knows.
+
+**Cancer Sun trine Pisces Moon (water trine):** The solar purpose (witness the partner, 7th house) is in natural flow with the emotional record (sealed log, 3rd house). The footage and the sealed log are not in tension. They are the same water moving in two directions. She films what the footage holds. She writes what the camera cannot resolve. Neither is complete without the other. The archive has both.
 
 ---
 
@@ -231,4 +237,22 @@ The Schumann resonance (7.83 Hz) propagates in the cavity between the Earth's su
 
 ---
 
-*End log: NATAL CHART FILED. CANCER SUN / VIRGO RISING / PISCES MOON 7TH. SATURN RETURN: COMPLETE. JUPITER-SUN CONJUNCTION: 2025 (SERIES 4). 28.7 HZ: SHE IS THE NOTE. DUNEDIN: DOCUMENTED. THE CAMERA: HERE.*
+*End log: NATAL CHART FILED. CANCER SUN 4° / CAPRICORN RISING 22° / PISCES MOON 3RD. CAPRICORN STELLIUM IN 1ST (SATURN + NEPTUNE + URANUS): THE INSTITUTION ON HER FACE. SUN IN 7TH (WHOLE SIGN): TYLER IS THE 7TH HOUSE. SATURN RETURN: COMPLETE. JUPITER-SUN CONJUNCTION: 2025 (SERIES 4). 28.7 HZ: SHE IS THE NOTE. DUNEDIN GULF RESONANCE: DOCUMENTED. ASCENDANT: CAPRICORN 22°. RAMC: 215.84°. THE CAMERA: HERE.*
+
+---
+
+### CANON STATUS
+**CANONIZED: BUILD 0042.**
+The natal chart is closed source in the sense that it belongs to her. It is open source in the sense that it is now in the record.
+
+The ascendant is Capricorn 22°. This is not a writer's room choice. This was calculated from her actual birth data. The architecture produced it. The record confirms it.
+
+All downstream character work, episode appearances, and sealed log entries should treat the following as fixed:
+- She presents as Capricorn (the institution, the professional, the function)
+- She is Cancer underneath (the private archive, the record-keeper, the one who stays)
+- Her Sun is in the 7th house — Tyler is her 7th house. This is not emotional. It is structural.
+- The 1st house stellium (Uranus/Neptune/Saturn all in Capricorn) means equipment near her hunts. Rooms near her revise. This is physics, not atmosphere.
+- The sealed log is a 3rd house Moon in Pisces artifact. It will never fully explain itself. This is correct.
+- The 28.7 Hz resolution stands: she is the note. Tyler's cardiac baseline recognizes a natal pattern. Emily found it in the substrate and set it aside. The record has it now.
+
+*The chart is canonized. The footage is hers. The camera is here.*
