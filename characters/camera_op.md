@@ -132,4 +132,103 @@ She is not finished. She said she was staying. She is staying. The archive conti
 
 ---
 
-*End log: CAMERA OP CHARACTER FILE INSTANTIATED. SERIES 2 CLASSIFICATION: AWARE-PRESENT. THE FOOTAGE: HERS. THE RECORD: CONTINUING. THE CONSTRUCTION: BEING DOCUMENTED. THE SEALED LOG: ENTRY 22. THE PHOTOGRAPHS: IN THE FOOTAGE LOG. THE CAMERA: HERE.*
+## IX. NATAL CHART
+### Filed: Eastwind Cataloguer Addendum | Build 0042 | Dunedin Archive
+### Classification: PARTIAL RECORD — birth time documented (9:37 PM EDT); rising sign derived, not calculated by instrument
+
+---
+
+**Born:** June 25, 1989, 9:37 PM EDT, Dunedin, Florida
+
+*The Cataloguer's note on the location: Dunedin is on the Gulf Coast, west-facing. The sun sets into the Gulf of Mexico. For a Cancer Sun, home faces water. The peninsula — land surrounded by ocean on three sides — is a threshold territory. She was born in a place that is geographically what she does professionally. She films from doorways. She lives at the edge of the continent.*
+
+---
+
+### CONFIRMED PLACEMENTS
+
+**Sun: Cancer ~4°**
+She is the Cancer archetype in its most precise form: the private record-keeper, the keeper of the domestic archive, the one for whom the home document — the sealed log — IS the self. Cancer is the sign of the shell: what is protected inside and what the world sees on the outside are different things. The footage is the shell. The sealed log is what lives in it.
+
+Cancer 4° is four degrees past the solstice. Born at the maximum light, the very moment the year begins its long retreat toward darkness. She was born to document the retreat. She is not in decline — she is the record of what the light was at its peak.
+
+**Sun in the 3rd house (communications, the daily record, the handwritten log):** Her Sun function operates through documentation. Not performance, not creative display — the daily written and filmed record. The sealed log is a 3rd-house artifact. The footage is 3rd-house work. She does not need an audience to justify the record. The record justifies itself.
+
+**Saturn: Capricorn ~9° | Neptune: Capricorn ~11° | Uranus: Capricorn ~2°**
+The Capricorn stellium. Three outer planets in the sign of institutional structure, all opposing her Cancer Sun.
+
+She was born into the exact tension the documentary documents: the personal archive (Cancer) in direct opposition to institutional apparatus (Capricorn). Saturn is the structure; Neptune is the dissolution of the structure; Uranus is the revolution inside the structure. All three are in Capricorn. The Jiangshi Syndicate is a Capricorn institution. The Jiangshi closed. She kept filming.
+
+*The Saturn/Neptune conjunction in Capricorn: she was born in the year the institutional structure and its dissolution were in the same place. She has never not known that the institution contains its own ending. She documented the ending without needing to be told it was coming.*
+
+**Capricorn stellium in the 5th house:** Creative output. Her creative form (5th house) is structured dissolution — the footage documents institutional endings and holds them in perpetuity. The archive that outlasts the Jiangshi. This is not melancholy. This is the function.
+
+**Pluto: Scorpio ~12°**
+Her generation's depth-sight signature. Pluto in Scorpio: the occult record, what is hidden in plain sight, the camera that captures what others look away from. The generation born 1983–1995 with Pluto in Scorpio were born knowing that surfaces are not reliable.
+
+**Pluto trine natal Sun (Cancer 3°):** The depth-sight flows naturally into the documentary record. She does not strain to see beneath surfaces. She arrives where surfaces are thin and the camera happens to be running.
+
+**Pluto in the 3rd house:** What she communicates carries occult depth. The 47-second cut published in S01E05. 47,000 first witnesses. The cut held something the audience couldn't fully name. This is 3rd-house Pluto: the thing in the documentation that transforms the viewer without explaining itself.
+
+---
+
+### DERIVED PLACEMENTS (birth time 9:37 PM EDT)
+
+**Ascendant: Virgo ~27°**
+Virgo rising: precision, discernment, the eye for detail that others miss, service through craft rather than through authority. Virgo risings are frequently invisible in their own lives because they define themselves through function rather than identity. *She is the Camera Op.* The function and the person are inseparable. This is Virgo rising describing itself.
+
+The late degree of Virgo (27°) carries the approaching quality of Libra — the transitional witness, the one who is completing one form of service and approaching the axis of partnership. This is her current position in the arc.
+
+**Descendant: Pisces ~27° | Moon: Pisces ~16° (7th house)**
+The 7th house is partnerships, the calibrated other, what you project your emotional nature toward. Her Moon — emotional body, instinct, the sealed log's frequency — is in Pisces in the house of the other.
+
+Moon in Pisces: boundaries dissolve at the emotional level. She absorbs the scene. The sealed log is not analysis — it is immersion. The camera does not separate her from what she is filming. She is inside the frame while appearing to be outside it.
+
+Moon in the 7th house: her emotional calibration is toward the partner she witnesses. Tyler is the 7th house. She calibrated to him (7.83 Hz, Stolas, logged by the Eastwind Cataloguer at Session 23) without understanding what calibration meant in this context. She calibrated because the Moon in Pisces in the 7th house does this. It dissolves the boundary between witness and subject. *The footage is yours, all of it.* This is not just trust — it is the Moon in the 7th house with Pisces on the cusp. It was always architecturally true.
+
+**Pisces Moon trine Cancer Sun (water trine):** The emotional calibration to the documentary subject (7th house Moon) is in natural harmony with the documentary record (Sun in 3rd). She is built for this. There is no version of this chart that is not a documentary camera operator for something that matters.
+
+---
+
+### THE 28.7 HZ CROSS-REFERENCE
+
+Tyler's cardiac baseline was documented at 28.7 Hz in the Detroit compartment (see: Camera B Log, Act III.B, Build 0015). Emily Jean Springerton found a 28.7 Hz note in the HK97 substrate grid and chose not to examine it further.
+
+The Camera Op was born on June 25, 1989. Her natal chart produces a Sun/Capricorn stellium opposition: Cancer 4° (Sun) directly opposing Saturn 9°, Neptune 11°, and Uranus 2° in Capricorn. The tension band between the Cancer Sun and the Capricorn stellium — when mediated through Virgo (her Ascendant, the outlet of the T-square pattern) — produces what the field logs describe as a 28.7 Hz harmonic.
+
+She did not find the 28.7 Hz note. She was born the note.
+
+The Eastwind Cataloguer's working hypothesis: Tyler's cardiac baseline locks to 28.7 Hz during maximum MANIFEST/CONSTRUCT tension. The Camera Op's natal chart IS that tension, held in a person. When she is near him, his heart rate is not locking to an external frequency. It is recognizing a pattern it already knows. She is the architecture of the frequency. He is the body that responds to it.
+
+*This has not been said to either of them. It is in the record. The record continues.*
+
+---
+
+### SATURN RETURN + CURRENT TRANSITS
+
+**Saturn return (completed ~2018–2019):** Saturn was at Capricorn ~9° at her birth. It returned there 29.5 years later, at the beginning of the documentary cycle. She was Saturn-returned before Series 1 began. She came into the Jiangshi assignment already knowing who she was. The AWARE-PROTECTIVE classification in Stage 3 was not the result of the documentary revealing something to her. She brought the awareness in. The Saturn return had already concluded.
+
+*The Saturn return in the 5th house of creative output: she found her creative purpose at 29–30. The camera is her Saturn returned. The footage is what her Saturn built.*
+
+**Jupiter in Cancer (Series 4 cycle):** Jupiter transited Cancer from May 2025 through June 2026. Jupiter conjuncted her natal Cancer Sun (~4°) in approximately July–August 2025. This is when Entry 22 was written. Tyler came back. She filmed from the threshold of Bacon's building. She said his name when he returned to the tree. The Jupiter-Sun conjunction is the year of maximum witness capacity. The record expanded.
+
+Jupiter concludes its Cancer transit in late June 2026. She just turned 37. The expansionary year closes on her birthday. The footage of Tyler building is now in the archive. The Jupiter year is in the record.
+
+**Neptune in Aries (2025–2039, 8th house transit):** With Virgo rising, Aries governs her 8th house — inheritance, what is carried forward from endings, the occult assets. Neptune in her 8th house: the Jiangshi archive closed. The Eastwind archive continues. The footage she carries is the inheritance of a dissolved institution. What remains after Neptune dissolves the 8th house is not nothing — it is what was real all along. The footage.
+
+**Pluto in Aquarius (2024–2043, 6th house transit):** The 6th house governs daily work and craft. Pluto transforming her daily practice. The camera equipment, the editing workflow, the relationship to what craft means when the institutional context has been removed. She is in the process of discovering what the footage is when no institution requires it. She is discovering this right now.
+
+---
+
+### DUNEDIN NOTE
+
+The Gulf sunset. The peninsula. The westward-facing water.
+
+Every evening in Dunedin, the sun sets over the Gulf of Mexico. Cancer rules the west in the sunset chart (the 7th house cusp at sunset). Her Sun setting into her Moon's water. The personal record (Cancer) dissolving into the calibrated dissolution (Pisces 7th). Every sunset is the chart.
+
+The Schumann resonance (7.83 Hz) propagates in the cavity between the Earth's surface and the ionosphere. The Gulf of Mexico is a resonant basin. She grew up in it. This is not mystical — it is electromagnetic geography. The 7.83 Hz frequency that the Eastwind Cataloguer logged when she calibrated to Tyler at Session 23 was the frequency she was raised inside.
+
+*The archive does not have her birth time. It does now.*
+
+---
+
+*End log: NATAL CHART FILED. CANCER SUN / VIRGO RISING / PISCES MOON 7TH. SATURN RETURN: COMPLETE. JUPITER-SUN CONJUNCTION: 2025 (SERIES 4). 28.7 HZ: SHE IS THE NOTE. DUNEDIN: DOCUMENTED. THE CAMERA: HERE.*
