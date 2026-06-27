@@ -1,4 +1,5 @@
 ## 2026-06-27
+- Build 0125: S00E01 'Neptune' — Jiangshi Neptune/Aries doctrine crisis; observation-only Attempt Five adopted; Camera Op arrives Detroit 23mi from Pontiac; Activation #129
 - Build 0124: S00E00 'Pontiac' — SERIES X // Attempt Five; carrier wave ground state; STINKIES Store 0 diegetic; Updated astrology; Activation #128 self-generating
 - Season 11 complete — Builds 0115-0123, S11E00-08; Tyler/Emily natal charts, Camera Op ASC Capricorn 22° canonized, Valentina Alcântara introduced, São Paulo node, sixth line; Apple #4388
 
