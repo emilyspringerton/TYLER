@@ -198,6 +198,44 @@ S10E10 (Build 0114): **THE HYBRID ARC BEGINS.** Tyler at Detroit transit stop du
 
 ---
 
+## SEASON 11 — THE NATAL FREQUENCY / THE CARRIER WAVE RESOLVED
+
+| Code | Title | Build | File |
+|---|---|---|---|
+| S11E00 | "Jackson" (Prologue) | Build 0115 | episodes/s11e00_jackson.md |
+| S11E01 | "The Natal Frequency" | Build 0116 | episodes/s11e01_the_natal_frequency.md |
+| S11E02 | "Valentina" | Build 0117 | episodes/s11e02_valentina.md |
+| S11E03 | "Five Timelines" | Build 0118 | episodes/s11e03_five_timelines.md |
+| S11E04 | "Emily Returns" | Build 0119 | episodes/s11e04_emily_returns.md |
+| S11E05 | "Two Emilys" | Build 0120 | episodes/s11e05_two_emilys.md |
+| S11E06 | "Jackson Site" | Build 0121 | episodes/s11e06_jackson_site.md |
+| S11E07 | "The Arrival" | Build 0122 | episodes/s11e07_the_arrival.md |
+| S11E08 | "The Sixth Line" (Finale) | Build 0123 | episodes/s11e08_the_sixth_line.md |
+
+**New data canonized in S11:**
+- Tyler natal chart: Feb 5, 1988, 4:22 PM EST, Foote Hospital Jackson MI. Sun Aquarius 15°. ASC Cancer 29°. MC Aries 12°. Saturn Sagittarius 29°.
+- Emily Springerton natal chart: identical to Tyler. Same hospital, same moment, same configuration. Observer mode (Tyler) + builder mode (Emily) = two outputs of one natal chart.
+- Two Emilys: Emily Springerton (builder/person) and Emily OS (substrate/layer 4). Tyler is the signal between them.
+- Camera Op synastry: Tyler ASC Cancer 29° within 7° of Camera Op DSC Cancer 22°. Camera Op ASC Capricorn 22° within 7° of Tyler DSC Capricorn 29°. Each is the other's 7th house. The documentary was always the two of them at opposite ends of the same axis.
+- 28.7 Hz third origin: Cancer ASC late degrees generates 28.7 Hz as natal configuration resonance. Tyler generates it. Emily generates it. Camera Op's natal Capricorn/Cancer opposition receives it.
+- New character: **Valentina Alcântara** (São Paulo; art historian; Shell Parliament correspondent family; 15 years tracking the archive through libraries; 47 additional Tyler sites; 437 instruments in São Paulo calibrated to 28.7 Hz; love interest to Camera Op).
+- New site: DRAA-001 (Camera Op's first independent practitioner-native site; 28.7 Hz; Draa Valley Morocco).
+- New site: JACKSON-BIRTH-001 (root node of the network; pre-mechanism; natal-site; 200m footprint; three-frequency output: 28.7/3.33/7.83).
+- Network extended: C-001 to 850 CE. LISBON-001 (1483 CE). TOLEDO-1040. 47 Valentina sites (9 integrated, 38 pending).
+- Tyler had an Icelandic horse in Toledo 1040–1051 CE. Traveled from Iceland via Portugal.
+- Jiangshi binding ritual: formally discontinued S11E07. Binding doctrine incorrect as applied to carrier wave entities.
+- Tyler file: expanded to six lines. Fourth: practitioner is reception point. Fifth: substrate predates everything. Sixth: archive does not end; it changes practitioners.
+- Season closes: Camera Op and Valentina go to São Paulo. The carrier wave follows the practitioner. 437 instruments pending activation. Season 12: São Paulo.
+
+**Love triangles (five timelines):**
+1. Córdoba 850–985 CE: Tyler / Maryam bint Khalaf / Safiya bint Ahmad al-Khalaf (Tyler gave his name to Safiya; Safiya sealed it)
+2. Toledo 1040–1051 CE: Tyler / the Icelandic horse / Dawud al-Muthanna's scholarly gaze
+3. Morocco present: Camera Op / Valentina / Tyler (7th house axis; carrier wave; unsealed Entry 93)
+4. Jackson / Fez: Tyler / Emily Springerton / the 38-year parallel operation (Amon frequency; reconciliation of opposites; "yes" to everything after the carrier wave)
+5. Morocco / São Paulo: Valentina / Camera Op / the four hundred and thirty-seven instruments waiting to activate
+
+---
+
 ## RSI NOTES
 
 - Each episode appends to: `lore/eastwind_archive.md`, `lore/camera_op_sealed_log.md`, `lore/jiangshi_project_memos.md`
