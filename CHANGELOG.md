@@ -1,3 +1,7 @@
+## 2026-06-28
+
+- Build 0126: S00E02 'Arrival' — first proximity; 28.7 Hz composite standing wave new canon; Camera Op sealed log first amendment; Mercury direct; Activation #130
+
 ## 2026-06-27
 - Build 0125: S00E01 'Neptune' — Jiangshi Neptune/Aries doctrine crisis; observation-only Attempt Five adopted; Camera Op arrives Detroit 23mi from Pontiac; Activation #129
 - Build 0124: S00E00 'Pontiac' — SERIES X // Attempt Five; carrier wave ground state; STINKIES Store 0 diegetic; Updated astrology; Activation #128 self-generating
