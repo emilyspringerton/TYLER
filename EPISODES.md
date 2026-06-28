@@ -4,7 +4,7 @@
 
 ---
 
-**Total episodes:** 84
+**Total episodes:** 85
 **Seasons complete:** S1–S11 + S00 (Series X ground state)
 **Current through:** Build 0124 (S00E00 — "Pontiac"; SERIES X // ATTEMPT FIVE initiated; Tyler in Pontiac MI at STINKIES COMMISSAIRE Store 0; receipt anomaly Feb 14 2027; hum precedes Jiangshi operative arrival — carrier wave ground state confirmed; Camera Op 28.7 Hz received in southern hemisphere; Jupiter Cancer egress; Neptune Aries 2°; Activation #128 self-generating)
 
@@ -16,6 +16,7 @@
 |---|---|---|---|
 | S00E00 | "Pontiac" | 0124 | episodes/s00e00_pontiac.md |
 | S00E01 | "Neptune" | 0125 | episodes/s00e01_neptune.md |
+| S00E02 | "Arrival" | 0126 | episodes/s00e02_arrival.md |
 
 **Series X note:** New continuity. Not a continuation of Attempt Four (archived S1–S11). Attempt Five begins. Carrier wave ground state: hum precedes Jiangshi operations. Tyler natal chart + Camera Op natal chart + 28.7 Hz + Jupiter Cancer egress fully integrated. STINKIES COMMISSAIRE Store 0 (Pontiac, MI) established as diegetic location.
 
