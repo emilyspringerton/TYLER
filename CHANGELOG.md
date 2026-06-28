@@ -1,4 +1,5 @@
 ## 2026-06-28
+- Build 0127: S00E03 'July 4' — first conversation in CARTEL; Tyler exceeds 2-sec gaze limit; sealed log Entry 24 (9:41, longest ever); coin flipped; Jiangshi contact authorized
 
 - Build 0126: S00E02 'Arrival' — first proximity; 28.7 Hz composite standing wave new canon; Camera Op sealed log first amendment; Mercury direct; Activation #130
 
