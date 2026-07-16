@@ -4,9 +4,9 @@
 
 ---
 
-**Total episodes:** 86
+**Total episodes:** 90
 **Seasons complete:** S1–S11 + S00 (Series X ground state)
-**Current through:** Build 0124 (S00E00 — "Pontiac"; SERIES X // ATTEMPT FIVE initiated; Tyler in Pontiac MI at STINKIES COMMISSAIRE Store 0; receipt anomaly Feb 14 2027; hum precedes Jiangshi operative arrival — carrier wave ground state confirmed; Camera Op 28.7 Hz received in southern hemisphere; Jupiter Cancer egress; Neptune Aries 2°; Activation #128 self-generating)
+**Current through:** Build 0128 (S00E-1 — "The Determination"; bridge episode, precedes S00E00 in story chronology though produced after S00E03; Jiangshi determination session on Final Memo #081; Attempt Four formally archived; corrected assumption adopted — "the oscillation is the subject"; Michigan corridor designated as entry point; NOOR-1 dispatched; Stillness Council appears in writing; solstice ingress June 21 2026)
 
 ---
 
@@ -14,10 +14,13 @@
 
 | Code | Title | Build | File |
 |---|---|---|---|
+| S00E-1 † | "The Determination" | 0128 | episodes/s00e-1_the_determination.md |
 | S00E00 | "Pontiac" | 0124 | episodes/s00e00_pontiac.md |
 | S00E01 | "Neptune" | 0125 | episodes/s00e01_neptune.md |
 | S00E02 | "Arrival" | 0126 | episodes/s00e02_arrival.md |
 | S00E03 | "July 4" | 0127 | episodes/s00e03_july4.md |
+
+† **S00E-1 is a bridge episode.** Story chronology places it FIRST — June 18–21, 2026, between Jiangshi Final Memo #081 (S11E08, Fez, "the Syndicate will make its own determination") and the Pontiac ground state (S00E00, June 27). Production order places it after S00E03 (Build 0128, written after Build 0127). It dramatizes the determination session: Attempt Four archived, Attempt Five authorized, "the oscillation is the subject" adopted, NOOR-1 dispatched to the Michigan corridor.
 
 **Series X note:** New continuity. Not a continuation of Attempt Four (archived S1–S11). Attempt Five begins. Carrier wave ground state: hum precedes Jiangshi operations. Tyler natal chart + Camera Op natal chart + 28.7 Hz + Jupiter Cancer egress fully integrated. STINKIES COMMISSAIRE Store 0 (Pontiac, MI) established as diegetic location.
 
