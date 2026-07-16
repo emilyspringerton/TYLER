@@ -1,3 +1,6 @@
+## 2026-07-16
+- Build 0128: S00E-1 'The Determination' — bridge episode (story-first, produced after S00E03); Jiangshi determination session on Memo #081; Attempt Four archived; 'the oscillation is the subject' adopted; Stillness Council one written question; NOOR-1 dispatched to Michigan corridor
+
 ## 2026-06-28
 - Build 0127: S00E03 'July 4' — first conversation in CARTEL; Tyler exceeds 2-sec gaze limit; sealed log Entry 24 (9:41, longest ever); coin flipped; Jiangshi contact authorized
 
