@@ -1,4 +1,5 @@
 ## 2026-07-16
+- HQ-SPEC-LORE-104 (Queen Sally Doctrine) + HQ-CANON-TYLER-105 (Epoch Extinction) added (GitHub web upload, commit cab41ad). LORE-104 excavates five engineering/creative doctrines from the 2020 GPT-2 corpus (SALLYPEMDAS/QUEENSALLYONLINEBOOKOFMAGIFICATIONANDUNICOR) and traces their 2026 descendants (NORN, Apples, Emiree, the EINHORN name itself); CANON-TYLER-105 is a fiction-canon lore expansion (Epoch Extinction, Los Hermanos Pingüinos, the Simulation Question) with ⚓-marked crosswalks to PRIME-097/PRIME-101. Registered in EMILY/context/golden-docs-index.md as LORE-104 and CANON-TYLER-105 (tier 2).
 - Build 0128: S00E-1 'The Determination' — bridge episode (story-first, produced after S00E03); Jiangshi determination session on Memo #081; Attempt Four archived; 'the oscillation is the subject' adopted; Stillness Council one written question; NOOR-1 dispatched to Michigan corridor
 
 ## 2026-06-28
