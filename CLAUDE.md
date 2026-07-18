@@ -49,7 +49,8 @@ TYLER/
 │   ├── eastwind_archive.md      ← Eastwind Owl archival entries on Tyler
 │   ├── jiangshi_project_memos.md ← Internal Jiangshi Syndicate project memos
 │   ├── shell_parliament_ledger.md ← Heikegani Crustocrat financial records
-│   └── field_activation_logs.md  ← Goetia activation log entries (#114+)
+│   ├── field_activation_logs.md  ← Goetia activation log entries (#114+)
+│   └── activation_47_transmutation.md ← the primary artifact THE_FIELD.md §IV cites (Activation #47's actual 47-minute monologue, not a log entry about it)
 │
 ├── engine/                      ← Technical specs
 │   ├── television_as_code.md    ← The compiled episode pipeline spec
