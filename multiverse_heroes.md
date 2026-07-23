@@ -1,5 +1,5 @@
 # THE MULTIVERSE HERO COMPENDIUM
-## 111 Heroes, First Pass — Names, Lore, Intrigue, Backstory
+## 112 Heroes, First Pass — Names, Lore, Intrigue, Backstory
 
 **Status:** Draft roster, wide and shallow on purpose. Founder direction: "develop 100 heroes, we
 will start work on the most interesting" — this document exists to be culled from, not built from
@@ -48,7 +48,7 @@ something none of them fully understand.*
    minutes — not answered, struck.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "duration is data"
 
-2. **ARCHIVIST-7** [MUNDANE] — *The one dissenting vote, twice in a row.* Raised, on the record, the
+2. **ARCHIVIST-7** ("The Dissent") [MUNDANE] — *The one dissenting vote, twice in a row.* Raised, on the record, the
    question of whether the Camera Op had already made her decision before the Syndicate ever offered
    her one (S00E-1) — a reading the full committee declined to adopt and that the Senior Archivist
    could not dismiss either. Keeps a second, unofficial ledger titled nothing, containing only
@@ -56,14 +56,14 @@ something none of them fully understand.*
    the official one.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the ledger of what we couldn't dismiss"
 
-3. **NOOR-1** [MUNDANE] — *Sent in clean on purpose, and it isn't working.* Dispatched with no Tyler
+3. **NOOR-1** ("Four Days Behind") [MUNDANE] — *Sent in clean on purpose, and it isn't working.* Dispatched with no Tyler
    history and no file access, on explicit instruction: "find him, do not approach, file what is
    actually there." Assessed by the subject himself as "about four days behind where they think they
    are" — an operative who was supposed to be the one observing, being read by the person they're
    observing before they've filed a single report on him.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "find him, do not approach"
 
-4. **The Fez Operative** [MUNDANE] — *Recommended keeping the thing she was sent to end.* Unnamed in
+4. **The Fez Operative** ("Fez") [MUNDANE] — *Recommended keeping the thing she was sent to end.* Unnamed in
    the record. Filed the assessment that led to the Attempt Four archive order, then recommended her
    own retention with the archive rather than reassignment — approved 7–0, a vote that is, on its
    face, the exact failure mode observation-only doctrine exists to prevent. Nobody has challenged
@@ -76,34 +76,34 @@ something none of them fully understand.*
    Bacon is a story about the shape of a secret, not its contents.
     *Field signature:* Redacted · Δφ redacted by the same authority · seed phrase: "ask again later"
 
-6. **The Stillness Council Clerk** [MUNDANE] — *Delivers exactly one sentence per crisis, and it is
+6. **The Stillness Council Clerk** ("One Question") [MUNDANE] — *Delivers exactly one sentence per crisis, and it is
    always a question.* Never appears in a scene, only in minutes — the entire Stillness Council's
    contribution to the Attempt Five determination was one page, one line: "WHAT DID FOUR ATTEMPTS
    DOCUMENT?" Has, per the surviving record, never once been wrong. The Syndicate resents this the
    way people resent a mirror that's better at its job than they are.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "what did four attempts document?"
 
-7. **Attempt Two's Doctrine, Given a Name** [MYTHIC] — *"He sees you," made into a person.* Not
+7. **Attempt Two's Doctrine, Given a Name** ("He Sees You") [MYTHIC] — *"He sees you," made into a person.* Not
    originally a person at all — TYLER-008's field designation for the doctrine that governed the
    second attempt at containment, before the Syndicate's own writers decided the doctrine deserved a
    face. What that means for someone who began as an institutional memo and had to grow into being a
    character is the entire story here.
     *Field signature:* 8.08 Hz · Δφ 8° — sub-threshold, structural not personal · seed phrase: "he sees you"
 
-8. **The Deep Archive Cataloguer** [MUNDANE] — *Found three things that shouldn't connect, and kept
+8. **The Deep Archive Cataloguer** ("Three Coordinates") [MUNDANE] — *Found three things that shouldn't connect, and kept
    looking anyway.* Assigned to sweep an eight-hundred-and-forty-seven-page archive for standard
    cross-references. Found three unrelated historical coordinates that fail every test of
    cartographic logic and do not match any known operational hub — and instead of filing the
    anomaly and moving on, quietly kept investigating, well past where the assignment ended.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "three coordinates that shouldn't connect"
 
-9. **MOOR-8** [MUNDANE] — *Files the seal, never reads what's inside it.* The duration of a sealed
+9. **MOOR-8** ("The Seal") [MUNDANE] — *Files the seal, never reads what's inside it.* The duration of a sealed
    log is the data; the content is not this archivist's business, and never has been, across a
    career built entirely on that restraint. The discipline of never opening the thing you're
    entrusted with is, itself, the whole character.
     *Field signature:* 11.11 Hz (Vassago) — a frequency no Jiangshi archivist is supposed to carry · Δφ 29° · seed phrase: "reveal the gentle maybe"
 
-10. **The Retrieval Cart** [MYTHIC] — *An object that started arriving with things nobody ordered.*
+10. **The Retrieval Cart** ("The Cart") [MYTHIC] — *An object that started arriving with things nobody ordered.*
     A recurring anomaly in the Syndicate's own record: a requested document turns out to already be
     waiting on the cart, with no requester logged anywhere in the ledger. Treated by everyone
     involved as too small to escalate and too strange to ignore — the character built from this is
@@ -120,14 +120,14 @@ something none of them fully understand.*
     good), and nobody, including its own controller, gets to request what. That unpredictability is
     the whole character, not a flaw to design around.
 
-11. **Wren-3** [MYTHIC] — *The first to write down that something couldn't be measured.* Logged
+11. **Wren-3** ("Four Centuries") [MYTHIC] — *The first to write down that something couldn't be measured.* Logged
     Tyler's hum as unmeasurable, shifting beyond any cataloguable range, four centuries before the
     current Syndicate's instruments finally stabilized a reading. The Syndicate's longest-serving
     living field record. Privately believes every doctrine built since is wrong in the same specific
     way the first one was, and has said so, quietly, to exactly one person in four hundred years.
     *Field signature:* Unmeasurable · Δφ unmeasurable by any instrument in four hundred years · seed phrase: "four hundred years, still unmeasured"
 
-12. **The Senior Archivist's Predecessor** [MUNDANE] — *Signed the doctrine the current Syndicate
+12. **The Senior Archivist's Predecessor** ("The Predecessor") [MUNDANE] — *Signed the doctrine the current Syndicate
     spent four attempts failing to execute.* Deliberately unnamed. The entire character is a legacy
     someone else has to live down rather than live up to — every Syndicate figure who invokes "the
     original doctrine" is, whether they know it or not, talking about this person.
@@ -142,21 +142,21 @@ that already govern real scenes in the show. The archetype of this whole court: 
 demons who have all, in their own way, been reduced to a single number, and are having very
 different reactions to that.*
 
-13. **Stolas, the Owl-Prince** [MYTHIC] — *The frequency that turned out to be a heartbeat.* His own
+13. **Stolas, the Owl-Prince** ("Stolas") [MYTHIC] — *The frequency that turned out to be a heartbeat.* His own
     number — 7.83 Hz, deep-time sight — is also, unexplained and unclaimed, the exact cardiac
     baseline of a specific living person the Court has never been told about. Stolas has known this
     for longer than anyone currently asking questions has been alive, and has never once mentioned
     it to the Court that's named after his function.
     *Field signature:* 7.83 Hz · Δφ N/A — continuous Golden Band state, does not activate, simply is · seed phrase: "deep time sees itself"
 
-14. **Beleth, the Detonation** [MYTHIC] — *Every love triangle in the record traces back to her.*
+14. **Beleth, the Detonation** ("Beleth") [MYTHIC] — *Every love triangle in the record traces back to her.*
     2.22 Hz — emotional detonation, escalation. No love story in the show's history has resolved
     without her frequency somewhere in its last act, and Beleth has started to suspect that isn't
     coincidence so much as something closer to authorship, which is a much less comfortable thing to
     be quietly responsible for.
     *Field signature:* 2.22 Hz · Δφ 26° — Golden Band, clean activation · seed phrase: "hope is a terror I leash with song"
 
-15. **Amon, Reconciler of Opposites** [MYTHIC] — *A demon whose number is also a law of physics
+15. **Amon, Reconciler of Opposites** ("Amon") [MYTHIC] — *A demon whose number is also a law of physics
     somewhere else.* 1.618 Hz — the reconciliation frequency for faction treaties in this record, and
     also, without explanation, the ACCEL constant governing an entirely different engine's physics
     in a different property. Amon does not know why his number means two things in two worlds. He
@@ -164,70 +164,75 @@ different reactions to that.*
     settled which.
     *Field signature:* 1.618 Hz · Δφ 0° — typical for Amon, low angular separation · seed phrase: "the room agrees before it argues"
 
-16. **Vassago, the Soft Foresight** [MYTHIC] — *The frequency an entire archive faction runs on.*
+16. **Vassago, the Soft Foresight** ("Vassago") [MYTHIC] — *The frequency an entire archive faction runs on.*
     11.11 Hz. The Eastwind Owls' working frequency is his; every Owl who has ever filed a report
     owes the shape of their gift to a demon most of them have never heard named.
     *Field signature:* 11.11 Hz · Δφ 29° — Golden Band, clean activation · seed phrase: "reveal the gentle maybe"
 
-17. **Andrealphus, the Fold** [MYTHIC] — *Pi, with the decimal knocked loose.* 31.41 Hz — geometry
+17. **Andrealphus, the Fold** ("The Fold") [MYTHIC] — *Pi, with the decimal knocked loose.* 31.41 Hz — geometry
     treated as something foldable rather than fixed. The activation record credits him with a
     forty-seven-minute event that, depending on who's asked, either derived real mathematics or
     performed the appearance of doing so convincingly enough that nobody has finished checking.
     *Field signature:* 31.41 Hz · Δφ 38° — Golden Band edge, maximum synthesis approaching instability · seed phrase: "fold the circle until it lies"
 
-18. **Bael, Crown of Dissolution** [MYTHIC] — *Speaks unseen, and has for longer than anyone's
+18. **Bael, Crown of Dissolution** ("Bael") [MYTHIC] — *Speaks unseen, and has for longer than anyone's
     checked.* 0.33 Hz. His presence in a room is, by report, felt before it's confirmed — a demon
     whose entire reputation rests on people being certain something was there after the fact, never
     during it.
     *Field signature:* 0.33 Hz · Δφ 31° — Golden Band, successful activation · seed phrase: "crown of dissolution, speak unseen"
 
-19. **Zagan, the Standstill's Confessor** [MYTHIC] — *Presided over a forty-seven-minute monologue
+19. **Zagan, the Standstill's Confessor** ("The Confessor") [MYTHIC] — *Presided over a forty-seven-minute monologue
     that's still being peer-reviewed.* The activation record attributes to him a session in which a
     subject derived a mathematical proof through alchemical metaphor at length — a claim the record
     itself hedges on, which Zagan finds more amusing than anyone else involved in the record does.
     *Field signature:* 0.618 Hz · Δφ 47° — well outside the Golden Band, still being peer-reviewed · seed phrase: "the standstill confesses"
 
-20. **Paimon, the Court Voice** [MYTHIC] — *A king who commands two hundred legions and would rather
+20. **Paimon, the Court Voice** ("Paimon") [MYTHIC] — *A king who commands two hundred legions and would rather
     talk than fight.* Traditional Goetia rank preserved: teaches all arts, speaks with total
     authority. In this record, spends most of his political capital keeping other Court members from
     escalating disputes that don't need to become fights — an unusually diplomatic demigod in a
     faction that mostly isn't.
     *Field signature:* 20.0 Hz · Δφ 30° — Golden Band, center of the range · seed phrase: "let the room keep its own tongue"
 
-21. **Furfur, the Storm Oath** [MYTHIC] — *Cannot tell the truth outside a binding circle.*
+21. **Furfur, the Storm Oath** ("Furfur") [MYTHIC] — *Cannot tell the truth outside a binding circle.*
     Traditional Goetia: raises storms, takes the shape of a hart, lies unless formally bound. Every
     account of Furfur in the record is secondhand for exactly this reason — nobody has ever gotten a
     reliable first-person read on him, including, likely, Furfur.
     *Field signature:* reported as 4.4 Hz; no two readings agree · Δφ disputed — 17° or 34°, depending who's asked · seed phrase: "the truth requires a triangle"
 
-22. **Astaroth, the Ledger-Keeper** [MYTHIC] — *Knows the past, present, and future, and has turned
+22. **Astaroth, the Ledger-Keeper** ("Astaroth") [MYTHIC] — *Knows the past, present, and future, and has turned
     down three job offers because of it.* The Shell Parliament has approached him three separate
     times, per the record, hoping to license what he knows. He has declined each time and never
     explained why — a demigod who apparently considers some knowledge too dangerous to monetize,
     which is itself a strange thing for a demon to believe.
     *Field signature:* 3.33 Hz · Δφ 33° — Golden Band, clean · seed phrase: "some ledgers should stay unlicensed"
 
-23. **Agares, the First Undo** [MYTHIC] — *Already in the record — 0.51 Hz, the inversion that put a
+23. **Agares, the First Undo** ("Agares") [MYTHIC] — *Already in the record — 0.51 Hz, the inversion that put a
     man on the wrong bus on purpose.* The frequency behind Series X's own bus-branch scene: a small,
     specific inversion of the ordinary outcome, deployed once, deliberately, and never once explained
     to the person it happened to.
     *Field signature:* 0.51 Hz · Δφ −22° — inverted Golden Band · seed phrase: "the express arrives late on purpose"
 
-24. **Marchosias, the Wolf Before the Fall** [MYTHIC] — *Waiting twelve hundred years to go home.*
+24. **Marchosias, the Wolf Before the Fall** ("The Wolf") [MYTHIC] — *Waiting twelve hundred years to go home.*
     Traditional Goetia: griffin-winged wolf, formerly of the order of Dominations, hopes to return to
     the Seventh Throne after twelve centuries of service. Every choice he makes in this record is
     measured against a clock nobody else in the Court is patient enough to actually hold in their
     head at the same time he does.
     *Field signature:* 1.2 Hz · Δφ 22° — Golden Band, lower edge, patient · seed phrase: "twelve hundred years is a rounding error"
 
-25. **Buer, the Wheel-Physician** [MUNDANE] — *A healer whose only magic is being extremely good at
+25. **Buer, the Wheel-Physician** ("Doc Wheel") [MUNDANE] — *A healer whose only magic is being extremely good at
     his job.* Traditional Goetia: teaches philosophy and the virtues of herbs, appears as a
     five-legged wheel. Played deliberately mundane here — no combat power at all, just an unsettling
     gait and a level of medical competence that reads, from the outside, like something stranger than
     it actually is.
     *Field signature:* Unmeasurable · Δφ operates through medicine, not resonance · seed phrase: "the wheel turns toward what's ailing"
+    **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue). **Gameplay note, story-first, no
+    numbers:** the good support archetype done straight — no shield-bash, no ultimate, just a hero
+    whose entire kit-to-be should read as "the ally you want in the lane, for reasons that are never
+    flashy and never wrong."
 
-26. **Ipos, the Half-Answer** [MYTHIC] — *Knows everything and tells you half of it, on principle.*
+26. **Ipos, the Half-Answer** ("Half-Answer") [MYTHIC] — *Knows everything and tells you half of it, on principle.*
     Traditional Goetia: lion's body, goose's head, hare's tail, knows past and future. Every
     prophecy Ipos has ever given has turned out true and incomplete in exactly equal measure — a
     demigod whose entire relationship to the future is that he refuses to let anyone have all of it
@@ -242,7 +247,7 @@ different reactions to that.*
 The archetype: an afterlife whose bureaucracy is starting to notice its own oldest assumptions don't
 hold anymore.*
 
-27. **Herja, Last Valkyrie Off the List** [MYTHIC] — *Chose the slain for nine centuries, then
+27. **Herja, Last Valkyrie Off the List** ("Herja") [MYTHIC] — *Chose the slain for nine centuries, then
     started choosing wrong on purpose.* Nobody in the hall noticed for years — Valhalla's own
     reputation for solemn accuracy meant no one thought to check her selections against the record.
     By the time someone finally cross-referenced who was actually missing, she had been quietly
@@ -250,49 +255,49 @@ hold anymore.*
     there.
     *Field signature:* 13.13 Hz · Δφ 41° — outside the Golden Band · seed phrase: "the list she kept revising"
 
-28. **Sköll's Actual Handler** [MUNDANE] — *Keeps the wolf that chases the sun on the longest,
+28. **Sköll's Actual Handler** ("The Dog-Walker") [MUNDANE] — *Keeps the wolf that chases the sun on the longest,
     strangest leash in myth.* Entirely mundane in origin, entirely unglamorous in method — the person
     whose whole existence is managing a threat everyone else treats as cosmological and this hero
     treats as, functionally, a very large dog with an appointment to keep.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the leash has no length, only patience"
 
-29. **Nidhogg, Root-Gnawer** [MYTHIC] — *Has been chewing the same roots since before anyone was
+29. **Nidhogg, Root-Gnawer** ("Nidhogg") [MYTHIC] — *Has been chewing the same roots since before anyone was
     counting.* The dragon at the base of Yggdrasil, playing a version of patience that reads, to
     everything above him, as something closer to geological time than personality. Demigod, not
     god — slow, and very difficult to hurry into a decision he hasn't already made on his own
     schedule.
     *Field signature:* 0.03 Hz · Δφ 22° — Golden Band, barely active, glacial · seed phrase: "the root remembers longer than the tree"
 
-30. **Gunnr, Who Argued With a Raven** [MUNDANE] — *Told one of Odin's own ravens it was wrong, and
+30. **Gunnr, Who Argued With a Raven** ("The Raven-Caller") [MUNDANE] — *Told one of Odin's own ravens it was wrong, and
     was right.* A shieldmaiden with no magic of her own, whose entire reputation rests on a single
     documented disagreement with a source everyone else treated as infallible. Has quietly been right
     about three more things since, and Valhalla has yet to formally admit any of them.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the raven was wrong"
 
-31. **The Last Jotun Cartographer** [MUNDANE] — *Mapped the giant-lands before the borders stopped
+31. **The Last Jotun Cartographer** ("The Cartographer") [MUNDANE] — *Mapped the giant-lands before the borders stopped
     meaning anything.* No power beyond an encyclopedic, obsessive memory for terrain that no longer
     exists the way she recorded it — every map she drew is now, functionally, historical fiction, and
     she knows it, and keeps updating it anyway.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the borders that don't exist anymore"
 
-32. **Ratatoskr's Debt-Collector** [MYTHIC] — *Has been carrying insults up and down the world tree
+32. **Ratatoskr's Debt-Collector** ("The Courier") [MYTHIC] — *Has been carrying insults up and down the world tree
     for centuries, and has started editing them.* The courier between the eagle at Yggdrasil's crown
     and Nidhogg at its root — a job that was never meant to involve judgment, and has, over a very
     long tenure, started to.
     *Field signature:* 9.9 Hz · Δφ 27° — Golden Band · seed phrase: "the insult, lightly edited"
 
-33. **Fenrir's Foster-Brother** [MUNDANE] — *Raised beside the wolf, never bound, never explained
+33. **Fenrir's Foster-Brother** ("The Other Brother") [MUNDANE] — *Raised beside the wolf, never bound, never explained
     why.* No magic, no myth of his own beyond an absence: everyone assumes he should have shared
     Fenrir's fate, or Fenrir's fame, and he has simply never had either, and has never said why.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the binding that never happened to him"
 
-34. **Sigyn, Between the Drops** [MYTHIC] — *Held the bowl for as long as the myth demands, and then
+34. **Sigyn, Between the Drops** ("Sigyn") [MYTHIC] — *Held the bowl for as long as the myth demands, and then
     kept holding it.* A demigod whose entire character is endurance in service of one person, for a
     span of time long enough that the act itself has become the only thing anyone remembers about
     her.
     *Field signature:* 1.0 Hz · Δφ 24° — Golden Band, steady · seed phrase: "the bowl does not need to be believed to be held"
 
-35. **Gary, Bifrost Security (Off-Duty)** [MUNDANE] — *Takes the shift Heimdall doesn't want, and
+35. **Gary, Bifrost Security (Off-Duty)** ("Gary") [MUNDANE] — *Takes the shift Heimdall doesn't want, and
     treats it like the most important post in the Nine Realms anyway.* No magic — extraordinary
     eyesight, extraordinary aim, and a deep, unresolved exhaustion with a job that never actually
     ends, because someone always has to be watching the bridge. Carries a clipboard he doesn't need
@@ -302,7 +307,7 @@ hold anymore.*
     would mean finding out.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the bridge that never actually ends"
 
-36. **Hrist, the Second Question** [MYTHIC] — *A Valkyrie who chooses the slain by a rule she's never
+36. **Hrist, the Second Question** ("Hrist") [MYTHIC] — *A Valkyrie who chooses the slain by a rule she's never
     said out loud.* Her name means "shaker." Every other Valkyrie in the record can explain their
     criteria. She has never once explained hers, including, by every account, to herself.
     *Field signature:* variable, unlisted · Δφ never recorded, by her own choice · seed phrase: "the second question she won't repeat"
@@ -314,13 +319,13 @@ hold anymore.*
 *The archetype: a heavenly bureaucracy whose gods have started to look a great deal like civil
 servants, and whose civil servants have started to look a great deal like gods.*
 
-37. **Lung Wang's Disowned Heir** [MYTHIC] — *Cast out of the undersea court, for a reason the
+37. **Lung Wang's Disowned Heir** ("The Disowned Prince") [MYTHIC] — *Cast out of the undersea court, for a reason the
     record won't specify.* One of the four Dragon Kings' bloodline, exiled from a court that will not
     say why on the record — every account of the decision contradicts the last one, which is, itself,
     the most interesting thing about him.
     *Field signature:* 6.0 Hz · Δφ 19° — below the Golden Band, exile diminishes it · seed phrase: "the court that wouldn't say why"
 
-38. **Zhang Guo Lao's Donkey** [MUNDANE] — *The famous Immortal's donkey, given its own story for
+38. **Zhang Guo Lao's Donkey** ("The Donkey") [MUNDANE] — *The famous Immortal's donkey, given its own story for
     once.* Traditionally folds up like paper when not needed and unfolds when it is. Played here as
     its own character: something whose entire nature is showing up exactly when required and
     disappearing, without complaint, the rest of the time — a life defined entirely by usefulness.
@@ -328,51 +333,51 @@ servants, and whose civil servants have started to look a great deal like gods.*
     **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
-39. **He Xiangu, Who Stopped Eating** [MYTHIC] — *Achieved immortality by subsisting on
+39. **He Xiangu, Who Stopped Eating** ("He Xiangu") [MYTHIC] — *Achieved immortality by subsisting on
     mother-of-pearl and moonlight, and never explained why she chose that.* The one female Immortal
     among the traditional eight — her path to power was self-denial taken past the point anyone else
     was willing to follow, and she has never once framed it as sacrifice.
     *Field signature:* 3.0 Hz · Δφ 25° — Golden Band · seed phrase: "moonlight is also a kind of eating"
 
-40. **Nuwa's Last Repair** [MYTHIC] — *Did the actual patching of the sky and was never named for
+40. **Nuwa's Last Repair** ("The Mason") [MYTHIC] — *Did the actual patching of the sky and was never named for
     it.* The goddess Nuwa is credited, in every version of the myth, with mending the heavens with
     five-colored stones. This hero is the mason who did the physical work and vanished from every
     telling — a demigod defined entirely by the gap between doing something and being credited for
     it.
     *Field signature:* 5.5 Hz · Δφ 26° — Golden Band · seed phrase: "five colors, no credit"
 
-41. **The Yellow Emperor's Cartographer-General** [MUNDANE] — *Built the compass for the first war
+41. **The Yellow Emperor's Cartographer-General** ("True North") [MUNDANE] — *Built the compass for the first war
     chariot, and it pointed true for everyone except the Emperor.* No magic, total technical mastery,
     and one unexplained anomaly at the center of his entire career that nobody — including him — has
     ever been able to account for.
     *Field signature:* Unmeasurable · Δφ true north, except for one person · seed phrase: "true north, except for him"
 
-42. **Han Xiangzi's Flute-Debt** [MYTHIC] — *Owes something to every wrong note ever played near
+42. **Han Xiangzi's Flute-Debt** ("Flute Debt") [MYTHIC] — *Owes something to every wrong note ever played near
     him, and eventually collects.* One of the Eight Immortals, patron of musicians. A demigod whose
     entire relationship to the world runs through sound, and whose patience for bad music is
     apparently much shorter than his patience for almost anything else.
     *Field signature:* 2.5 Hz · Δφ 28° — Golden Band · seed phrase: "the wrong note, eventually collected"
 
-43. **Meng Po's Apprentice, Who Skips People** [MUNDANE] — *Quietly not serving the forgetting-tea
+43. **Meng Po's Apprentice, Who Skips People** ("Tea-Skip") [MUNDANE] — *Quietly not serving the forgetting-tea
     to a chosen few.* Meng Po brews the tea that erases a soul's memory of its past life before
     reincarnation. Her apprentice has started deciding, on her own authority, who doesn't get served —
     and is building a small, illegal archive of the people who remember, for reasons she hasn't told
     anyone, possibly including herself.
     *Field signature:* Unmeasurable · Δφ deliberately, her whole practice is staying off any record · seed phrase: "the tea she didn't pour"
 
-44. **The Jade Emperor's Auditor** [MUNDANE] — *No magic, total authority, feared by demigods twice
+44. **The Jade Emperor's Auditor** ("Jade Auditor") [MUNDANE] — *No magic, total authority, feared by demigods twice
     his power.* Checks the Jade Emperor's own paperwork. The single most mundane figure in this
     faction and, by reputation, one of the most feared — because a stamp from him can undo a title no
     combat power could touch.
     *Field signature:* Unmeasurable · Δφ the stamp needs no resonance · seed phrase: "the audit doesn't wait for a frequency"
 
-45. **Ao Guang's Weather-Debt Collector** [MYTHIC] — *Collects on storms owed and storms overdrawn,
+45. **Ao Guang's Weather-Debt Collector** ("The Weatherman") [MYTHIC] — *Collects on storms owed and storms overdrawn,
     for the Dragon King of the East Sea.* A demigod whose entire ledger is meteorological — every
     flood, drought, and unseasonable calm somewhere on his books, balanced against a debt system
     nobody outside his office fully understands.
     *Field signature:* 9.0 Hz · Δφ 30° — Golden Band · seed phrase: "the debt compounds with the barometer"
 
-46. **The Eight Immortals' Ninth Applicant** [MYTHIC] — *Rejected, and three different accounts of
+46. **The Eight Immortals' Ninth Applicant** ("The Ninth") [MYTHIC] — *Rejected, and three different accounts of
     why survive, none of them agreeing.* The defining fact about this character is that even the
     surviving Eight Immortals can't settle on a consistent story for why he was turned away — which
     makes him, functionally, three different people depending on who's telling it.
@@ -385,61 +390,61 @@ servants, and whose civil servants have started to look a great deal like gods.*
 *The archetype: spirits whose traditional roles (trickster, monster, messenger) have all, in one
 way or another, started to develop a conscience about the role, mid-career.*
 
-47. **Kuchisake-onna's Unbound Sister** [MYTHIC] — *Never took the same curse her sister did, and
+47. **Kuchisake-onna's Unbound Sister** ("The Unbound Sister") [MYTHIC] — *Never took the same curse her sister did, and
     resents it.* The urban-legend woman with the slit mouth has, in this telling, a sister who was
     simply never bound to the same fate — a demigod whose entire grievance is the arbitrariness of
     which sibling gets mythologized.
     *Field signature:* 13.0 Hz · Δφ 20° — below the Golden Band, unbound · seed phrase: "the curse that skipped her"
 
-48. **The Tengu Who Corrected a Sutra** [MUNDANE] — *Traditionally tricks monks; once, accidentally,
+48. **The Tengu Who Corrected a Sutra** ("The Editor") [MUNDANE] — *Traditionally tricks monks; once, accidentally,
     helped one.* Found a genuine scribal error in a sacred text and fixed it, without meaning to —
     and has never lived it down among his own kind, for whom misleading monks is a point of pride, not
     a job hazard.
     *Field signature:* 2.0 Hz · Δφ 21° — below the Golden Band · seed phrase: "the correction he didn't mean to make"
 
-49. **Susanoo's Unwitnessed Duel** [MYTHIC] — *The storm god's famous fight isn't the one that
+49. **Susanoo's Unwitnessed Duel** ("The Unwitnessed") [MYTHIC] — *The storm god's famous fight isn't the one that
     actually shaped him.* Everyone knows the eight-headed-serpent story. This hero fought a duel
     nobody recorded — no myth, no witnesses — and privately considers it the only fight that ever
     actually mattered to him.
     *Field signature:* 8.0 Hz · Δφ 33° — Golden Band · seed phrase: "the fight nobody wrote down"
 
-50. **Amaterasu's Locksmith** [MUNDANE] — *Built the door the sun goddess hid behind.* No divinity at
+50. **Amaterasu's Locksmith** ("The Locksmith") [MUNDANE] — *Built the door the sun goddess hid behind.* No divinity at
     all — just the carpenter whose actual, physical work made one of the most famous scenes in
     Japanese myth possible. A mundane hero at the center of an enormous story who has never once been
     mentioned in the retellings.
     *Field signature:* Unmeasurable · Δφ the door needed hinges, not divinity · seed phrase: "the door needed hinges, not divinity"
 
-51. **Yuki-onna, Off-Season** [MYTHIC] — *The snow woman, out of her element and quieter for it.*
+51. **Yuki-onna, Off-Season** ("Off-Season") [MYTHIC] — *The snow woman, out of her element and quieter for it.*
     Weaker and stranger outside winter, by nature — and, once, against every instinct her kind is
     supposed to have, spared someone. Has quietly been doing it again since, and hasn't told anyone
     why.
     *Field signature:* 0–7.83 Hz, seasonal · Δφ 22°–38° in winter, unmeasurable otherwise · seed phrase: "the mercy she keeps repeating"
 
-52. **The Kitsune Who Kept Nine Tails and No Names** [MYTHIC] — *Reached full power and refused every
+52. **The Kitsune Who Kept Nine Tails and No Names** ("No-Name") [MYTHIC] — *Reached full power and refused every
     human identity that came with it.* Achieving nine tails traditionally means gaining the ability
     to take a settled human form. This one reached the milestone and declined the part where you
     become someone — an entire character built on the cost of refusing to be given a name.
     *Field signature:* 9.0 Hz · Δφ 36° — Golden Band, near the edge · seed phrase: "nine tails, no name to hold them"
 
-53. **The Oni Tax Assessor** [MUNDANE] — *The afterlife's actual bureaucracy, and the most feared
+53. **The Oni Tax Assessor** ("The Tax Oni") [MUNDANE] — *The afterlife's actual bureaucracy, and the most feared
     figure in the Circuit because of it.* No brute-force demon theatrics — an oni who enforces
     paperwork, and whose audits are, by universal account, worse than anything the more traditionally
     monstrous members of the faction can threaten.
     *Field signature:* Unmeasurable · Δφ audits don't require resonance, only paperwork · seed phrase: "the audit is the haunting"
 
-54. **Inari's Unclaimed Messenger Fox** [MUNDANE] — *Delivers for the prosperity kami and was never
+54. **Inari's Unclaimed Messenger Fox** ("The Messenger Fox") [MUNDANE] — *Delivers for the prosperity kami and was never
     officially recognized.* No power beyond loyalty to a job nobody formally gave her — a mundane
     hero defined entirely by service with no acknowledgment attached, and no apparent bitterness
     about it either.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "delivered anyway"
 
-55. **The Nurarihyon Who Skipped the Line** [MYTHIC] — *Walked into the wrong house, uninvited, and
+55. **The Nurarihyon Who Skipped the Line** ("Wrong House") [MYTHIC] — *Walked into the wrong house, uninvited, and
     is still dealing with it.* Traditionally the self-appointed "supreme commander" of all yokai, who
     enters homes and acts as though he owns them. This is the one time it went wrong, and the
     consequences that are still, quietly, unfolding.
     *Field signature:* 7.0 Hz · Δφ 40° — outside the Golden Band, overreached · seed phrase: "the wrong house, still open"
 
-56. **Kappa, River Debt Ledger** [MUNDANE] — *Keeps score of who bows and who doesn't.* The
+56. **Kappa, River Debt Ledger** ("Ledger Kappa") [MUNDANE] — *Keeps score of who bows and who doesn't.* The
     river spirit traditionally demands a bow to spill the water from the dish on its head. This one
     has turned the ritual into an actual ledger — an entire faction subplot built on one spirit's
     growing, obsessive record of etiquette.
@@ -452,64 +457,64 @@ way or another, started to develop a conscience about the role, mid-career.*
 *The archetype: creatures whose entire mythological function is a warning, starting — individually,
 quietly, without coordinating with each other — to withhold the warning, or give it differently.*
 
-57. **The Cù Sìth Who Barked Twice** [MYTHIC] — *Traditionally barks three times before a death.
+57. **The Cù Sìth Who Barked Twice** ("Two Barks") [MYTHIC] — *Traditionally barks three times before a death.
     Stopped at two, once.* The person lived. Nobody, including the hound, has ever explained the
     missing third bark, and it has never happened again — a single anomaly that the rest of the
     Court treats as either a mercy or a malfunction, depending on who's asked.
     *Field signature:* 3.0 Hz · Δφ 25° — Golden Band · seed phrase: "the third bark he didn't give"
 
-58. **The Kelpie of the Unclaimed Ford** [MYTHIC] — *Traditionally drowns anyone who mounts it.
+58. **The Kelpie of the Unclaimed Ford** ("The Kelpie") [MYTHIC] — *Traditionally drowns anyone who mounts it.
     Has started letting some go.* A structural threat to its own Court's reputation — kelpies that
     show mercy undermine the entire warning system every other water-spirit in the Highlands relies
     on to keep people away from dangerous fords.
     *Field signature:* 6.0 Hz · Δφ 24° — Golden Band · seed phrase: "some riders, released"
 
-59. **A Banshee Who Went Quiet** [MYTHIC] — *Stopped keening for one specific bloodline, and won't
+59. **A Banshee Who Went Quiet** ("Quiet Banshee") [MYTHIC] — *Stopped keening for one specific bloodline, and won't
     say why.* The wail is supposed to foretell death, without exception, for the families she's bound
     to. She has made exactly one exception, indefinitely, and every explanation she's offered has
     been a different one.
     *Field signature:* 0.0 Hz, for one bloodline only · Δφ withheld, by choice · seed phrase: "the wail she's stopped giving"
 
-60. **The Selkie Who Lost the Skin on Purpose** [MUNDANE] — *Burned her own sealskin rather than let
+60. **The Selkie Who Lost the Skin on Purpose** ("Burned Skin") [MUNDANE] — *Burned her own sealskin rather than let
     someone else steal it.* Traditionally, a selkie is trapped on land when a human hides her skin.
     This one removed the possibility herself — no shapeshifting left at all, by her own hand, and a
     grief that reads less like loss than like a decision she's still living inside.
     *Field signature:* Unmeasurable · Δφ the power was in the skin, and the skin is gone · seed phrase: "burned, not stolen"
 
-61. **A Tuatha Dé Danann Left Behind** [MYTHIC] — *The old gods retreated underground or overseas.
+61. **A Tuatha Dé Danann Left Behind** ("Left Behind") [MYTHIC] — *The old gods retreated underground or overseas.
     This one just stayed, quietly, on the surface.* Real power, deliberately muted — centuries of
     being unremarkable on purpose, in a world that assumes every figure like her already left.
     *Field signature:* 11.0 Hz · Δφ 22° — Golden Band edge, deliberately muted · seed phrase: "unremarkable, on purpose, for a very long time"
 
-62. **The Baobhan Sith's Reluctant Sister** [MYTHIC] — *Traditionally lures dancers to their deaths.
+62. **The Baobhan Sith's Reluctant Sister** ("The Reluctant Sister") [MYTHIC] — *Traditionally lures dancers to their deaths.
     Has started warning them instead.* Vampiric Highland spirits whose whole function is the lure —
     and one sister who has begun quietly sabotaging her own kind's hunting grounds, one dancer at a
     time.
     *Field signature:* 2.22 Hz · Δφ 19° — below the Golden Band, sabotaging her own kind's resonance · seed phrase: "the dance she's started ruining, on purpose"
 
-63. **The Nuckelavee's Groom** [MUNDANE] — *Tends the skinless horse-demon, because apparently
+63. **The Nuckelavee's Groom** ("The Groom") [MUNDANE] — *Tends the skinless horse-demon, because apparently
     someone has to.* No magic of any kind — just an unreasonable, situational bravery, and a job that
     nobody else in the Highland Court would take.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "someone has to"
 
-64. **The Blue Men of the Minch, Mid-Argument** [MYTHIC] — *Storm-raising sea spirits, caught
+64. **The Blue Men of the Minch, Mid-Argument** ("The Blue Men") [MYTHIC] — *Storm-raising sea spirits, caught
     disagreeing about a specific ship.* Traditionally a collective; this telling catches them in an
     internal dispute over whether a particular vessel deserves to be sunk — a faction defined by
     consensus, cracking, in one specific case, in a way nobody outside them has noticed yet.
     *Field signature:* variable, disputed among themselves · Δφ an internal vote, unresolved · seed phrase: "the ship they can't agree on"
 
-65. **The Wulver's One Kindness** [MUNDANE] — *Leaves fish on windowsills for the poor, and has
+65. **The Wulver's One Kindness** ("The Wulver") [MUNDANE] — *Leaves fish on windowsills for the poor, and has
     never once been thanked.* Wolf-headed, human-bodied, gentle by a Shetland tradition most other
     wolf-figures in myth don't share — and, per every account, entirely unacknowledged for it.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the fish, and no thanks"
 
-66. **A Fear Liath Mòr Sighting, Confirmed** [MYTHIC] — *Ben Macdhui's Big Grey Man, usually just a
+66. **A Fear Liath Mòr Sighting, Confirmed** ("Big Grey Man") [MYTHIC] — *Ben Macdhui's Big Grey Man, usually just a
     feeling of dread — this time, a confirmed physical encounter.* The survivor of the one verified
     meeting on record refuses to discuss what actually happened, which has made the encounter more
     famous than any of the countless unconfirmed sightings that came before it.
     *Field signature:* Unmeasurable · Δφ the one confirmed encounter overloaded every instrument nearby · seed phrase: "what he saw, he won't say"
 
-67. **Puck, Between the Play and the Folklore** [MYTHIC] — *Robin Goodfellow existed in English
+67. **Puck, Between the Play and the Folklore** ("Puck") [MYTHIC] — *Robin Goodfellow existed in English
     folklore before Shakespeare ever wrote him down — and is now more famous as a character in a play
     than as the hobgoblin he was for centuries before it.* The traditional trickster spirit — "the
     lob of spirits," meddling in mortal love affairs, turning a man's head into an ass's for a
@@ -521,7 +526,7 @@ quietly, without coordinating with each other — to withhold the warning, or gi
     existed before the fiction that made him famous.
     *Field signature:* variable — one reading per source · Δφ two Δφ values recorded, both genuine: folklore and stage · seed phrase: "if we shadows have offended"
 
-68. **The Morrigan, Once Refused** [MYTHIC] — *A war goddess who offered herself to a hero, was
+68. **The Morrigan, Once Refused** ("The Morrigan") [MYTHIC] — *A war goddess who offered herself to a hero, was
     turned down flat, and spent the rest of his story making sure he never fought alone anyway.*
     Real Irish mythology, not embellished: in the Táin Bó Cúailnge, the Mórrígan appears to Cú
     Chulainn and offers her help and her love; he refuses her, not knowing who she is. She does not
@@ -537,6 +542,27 @@ quietly, without coordinating with each other — to withhold the warning, or gi
     isn't going to, and won't explain why the ritual ran without its usual ending.
     *Field signature:* variable, spikes near battlefields · Δφ crow-form readings cluster at 31° (Golden Band), all others scattered · seed phrase: "refused once, present ever since"
 
+69. **The Dagda, Good at Everything Including Looking Bad** ("The Dagda") [MYTHIC] — *A chief god whose two
+    worst public moments were both, somehow, also his best.* Real Irish mythology: the Dagda
+    carries a club so large it has to be dragged on wheels, one end of it kills nine men with a
+    single blow, the other end brings the dead back to life — the same tool, either direction,
+    depending only on which end swings first. His cauldron, the Undry, never runs empty; no one
+    leaves it unsatisfied, which in the old telling is treated less like abundance and more like a
+    quiet standing threat to anyone counting on scarcity. His harp, Uaithne, is stolen by the
+    Fomorians before the Second Battle of Mag Tuired; he walks into their hall and simply calls it
+    by name, and it flies off the wall, through the building, killing nine men on the way to his
+    hand, and then plays the three master strains in order — sorrow, joy, and sleep — over the
+    entire hall, walking them through all three before anyone can stop him. Before that same
+    battle, the Fomorians force-feed him an enormous, mocking porridge as a humiliation, enough to
+    kill an ordinary man; he eats every bite, unhurried, in front of them, and fights the battle
+    the next day regardless. And at the river Unshin, on Samhain eve before that same war, he meets
+    the Morrigan and the two of them come to an arrangement — her aid against the Fomorians,
+    sealed there and nowhere formalized afterward — the one alliance in this roster that both
+    parties remember happening and neither one explains.
+    *Field signature:* triple, one per instrument (club/cauldron/harp) · Δφ harp reading locks to
+    exactly 22° (Golden Band low edge) only when it's called by name, drifts otherwise · seed
+    phrase: "the wheeled club settles every argument twice"
+
 ---
 
 ## FACTION 7 — THE ABYSSAL CHOIR (Lovecraftian cosmic horror; Leviathan/Behemoth-adjacent)
@@ -544,66 +570,66 @@ quietly, without coordinating with each other — to withhold the warning, or gi
 *The archetype: cosmic horror run through actual bureaucracy — vast, incomprehensible forces that,
 up close, turn out to need harbormasters, translators, and zoning permits like anything else.*
 
-69. **A Deep One, Newly Surfaced** [MYTHIC] — *Innsmouth-lineage, and surfaced for a reason the
+70. **A Deep One, Newly Surfaced** ("Deep One") [MYTHIC] — *Innsmouth-lineage, and surfaced for a reason the
     Choir hasn't sanctioned.* Powerful, amphibious, patient — and, by design, demigod-tier rather than
     the unfathomable scale the mythos usually implies. The character is entirely in the unsanctioned
     part: something is happening on the surface that the deep places didn't authorize.
     *Field signature:* 4.0 Hz · Δφ 25° — Golden Band · seed phrase: "surfaced without authorization"
 
-70. **Leviathan's Appointed Harbormaster** [MUNDANE] — *Manages the sea monster's territorial
+71. **Leviathan's Appointed Harbormaster** ("The Harbormaster") [MUNDANE] — *Manages the sea monster's territorial
     paperwork.* No divinity, no horror — just the entirely mundane, entirely necessary job of
     negotiating docking rights and territorial claims on behalf of something the rest of the world
     would call unspeakable. Disproportionately respected by things far more powerful than he is.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the paperwork for something unspeakable"
 
-71. **Behemoth's Grazing-Rights Negotiator** [MUNDANE] — *Decides where a walking catastrophe is
+72. **Behemoth's Grazing-Rights Negotiator** ("The Negotiator") [MUNDANE] — *Decides where a walking catastrophe is
     allowed to stand.* The Biblical land-beast needs somewhere to be that isn't actively
     catastrophic for whatever's nearby. This hero's entire existence is that negotiation, endlessly,
     with a client who cannot be reasoned with in any conventional sense.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "somewhere to stand that isn't catastrophic"
 
-72. **A Star-Spawn, Off Mission** [MYTHIC] — *Sent to observe. Started acting anyway, in small,
+73. **A Star-Spawn, Off Mission** ("Off Mission") [MYTHIC] — *Sent to observe. Started acting anyway, in small,
     deniable ways.* A demigod-tier envoy whose actual mandate was passive observation, quietly
     exceeding it in ways careful enough that no one back home has caught on yet.
     *Field signature:* 47.0 Hz · Δφ 34° — Golden Band · seed phrase: "observation only, mostly"
 
-73. **The Choir's Human Translator** [MUNDANE] — *No abyssal blood at all — just the only person who
+74. **The Choir's Human Translator** ("The Translator") [MUNDANE] — *No abyssal blood at all — just the only person who
     can turn the Choir's demands into terms the surface world can negotiate with.* Entirely mundane,
     arguably the single most valuable person in the entire faction, and treated by both sides with
     the specific wariness reserved for anyone who understands both of you better than you understand
     each other.
     *Field signature:* Unmeasurable · Δφ the only qualification is understanding both sides · seed phrase: "neither of you understands the other"
 
-74. **A Byakhee, Grounded** [MYTHIC] — *An interstellar mount-creature, stranded on the surface and
+75. **A Byakhee, Grounded** ("Grounded") [MYTHIC] — *An interstellar mount-creature, stranded on the surface and
     slowly adapting to gravity.* Dangerous, resentful, and — against its own nature — getting used to
     a world it was never meant to be trapped in.
     *Field signature:* 19.0 Hz, falling · Δφ 29° — Golden Band, decaying toward baseline · seed phrase: "gravity, eventually"
 
-75. **The Last Sane Cultist** [MUNDANE] — *Read the forbidden text, understood it completely, and
+76. **The Last Sane Cultist** ("The Sane One") [MUNDANE] — *Read the forbidden text, understood it completely, and
     didn't break.* Everyone who's read it before either died or lost their mind. This is the one
     exception, and the Choir doesn't trust her for exactly that reason — sanity, in this context, reads
     as suspicious.
     *Field signature:* 13.0 Hz · Δφ stable — should have destabilized, didn't · seed phrase: "read completely, and didn't break"
 
-76. **Dagon's Reluctant Herald** [MYTHIC] — *Announces the deep god's will, and quietly edits the
+77. **Dagon's Reluctant Herald** ("The Herald") [MYTHIC] — *Announces the deep god's will, and quietly edits the
     worst of it down to something survivable.* Nobody has caught him doing it. The character is
     entirely the tension of a herald who has started, very carefully, mistranslating in the direction
     of mercy.
     *Field signature:* 6.0 Hz · Δφ 30°, quietly mistranslated downward before delivery · seed phrase: "the mercy he mistranslates into the message"
 
-77. **A Thing From the Cold Waste, Thawed Early** [MYTHIC] — *Woke up before its cycle should have
+78. **A Thing From the Cold Waste, Thawed Early** ("Thawed Early") [MYTHIC] — *Woke up before its cycle should have
     ended, and is still remembering how to exist.* Confusion made into character rather than
     spectacle — something ancient and vast, currently disoriented, currently becoming coherent again
     in real time.
     *Field signature:* 0.0 Hz, climbing · Δφ incoherent, resolving in real time · seed phrase: "still remembering how to exist"
 
-78. **The Choir's Cartographer of Places That Shouldn't Connect** [MUNDANE] — *Maps non-Euclidean
+79. **The Choir's Cartographer of Places That Shouldn't Connect** ("The Impossible Map") [MUNDANE] — *Maps non-Euclidean
     geography for entirely practical logistics reasons.* No horror in the cartographer herself at
     all — just the calm, professional competence of someone doing a genuinely disturbing job very,
     very well.
     *Field signature:* Unmeasurable · Δφ the geometry is the horror, not her · seed phrase: "the map that shouldn't close"
 
-79. **Cain, East of Eden** [MYTHIC] — *The first murder, and a mark that is a curse and a
+80. **Cain, East of Eden** ("Cain") [MYTHIC] — *The first murder, and a mark that is a curse and a
     protection at the same time.* Genesis's own account, taken at face value rather than
     embellished: killed his brother Abel, was cursed to wander the earth as a fugitive, and was
     given a mark by the same authority that cursed him — specifically so that no one who found him
@@ -623,36 +649,36 @@ up close, turn out to need harbormasters, translators, and zoning permits like a
 *Already TYLER canon. The archetype: high finance played completely straight against the
 supernatural — debt, underwriting, and repossession as the actual load-bearing magic system.*
 
-80. **The Ledger-Duke of the Long Invoice** [MUNDANE] — *An entire life built on unpaid favors.* No
+81. **The Ledger-Duke of the Long Invoice** ("The Ledger-Duke") [MUNDANE] — *An entire life built on unpaid favors.* No
     magic — just an encyclopedic memory for who owes whom, across timescales long enough that some of
     the debts predate the debtor's current identity.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the invoice that's still, technically, open"
 
-81. **A Heikegani Underwriter, First Class** [MUNDANE] — *Prices risk on things that shouldn't be
+82. **A Heikegani Underwriter, First Class** ("The Underwriter") [MUNDANE] — *Prices risk on things that shouldn't be
     insurable.* Fate, luck, a specific person's next decision — all, per this underwriter, quantifiable
     with the right actuarial framework. Whether that's true or just extremely convincing salesmanship
     is the actual open question of the character.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "insurable, allegedly"
 
-82. **The Crustocrat Who Wouldn't Foreclose** [MYTHIC] — *Held a debt against a demigod for two
+83. **The Crustocrat Who Wouldn't Foreclose** ("No Foreclosure") [MYTHIC] — *Held a debt against a demigod for two
     centuries and never called it in.* Within the Parliament, mercy of this kind is treated as a
     breach of fiduciary duty — a demigod-tier financier whose entire scandal is a kindness his own
     institution can't forgive.
     *Field signature:* 1.6 Hz · Δφ 26° — Golden Band · seed phrase: "two centuries, uncollected"
 
-83. **The Shell Parliament's Actuary of Impossible Odds** [MUNDANE] — *Calculates probabilities for
+84. **The Shell Parliament's Actuary of Impossible Odds** ("The Actuary") [MUNDANE] — *Calculates probabilities for
     events with no historical precedent.* A hoodie funding a store that doesn't exist yet. A duck
     telling the truth. No magic — just a willingness to run the numbers on things everyone else
     assumes are unquantifiable.
     *Field signature:* Unmeasurable · Δφ runs the numbers on things that shouldn't have numbers · seed phrase: "the odds on a duck telling the truth"
 
-84. **A Junior Clerk, Promoted by Accident** [MUNDANE] — *Filed one form correctly during a crisis
+85. **A Junior Clerk, Promoted by Accident** ("Accidental Clerk") [MUNDANE] — *Filed one form correctly during a crisis
     and has been quietly running with the mistaken authority ever since.* The most mundane entry in
     the faction, and, per several accounts, one of the more competent members of it — nobody's
     corrected the error because the error keeps working.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "filed correctly, once"
 
-85. **The Parliament's Repossession Specialist** [MYTHIC] — *Collects on the debts the Ledger-Duke
+86. **The Parliament's Repossession Specialist** ("Repo") [MYTHIC] — *Collects on the debts the Ledger-Duke
     won't.* Where #77's entire character is the debts he's chosen not to call in, this one exists
     specifically to call in everything else — the Parliament's answer to its own softest instincts.
     *Field signature:* 0.51 Hz (inverse) · Δφ 24° — Golden Band · seed phrase: "the debts the Duke won't collect"
@@ -664,35 +690,35 @@ supernatural — debt, underwriting, and repossession as the actual load-bearing
 *Already TYLER canon. The archetype: an observation-only doctrine, and the specific cost of actually
 following it.*
 
-86. **An Eastwind Owl, Vassago-Frequency** [MYTHIC] — *Already TYLER canon — 11.11 Hz, soft
+87. **An Eastwind Owl, Vassago-Frequency** ("The Owl") [MYTHIC] — *Already TYLER canon — 11.11 Hz, soft
     foresight.* The faction's whole identity in one figure: sees things three moves before they
     matter, and files a report instead of intervening, every single time, because that is the entire
     job.
     *Field signature:* 11.11 Hz · Δφ 29° — Golden Band, clean · seed phrase: "reveal the gentle maybe"
 
-87. **The Owl Who Broke Protocol Once** [MUNDANE] — *Intervened, exactly once, against doctrine —
+88. **The Owl Who Broke Protocol Once** ("Broke Protocol") [MUNDANE] — *Intervened, exactly once, against doctrine —
     and it worked.* The Owls have spent longer arguing about what that precedent means than they
     spent on the actual incident. Nobody has decided whether she should be commended or grounded, and
     the ambiguity itself has become the point.
     *Field signature:* 11.11 Hz · Δφ briefly 40°, then returned to band · seed phrase: "it worked, and the argument outlived the incident"
 
-88. **A Field Archivist, Twelve Sites In** [MUNDANE] — *No magic — just an encyclopedic, slightly
+89. **A Field Archivist, Twelve Sites In** ("Twelve Sites") [MUNDANE] — *No magic — just an encyclopedic, slightly
     obsessive memory for site classifications.* Recognizes patterns because she has, quite simply,
     seen this exact shape of anomaly before, twelve times, and remembers every one of them in detail.
     *Field signature:* 11.11 Hz · Δφ 28° — Golden Band · seed phrase: "the twelfth time, she already knew"
 
-89. **The Owl Who Logs the Owls** [MUNDANE] — *A meta-archivist, auditing the archivists.* Feared by
+90. **The Owl Who Logs the Owls** ("The Meta-Owl") [MUNDANE] — *A meta-archivist, auditing the archivists.* Feared by
     her own faction more than by outsiders — the person whose entire job is making sure the watchers
     are themselves being watched.
     *Field signature:* 11.11 Hz · Δφ measures everyone else's, rarely her own · seed phrase: "who watches the watchers' resonance"
 
-90. **MOOR-8's Predecessor** [MYTHIC] — *Filed the sealed-log system before it was standard
+91. **MOOR-8's Predecessor** ("The First Seal") [MYTHIC] — *Filed the sealed-log system before it was standard
     practice, and retired under circumstances the current archive won't specify.* Every modern Owl
     procedure traces back to a decision this person made, alone, before anyone thought to write down
     why.
     *Field signature:* 11.11 Hz · Δφ unrecorded — retired under seal · seed phrase: "before it was standard practice"
 
-91. **A Newly Recruited Owl, Still Flinching at the Hum** [MUNDANE] — *The rookie, deliberately.*
+92. **A Newly Recruited Owl, Still Flinching at the Hum** ("The Rookie") [MUNDANE] — *The rookie, deliberately.*
     Hasn't yet developed the practiced calm the rest of the faction takes for granted — every scene
     involving her should read as someone still learning to hold still in the presence of something
     that unsettles her, on purpose, because that's the actual entry point into this faction's whole
@@ -708,63 +734,63 @@ near her, in her idiom: brass, code, and a frequency table wearing gears instead
 archetype: technology that grew up next to something it doesn't fully understand, and has learned
 to work anyway.*
 
-92. **A Golden Band Construct, First Casting** [MYTHIC] — *Built to a real spec, and strongest only
+93. **A Golden Band Construct, First Casting** ("First Casting") [MYTHIC] — *Built to a real spec, and strongest only
     inside a narrow window.* Built to the Golden Band's own phase-corridor parameters — a
     demigod-tier machine whose entire nature is defined by being extraordinary in a specific,
     narrow interval and merely solid the rest of the time.
     *Field signature:* 22.38 Hz · Δφ 22°–38° — strongest inside the window, merely solid outside it · seed phrase: "the window it was built for"
 
-93. **The Architect's Orb Custodian** [MUNDANE] — *Maintains the terminal. Isn't the terminal.*
+94. **The Architect's Orb Custodian** ("The Custodian") [MUNDANE] — *Maintains the terminal. Isn't the terminal.*
     Entirely human, entirely without magic of her own — total operational knowledge of something
     genuinely dangerous, and none of the danger herself.
     *Field signature:* Unmeasurable · Δφ maintains it, isn't it · seed phrase: "maintains it, isn't it"
 
-94. **A Chrono-Cube Technician, Uncleared** [MUNDANE] — *Works next to something she isn't cleared to
+95. **A Chrono-Cube Technician, Uncleared** ("Uncleared") [MUNDANE] — *Works next to something she isn't cleared to
     understand.* Every day of her job is proximity to a custody question far above her clearance —
     the entire character is competence performed in the dark, on purpose, by policy, not by choice.
     *Field signature:* Unmeasurable · Δφ not cleared to read her own instrument's output · seed phrase: "cleared for proximity, not comprehension"
 
-95. **The Towerprint Cartographer** [MYTHIC] — *Fingerprints identity itself.* Named for a real
+96. **The Towerprint Cartographer** ("Towerprint") [MYTHIC] — *Fingerprints identity itself.* Named for a real
     in-world fingerprinting discipline — a demigod whose gift is recognizing what something actually
     is underneath whatever it's currently pretending to be.
     *Field signature:* variable — reads the target's frequency, not her own · Δφ matches whatever's underneath the disguise · seed phrase: "identity, underneath the disguise"
 
-96. **A CAST-Reconnect Technician** [MUNDANE] — *Invisible by design, and good at it.* Per the
+97. **A CAST-Reconnect Technician** ("The Reconnector") [MUNDANE] — *Invisible by design, and good at it.* Per the
     show's own writer's-room law, these reconnections are never seen happening — this character's
     entire professional identity is being extremely good at something that is, by rule, never allowed
     to be noticed.
     *Field signature:* Unmeasurable, by rule · Δφ never logged, on purpose · seed phrase: "the room tightens, nobody notices"
 
-97. **The Steam-Driven Ledger Automaton** [MYTHIC] — *Built to cross-reference two factions' records,
+98. **The Steam-Driven Ledger Automaton** ("The Automaton") [MYTHIC] — *Built to cross-reference two factions' records,
     and ended up belonging to neither.* A brass construct built to reconcile the Shell Parliament's
     debts against the Eastwind Owls' site logs — a bridge between two factions that both, now, treat
     it as slightly foreign.
     *Field signature:* 0.51 / 11.11 Hz, alternating · Δφ hybrid reading, belongs fully to neither table · seed phrase: "belongs to neither, fully"
 
-98. **A Layer 9 Line Technician** [MUNDANE] — *Holds a line to something he's never heard answer.*
+99. **A Layer 9 Line Technician** ("Layer 9") [MUNDANE] — *Holds a line to something he's never heard answer.*
     Maintains the channel used to query the deep substrate directly — has held the line open for
     years and has stopped, at some point, expecting to hear anything back.
     *Field signature:* Unmeasurable · Δφ the line has never once answered · seed phrase: "held open, expecting less each year"
 
-99. **The Field Activation Log's Human Numbering Authority** [MUNDANE] — *Decides what gets a number
+100. **The Field Activation Log's Human Numbering Authority** ("Numbers") [MUNDANE] — *Decides what gets a number
     and what stays unnumbered.* An entirely bureaucratic role with outsized consequence — being
     "unnumbered" in this world's own record-keeping is a real, meaningful status, and this is the
     person who assigns it.
     *Field signature:* Unmeasurable · Δφ decides what gets measured at all · seed phrase: "unnumbered, on his authority"
 
-100. **A Golden Band Second Casting, Malfunctioning** [MYTHIC] — *Built to the same spec as #89, and
+101. **A Golden Band Second Casting, Malfunctioning** ("Second Casting") [MYTHIC] — *Built to the same spec as #89, and
     came out permanently wrong.* Outside the phase corridor entirely, with no path back in — a
     character built around being a mistake that turned out to still be useful, which is a very
     different thing from being fixed.
     *Field signature:* 22.38 Hz nominal, unstable · Δφ 41° — outside the Golden Band, permanently · seed phrase: "outside the window, permanently, and still useful"
 
-101. **The Emily OS Tile Custodian** [MUNDANE] — *Cares, obsessively, for one small, specific thing.*
+102. **The Emily OS Tile Custodian** ("Tile") [MUNDANE] — *Cares, obsessively, for one small, specific thing.*
     No power beyond absolute devotion to a single physical(-ish) tile referenced once in the show's
     own record — the most mundane job in the faction, treated by its holder as the most important
     one in the world.
     *Field signature:* Unmeasurable · Δφ one tile, entire devotion · seed phrase: "one tile, entire devotion"
 
-102. **A Duck, Reportedly Telekinetic** [MYTHIC/MUNDANE — genuinely both, on purpose] — *Claims
+103. **A Duck, Reportedly Telekinetic** ("The Duck") [MYTHIC/MUNDANE — genuinely both, on purpose] — *Claims
     government employment. Covers for a shy frog. Insists it's the chosen one.* Drawn directly from
     `just_a_duck.md` and its continuation, `episodes/x00_the_custody_of_a_duck.md` — never confirmed,
     never fully denied. The one deliberately unresolved power level on the whole roster: whatever the
@@ -774,7 +800,7 @@ to work anyway.*
     **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
-103. **The Unicorn, Allegedly a Robot** [MYTHIC/MUNDANE — both, on purpose] — *Was eating spaghetti
+104. **The Unicorn, Allegedly a Robot** ("The Unicorn") [MYTHIC/MUNDANE — both, on purpose] — *Was eating spaghetti
     when it announced it isn't really a unicorn — it's a robot in disguise.* Drawn from the same
     `just_a_duck.md` transcript as the duck. Never demonstrated a single robotic capability on
     record; never demonstrated a single magical one either. The duck didn't believe it (the
@@ -786,7 +812,7 @@ to work anyway.*
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
     *Field signature:* reads as neither magical nor mechanical · Δφ instrument shrugs · seed phrase: "the less believable claim, still standing"
 
-104. **The Ghost, Self-Identified as Alien** [MYTHIC] — *Was playing the piano when it clarified it
+105. **The Ghost, Self-Identified as Alien** ("The Ghost") [MYTHIC] — *Was playing the piano when it clarified it
     isn't really a ghost — it's an alien from another planet.* Also from `just_a_duck.md`. Plays
     music nobody has transcribed. The only figure in the factory transcript with a stated skill
     (piano) rather than just a claim, which somehow makes the identity question stranger, not
@@ -796,7 +822,7 @@ to work anyway.*
     **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
-105. **The Frog, Keeper of a Secret It Won't Share** [MYTHIC] — *Wearing a top hat, claims to know
+106. **The Frog, Keeper of a Secret It Won't Share** ("The Frog") [MYTHIC] — *Wearing a top hat, claims to know
     the secret of time travel — and has never told anyone, including, per the duck's own testimony
     in `episodes/x00_the_custody_of_a_duck.md`, the duck.* Established as "shy" by the duck, who
     covers for it without ever explaining what it's shy about. The one figure in the entire ensemble
@@ -806,7 +832,7 @@ to work anyway.*
     **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
-106. **The Tree, Speaking French** [MYTHIC] — *Claims to be the keeper of the universe's greatest
+107. **The Tree, Speaking French** ("The Tree") [MYTHIC] — *Claims to be the keeper of the universe's greatest
     secret — in French, for reasons the transcript does not translate.* From `just_a_duck.md`. Does
     not move, per the source material; everyone else in the factory treats this as unremarkable. The
     only entry in the entire compendium whose entire power is a single unverified claim delivered in
@@ -815,7 +841,7 @@ to work anyway.*
     **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
-107. **The Pizza, On Fire, Uninvestigated** [MUNDANE] — *"I am the chosen one." Then: on fire. Nobody
+108. **The Pizza, On Fire, Uninvestigated** ("The Pizza") [MUNDANE] — *"I am the chosen one." Then: on fire. Nobody
     in either the source transcript or its continuation (`episodes/x00_the_custody_of_a_duck.md`)
     ever looks at it, checks on it, or puts it out.* The most mundane entry on the entire roster by
     every literal measure — it is food — and also the only one whose claim to be "the chosen one" has
@@ -827,7 +853,7 @@ to work anyway.*
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
     *Field signature:* warm · Δφ that's the whole reading · seed phrase: "chosen, apparently, and on fire"
 
-108. **The Custodian of the Hoodie** [MUNDANE] — *Whoever ends up holding the thing the duck's story
+109. **The Custodian of the Hoodie** ("Hoodie") [MUNDANE] — *Whoever ends up holding the thing the duck's story
     never resolved.* Not a mythic figure — the roster's most deliberately mundane entry, closing the
     loop on the document that founded this whole faction's tie-in: *"you are owed something now, for
     reading this. I haven't decided what yet."* Neither has this roster.
@@ -843,7 +869,7 @@ to gain from the myth existing. The archetype: the gap between the actual, munda
 and the legend that outgrew it — and what it would mean if, in this multiverse, the legend turned out
 to be quietly, partially true.*
 
-109. **Nicholas Flamel, Scrivener** [MYTHIC/MUNDANE — genuinely both, on purpose] — *The real man
+110. **Nicholas Flamel, Scrivener** ("Flamel") [MYTHIC/MUNDANE — genuinely both, on purpose] — *The real man
     almost certainly never made the Philosopher's Stone. The legend says otherwise, and the legend
     is three hundred years louder than the truth.* Flamel was, by the actual historical record, a
     prosperous Parisian manuscript-seller and scribe who died in 1418 — wealthy, literate, generous
@@ -857,7 +883,7 @@ to be quietly, partially true.*
     years to enjoy nobody checking twice. The character should never have to answer which.
     *Field signature:* measured as ordinary for three hundred years · Δφ which is itself the anomaly · seed phrase: "the stone that was never found, and the fortune that was real"
 
-110. **Nikola Tesla, the Unfinished Tower** [MYTHIC] — *Died in debt, in a hotel room, with the
+111. **Nikola Tesla, the Unfinished Tower** ("Tesla") [MYTHIC] — *Died in debt, in a hotel room, with the
     patents for the century that came after him.* Real, documented history, barely embellished:
     alternating current, the Tesla coil, wireless power transmission demonstrated decades before
     anyone else took it seriously — and Wardenclyffe Tower, a real, physical structure on Long
@@ -874,7 +900,7 @@ to be quietly, partially true.*
     and it isn't invented at all.
     *Field signature:* 60 Hz · Δφ unresolved, permanently, by the same instruments that measured everything else he built · seed phrase: "the tower was already broadcasting, when they tore it down"
 
-111. **Ada Lovelace, Pilot** [MYTHIC] — *Wrote the first computer program for a machine that was
+112. **Ada Lovelace, Pilot** ("Ada") [MYTHIC] — *Wrote the first computer program for a machine that was
     never built, over a century before anyone built one that could run it.* Real history, one clean
     reframe: Lovelace's 1843 notes on Babbage's Analytical Engine include an algorithm to compute
     Bernoulli numbers — recognized, by historians of computing, as the first published program
@@ -912,7 +938,7 @@ to be quietly, partially true.*
 - TYLER-canon crossovers (frequencies, Jiangshi, Shell Parliament, Eastwind Owls, THE_FIELD.md, the
   duck) are load-bearing, not decorative — pulling on any of them connects back to existing episode
   content.
-- **Field signatures added 2026-07-23** to all 110 entries, using the exact apparatus already
+- **Field signatures added 2026-07-23** to all 112 entries, using the exact apparatus already
   canonical in `lore/field_activation_logs.md`: frequency (Hz), Δφ (Golden Band phase angle,
   22°–38° = clean activation), and a seed phrase. Not decorative — the assignments carry real
   information about each entry: established Goetia canon frequencies reused verbatim where they
@@ -930,3 +956,9 @@ to be quietly, partially true.*
   in a later pass, once favorites are chosen, derived from what's written here — and if that later
   pass gets the gameplay wrong, it's the stats that get regenerated against this lore, not the other
   way around.
+- **Short nicknames added 2026-07-23** to every entry whose full name is long or generic — a
+  parenthetical, quoted 1-3-word call sign right after the bolded name (e.g. `**Han Xiangzi's
+  Flute-Debt** ("Flute Debt")`), for quick reference without shortening the actual lore name.
+  Entries whose name is already short and memorable on its own (Bacon, Stolas, Gary, Puck, Cain,
+  Nidhogg, Tesla, and similar) were left as-is rather than given a redundant nickname. Not a rename
+  — the full name stays canonical; the nickname is a handle, not a replacement.

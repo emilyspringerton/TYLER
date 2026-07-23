@@ -1,3 +1,11 @@
+## 2026-07-23 (6)
+- docs: `multiverse_heroes.md` new entry #69, "The Dagda, Good at Everything Including Looking Bad" -- real Irish mythology (club/cauldron/harp, the porridge humiliation before Mag Tuired, the Unshin liaison with the Morrigan), Faction 6 (Highland Court), placed directly after the Morrigan entry. 112 heroes total, header count updated.
+- docs: `multiverse_heroes.md` #25 (Buer, "Doc Wheel") marked S-tier for RED GARDEN as a support-archetype pick, tracked in `REDGARDEN/NORTHSTAR.md` §7.
+- docs: `multiverse_heroes.md` short (1-3 word) quoted nicknames added to every entry with a long or generic full name, e.g. `**Han Xiangzi's Flute-Debt** ("Flute Debt")` -- entries already short and memorable (Bacon, Stolas, Gary, Puck, Cain, Nidhogg, Tesla, etc.) left as-is. Full renumbering pass run afterward to keep sequential numbering intact across the Dagda insertion (duck/unicorn/ghost/frog/tree/pizza shifted from #101-106 to #103-108 as a result).
+
+## 2026-07-23 (5)
+- REDGARDEN/NORTHSTAR.md §7 updated in tandem: hero numbers corrected for the Dagda-insertion shift, Buer added as a new S-tier support pick.
+
 ## 2026-07-23 (4)
 - docs: `multiverse_heroes.md` #10 (The Retrieval Cart) marked S-tier for RED GARDEN, with a gameplay note (story-first, no numbers): a hero whose identity is delivering unrequested utility on its own schedule rather than direct player-commanded action -- a genuinely different MOBA shape worth designing toward, not smoothing into a conventional kit.
 
