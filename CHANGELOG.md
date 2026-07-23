@@ -1,3 +1,6 @@
+## 2026-07-23 (4)
+- docs: `multiverse_heroes.md` #10 (The Retrieval Cart) marked S-tier for RED GARDEN, with a gameplay note (story-first, no numbers): a hero whose identity is delivering unrequested utility on its own schedule rather than direct player-commanded action -- a genuinely different MOBA shape worth designing toward, not smoothing into a conventional kit.
+
 ## 2026-07-23 (3)
 - docs: `multiverse_heroes.md` #38 (Zhang Guo Lao's Donkey) marked as founder's S-tier pick for RED GARDEN implementation, tracked in `REDGARDEN/NORTHSTAR.md` §7 (new hero implementation queue).
 - docs: `multiverse_heroes.md` #101 (the duck) and #102 (the unicorn) added to the same S-tier RED GARDEN queue.

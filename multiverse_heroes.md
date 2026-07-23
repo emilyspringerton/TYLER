@@ -110,6 +110,15 @@ something none of them fully understand.*
     less a person than a very patient, very quiet coincidence that keeps happening to the same
     institution.
     *Field signature:* 0.51 Hz (Agares) · Δφ 0° — direct, no angular separation · seed phrase: "no requester in the ledger"
+    **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue). **Gameplay note, story-first, still no
+    numbers:** the Cart is the one entry in the whole compendium whose core identity is "delivers
+    something nobody asked for, on its own schedule" rather than any direct action a player commands
+    — a genuinely different shape in MOBA terms than fighter/mage/support. Read literally, it plays
+    less like a hero and more like a recurring, uncontrollable world event attached to a lane: it
+    shows up, leaves something (a buff, an item, information — the lore never says it's always
+    good), and nobody, including its own controller, gets to request what. That unpredictability is
+    the whole character, not a flaw to design around.
 
 11. **Wren-3** [MYTHIC] — *The first to write down that something couldn't be measured.* Logged
     Tyler's hum as unmeasurable, shifting beyond any cataloguable range, four centuries before the
