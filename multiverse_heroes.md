@@ -741,6 +741,8 @@ to work anyway.*
     truth is, the duck has never once broken character to reveal it, and the story is better for not
     settling it.
     *Field signature:* disputed between witnesses · Δφ duck insists it's accurate; no one else confirms · seed phrase: "that part wasn't the pizza talking"
+    **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
 102. **The Unicorn, Allegedly a Robot** [MYTHIC/MUNDANE — both, on purpose] — *Was eating spaghetti
     when it announced it isn't really a unicorn — it's a robot in disguise.* Drawn from the same
@@ -750,6 +752,8 @@ to work anyway.*
     of them argue about whose claim is less believable, and neither wins). Backstory hook: is the
     only figure in the whole factory transcript who volunteered a *mundane* explanation for
     something magical-looking, which nobody has ever taken more seriously than the opposite claims.
+    **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
     *Field signature:* reads as neither magical nor mechanical · Δφ instrument shrugs · seed phrase: "the less believable claim, still standing"
 
 103. **The Ghost, Self-Identified as Alien** [MYTHIC] — *Was playing the piano when it clarified it
