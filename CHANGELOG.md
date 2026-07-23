@@ -1,6 +1,9 @@
 ## 2026-07-23 (3)
 - docs: `multiverse_heroes.md` #38 (Zhang Guo Lao's Donkey) marked as founder's S-tier pick for RED GARDEN implementation, tracked in `REDGARDEN/NORTHSTAR.md` §7 (new hero implementation queue).
 - docs: `multiverse_heroes.md` #101 (the duck) and #102 (the unicorn) added to the same S-tier RED GARDEN queue.
+- docs: `multiverse_heroes.md` #103–#106 (ghost, frog, tree, pizza) complete the `just_a_duck.md` ensemble in the S-tier RED GARDEN queue -- all six factory cast members now tracked.
+- docs: `multiverse_heroes.md` new entry #107, "The Morrigan, Once Refused" -- real Irish mythology (Táin Bó Cúailnge), Faction 6 (Highland Court). 111 heroes total.
+- docs: `multiverse_heroes.md` #35, the Bifrost off-duty watchman, renamed "Gary, Bifrost Security (Off-Duty)" -- same description, kept, plus mall-cop flavor (unnecessary clipboard, calls the bridge "the property," told a fleeing Jotun to "slow down, this isn't a track meet").
 
 ## 2026-07-23 (2)
 - docs: `multiverse_heroes.md` cross-references `GoblinFoxDragon/docs2/HERO_CONTENT_FRAMEWORK.md` — the story-first process for turning any compendium entry into a dungeon/NM-boss/loot-drop, grounded in GFD's real mob/NM/itemdef/loot systems. Five worked examples (Bacon, Zagan, Nidhogg, Cain, Tesla).
