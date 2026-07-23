@@ -38,6 +38,9 @@ TYLER/
 ├── README.md                    ← Series bible (Builds 0001–0004)
 ├── universe_engine.md           ← Content generation protocol (AI system prompt)
 ├── THE_FIELD.md                 ← The Field document (in-universe artifact)
+├── just_a_duck.md                ← Raw transcript, "Jack's Factory" YouTube short (Tier 1 golden)
+├── multiverse_heroes.md          ← 108-entry hero lore compendium (names/history/archetype only,
+│                                    no abilities/stats yet); RED GARDEN is the closest game home
 ├── 0.md / 1.md                  ← Early build notes
 │
 ├── episodes/                    ← Episode scripts

@@ -19,10 +19,17 @@
 | S00E01 | "Neptune" | 0125 | episodes/s00e01_neptune.md |
 | S00E02 | "Arrival" | 0126 | episodes/s00e02_arrival.md |
 | S00E03 | "July 4" | 0127 | episodes/s00e03_july4.md |
+| INTERLUDE ‡ | "The Custody of a Duck" | 0129 | episodes/x00_the_custody_of_a_duck.md |
 
 † **S00E-1 is a bridge episode.** Story chronology places it FIRST — June 18–21, 2026, between Jiangshi Final Memo #081 (S11E08, Fez, "the Syndicate will make its own determination") and the Pontiac ground state (S00E00, June 27). Production order places it after S00E03 (Build 0128, written after Build 0127). It dramatizes the determination session: Attempt Four archived, Attempt Five authorized, "the oscillation is the subject" adopted, NOOR-1 dispatched to the Michigan corridor.
 
 **Series X note:** New continuity. Not a continuation of Attempt Four (archived S1–S11). Attempt Five begins. Carrier wave ground state: hum precedes Jiangshi operations. Tyler natal chart + Camera Op natal chart + 28.7 Hz + Jupiter Cancer egress fully integrated. STINKIES COMMISSAIRE Store 0 (Pontiac, MI) established as diegetic location.
+
+‡ **The INTERLUDE is found footage, not numbered.** Continuation of the okemily.com blog transcript
+"The Duck Also Has Opinions About the Hoodie" — no camera credit on either half, timeline position
+unfixed by design (see the episode's own header). Filed alongside S00E03/S00E-1 but deliberately left
+outside the season's numbering, the same way `field-activation-receipt-unnumbered` was filed
+alongside `Activation #114` without being folded into its numbering.
 
 ---
 
