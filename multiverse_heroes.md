@@ -850,6 +850,10 @@ to be quietly, partially true.*
 
 ## Notes for the next pass
 
+- **Dungeons/bosses/loot, 2026-07-23:** `GoblinFoxDragon/docs2/HERO_CONTENT_FRAMEWORK.md` is the
+  story-first process for turning any entry above into a dungeon, NM/raid boss, and loot drop,
+  grounded in the real engine (mob/NM/itemdef/loot systems). Five worked examples so far: Bacon,
+  Zagan, Nidhogg, Cain, Tesla. No numbers yet, same discipline as this document.
 - Eleven factions, roughly ten heroes each, a third-ish MUNDANE by design — check that ratio holds
   once favorites get pulled and expanded; don't let "interesting" quietly mean "mythic."
 - Real mythology (Factions 1–10) and real history (Faction 11) are both used as source material and
