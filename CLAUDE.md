@@ -124,4 +124,8 @@ Einhorn Media: episode scripts → compiled metaverse experiences. Every faction
 
 ---
 
+## Commit Protocol (standing instruction)
+
+Always commit and push completed work immediately — don't wait to be asked. This is the default for every repo in this monorepo.
+
 *End log: CLAUDE.md COMPILED. TYLER STATUS: UNRESOLVED. CLEAN BUILDS FIRST.*
