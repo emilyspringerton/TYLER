@@ -311,6 +311,8 @@ servants, and whose civil servants have started to look a great deal like gods.*
     its own character: something whose entire nature is showing up exactly when required and
     disappearing, without complaint, the rest of the time — a life defined entirely by usefulness.
     *Field signature:* Unmeasurable · Δφ folds before the reading completes · seed phrase: "unfolds exactly when needed"
+    **Founder pick, 2026-07-23: S-tier for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue).
 
 39. **He Xiangu, Who Stopped Eating** [MYTHIC] — *Achieved immortality by subsisting on
     mother-of-pearl and moonlight, and never explained why she chose that.* The one female Immortal
