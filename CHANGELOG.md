@@ -1,3 +1,6 @@
+## 2026-07-23 (7)
+- New episode `episodes/x01_the_long_quiet.md` — Series X, unnumbered interlude, "on the vibes" per founder direction. Layer 1 (Custody Trial) touching Layer 4 (Emily OS) directly: a two-day unexplained substrate silence, discovered and sat with rather than diagnosed on-camera (Emily OS never explains herself, tested at its hardest edge), resolving into a real-time-logging discipline rather than a root-cause reveal. No plot beyond the founder's own commissioning line, by design.
+
 ## 2026-07-23 (6)
 - docs: `multiverse_heroes.md` new entry #69, "The Dagda, Good at Everything Including Looking Bad" -- real Irish mythology (club/cauldron/harp, the porridge humiliation before Mag Tuired, the Unshin liaison with the Morrigan), Faction 6 (Highland Court), placed directly after the Morrigan entry. 112 heroes total, header count updated.
 - docs: `multiverse_heroes.md` #25 (Buer, "Doc Wheel") marked S-tier for RED GARDEN as a support-archetype pick, tracked in `REDGARDEN/NORTHSTAR.md` §7.
