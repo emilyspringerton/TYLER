@@ -1,3 +1,6 @@
+## 2026-07-23 (8)
+- New episode `episodes/x02_recruitment_drive.md` — Series X, enrichment pass on `REDGARDEN/docs/BACKSTORY.md`'s gang-formation lore, written as a full episode framed explicitly as a RED GARDEN in-game cutscene (roster-unlock artifact) rather than a broadcast episode. Same nine recruitments, same order as the prose account.
+
 ## 2026-07-23 (7)
 - New episode `episodes/x01_the_long_quiet.md` — Series X, unnumbered interlude, "on the vibes" per founder direction. Layer 1 (Custody Trial) touching Layer 4 (Emily OS) directly: a two-day unexplained substrate silence, discovered and sat with rather than diagnosed on-camera (Emily OS never explains herself, tested at its hardest edge), resolving into a real-time-logging discipline rather than a root-cause reveal. No plot beyond the founder's own commissioning line, by design.
 
