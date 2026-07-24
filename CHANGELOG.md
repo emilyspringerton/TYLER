@@ -1,3 +1,10 @@
+## 2026-07-24
+- New episode `episodes/x03_the_band_name.md` — Series X, unnumbered interlude, third loading-screen
+  cutscene entry. The gang (post-formation, per `x02_recruitment_drive.md`) argues over a metal
+  band name; lands on "Mid-Piano," drawn directly from The Ghost's existing passive ability rather
+  than inventing new lore. No `docs/BACKSTORY.md` claims touched -- pure aftermath material,
+  lowest-stakes Series X entry to date on purpose. Published as a blog post.
+
 ## 2026-07-23 (8)
 - New episode `episodes/x02_recruitment_drive.md` — Series X, enrichment pass on `REDGARDEN/docs/BACKSTORY.md`'s gang-formation lore, written as a full episode framed explicitly as a RED GARDEN in-game cutscene (roster-unlock artifact) rather than a broadcast episode. Same nine recruitments, same order as the prose account.
 
