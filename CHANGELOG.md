@@ -1,4 +1,9 @@
 ## 2026-07-24
+- New hero entry `multiverse_heroes.md` #37, "Loki, Who Isn't Here" (Faction 3, Valhalla Remnant) —
+  founder direction: "add LOKI to KNIGHTS_OF_THE_VOID hero multiverse then into the game one shot
+  as a kit." The document already had Sigyn (#34) defined entirely by an act performed for a name
+  that appeared nowhere else in the compendium; Loki's own absence was the hook, not a drafting
+  gap. Kit implemented the same pass in REDGARDEN (see that repo's CHANGELOG) — 12th roster slot.
 - New episode `episodes/x03_the_band_name.md` — Series X, unnumbered interlude, third loading-screen
   cutscene entry. The gang (post-formation, per `x02_recruitment_drive.md`) argues over a metal
   band name; lands on "Mid-Piano," drawn directly from The Ghost's existing passive ability rather

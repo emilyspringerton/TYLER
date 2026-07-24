@@ -312,6 +312,20 @@ hold anymore.*
     criteria. She has never once explained hers, including, by every account, to herself.
     *Field signature:* variable, unlisted · Δφ never recorded, by her own choice · seed phrase: "the second question she won't repeat"
 
+37. **Loki, Who Isn't Here** ("Loki") [MYTHIC] — *The one figure this document left out of his own
+    myth.* Sigyn (#34) has an entry defined entirely by an act of endurance performed for someone
+    the compendium never got around to writing up — the venom-bowl, held "for as long as the myth
+    demands, and then kept holding it," for a name that, until now, appeared nowhere else in this
+    document. That absence was never a drafting oversight; it's the character. Loki is bound where
+    the myth says he's bound, which means every account of him in this multiverse arrives secondhand
+    — through what Sigyn does, through what the hall says about the binding, through the shape of the
+    hole where he'd otherwise be. He is, by a wide margin, the most-discussed hero in this faction who
+    has never once spoken for himself on the record. Whether that's imprisonment or the longest con
+    in the Valhalla Remnant's history depends entirely on whether you believe a bound god can still be
+    the one arranging the room.
+    *Field signature:* unregistered · Δφ present only as interference on adjacent readings — never a
+    signal of its own · seed phrase: "the hole where he'd otherwise be"
+
 ---
 
 ## FACTION 4 — THE MIDDLE KINGDOM HEIRS (Chinese, non-Jiangshi: dragons, immortals, the old court)
