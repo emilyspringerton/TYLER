@@ -967,6 +967,27 @@ to be quietly, partially true.*
     `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue) / `EMILY/BACKLOG.md` S170-134.
     *Field signature:* Unmeasurable · Δφ shifts mid-reading, every time · seed phrase: "wasn't that shape when the verse started"
 
+115. **Seithenyn, the Drowned Prince** ("The Drowned Prince") [MYTHIC] — *Was trusted with the one job that mattered,
+    and was drunk when the sea came in.* Founder, real-time, S170-93 batch: "add drowned prince" —
+    no existing entry, no anchor anywhere in this compendium; built from scratch, same discipline
+    as Loki's own "who isn't here" treatment (#37), grounded in real source material rather than
+    invented whole. Real Welsh legend: Cantre'r Gwaelod, "the Lowland Hundred," a fertile kingdom
+    said to have occupied what is now Cardigan Bay, protected from the sea by a dyke and a line of
+    sluice gates. Seithenyn — in the oldest surviving accounts a nobleman entrusted with watching
+    those gates, in later retellings elevated to a prince of the realm he ultimately drowned — was
+    supposed to be watching the weather the night a storm rolled in. He was drinking instead. The
+    gates stayed open. The kingdom is still down there, by the local telling; fishermen and walkers
+    along that stretch of coast have reported hearing its church bells ringing up through the water
+    at low tide for centuries, an entire civilization's evening service still being rung by nobody,
+    on a schedule nobody set. This roster's version isn't the drunk failure the story blames him
+    for and stops there — he's the one who has to actually listen to those bells, forever, the only
+    member of the drowned court who's still around to hear exactly what he cost everyone else the
+    chance to finish. Every other hero in this document who "lost" something lost it once. He loses
+    it on a tide schedule.
+    *Field signature:* unmeasurable, non-Goetic (Welsh, not Goetia canon — same real-vs-invented
+    distinction this document already draws for Tesla's 60 Hz) · Δφ recorded only as a bell-tone,
+    never a clean signal · seed phrase: "still ringing, on a schedule nobody set"
+
 ---
 
 ## Notes for the next pass

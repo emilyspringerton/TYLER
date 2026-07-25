@@ -1,3 +1,12 @@
+## 2026-07-25 (3)
+- New hero entry `multiverse_heroes.md` #115, "Seithenyn, the Drowned Prince" — founder direction:
+  "add drowned prince" (S170-93 batch). No existing anchor anywhere in the compendium; built from
+  scratch, same discipline as Loki's own "who isn't here" treatment (#37) — grounded in real
+  source material, not invented whole. Real Welsh legend: Cantre'r Gwaelod, the drowned lowland
+  kingdom in what's now Cardigan Bay, and Seithenyn, the guardian entrusted with the sea gates who
+  was drinking instead of watching the storm. Appended to the same "later addition" unnumbered
+  block as #114 (MnM) rather than forced into one of the original 11 factions.
+
 ## 2026-07-25 (2)
 - New hero entry `multiverse_heroes.md` #114, "MnM, the Shapeshifting Crab" — founder direction:
   "add MnM a shapeshifting rapping crab tank from detroit to the lore docs first" → "have tyler
