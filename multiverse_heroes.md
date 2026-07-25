@@ -930,6 +930,24 @@ to be quietly, partially true.*
     for a hundred years before the machine caught up to her, finally being handed the controls.
     *Field signature:* predates the Field's founding · Δφ reads as a clean, fully computable signal · seed phrase: "the first program, run a century late"
 
+113. **Abraham of Worms, the Mage** ("Abraham the Mage") [MYTHIC/MUNDANE — genuinely both, same as
+    Flamel] — *Wrote a book that made a real man perform its ritual five hundred years later, and
+    nobody has ever confirmed he existed to write it.* The purported author of *The Book of the
+    Sacred Magic of Abramelin the Mage* — a real, historically documented grimoire (earliest
+    surviving manuscript circa the 17th century, claiming a much older 15th-century origin), whose
+    actual authorship, dates, and even the existence of "Abraham of Worms" himself remain
+    unresolved by real historians. That didn't stop the book from becoming one of the single most
+    influential texts in real Western ceremonial magic — its central "Abramelin Operation" (a
+    months-long ritual to contact one's Holy Guardian Angel) was actually attempted by real
+    documented occultists centuries later, most famously Aleister Crowley, who treated a possibly-
+    fictional medieval author's instructions as load-bearing enough to organize a real life's work
+    around. This roster's version leans into the exact same unresolved gap Flamel's entry (#110)
+    already established as this faction's real throughline: is he a real, obscure mystic whose one
+    surviving book simply outlived every fact about him, or a name invented later, given centuries
+    of retroactive authority by readers who needed the ritual to have a real author behind it? The
+    character should never have to answer which — the same restraint Flamel's entry names directly.
+    *Field signature:* unattested prior to the earliest surviving copy · Δφ borrowed, if it exists at all, from every reader who ever finished the Operation · seed phrase: "the book is real; ask again whether he was"
+
 ---
 
 ## Notes for the next pass

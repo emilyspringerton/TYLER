@@ -1,3 +1,11 @@
+## 2026-07-25
+- New hero entry `multiverse_heroes.md` #113, "Abraham of Worms, the Mage" (Faction 11, The
+  Unbound Historicals) — founder direction: "add abraham the mage." Not the biblical patriarch:
+  the historically disputed author of the real grimoire *The Book of the Sacred Magic of
+  Abramelin the Mage*, whose own existence is unconfirmed but whose ritual was actually performed
+  by real occultists (Crowley) centuries later. Same real-record-vs-legend gap Flamel's entry
+  (#110) established, deliberately left unresolved the same way.
+
 ## 2026-07-24
 - New hero entry `multiverse_heroes.md` #37, "Loki, Who Isn't Here" (Faction 3, Valhalla Remnant) —
   founder direction: "add LOKI to KNIGHTS_OF_THE_VOID hero multiverse then into the game one shot
