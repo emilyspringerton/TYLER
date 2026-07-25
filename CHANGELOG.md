@@ -1,3 +1,16 @@
+## 2026-07-25 (2)
+- New hero entry `multiverse_heroes.md` #114, "MnM, the Shapeshifting Crab" — founder direction:
+  "add MnM a shapeshifting rapping crab tank from detroit to the lore docs first" → "have tyler
+  and mid-piano cowrite it." Appended as an unnumbered "later addition" block after Faction 11's
+  #110-113 rather than inserted mid-faction (no clean thematic home in any of the existing 11
+  factions; renumbering the whole document to force a fit wasn't worth it). Framed in-fiction as
+  literally co-written by Tyler and Mid-Piano, not just credited to them — the entry's own prose
+  narrates its origin as a bit the two of them built together, including Mid-Piano's specific
+  reframe of "shapeshifting" as the residue of absorbing hits meant for someone else (translating
+  the founder's "tank" archetype ask into the show's own voice rather than game jargon). REDGARDEN
+  kit is a later, separate pass (`EMILY/BACKLOG.md` S170-134) — lore first, same sequencing as
+  every other hero this session.
+
 ## 2026-07-25
 - New hero entry `multiverse_heroes.md` #113, "Abraham of Worms, the Mage" (Faction 11, The
   Unbound Historicals) — founder direction: "add abraham the mage." Not the biblical patriarch:

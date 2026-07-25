@@ -950,6 +950,25 @@ to be quietly, partially true.*
 
 ---
 
+## Later addition (2026-07-25) — outside the original 11-faction pass, kept unnumbered-block rather than forcing a renumber
+
+114. **MnM, the Shapeshifting Crab** ("MnM") [MUNDANE] — *Detroit's own, allegedly — depending
+    which version showed up that night.* Founder, real-time: "add MnM a shapeshifting rapping crab
+    tank from detroit" → "have tyler and mid-piano cowrite it." Introduced, per the record, as a
+    bit Tyler and Mid-Piano wrote together rather than something either of them found in the
+    archive: a crab the size of a doorway who raps, who never holds one shell for longer than a
+    verse, and who nobody in the garage has successfully finished an argument with, because by the
+    third exchange it isn't quite the same shape it started the sentence as. Mid-Piano's own
+    contribution to the bit — per Tyler, unprompted, mid-take — was insisting the shapeshifting
+    isn't a power at all, just what happens to a body that's spent that long absorbing hits meant
+    for somebody else. Nobody's fact-checked either half of that. The garage agreed it didn't need
+    fact-checking to be true.
+    **Founder pick, 2026-07-25: Tank archetype for RED GARDEN implementation** — tracked in
+    `REDGARDEN/NORTHSTAR.md` §7 (Hero implementation queue) / `EMILY/BACKLOG.md` S170-134.
+    *Field signature:* Unmeasurable · Δφ shifts mid-reading, every time · seed phrase: "wasn't that shape when the verse started"
+
+---
+
 ## Notes for the next pass
 
 - **Dungeons/bosses/loot, 2026-07-23:** `GoblinFoxDragon/docs2/HERO_CONTENT_FRAMEWORK.md` is the
