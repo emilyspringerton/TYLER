@@ -1,3 +1,7 @@
+## 2026-08-06
+
+- Series X x04 -- "Ask the Frog (Not the Tree)" -- fourth garage interlude, grounds the house rule in REDGARDEN's real kit table (Tree's W literally named UNTRANSLATED, R is GRAND SECRET but unusable). Published to the blog. (sess-20260723-2347-df115bd5)
+
 ## 2026-07-25 (3)
 - New hero entry `multiverse_heroes.md` #115, "Seithenyn, the Drowned Prince" — founder direction:
   "add drowned prince" (S170-93 batch). No existing anchor anywhere in the compendium; built from
