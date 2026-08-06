@@ -1,5 +1,6 @@
 ## 2026-08-06
 
+- Published all 5 SERIES X ground-state episodes to the TYLER reading room (`okemily.com/tyler/`), completing the set alongside the 5 already-published unnumbered interludes (x00-x04): S00E-1 "The Determination" (`/tyler/the-determination/`), S00E00 "Pontiac" (`/tyler/pontiac/`), S00E01 "Neptune" (`/tyler/neptune/`), S00E02 "Arrival" (`/tyler/arrival/`), S00E03 "July 4" (`/tyler/july-4/`). Published in story-chronological order (E-1 first per its own bridge-episode note), not production order. Verified live via public HTTPS (200 each). The ~80 numbered S01-S11 season episodes remain a separate, deliberately undecided scope question -- not touched here.
 - Series X x04 -- "Ask the Frog (Not the Tree)" -- fourth garage interlude, grounds the house rule in REDGARDEN's real kit table (Tree's W literally named UNTRANSLATED, R is GRAND SECRET but unusable). Published to the blog. (sess-20260723-2347-df115bd5)
 
 ## 2026-07-25 (3)

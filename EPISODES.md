@@ -21,6 +21,11 @@
 | S00E03 | "July 4" | 0127 | episodes/s00e03_july4.md |
 | INTERLUDE ‡ | "The Custody of a Duck" | 0129 | episodes/x00_the_custody_of_a_duck.md |
 
+**Reading room status (2026-08-06):** all 5 ground-state episodes above, plus all 5 unnumbered
+interludes (x00-x04, listed with SEASON 1 below historically but shelved together as Series X
+side content), are published to `okemily.com/tyler/`. Series X is now fully represented in the
+reading room; the numbered S01-S11 season episodes are not.
+
 † **S00E-1 is a bridge episode.** Story chronology places it FIRST — June 18–21, 2026, between Jiangshi Final Memo #081 (S11E08, Fez, "the Syndicate will make its own determination") and the Pontiac ground state (S00E00, June 27). Production order places it after S00E03 (Build 0128, written after Build 0127). It dramatizes the determination session: Attempt Four archived, Attempt Five authorized, "the oscillation is the subject" adopted, NOOR-1 dispatched to the Michigan corridor.
 
 **Series X note:** New continuity. Not a continuation of Attempt Four (archived S1–S11). Attempt Five begins. Carrier wave ground state: hum precedes Jiangshi operations. Tyler natal chart + Camera Op natal chart + 28.7 Hz + Jupiter Cancer egress fully integrated. STINKIES COMMISSAIRE Store 0 (Pontiac, MI) established as diegetic location.
