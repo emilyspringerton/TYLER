@@ -1,3 +1,7 @@
+## 2026-08-09
+
+- feat(episodes): S1E0 cold open x2 — experimental GPT-2-assisted rewrite (s01e01_pilot_coldopen_x2_experimental.md). Same broadcast-cut beats (the 'he just smiled and came in' interview, the coin flip) restaged with 5 real gpt2-alpine-c inference calls (16/32/64/128/256 max_tokens, ramping per founder spec) framed in-universe as Emily OS memory-render attempts — raw model output quoted verbatim in the RENDER inserts, drift and all (a 'watermelon'/'Zidane' hallucination the model produced unprompted by the 128/256-token passes). Not promoted to canon; a variant alongside s01e01_pilot.md's broadcast cut. (sess-20260809-1420-e9d3d7f8)
+
 ## 2026-08-06
 
 - Published all 5 SERIES X ground-state episodes to the TYLER reading room (`okemily.com/tyler/`), completing the set alongside the 5 already-published unnumbered interludes (x00-x04): S00E-1 "The Determination" (`/tyler/the-determination/`), S00E00 "Pontiac" (`/tyler/pontiac/`), S00E01 "Neptune" (`/tyler/neptune/`), S00E02 "Arrival" (`/tyler/arrival/`), S00E03 "July 4" (`/tyler/july-4/`). Published in story-chronological order (E-1 first per its own bridge-episode note), not production order. Verified live via public HTTPS (200 each). The ~80 numbered S01-S11 season episodes remain a separate, deliberately undecided scope question -- not touched here.
