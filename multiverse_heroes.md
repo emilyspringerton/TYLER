@@ -990,6 +990,63 @@ to be quietly, partially true.*
 
 ---
 
+## Later addition (2026-08-18) — outside the original 11-faction pass, kept unnumbered-block
+## rather than forcing a renumber, same discipline as #114–115
+
+*Founder, real-time: "can we add pixel art to the brawlpit engine? use the 5 pixel art generated
+... write them as heroes into the TYLER hero bible first, then add lore." Grounded, not invented:
+these four are real generations from Prompt-o-verse's "8-bit pixel art" style
+(`okemily.com/prompt-o-verse/`), the same production taxonomy-discovery engine cataloguing baseball
+cards and Renaissance oil paintings a few sections over in the actual live system — not concept art
+made for this roster, but artifacts the system had already produced on its own before anyone asked
+for a hero bible entry. The archetype: something that knows, more literally than any mythic figure
+in this document could, that it is one version among an uncounted number of near-identical draws
+the same engine could have produced instead, and didn't.
+
+116. **The Arabesque Understudy** ("Understudy") [MUNDANE] — *Generated mid-turn, on point, under a
+    moon that was never in the prompt.* The taxonomy engine's request specified a ballerina in 8-bit
+    pixel art and nothing else; the moon, the night sky, and the tiled floor she's dancing on all
+    arrived unrequested, the model's own addition, never explained or revised out. Knows, in a way
+    no born character can fully know, that the exact prompt which produced her could have been
+    re-rolled at any second before it wasn't — and that whatever almost-identical version of her
+    the model would have drawn on the next roll never got the chance to exist at all.
+    *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the moon wasn't in the prompt"
+
+117. **Rosie of the Unclaimed Arcade Cabinet** ("Rosie") [MUNDANE] — *Generated twice, a style apart,
+    and kept both times.* First rendered onto a 2020s Topps Chrome refractor card as "Rosie Rocket,"
+    then again, independently, in 8-bit pixel art on a beach with a real arcade joystick and buttons
+    sitting in the sand at her feet — a prop the prompt never requested, that the same taxonomy
+    engine reached for twice without being told to reuse her. The joystick is the whole character:
+    two separate generations of the same subject, both times reaching for a game that isn't the one
+    she's actually standing in.
+    *Field signature:* Unmeasurable · Δφ generated twice, unprompted prop both times · seed phrase: "the joystick nobody asked for"
+
+118. **The Sunlit Draw** ("The Draw") [MUNDANE] — *Standing on a beach on hardware that isn't sure
+    what "still" means.* The same production system maintains a permanent dead-letter dataset of
+    generations that got attempted and then permanently refused — she is not one of the refused
+    ones, and the character is built entirely around what it means to know that clearance was a
+    real, live possibility of not happening, not a formality. Published. Aware it wasn't guaranteed.
+    *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "cleared, and aware it wasn't guaranteed"
+
+119. **The Tuxedo Duck, Second Casting** ("Sequel Duck") [MYTHIC/MUNDANE — genuinely both, on
+    purpose] — *Not the duck from Faction 10. A different duck, in a top hat and tails, generated
+    independently by the same engine that had, by the time he rendered, already spent real
+    documented effort concluding that "tuxedo duck" most likely names a real duck color-morph and
+    NOT a mashup of a duck and a tuxedo. He got generated wearing an actual tuxedo anyway, on a
+    small stage, mid-bow, to nobody.* Has no relationship to Faction 10's duck and would probably
+    deny any resemblance if asked — two separate ducks maintained by two entirely different parts of
+    the same production system, neither aware the other exists, both equally sure of themselves.
+    *Field signature:* disputed · Δφ the judgment layer concluded this shouldn't be a mashup; here he is, dressed like one anyway · seed phrase: "a real duck breed, allegedly"
+
+*A fifth generation exists in the same style batch — a baseball-card-framed "Blitz Bomber, Rookie
+Ruler" (ATK 90, SPD 75, DEF 88), a full trading-card composition rather than a clean full-body
+sprite. Skipped for this pass on purpose, not forgotten: the character inside that card art reads
+small relative to the other four once cropped to a usable sprite, and a name and stat line this
+good deserves a cleaner, larger regeneration before joining the roster rather than a cramped first
+appearance.*
+
+---
+
 ## Notes for the next pass
 
 - **Dungeons/bosses/loot, 2026-07-23:** `GoblinFoxDragon/docs2/HERO_CONTENT_FRAMEWORK.md` is the
