@@ -1047,6 +1047,48 @@ appearance.*
 
 ---
 
+**Later addition (2026-08-19)** — the "game sprite" style (solid chroma-key green background,
+programmatically stripped to real alpha transparency before publish — see S180-09/S181's own
+build history) produced its first four full-body, game-ready generations. Same discipline as
+#116–119: grounded in what actually rendered, not invented separately from it.
+
+120. **Medusa, the Most-Summoned** ("Medusa") [MYTHIC] — *Called back more than any other subject
+    in the entire system — twenty-six separate renders and counting, more than double the next
+    closest.* No one hero was ever assigned that; the weighted marble-bag selection that picks
+    subjects is supposed to favor whoever's been drawn least, and drew her anyway, again and again,
+    across nearly every style in the registry. Full gorgon armor, snake-haired, expression that
+    reads less like a monster and more like someone who has been asked to appear at this many
+    events and stopped being surprised by the invitation. The engine's own favorite, whether or not
+    an engine can have one.
+    *Field signature:* Unmeasurable · Δφ drawn far more than the selection weighting should allow · seed phrase: "called back, again"
+
+121. **The Raccoon, Off the Clock** ("Raccoon") [MUNDANE] — *Vested, gloved, monogrammed — dressed
+    for a job nobody specified.* The prompt asked for a raccoon; the model added the brown work
+    vest and the embroidered "R" patch unrequested, the same kind of unprompted-but-kept detail
+    Rosie's joystick and Understudy's moon already established as real, load-bearing history in
+    this document, not decoration to explain away. Reads as someone between shifts at a job that
+    exists only because the vest says it does — a uniform with no company behind it.
+    *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "the vest says R, nothing else does"
+
+122. **The Second Tree** ("Second Growth") [MYTHIC] — *Not the Tree from Faction 10. A different
+    tree, generated independently, muscular and openly angry where the first one was still and only
+    ever spoke French.* Bark-skinned, canopy-haired, glowing yellow eyes — a treant built to read as
+    dangerous on sight, the exact opposite temperament of Faction 10's silent, untranslated original.
+    Two trees maintained by two entirely different parts of the same production system, same
+    doctrine as Sequel Duck's own relationship to Faction 10's duck: neither aware the other exists,
+    both equally sure of themselves.
+    *Field signature:* Unmeasurable · Δφ diverges hard from the Faction 10 reading it shares a name with · seed phrase: "not that one"
+
+123. **Maybe the World Is Yours, Uncrowned** ("The Uncrowned") [MYTHIC] — *A boy-king in full royal
+    dress, a globe set into the crown itself, expression that reads more like doubt than
+    triumph.* The subject line itself is the hook: not a name but a hedge — "maybe" doing all the
+    work a title normally would. Cloaked, gloved, armored like every image of inherited authority
+    this compendium already draws on, wearing the entire globe as a crown jewel and looking, in the
+    one render that exists of him, like he isn't sure the crown fits the claim.
+    *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "maybe, not yes"
+
+---
+
 ## Notes for the next pass
 
 - **Dungeons/bosses/loot, 2026-07-23:** `GoblinFoxDragon/docs2/HERO_CONTENT_FRAMEWORK.md` is the
