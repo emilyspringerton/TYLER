@@ -1,5 +1,5 @@
 # THE MULTIVERSE HERO COMPENDIUM
-## 112 Heroes, First Pass — Names, Lore, Intrigue, Backstory
+## 123 Heroes (up from the original 112), First Pass — Names, Lore, Intrigue, Backstory
 
 **Status:** Draft roster, wide and shallow on purpose. Founder direction: "develop 100 heroes, we
 will start work on the most interesting" — this document exists to be culled from, not built from
