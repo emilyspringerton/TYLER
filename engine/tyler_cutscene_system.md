@@ -1,7 +1,22 @@
 # TYLER Cutscene System
 ## FFXI-Style Dialogue Scene Spec v0.1 | Einhorn Media × SHANKPIT
 
-*Written: 2026-06-12 | Status: spec only — implementation deferred to GoblinFoxDragon EduScript*
+*Written: 2026-06-12 | Status: spec + real, first decision-logic mod started 2026-08-30*
+
+**2026-08-30 update**: the original "implementation deferred to GoblinFoxDragon EduScript" line
+below predates PARENA's own existence. PARENA is now real, built, and directly positioned as
+"EduScript's scary older sister" (`PARENA/CLAUDE.md`'s own words) — the real, direct successor to
+that deferred recommendation. The real Trigger Model / Effects decision logic this doc names below
+now has a first, real, compiled-and-tested PARENA mod:
+`PARENA/stdlib/tyler/cutscene_mod.prn` → `SHANKPIT/packages/simulation/cutscene_effect_mod.c`
+(effect codes, effect-is-mechanical dispatch, trust-threshold + urgency-window trigger conditions,
+composed trigger-readiness w/ the one-shot rule — 23 real assertions,
+`cutscene_effect_mod_test.c`). **Not yet wired into a live host** — the real "SHANKPIT Go server:
+trigger detection" recommendation further down this doc still needs either cgo against this
+mod's own compiled C, or PARENA's own native Go emission target (project BURROW, scoped, not built
+yet) — named honestly, not glossed over. The "GoblinFoxDragon EduScript" recommendation in the
+"SHANKPIT Scripting Audit" section below is superseded by this; left in place as the real,
+historical record of the original 2026-06-12 reasoning, not deleted.
 
 ---
 
@@ -125,7 +140,8 @@ is exactly the scripting layer needed for cutscene control:
 - `tick` binding: advance dialogue line-by-line
 - Entity lifecycle: NPC exists only for the duration of the cutscene
 
-**Recommendation:** Cutscene execution should live in GoblinFoxDragon using EduScript,
+**Recommendation (2026-06-12, superseded 2026-08-30 — see the top of this doc):** Cutscene
+execution should live in GoblinFoxDragon using EduScript,
 with the SHANKPIT Go server routing trigger events to the GoblinFoxDragon runtime. This
 respects the separation of concerns:
 - SHANKPIT Go server: trigger detection (proximity, event state)
