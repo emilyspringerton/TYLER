@@ -1,4 +1,5 @@
 ## 2026-08-30
+- manuscripts/tyler_book0.md added -- 'You Know I Hate Calls,' Chapter 1 of TYLER BOOK 0. A real manuscript scene (TIDES OF PARADOX-style, Mara/Hana/Len/Jules, 'the Promptor' as an in-universe manipulative call/UI antagonist) moved from a repo-root scratch file and wrapped with the standard manuscript header. Directly incorporates the founder's own same-day real-time phrase ('you know i hate calls') as actual in-universe dialogue and chapter title -- television as code extending to the production process itself. (sess-20260825-1938-f6bd411e)
 
 - Series X x07 'The Editorial Meeting' published -- direct follow-up to x06, first Series X interlude with zero gpt2-alpine-c render calls (founder real-time: 'you know i hate calls'). Closes x06's own open threads (escalating fabrication problem vs. one bad render, and whether to keep auto-chaining render seeds) by having the crew decide, on camera, to stop auto-chaining seeds going forward -- a real, honest mirror of the actual production decision. (sess-20260825-1938-f6bd411e)
 
