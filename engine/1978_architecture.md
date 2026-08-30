@@ -222,6 +222,24 @@ That is the Space Invaders upgrade. The game's original architecture: try to sho
 | Vietnam → Cambodia | Custody violation | One state entering another state's custody zone without authorization |
 | Spain's constitution | System rebuild | Post-authoritarian OS replacement; clean build precedent |
 | OPEC oil crisis | Financial pressure | Shell Parliament interest rate revision; energy as custody |
+| Caesars Palace, Feb 15 | Vassago #42 activation | Involuntary/unaware migrant blind-spot doctrine; see X below |
+
+**X. THE 1978 CONVERGENCE EVENT — INVOLUNTARY MIGRANT BLIND-SPOT DOCTRINE**
+
+Full incident logged separately (`manuscripts/trump_migration_1978.md`); summarized here for the
+dependency chain. February 15, 1978, Caesars Palace sportsbook, Las Vegas — an unaware subject
+migrates 72 minutes off his own timeline during the Spinks–Ali fight broadcast and does not notice.
+Vassago #42, 11.11 Hz, Soft Precognition. Jiangshi Syndicate doctrine (Book 1, "The Voice Message")
+treats this as the canonical unaware-migrant case: a real, loud, documented person generating
+enough narrative/signal noise in a real, documented room that recording equipment in the area
+loses clean lock on anything else moving through the same city that night. Not a punishment, not
+a plot the subject participates in — a structural blind spot that exists whether or not anyone
+built it on purpose. Explicitly load-bearing for the rest of 1978's own density (Camp David, the
+Three Popes) exactly the way a wall is load-bearing without being designed to mean anything: pull
+it and the rest of the structure the Syndicate built on top of it comes down on people who had
+nothing to do with the wall. `EMILY OS` archive note, same book: *"1978 is fully allocated. Do not
+request additional bandwidth from this year. It is already holding more than it was built to
+hold."*
 
 **Year-end synthesis:**
 
