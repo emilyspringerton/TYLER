@@ -1,3 +1,18 @@
+## 2026-09-04
+- lore/ally_cat_security_prospectus.md added -- real, first in-universe artifact for kanban
+  `ALLYCAT-000` ("maybe it starts as an in universe firm?"). A real founder-supplied marketing
+  pitch for a hypothetical "Ally Cat Security" brand, recontextualized as an in-universe
+  procurement document rather than invented lore -- deliberately real-world-cybersecurity-shaped
+  in a setting that's never had cybersecurity as such, letting the client (whichever faction
+  received it) translate the pitch's own vague "perimeter" language into their own real terms.
+  Grounded in the existing 123-hero compendium (`multiverse_heroes.md`), not invented in
+  isolation: connects to Shell Parliament (the real, established ledger/procurement faction this
+  document's own framing device fits) and Jiangshi Syndicate (the real, established
+  containment/binding faction Ally Cat's own pitch reads as a private-sector mirror of).
+  Deliberately not committed to an owner faction, species, or on-screen role yet -- real,
+  honest, not resolved: whether this becomes a recurring background presence or a full faction
+  with its own roster is a real founder-level creative call, not made here.
+
 ## 2026-08-30
 - engine/tyler_cutscene_system.md: noted PARENA supersedes the 2026-06-12 GoblinFoxDragon/EduScript deferral for cutscene decision logic; PARENA/stdlib/tyler/cutscene_mod.prn is the real first mod. (sess-20260825-1938-f6bd411e)
 - manuscripts/tyler_book2.md added -- 'The Ignition Order,' Chapter 1 of TYLER BOOK 2. Picks up a real, dangling og cliffhanger from SHANKPIT/docs2/specs/TYLER_EPISODE_2_CONTINUED.md (confirmed never incorporated into the compiled S01E02): Tyler answers the flip phone, SUIT reveals the ignition order, Hana (og Custody Officer, distinct from the garage-crew Hana in Books 0-1) explains the real Black/Green/Red/Yellow/White stage sequence. (sess-20260825-1938-f6bd411e)
