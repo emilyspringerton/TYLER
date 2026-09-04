@@ -1,3 +1,15 @@
+## 2026-09-04 (2)
+- lore/ally_cat_security_prospectus.md rewritten -- real, second-pass founder direction (kanban
+  `ALLYCAT-000`): "ok i think we fix the branding and we have it be an in universe trapx
+  security contractor where you can buy some of the anti k9 tech etc and also you can like have
+  missions with them and shit." Branding fixed per this session's own direct critique of the
+  original pitch (leaned on "apex predator," which fights the word "Cat" instead of using it --
+  rewritten around real, specific cat behavior: stillness, night vision, ambush-not-chase).
+  Repositioned as a real, named TRAPX-licensed security contractor (not a faction-agnostic
+  mystery firm, this doc's own first draft). Real gameplay hooks this implies (anti-K9 tech,
+  missions) named in the doc's own working notes and scoped for real in
+  `GTA7/docs/NORTHSTAR.md`'s own new VS2.5 addendum, not invented twice.
+
 ## 2026-09-04
 - lore/ally_cat_security_prospectus.md added -- real, first in-universe artifact for kanban
   `ALLYCAT-000` ("maybe it starts as an in universe firm?"). A real founder-supplied marketing
