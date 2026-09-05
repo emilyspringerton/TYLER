@@ -1,3 +1,15 @@
+## 2026-09-05 (1)
+- feat(mpt): S01E01 cold open — first real generated MoneyPrinterTurbo video. Founder-supplied
+  Pexels key (HITL-07) wired into `MoneyPrinterTurbo/config.toml`; ran the real pipeline against
+  the existing `compiled/s01e01_cold_open/mpt_payload.json` topic. Real output at
+  `compiled/s01e01_cold_open/mpt_output/cold_open_v1.mp4` (+`.srt`) — 21s, 1080x1920, real Pexels
+  footage (7 clips), real `en-GB-RyanNeural` narration, real burned-in subtitles, real bgm.
+  Honest caveat: the LLM-driven script/keyword step (litellm → Claude) is still blocked by
+  HITL-11's Anthropic billing issue, re-confirmed live — this run supplied `video_script`/
+  `video_terms` directly via the API's own real, first-class bypass path, not a hack. Two real
+  MPT config/schema fixes made along the way (documented in `EMILY/BACKLOG.md`'s own HITL-08
+  entry). Apple #17871.
+
 ## 2026-09-04 (2)
 - lore/ally_cat_security_prospectus.md rewritten -- real, second-pass founder direction (kanban
   `ALLYCAT-000`): "ok i think we fix the branding and we have it be an in universe trapx
