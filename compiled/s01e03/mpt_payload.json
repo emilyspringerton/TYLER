@@ -1,0 +1,17 @@
+{
+  "video_subject": "TYLER S01E03 Cold Open",
+  "video_script": "A documentary crew sets up a confessional interview inside a Detroit hotel room. The camera is already rolling when the session begins -- warm lamp light, two chairs angled toward each other, a bent curtain rod. The interview is the eighth in a series, and something in the room feels rehearsed in a way that unsettles the crew.",
+  "video_terms": ["hotel room interview", "documentary confessional set", "detroit hotel room", "warm lamp light interior", "interview chairs facing"],
+  "video_language": "en",
+  "voice_name": "en-GB-RyanNeural",
+  "video_aspect": "9:16",
+  "video_count": 1,
+  "video_clip_duration": 3,
+  "subtitle_enabled": true,
+  "font_name": "UTM Kabel KT.ttf",
+  "text_fore_color": "#FFFFFF",
+  "font_size": 72,
+  "subtitle_position": "bottom",
+  "bgm_type": "random",
+  "bgm_volume": 0.06
+}

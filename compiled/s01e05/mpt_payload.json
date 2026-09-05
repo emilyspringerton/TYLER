@@ -1,0 +1,17 @@
+{
+  "video_subject": "TYLER S01E05 Cold Open",
+  "video_script": "A separate video surfaces online, shot on a different camera by someone closer to the story. The footage looks amateur -- exported late at night, a warmer color grade, none of the polish of the network documentary. It spreads quietly at first, then faster, as more people find it.",
+  "video_terms": ["laptop editing video night", "phone camera city footage", "social media scrolling phone", "night city lights", "person watching screen dark room"],
+  "video_language": "en",
+  "voice_name": "en-GB-RyanNeural",
+  "video_aspect": "9:16",
+  "video_count": 1,
+  "video_clip_duration": 3,
+  "subtitle_enabled": true,
+  "font_name": "UTM Kabel KT.ttf",
+  "text_fore_color": "#FFFFFF",
+  "font_size": 72,
+  "subtitle_position": "bottom",
+  "bgm_type": "random",
+  "bgm_volume": 0.06
+}

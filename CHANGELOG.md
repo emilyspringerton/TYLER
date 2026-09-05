@@ -1,3 +1,16 @@
+## 2026-09-05 (2)
+- feat(mpt): first full Season 1 run through MoneyPrinterTurbo — all 5 episodes (S01E01–S01E05)
+  now have a real generated cold-open video at `compiled/s01e0N/mpt_output/cold_open_v1.mp4`
+  (+`.srt`), ~19–21s each, 1080x1920 H.264/AAC, real Pexels footage + `en-GB-RyanNeural`
+  narration + burned-in subtitles + bgm. S01E02–S01E05 each needed a real, original short
+  present-tense topic summary written for the `video_script`/`video_terms` bypass fields (same
+  real, first-class API path S01E01 proved out) — S01E02's own pre-existing
+  `compiled/s01e02/mpt_payload.json` had only `video_subject`, no `video_script`/`video_terms`,
+  so it hit the same HITL-11 LLM-billing block on the first attempt; fixed by adding both fields
+  to that file for real, permanent reuse. S01E03/04/05 had no prior payload at all — new
+  `compiled/s01e0N/mpt_payload.json` written for each. Ran sequentially against one local server
+  instance (`:8990`); no failures once every payload had real `video_script`/`video_terms`.
+
 ## 2026-09-05 (1)
 - feat(mpt): S01E01 cold open — first real generated MoneyPrinterTurbo video. Founder-supplied
   Pexels key (HITL-07) wired into `MoneyPrinterTurbo/config.toml`; ran the real pipeline against

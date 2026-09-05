@@ -1,0 +1,17 @@
+{
+  "video_subject": "TYLER S01E04 Cold Open",
+  "video_script": "A camera crew climbs onto the roof of Detroit's abandoned Packard Plant at dawn. The roof is intact in a way the rest of the building isn't -- maintained, deliberately, by someone with a reason to hide it. The crew keeps filming as something on the roof defies a simple explanation.",
+  "video_terms": ["abandoned factory rooftop", "detroit skyline dawn", "urban exploration rooftop", "old industrial building exterior", "documentary crew filming outdoors"],
+  "video_language": "en",
+  "voice_name": "en-GB-RyanNeural",
+  "video_aspect": "9:16",
+  "video_count": 1,
+  "video_clip_duration": 3,
+  "subtitle_enabled": true,
+  "font_name": "UTM Kabel KT.ttf",
+  "text_fore_color": "#FFFFFF",
+  "font_size": 72,
+  "subtitle_position": "bottom",
+  "bgm_type": "random",
+  "bgm_volume": 0.06
+}
