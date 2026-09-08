@@ -322,4 +322,4 @@ returns changed: a Stillness Council (the same real body first seen in s00e-1_th
 is now reviewing his own broken protocol from NLE03. The Owl leaves Tyler a blank card that
 resolves the word "UNDOCUMENTED" under his thumb before fading -- the season's own title, handed
 back as a real, diegetic object. Writer's Room Rule 1 checked: Tyler completes no self-defining
-sentence. Apple pending.
+sentence. Apple #18521.
