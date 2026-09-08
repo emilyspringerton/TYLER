@@ -4,16 +4,17 @@
 
 ---
 
-**Total episodes:** 91
-**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1
-**Current through:** Build 0131 (NEVER_LAND E1 — "Never_Land"; founder-authored script; Tyler and
-Hana at the Academy, a hidden subterranean campus reached through a school building; Hana revealed
-as "Handler Hana," working the Custody chain for an unnamed Academy official; Tyler classified
-"Green" — an anomaly that spreads when witnessed; a sealed-room escape test Tyler passes by
-teleporting rather than picking the lock; a crow's-wing wall panel behind a sealed corridor;
-"the debt" introduced as a collecting, proof-demanding force ("PAY WHAT YOU SAW"); Hana discloses
-she was "sent to decide" whether Tyler is a person or a resource; episode ends on Hana's refusal
-to name what's happening — "Never_Land" — and a vow to run if forced to)
+**Total episodes:** 92
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E2
+**Current through:** Build 0132 (NEVER_LAND E2 — "The Washer"; the crow-wing imagery from E1
+identified on-screen as hero #68 in `multiverse_heroes.md`, "The Morrigan, Once Refused," now
+operating inside the Academy as "the Archivist"; introduces a real, load-bearing crossover between
+NEVER_LAND and the existing multiverse compendium rather than a new, disconnected entity; a
+sealed laundry room, a clean cloth washed for someone who "hasn't died... not yet"; Tyler's own
+looking confirmed as the debt's billing mechanism ("witnessing is how the debt confirms the
+amount owed"); Hana's custody-assessment deadline forces a real disclosure — Tyler is "the only
+thing I've ever wanted that wasn't assigned to me"; episode ends with Tyler and Hana pushing
+through an unmarked exit door together, into light that "isn't weather")
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
@@ -29,6 +30,23 @@ continuity question, not resolved here.
 | Code | Title | Build | File |
 |---|---|---|---|
 | NLE01 | "Never_Land" | 0131 | episodes/nl01_never_land.md |
+| NLE02 | "The Washer" | 0132 | episodes/nl02_the_washer.md |
+
+**NLE02, "The Washer" (AI-authored continuation, founder-requested "next episode"):** identifies
+NLE01's crow-wing imagery as hero #68 in
+`multiverse_heroes.md`, "The Morrigan, Once Refused" (seed phrase "refused once, present ever
+since"; Δφ crow-form readings cluster at 31°, Golden Band; her own "Washer at the Ford" aspect,
+traditionally an omen washing the blood of those about to die — here washing something clean
+instead, for someone who hasn't died and isn't going to). Introduces the Archivist (new character,
+the Morrigan operating inside Academy custody) — a real, load-bearing tie between NEVER_LAND and
+the existing multiverse compendium, not a new, disconnected entity invented in isolation. Tyler's
+own act of looking is confirmed as the debt's billing mechanism ("witnessing is how the debt
+confirms the amount owed" — direct, deliberate echo of Tyler's own established "Green: spreads
+when witnessed" classification from NLE01, now given a real mechanism, not just a label). Hana's
+custody-assessment deadline forces a real disclosure under pressure — Tyler is "the only thing
+I've ever wanted that wasn't assigned to me." Episode ends with Tyler and Hana pushing together
+through an unmarked exit door, into light "too bright, too total... not weather" — the real,
+literal first attempt at the "we run" vow NLE01 closed on.
 
 Founder-authored script. Tyler and Hana reach a hidden subterranean Academy through an ordinary
 school building's own geometry loosening into an impossible corridor. Hana is revealed as

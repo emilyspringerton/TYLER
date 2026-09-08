@@ -1,3 +1,13 @@
+## 2026-09-08 (2)
+
+- NEVER_LAND E2 "The Washer" (Build 0132): AI-authored continuation (founder: "next episode").
+  Identifies NLE01's crow-wing imagery as hero #68 in multiverse_heroes.md, "The Morrigan, Once
+  Refused" — a real, load-bearing crossover, not new lore invented in isolation. Introduces the
+  Archivist (the Morrigan, operating inside Academy custody). Tyler's own looking confirmed as
+  the debt's billing mechanism. Hana's custody deadline forces a real disclosure. Episode ends
+  with the literal first attempt at NLE01's own "we run" vow. EPISODES.md/activity.md updated.
+  Apple pending.
+
 ## 2026-09-08
 
 - NEVER_LAND E1 "Never_Land" (Build 0131): new named season, founder-authored script saved into

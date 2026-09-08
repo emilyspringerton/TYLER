@@ -264,3 +264,21 @@ than assigned a numbered slot in S1–S11 or the current Series X/Attempt Five t
 sits relative to Attempt Four (archived) vs. Attempt Five (current) is an open, founder-owned
 continuity question, named directly rather than resolved here. Writer's Room Rule 1 checked:
 Tyler completes no self-defining sentence. Apple #18513.
+
+## Build 0132 — NEVER_LAND E2: "The Washer" (AI-authored continuation)
+Files: episodes/nl02_the_washer.md, EPISODES.md, activity.md
+Founder direction: "next episode." Real, load-bearing crossover found and used rather than
+inventing new lore in isolation: identified NLE01's crow-wing wall-panel imagery as hero #68 in
+multiverse_heroes.md, "The Morrigan, Once Refused" (seed phrase "refused once, present ever
+since"; Δφ crow-form readings cluster at 31°, Golden Band; her own real "Washer at the Ford"
+aspect — traditionally an omen washing the blood of those about to die). Introduces the Archivist
+(new character): the Morrigan herself, operating inside Academy custody, found washing something
+CLEAN instead of the usual blood — for Tyler, who "hasn't died... not yet." The Man returns to
+force Hana's own custody-assessment deadline; under pressure she discloses Tyler is "the only
+thing I've ever wanted that wasn't assigned to me." Tyler's own act of looking is confirmed as the
+debt's real billing mechanism ("witnessing is how the debt confirms the amount owed") — a direct,
+deliberate mechanism given to Tyler's own pre-existing "Green: spreads when witnessed"
+classification from NLE01, not just a repeated label. Episode ends with Tyler and Hana pushing
+together through an unmarked exit door into light that "isn't weather" — the literal first attempt
+at NLE01's own closing vow to run. Writer's Room Rule 1 checked: Tyler completes no self-defining
+sentence. Apple pending.
