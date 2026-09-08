@@ -1,3 +1,16 @@
+## 2026-09-08 (7)
+
+- SEASON 6 (TAKE 2) E1 "The Wrong Order" (Build 0137): AI-authored continuation (founder: "next
+  episode"), resuming Build 0136's cliffhanger inside the same unbroken scene, matching prose
+  style. Identifies the flip-phone ignition-order text as the real, existing Osaka sequence from
+  manuscripts/tyler_book2.md and tyler_book0.md rather than inventing a new one; ties "wrong order
+  again" to README.md's own documented "Cursed Timeline" AR-glitch note (Eastwind Owl footnote
+  stays withheld, as already established); uses HQ-CANON-TYLER-105-EPOCH-EXTINCTION.md's Canon
+  Rule 2 ("No character except Tyler may enter the seam and return"), without violating it, to
+  explain why the residue singles Tyler out. The older/alternate Hana is glimpsed once more,
+  mid-sentence; the boom mic captures four clean seconds of her voice, unplayed. Closes on a new
+  hook: "somebody started at yellow." EPISODES.md/activity.md updated. Apple pending.
+
 ## 2026-09-08 (6)
 
 - SEASON 6 (TAKE 2) E0 "The Residue Test" (Build 0136): founder-authored script, saved verbatim,

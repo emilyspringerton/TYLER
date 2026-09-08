@@ -4,15 +4,21 @@
 
 ---
 
-**Total episodes:** 96
+**Total episodes:** 97
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0
-**Current through:** Build 0136 (SEASON 6 (TAKE 2) E0 — "The Residue Test"; founder-authored
-script, returns to the main documentary-crew frame (Cam, a sound guy, a PA) after NEVER_LAND's
-Academy setting; Tyler is contaminated by a reactive, language- and attention-sensitive residue
-that surfaces a live flip-phone text thread between an unseen "Suit" and Hana, including a
-glimpsed frame of an older/alternate Hana mid-catastrophe; ends on a cliffhanger as Tyler touches
-the patch's edge and the scene itself peels)
+E0–E1
+**Current through:** Build 0137 (SEASON 6 (TAKE 2) E1 — "The Wrong Order"; AI-authored
+continuation resuming E0's cliffhanger mid-scene. Real, load-bearing connections used directly
+rather than invented: the flip-phone "black green red yellow white" text is the same Osaka
+operator ignition order already established in `manuscripts/tyler_book2.md`/`tyler_book0.md`;
+"wrong order again" is the same documented, unexplained AR-glitch phenomenon named in `README.md`'s
+"Cursed Timeline" note, whose Eastwind Owl footnote stays withheld exactly as already established;
+`HQ-CANON-TYLER-105-EPOCH-EXTINCTION.md` Canon Rule 2 ("No character except Tyler may enter the
+seam and return") is used, without violating it, to explain why the residue activates on Tyler
+specifically — framed as the seam bleeding a fragment outward, never as anyone entering and
+returning. The older/alternate Hana from E0 is glimpsed once more, mid-sentence, then gone; a
+clean four-second audio artifact of her voice is captured by the boom mic and not yet played for
+the crew. Ends on a new hook, not a repeat cliffhanger: "somebody started at yellow.")
 
 **SEASON 6 (TAKE 2) placement note:** founder, real-time, after NEVER_LAND's own open ending:
 "lets just arbitrarily say next season is season 6." Labeled "(Take 2)" because
@@ -29,12 +35,26 @@ founder-owned continuity question, same as NEVER_LAND's own placement note below
 | Code | Title | Build | File |
 |---|---|---|---|
 | S6BE00 | "The Residue Test" | 0136 | episodes/s06b_e00_the_residue_test.md |
+| S6BE01 | "The Wrong Order" | 0137 | episodes/s06b_e01_the_wrong_order.md |
 
 **S6BE00, "The Residue Test" (founder-authored script):** see placement note above. Founder-
 authored script, saved verbatim, following the same convention as NLE01. Introduces a new
 artifact-concept not previously used anywhere in TYLER — a reactive "memory adhesive" residue —
 plus new supporting crew characters (Cam, the sound guy, the PA) and an unseen recurring
 correspondent ("the Suit") texting Hana across what reads as two different timelines.
+
+**S6BE01, "The Wrong Order" (AI-authored continuation, founder-requested "next episode"):**
+resumes E0's cliffhanger inside the same unbroken scene rather than opening a new one, written in
+matching prose style. Identifies the flip-phone ignition-order text as the real, existing Osaka
+sequence from `manuscripts/tyler_book2.md`/`tyler_book0.md` rather than a new invention, and ties
+"wrong order again" to `README.md`'s own documented, still-unexplained "Cursed Timeline" AR-glitch
+note — the Eastwind Owl footnote about it stays withheld, exactly as already established, not
+resolved here. Uses (without contradicting) Canon Rule 2 from
+`HQ-CANON-TYLER-105-EPOCH-EXTINCTION.md` — "No character except Tyler may enter the seam and
+return" — to explain why the residue singles Tyler out, framed strictly as the seam bleeding a
+fragment outward rather than anyone traveling anywhere. The older/alternate Hana from E0 is
+glimpsed once more, cut off mid-sentence; the boom mic captures four clean seconds of her voice,
+not yet played back for the crew. Closes on a new hook: "somebody started at yellow."
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not

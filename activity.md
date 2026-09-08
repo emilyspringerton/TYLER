@@ -361,3 +361,25 @@ patch's edge "starts indexing." Tyler touches it anyway. The scene peels by a mi
 duplicating the room and showing one single frame of an older/alternate Hana mid-catastrophe,
 already shouting "DON'T LET HIM—" before the cut to black. Writer's Room Rule 1 checked: no
 self-defining sentence from Tyler. Apple #18538.
+
+## Build 0137 — SEASON 6 (TAKE 2) E1: "The Wrong Order" (AI-authored continuation)
+Files: episodes/s06b_e01_the_wrong_order.md, EPISODES.md, activity.md
+Founder direction: "next episode." Resumes Build 0136's cliffhanger inside the same unbroken
+scene (Tyler's thumb still on the peeled patch's corner) rather than opening a new one, written
+in matching prose style rather than the show's more common bold-cue screenplay format. Three
+real, load-bearing lore connections checked and used rather than invented fresh: the flip-phone
+"black green red yellow white" text is the same Osaka operator ignition order already established
+in manuscripts/tyler_book2.md and tyler_book0.md (Black=refusal, Green=consent, Red=cost,
+Yellow=the part everyone forgets to plan for, White=what's left once you've paid for all four);
+"SUIT: wrong order again" ties directly to README.md's own documented "Cursed Timeline" note (a
+one-time AR-glitch during the Custody Trial showing the sequence reversed, which the Eastwind
+Owls have a footnote about and are "not sharing" -- that footnote stays withheld here too, not
+resolved); HQ-CANON-TYLER-105-EPOCH-EXTINCTION.md's Canon Rule 2 ("No character except Tyler may
+enter the seam and return") is used, without violating it, to explain why the residue activates
+on Tyler specifically -- framed strictly as the seam bleeding a fragment outward into the room,
+never as anyone entering and returning. The older/alternate Hana from E0 is glimpsed once more
+mid-sentence, then gone; the boom mic captures a clean four-second audio artifact of her voice at
+12:04:47, not yet played back for the crew. Present-Hana confirms she knows four of the five
+ignition-order stages without explaining how. Ends on a new hook, not a repeat cliffhanger:
+"somebody started at yellow." Writer's Room Rule 1 checked: Tyler completes no self-defining
+sentence. Apple pending.
