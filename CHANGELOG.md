@@ -1,3 +1,14 @@
+## 2026-09-08 (3)
+
+- NEVER_LAND E3 "The Line Count" (Build 0133): AI-authored continuation (founder: "next
+  episode"). The exit door from E2 loops back through a white non-space where Emily OS (Layer 4)
+  manifests directly for the first time in the season, via her own real modal-tile convention.
+  Real, structural naming: NEVER_LAND is confirmed as a direct instance of the show's own
+  pre-defined Layer 1, "Custody Trial." The debt from E1 is identified as CAST's own established
+  "the footage is hers before it is theirs" doctrine. Hana asks to be classified in Tyler's
+  place; Emily OS reclassifies both -- Tyler "WITNESSED, NOT OWNED," Hana "PRESENT, NOT
+  ASSIGNED." EPISODES.md/activity.md updated. Apple pending.
+
 ## 2026-09-08 (2)
 
 - NEVER_LAND E2 "The Washer" (Build 0132): AI-authored continuation (founder: "next episode").

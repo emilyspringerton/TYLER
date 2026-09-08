@@ -282,3 +282,24 @@ classification from NLE01, not just a repeated label. Episode ends with Tyler an
 together through an unmarked exit door into light that "isn't weather" — the literal first attempt
 at NLE01's own closing vow to run. Writer's Room Rule 1 checked: Tyler completes no self-defining
 sentence. Apple #18516.
+
+## Build 0133 — NEVER_LAND E3: "The Line Count" (AI-authored continuation)
+Files: episodes/nl03_the_line_count.md, EPISODES.md, activity.md
+Founder direction: "next episode." The exit door from NLE02 does not lead outside the Academy at
+all -- it loops through a white non-space where Emily OS (Layer 4) manifests directly for the
+first time in NEVER_LAND, using her own real, pre-existing modal-tile convention from README.md
+(eggshell-white, sliding in from nowhere, concierge-perfect typography, minimal line count). Real,
+structural naming rather than invented lore: the show's own Layer 1, "Custody Trial," is already
+defined as "infrastructure drama; when someone touches Layer 4 directly" -- NEVER_LAND, a season
+built entirely around a literal custody decision, is confirmed here as a direct instance of that
+layer. NLE01's "the debt... collects proof that we were here" is identified as the same real
+sentence as CAST's own established "the footage is hers before it is theirs" doctrine -- Emily OS
+states it plainly: "I AM THE LEDGER." The exit loops them back to the Academy steps; contact with
+the Ledger falls outside any existing custody-assessment protocol. Forced to classify Tyler again,
+Hana instead asks to be classified in his place. Emily OS reclassifies both: Tyler "WITNESSED, NOT
+OWNED," Hana "PRESENT, NOT ASSIGNED," closing this line of the Ledger without closing "the book."
+The Archivist (the Morrigan, from NLE02) repeats her own seed phrase back at the outcome: "Refused
+once. Present ever since." The Man's authority visibly cracks for the first time in the season.
+Episode ends on the Academy steps in real daylight, Hana deferring the actual-leaving question:
+"Ask me tomorrow." Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple
+pending.

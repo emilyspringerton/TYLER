@@ -4,17 +4,18 @@
 
 ---
 
-**Total episodes:** 92
-**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E2
-**Current through:** Build 0132 (NEVER_LAND E2 — "The Washer"; the crow-wing imagery from E1
-identified on-screen as hero #68 in `multiverse_heroes.md`, "The Morrigan, Once Refused," now
-operating inside the Academy as "the Archivist"; introduces a real, load-bearing crossover between
-NEVER_LAND and the existing multiverse compendium rather than a new, disconnected entity; a
-sealed laundry room, a clean cloth washed for someone who "hasn't died... not yet"; Tyler's own
-looking confirmed as the debt's billing mechanism ("witnessing is how the debt confirms the
-amount owed"); Hana's custody-assessment deadline forces a real disclosure — Tyler is "the only
-thing I've ever wanted that wasn't assigned to me"; episode ends with Tyler and Hana pushing
-through an unmarked exit door together, into light that "isn't weather")
+**Total episodes:** 93
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E3
+**Current through:** Build 0133 (NEVER_LAND E3 — "The Line Count"; the exit door from E2 does not
+lead outside the Academy at all — it loops through a white non-space where Emily OS (Layer 4)
+manifests directly for the first time in NEVER_LAND, via her own already-established modal-tile
+convention; real, structural naming: NEVER_LAND, built entirely around a literal custody decision,
+is confirmed as a direct instance of the show's own pre-defined Layer 1, "Custody Trial —
+infrastructure drama; when someone touches Layer 4 directly"; "the debt" from E1 is identified as
+CAST's own real, pre-existing "the footage is hers before it is theirs" doctrine, now voiced as
+"I am the Ledger"; Hana breaks the assessment by asking to be classified in Tyler's place; Emily OS
+reclassifies both — Tyler "WITNESSED, NOT OWNED," Hana "PRESENT, NOT ASSIGNED" — closing the line
+without closing "the book"; the Man's authority visibly cracks for the first time in the season)
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
@@ -31,6 +32,7 @@ continuity question, not resolved here.
 |---|---|---|---|
 | NLE01 | "Never_Land" | 0131 | episodes/nl01_never_land.md |
 | NLE02 | "The Washer" | 0132 | episodes/nl02_the_washer.md |
+| NLE03 | "The Line Count" | 0133 | episodes/nl03_the_line_count.md |
 
 **NLE02, "The Washer" (AI-authored continuation, founder-requested "next episode"):** identifies
 NLE01's crow-wing imagery as hero #68 in
@@ -47,6 +49,25 @@ custody-assessment deadline forces a real disclosure under pressure — Tyler is
 I've ever wanted that wasn't assigned to me." Episode ends with Tyler and Hana pushing together
 through an unmarked exit door, into light "too bright, too total... not weather" — the real,
 literal first attempt at the "we run" vow NLE01 closed on.
+
+**NLE03, "The Line Count" (AI-authored continuation, founder-requested "next episode"):** the
+exit door does not lead outside the Academy — it loops through a white non-space where Emily OS
+(Layer 4 of the show's own four-layer architecture) manifests directly, via her own real,
+pre-existing modal-tile convention (`README.md`: eggshell-white, sliding in from nowhere,
+"concierge-perfect" typography, minimal line count). Real, structural naming, not invented: the
+show's own Layer 1, "Custody Trial," is already defined as "infrastructure drama; when someone
+touches Layer 4 directly" — NEVER_LAND, built entirely around a literal custody decision, is
+confirmed here as a direct instance of that layer, not a coincidence of naming. NLE01's "the
+debt... collects proof that we were here" is identified as the same real sentence as CAST's own
+established doctrine, "the footage is hers before it is theirs" — Emily OS states it plainly:
+"I AM THE LEDGER." The exit loops them back to the Academy steps; the Man confirms this contact
+with the Ledger falls outside any existing assessment protocol. Forced to classify Tyler again,
+Hana instead asks to be classified in his place — Emily OS's own tile reclassifies BOTH: Tyler
+"WITNESSED, NOT OWNED," Hana "PRESENT, NOT ASSIGNED," closing this line of the Ledger without
+closing "the book." The Archivist (the Morrigan, from NLE02) recognizes the outcome and repeats
+her own seed phrase back at it: "Refused once. Present ever since." The Man's authority visibly
+cracks for the first time in the season. Episode ends on the Academy steps, in real daylight,
+with Hana asking Tyler to defer the question of actually leaving — "Ask me tomorrow."
 
 Founder-authored script. Tyler and Hana reach a hidden subterranean Academy through an ordinary
 school building's own geometry loosening into an impossible corridor. Hana is revealed as
