@@ -1,3 +1,18 @@
+## 2026-09-08 (5)
+
+- NEVER_LAND E5 "Durations Are Data" (Build 0135): AI-authored continuation (founder: "next
+  episode"). The Stillness Council makes real, direct contact for the first time in NEVER_LAND,
+  using EXACTLY the page-delivered-by-a-clerk mechanism already established in
+  s00e-1_the_determination.md rather than a live tribunal scene. A new character, a Clerk,
+  delivers one page: "WHO WITNESSED THE WITNESS?" Hana, the Archivist, and the Owl each offer a
+  partial answer tying together Green/witnessing, the Ledger, and Eastwind Owl archival
+  monitoring; Tyler -- not usually extended the chance, as the asset the case concerns -- names
+  the honest through-line: "it's witnesses all the way down and an empty room at the bottom." A
+  second page suspends (not closes) the Man's own protocol review from E4, "pending a witness
+  with the authority to matter." Title drawn from the real minutes-note phrase in
+  s00e-1_the_determination.md's own account of the Council's first appearance. EPISODES.md/
+  activity.md updated. Apple pending.
+
 ## 2026-09-08 (4)
 
 - NEVER_LAND E4 "Undocumented" (Build 0134): AI-authored continuation (founder: "next episode").

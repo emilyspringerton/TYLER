@@ -323,3 +323,24 @@ is now reviewing his own broken protocol from NLE03. The Owl leaves Tyler a blan
 resolves the word "UNDOCUMENTED" under his thumb before fading -- the season's own title, handed
 back as a real, diegetic object. Writer's Room Rule 1 checked: Tyler completes no self-defining
 sentence. Apple #18521.
+
+## Build 0135 — NEVER_LAND E5: "Durations Are Data" (AI-authored continuation)
+Files: episodes/nl05_durations_are_data.md, EPISODES.md, activity.md
+Founder direction: "next episode." The Stillness Council makes real, direct contact for the first
+time in NEVER_LAND, using EXACTLY the mechanism already established in
+s00e-1_the_determination.md rather than inventing a courtroom or Council members who speak in
+person -- checked directly against that episode before writing anything, since a live tribunal
+scene would have contradicted real, existing canon ("the Council attends the way the Council does
+everything now: in writing, once, briefly"). A new character, a Clerk, delivers a single page:
+"The Council submits one question and will not speak further: WHO WITNESSED THE WITNESS?" Hana,
+the Archivist, and the Owl each offer a real, different partial answer, tying together the
+season's own established mechanics (Green spreads when witnessed; the Ledger confirms by
+witnessing; the Eastwind Owls' own real archival monitoring of Emily OS). Tyler -- not usually
+extended the chance, as the asset the whole case concerns -- asks to try, and names the honest
+through-line none of the others said outright: nobody with real authority ever actually witnessed
+the witnessing itself, "it's witnesses all the way down and an empty room at the bottom." A second
+page arrives: the Man's own protocol review (from NLE04) is suspended, not closed, "pending a
+witness with the authority to matter." Title drawn directly from the real, established minutes-
+note phrase in s00e-1_the_determination.md's own account of the Council's real first-ever
+appearance. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple
+pending.

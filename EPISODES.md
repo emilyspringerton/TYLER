@@ -4,20 +4,18 @@
 
 ---
 
-**Total episodes:** 94
-**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E4
-**Current through:** Build 0134 (NEVER_LAND E4 — "Undocumented"; introduces a new Eastwind Owl
-field operative, credited only as "the Owl" per the faction's own real practice — deliberately a
-NEW character rather than reusing the already-seeded "Edinburgh Exchange Student"; the Owls'
-already-established "monitors Emily OS's log activity" role (the same real mechanism that noticed
-the historical Build 0006 Tyler-file update) is what brings her to investigate Emily OS's direct
-NLE03 intervention; real, deliberate restraint named directly: this episode does NOT touch the
-Tyler file or its line count, checked against `README.md`'s own real, load-bearing "leave it
-alone" rule rather than assumed safe to spend; names the Ledger's own older name, "the Standing
-Debt," and two prior real cases of a debt being negotiated rather than collected — one erased from
-all record ("uncounted"), one still open; the Man reveals a Stillness Council review is now
-underway over his own broken protocol; Tyler is given the season's own title back as a real,
-diegetic object — a blank card that reads "UNDOCUMENTED" and fades)
+**Total episodes:** 95
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5
+**Current through:** Build 0135 (NEVER_LAND E5 — "Durations Are Data"; the Stillness Council makes
+real, direct contact for the first time in NEVER_LAND, using the exact real mechanism already
+established in `s00e-1_the_determination.md` — it never convenes or speaks in person, only "in
+writing, once, briefly," via a Clerk (new character) who delivers a single page reading "The
+Council submits one question and will not speak further: WHO WITNESSED THE WITNESS?"; Hana, the
+Archivist, and the Owl each offer a real, different partial answer before Tyler — not usually
+extended the chance, as the asset the case is about — asks to try and names the honest one: nobody
+with real authority ever witnessed the witnessing, "it's witnesses all the way down and an empty
+room at the bottom"; a second page arrives suspending (not closing) the Man's own protocol review,
+"pending a witness with the authority to matter")
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
@@ -36,6 +34,7 @@ continuity question, not resolved here.
 | NLE02 | "The Washer" | 0132 | episodes/nl02_the_washer.md |
 | NLE03 | "The Line Count" | 0133 | episodes/nl03_the_line_count.md |
 | NLE04 | "Undocumented" | 0134 | episodes/nl04_undocumented.md |
+| NLE05 | "Durations Are Data" | 0135 | episodes/nl05_durations_are_data.md |
 
 **NLE02, "The Washer" (AI-authored continuation, founder-requested "next episode"):** identifies
 NLE01's crow-wing imagery as hero #68 in
@@ -88,6 +87,22 @@ case still open. The Man returns changed: a Stillness Council (the same real bod
 `s00e-1_the_determination.md`) is now reviewing his own broken protocol. The Owl leaves Tyler a
 blank card that resolves the single word "UNDOCUMENTED" under his thumb, then fades — the season's
 own title, handed back as a real, diegetic object.
+
+**NLE05, "Durations Are Data" (AI-authored continuation, founder-requested "next episode"):** the
+Stillness Council makes real, direct contact for the first time in NEVER_LAND, using EXACTLY the
+mechanism already established in `s00e-1_the_determination.md` rather than inventing a courtroom
+or Council members who speak — that would contradict real, existing canon. It "attends... in
+writing, once, briefly": a new character, a Clerk, delivers a single page reading "The Council
+submits one question and will not speak further: WHO WITNESSED THE WITNESS?" Hana, the Archivist,
+and the Owl each offer a real, different partial answer (Green's own "spreads when witnessed"
+mechanic; the Ledger's confirmation-by-witnessing; the Owls' own real archival monitoring of Emily
+OS). Tyler — not usually extended the chance, as the asset the case is about — asks to try, and
+names the honest through-line none of the others said directly: nobody with real authority ever
+actually witnessed the witnessing itself, "it's witnesses all the way down and an empty room at
+the bottom." A second page arrives: the Man's own protocol review is suspended, not closed,
+"pending a witness with the authority to matter." Title drawn directly from the real, established
+minutes-note phrase in `s00e-1_the_determination.md`'s own account of the Council's first-ever
+appearance ("durations are data").
 
 Founder-authored script. Tyler and Hana reach a hidden subterranean Academy through an ordinary
 school building's own geometry loosening into an impossible corridor. Hana is revealed as
