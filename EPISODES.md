@@ -4,18 +4,20 @@
 
 ---
 
-**Total episodes:** 93
-**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E3
-**Current through:** Build 0133 (NEVER_LAND E3 — "The Line Count"; the exit door from E2 does not
-lead outside the Academy at all — it loops through a white non-space where Emily OS (Layer 4)
-manifests directly for the first time in NEVER_LAND, via her own already-established modal-tile
-convention; real, structural naming: NEVER_LAND, built entirely around a literal custody decision,
-is confirmed as a direct instance of the show's own pre-defined Layer 1, "Custody Trial —
-infrastructure drama; when someone touches Layer 4 directly"; "the debt" from E1 is identified as
-CAST's own real, pre-existing "the footage is hers before it is theirs" doctrine, now voiced as
-"I am the Ledger"; Hana breaks the assessment by asking to be classified in Tyler's place; Emily OS
-reclassifies both — Tyler "WITNESSED, NOT OWNED," Hana "PRESENT, NOT ASSIGNED" — closing the line
-without closing "the book"; the Man's authority visibly cracks for the first time in the season)
+**Total episodes:** 94
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E4
+**Current through:** Build 0134 (NEVER_LAND E4 — "Undocumented"; introduces a new Eastwind Owl
+field operative, credited only as "the Owl" per the faction's own real practice — deliberately a
+NEW character rather than reusing the already-seeded "Edinburgh Exchange Student"; the Owls'
+already-established "monitors Emily OS's log activity" role (the same real mechanism that noticed
+the historical Build 0006 Tyler-file update) is what brings her to investigate Emily OS's direct
+NLE03 intervention; real, deliberate restraint named directly: this episode does NOT touch the
+Tyler file or its line count, checked against `README.md`'s own real, load-bearing "leave it
+alone" rule rather than assumed safe to spend; names the Ledger's own older name, "the Standing
+Debt," and two prior real cases of a debt being negotiated rather than collected — one erased from
+all record ("uncounted"), one still open; the Man reveals a Stillness Council review is now
+underway over his own broken protocol; Tyler is given the season's own title back as a real,
+diegetic object — a blank card that reads "UNDOCUMENTED" and fades)
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
@@ -33,6 +35,7 @@ continuity question, not resolved here.
 | NLE01 | "Never_Land" | 0131 | episodes/nl01_never_land.md |
 | NLE02 | "The Washer" | 0132 | episodes/nl02_the_washer.md |
 | NLE03 | "The Line Count" | 0133 | episodes/nl03_the_line_count.md |
+| NLE04 | "Undocumented" | 0134 | episodes/nl04_undocumented.md |
 
 **NLE02, "The Washer" (AI-authored continuation, founder-requested "next episode"):** identifies
 NLE01's crow-wing imagery as hero #68 in
@@ -68,6 +71,23 @@ closing "the book." The Archivist (the Morrigan, from NLE02) recognizes the outc
 her own seed phrase back at it: "Refused once. Present ever since." The Man's authority visibly
 cracks for the first time in the season. Episode ends on the Academy steps, in real daylight,
 with Hana asking Tyler to defer the question of actually leaving — "Ask me tomorrow."
+
+**NLE04, "Undocumented" (AI-authored continuation, founder-requested "next episode"):** the next
+day, a diner across from the Academy. Introduces a new Eastwind Owl field operative ("the Owl") —
+deliberately a new character, not a reuse of the already-seeded "Edinburgh Exchange Student" from
+the Tides layer. Real, deliberate restraint checked directly rather than assumed: this episode
+does NOT touch Emily OS's Tyler file or its line count — `README.md`'s own real rule ("leave it
+alone") was already, canonically, carefully spent (three words → four lines at Build 0006 → six
+across Season 11), and adding a line casually four episodes into a new season would cheapen a
+mechanic the show has always guarded. What the Owl DOES bring, correctly within her faction's own
+established scope (they "monitor Emily OS's log activity," the same real mechanism that first
+noticed the Build 0006 file update): the Ledger's own older name, "the Standing Debt," and two
+real prior cases of a debt negotiated rather than collected — one person erased from all record
+("the debt didn't take proof they were here — it took the possibility of proof ever again"), one
+case still open. The Man returns changed: a Stillness Council (the same real body first seen in
+`s00e-1_the_determination.md`) is now reviewing his own broken protocol. The Owl leaves Tyler a
+blank card that resolves the single word "UNDOCUMENTED" under his thumb, then fades — the season's
+own title, handed back as a real, diegetic object.
 
 Founder-authored script. Tyler and Hana reach a hidden subterranean Academy through an ordinary
 school building's own geometry loosening into an impossible corridor. Hana is revealed as

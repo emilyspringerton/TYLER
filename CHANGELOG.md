@@ -1,3 +1,14 @@
+## 2026-09-08 (4)
+
+- NEVER_LAND E4 "Undocumented" (Build 0134): AI-authored continuation (founder: "next episode").
+  Introduces a new Eastwind Owl field operative ("the Owl") -- a new character, not a reuse of
+  the seeded "Edinburgh Exchange Student." Deliberate restraint checked directly: does NOT touch
+  Emily OS's Tyler file/line count, a real, carefully-guarded mechanic. The Owl names the
+  Ledger's older name ("the Standing Debt") and two prior negotiated-not-collected cases. The Man
+  reveals a Stillness Council review of his own broken protocol. Tyler receives the season's own
+  title as a real diegetic object -- a fading card reading "UNDOCUMENTED." EPISODES.md/activity.md
+  updated. Apple pending.
+
 ## 2026-09-08 (3)
 
 - NEVER_LAND E3 "The Line Count" (Build 0133): AI-authored continuation (founder: "next

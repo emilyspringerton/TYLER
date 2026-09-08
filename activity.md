@@ -303,3 +303,23 @@ once. Present ever since." The Man's authority visibly cracks for the first time
 Episode ends on the Academy steps in real daylight, Hana deferring the actual-leaving question:
 "Ask me tomorrow." Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple
 #18518.
+
+## Build 0134 — NEVER_LAND E4: "Undocumented" (AI-authored continuation)
+Files: episodes/nl04_undocumented.md, EPISODES.md, activity.md
+Founder direction: "next episode." Introduces a new Eastwind Owl field operative ("the Owl") --
+deliberately a new character rather than reusing the already-seeded "Edinburgh Exchange Student"
+from the Tides layer, named honestly as a new addition. Real, deliberate restraint checked
+directly against README.md before writing anything: this episode does NOT touch Emily OS's Tyler
+file or its line count -- the real rule ("the file is three words... leave it alone") was already,
+canonically, carefully spent across real story weight (three words to four lines at Build 0006, to
+six across Season 11); adding a line casually here would cheapen a mechanic this show has always
+guarded. What the Owl brings instead, correctly within her faction's own established real scope
+(they "monitor Emily OS's log activity," the same mechanism that first noticed the Build 0006 file
+update): the Ledger's own older name, "the Standing Debt," and two real prior cases of a debt
+negotiated rather than collected -- one person erased from all record ("the debt didn't take proof
+they were here -- it took the possibility of proof ever again"), one case still open. The Man
+returns changed: a Stillness Council (the same real body first seen in s00e-1_the_determination.md)
+is now reviewing his own broken protocol from NLE03. The Owl leaves Tyler a blank card that
+resolves the word "UNDOCUMENTED" under his thumb before fading -- the season's own title, handed
+back as a real, diegetic object. Writer's Room Rule 1 checked: Tyler completes no self-defining
+sentence. Apple pending.
