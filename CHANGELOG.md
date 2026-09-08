@@ -12,7 +12,7 @@
   version" dynamic. Deliberately keeps the Duck un-integrated into Season 6 (Take 2)'s mythology,
   same restraint x00 set for Series X. Real plot advance under the pastiche: cleaned boom-mic
   audio from E1 yields one more word of the cut-off warning, "DON'T LET HIM START--", still cut
-  off. EPISODES.md/activity.md updated. Apple pending.
+  off. EPISODES.md/activity.md updated. Apple #18544.
 
 ## 2026-09-08 (7)
 

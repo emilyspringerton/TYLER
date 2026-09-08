@@ -404,4 +404,4 @@ already established in the blog posts. Real plot advance delivered underneath th
 cleaned boom-mic audio from E1 yields one more word of the cut-off warning, "DON'T LET HIM
 START--", still cut off, plus the Duck's own unconfirmed read that someone besides Tyler may
 already be running the same five-color ignition sequence on a separate clock, "behind" rather than
-broken. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple pending.
+broken. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple #18544.
