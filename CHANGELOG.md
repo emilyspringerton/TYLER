@@ -1,3 +1,16 @@
+## 2026-09-08 (6)
+
+- SEASON 6 (TAKE 2) E0 "The Residue Test" (Build 0136): founder-authored script, saved verbatim,
+  following the founder's real-time direction "lets just arbitrarily say next season is season
+  6" after NEVER_LAND's own open ending. Flagged and resolved a real numbering conflict first:
+  episodes/s06e01-s06e06 already occupy Season 6 as a separate, unrelated arc, so this is filed
+  as "SEASON 6 (TAKE 2)" per the founder's own explicit choice. Returns to the main
+  documentary-crew frame (Cam, a sound guy, a PA). Tyler is contaminated by a reactive "memory
+  adhesive" residue that surfaces a live flip-phone text thread between an unseen "the Suit" and
+  Hana, revealing Hana already knows him from "the version that leaks." Ends on a cliffhanger:
+  Tyler touches the patch's edge and the scene peels, showing one frame of an older/alternate
+  Hana mid-catastrophe. EPISODES.md/activity.md updated. Apple pending.
+
 ## 2026-09-08 (5)
 
 - NEVER_LAND E5 "Durations Are Data" (Build 0135): AI-authored continuation (founder: "next

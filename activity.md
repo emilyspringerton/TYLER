@@ -344,3 +344,20 @@ witness with the authority to matter." Title drawn directly from the real, estab
 note phrase in s00e-1_the_determination.md's own account of the Council's real first-ever
 appearance. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple
 #18523.
+
+## Build 0136 — SEASON 6 (TAKE 2) E0: "The Residue Test" (founder-authored script)
+Files: episodes/s06b_e00_the_residue_test.md, EPISODES.md, activity.md
+Founder direction: "lets just arbitrarily say next season is season 6," followed by a full pasted
+script. Flagged and resolved a real numbering conflict before filing: episodes/s06e01-s06e06
+already occupy Season 6 as a separate, unrelated arc, so this is filed as "SEASON 6 (TAKE 2)"
+per founder's own explicit choice (asked directly rather than guessed, given the collision).
+Returns to the main documentary-crew frame (Cam the cameraman, a sound guy, a PA) rather than
+NEVER_LAND's Academy setting. Tyler picks up an unexplained sticky residue in a Detroit parking
+structure that writes warnings into concrete, revises its own wording to match what the crew
+says and looks at, and turns out to be a reactive "memory adhesive." A rectangular patch on
+Tyler's forearm surfaces a live flip-phone text thread between an unseen "the Suit" and Hana,
+revealing Hana already knows about Tyler from "the version that leaks" and that touching the
+patch's edge "starts indexing." Tyler touches it anyway. The scene peels by a millimeter,
+duplicating the room and showing one single frame of an older/alternate Hana mid-catastrophe,
+already shouting "DON'T LET HIM—" before the cut to black. Writer's Room Rule 1 checked: no
+self-defining sentence from Tyler. Apple pending.

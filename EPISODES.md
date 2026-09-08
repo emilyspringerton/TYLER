@@ -4,18 +4,37 @@
 
 ---
 
-**Total episodes:** 95
-**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5
-**Current through:** Build 0135 (NEVER_LAND E5 — "Durations Are Data"; the Stillness Council makes
-real, direct contact for the first time in NEVER_LAND, using the exact real mechanism already
-established in `s00e-1_the_determination.md` — it never convenes or speaks in person, only "in
-writing, once, briefly," via a Clerk (new character) who delivers a single page reading "The
-Council submits one question and will not speak further: WHO WITNESSED THE WITNESS?"; Hana, the
-Archivist, and the Owl each offer a real, different partial answer before Tyler — not usually
-extended the chance, as the asset the case is about — asks to try and names the honest one: nobody
-with real authority ever witnessed the witnessing, "it's witnesses all the way down and an empty
-room at the bottom"; a second page arrives suspending (not closing) the Man's own protocol review,
-"pending a witness with the authority to matter")
+**Total episodes:** 96
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
+E0
+**Current through:** Build 0136 (SEASON 6 (TAKE 2) E0 — "The Residue Test"; founder-authored
+script, returns to the main documentary-crew frame (Cam, a sound guy, a PA) after NEVER_LAND's
+Academy setting; Tyler is contaminated by a reactive, language- and attention-sensitive residue
+that surfaces a live flip-phone text thread between an unseen "Suit" and Hana, including a
+glimpsed frame of an older/alternate Hana mid-catastrophe; ends on a cliffhanger as Tyler touches
+the patch's edge and the scene itself peels)
+
+**SEASON 6 (TAKE 2) placement note:** founder, real-time, after NEVER_LAND's own open ending:
+"lets just arbitrarily say next season is season 6." Labeled "(Take 2)" because
+`episodes/s06e01_the_blue_bird.md` through `episodes/s06e06_the_usual_place.md` already occupy
+Season 6 as a separate, unrelated arc — flagged to the founder before filing, who chose to keep
+the number and treat this as its own distinct continuity rather than renumbering either side.
+Placement relative to NEVER_LAND, Series X, and the numbered S1–S11 run is left as an open,
+founder-owned continuity question, same as NEVER_LAND's own placement note below.
+
+---
+
+## SEASON 6 (TAKE 2)
+
+| Code | Title | Build | File |
+|---|---|---|---|
+| S6BE00 | "The Residue Test" | 0136 | episodes/s06b_e00_the_residue_test.md |
+
+**S6BE00, "The Residue Test" (founder-authored script):** see placement note above. Founder-
+authored script, saved verbatim, following the same convention as NLE01. Introduces a new
+artifact-concept not previously used anywhere in TYLER — a reactive "memory adhesive" residue —
+plus new supporting crew characters (Cam, the sound guy, the PA) and an unseen recurring
+correspondent ("the Suit") texting Hana across what reads as two different timelines.
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
