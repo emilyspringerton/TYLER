@@ -302,4 +302,4 @@ The Archivist (the Morrigan, from NLE02) repeats her own seed phrase back at the
 once. Present ever since." The Man's authority visibly cracks for the first time in the season.
 Episode ends on the Academy steps in real daylight, Hana deferring the actual-leaving question:
 "Ask me tomorrow." Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple
-pending.
+#18518.
