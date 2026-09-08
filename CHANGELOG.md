@@ -1,3 +1,13 @@
+## 2026-09-08
+
+- NEVER_LAND E1 "Never_Land" (Build 0131): new named season, founder-authored script saved into
+  episodes/nl01_never_land.md. Tyler + Hana at a hidden subterranean Academy reached through a
+  school building; real, direct continuity link to s01e02_school.md's Hana/Custody Office, not
+  invented. Hana revealed as "Handler Hana"; Tyler classified "Green." Sealed-room test passed via
+  teleportation. "The debt" introduced (PAY WHAT YOU SAW). Placement relative to Attempt
+  Four/Attempt Five left as an open, founder-owned continuity question. EPISODES.md/activity.md
+  updated. Apple pending.
+
 ## 2026-09-05 (2)
 - feat(mpt): first full Season 1 run through MoneyPrinterTurbo — all 5 episodes (S01E01–S01E05)
   now have a real generated cold-open video at `compiled/s01e0N/mpt_output/cold_open_v1.mp4`

@@ -4,9 +4,43 @@
 
 ---
 
-**Total episodes:** 90
-**Seasons complete:** S1–S11 + S00 (Series X ground state)
-**Current through:** Build 0128 (S00E-1 — "The Determination"; bridge episode, precedes S00E00 in story chronology though produced after S00E03; Jiangshi determination session on Final Memo #081; Attempt Four formally archived; corrected assumption adopted — "the oscillation is the subject"; Michigan corridor designated as entry point; NOOR-1 dispatched; Stillness Council appears in writing; solstice ingress June 21 2026)
+**Total episodes:** 91
+**Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1
+**Current through:** Build 0131 (NEVER_LAND E1 — "Never_Land"; founder-authored script; Tyler and
+Hana at the Academy, a hidden subterranean campus reached through a school building; Hana revealed
+as "Handler Hana," working the Custody chain for an unnamed Academy official; Tyler classified
+"Green" — an anomaly that spreads when witnessed; a sealed-room escape test Tyler passes by
+teleporting rather than picking the lock; a crow's-wing wall panel behind a sealed corridor;
+"the debt" introduced as a collecting, proof-demanding force ("PAY WHAT YOU SAW"); Hana discloses
+she was "sent to decide" whether Tyler is a person or a resource; episode ends on Hana's refusal
+to name what's happening — "Never_Land" — and a vow to run if forced to)
+
+**NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
+Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not
+invented for this entry. Filed as its own named season (same convention as Series X) rather than
+assigned a numbered slot in the S1–S11 run or the current Series X/Attempt Five timeline; where it
+sits relative to Attempt Four (archived) vs. Attempt Five (current) is an open, founder-owned
+continuity question, not resolved here.
+
+---
+
+## SEASON: NEVER_LAND
+
+| Code | Title | Build | File |
+|---|---|---|---|
+| NLE01 | "Never_Land" | 0131 | episodes/nl01_never_land.md |
+
+Founder-authored script. Tyler and Hana reach a hidden subterranean Academy through an ordinary
+school building's own geometry loosening into an impossible corridor. Hana is revealed as
+"Handler Hana," operating within a real Custody chain for an unnamed Academy official; Tyler is
+classified "Green" (an anomaly that spreads when witnessed). A sealed-room containment test
+("exit without touching the lock") is passed by a real teleportation escape rather than picking
+the lock — the Man's own reaction ("…How?") suggests this wasn't the expected/intended solution.
+A wall panel behind a sealed corridor reveals painted black feathers — a crow's wing, unexplained.
+Hana discloses she "was sent to decide" whether Tyler is a person or a resource, and that "the
+debt... always finds what you love." A charcoal note — "PAY WHAT YOU SAW" — appears in Tyler's
+dorm room unattended. Episode closes on Hana refusing to name what's happening ("Never_Land... a
+refusal") and a shared vow to run if the debt forces the issue.
 
 ---
 

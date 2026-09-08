@@ -244,3 +244,23 @@ Continuation of the okemily.com blog transcript "The Duck Also Has Opinions Abou
 ## Build 0130 — "The Multiverse Hero Compendium" (multiverse_heroes.md, 108 entries)
 Files: multiverse_heroes.md, CLAUDE.md, activity.md
 Founder direction: develop heroes for a League of Legends/Diablo II-style game, drawing from TYLER lore, tying real-world mythology (Goetia, Norse, Chinese, Japanese, Scottish/Celtic, Lovecraftian cosmic horror) plus real historical legends (Nicholas Flamel, Nikola Tesla) and Shakespeare/folklore (Puck) into one wide multiverse, high fantasy and high tech coexisting, vaguely steampunk. Docs-before-software discipline applied deliberately: this pass is lore/archetype/story only, zero abilities, zero stats, zero roles — mechanics get designed in a later pass, derived from the lore, so a bad first gameplay draft can be regenerated without touching the characters. Power-level doctrine set: demigod-tier baseline, roughly a third of the roster deliberately mundane-and-mysterious rather than mythic, itemization/buffs are where real scaling happens. 11 factions: Jiangshi Syndicate, Goetia Court, Valhalla Remnant, Middle Kingdom Heirs, Rising Sun Circuit, Highland Court, Abyssal Choir, Shell Parliament, Eastwind Owls, Springerton Engine, and founder-added Unbound Historicals (real people mythologized after the fact). Full just_a_duck.md cast (duck, unicorn, ghost, frog, tree, pizza) folded into the Springerton Engine faction alongside the new Custody-of-a-Duck interlude. TYLER-canon crossovers (frequencies, Jiangshi, Shell Parliament, Eastwind Owls, THE_FIELD.md) load-bearing throughout, not decorative. RED GARDEN (founder-confirmed as the closest existing game home — card-hand RTS already targeting LoL-style card affordances) cross-referenced in its own NORTHSTAR.md §6 as a forward pointer, no commitment made on either side. Apple pending.
+
+## Build 0131 — NEVER_LAND E1: "Never_Land" (new named season)
+Files: episodes/nl01_never_land.md, EPISODES.md, activity.md
+Founder-authored script, saved verbatim into the repo's own established episode format. Tyler and
+Hana reach a hidden subterranean Academy through an ordinary school building's own geometry
+loosening into an impossible corridor — real, direct continuity link to Hana and the hidden-school
+Custody Office already established in s01e02_school.md (Build 0001), not invented here. Hana
+revealed as "Handler Hana," working a real Custody chain for an unnamed Academy official; Tyler
+classified "Green" (an anomaly that spreads when witnessed). A sealed-room containment test ("exit
+without touching the lock") passed via a real teleportation escape rather than picking the lock —
+the Man's own "…How?" suggests this wasn't the intended solution. A wall panel behind a sealed
+corridor reveals painted black feathers, a crow's wing, unexplained. Hana discloses she "was sent
+to decide" whether Tyler is a person or a resource; "the debt... always finds what you love." A
+charcoal note — "PAY WHAT YOU SAW" — appears unattended in Tyler's dorm room. Episode closes on
+Hana's refusal to name what's happening ("Never_Land... a refusal") and a shared vow to run if
+forced to. Filed as its own named season (same convention Series X already established) rather
+than assigned a numbered slot in S1–S11 or the current Series X/Attempt Five timeline — where it
+sits relative to Attempt Four (archived) vs. Attempt Five (current) is an open, founder-owned
+continuity question, named directly rather than resolved here. Writer's Room Rule 1 checked:
+Tyler completes no self-defining sentence. Apple pending.
