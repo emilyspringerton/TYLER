@@ -263,4 +263,4 @@ forced to. Filed as its own named season (same convention Series X already estab
 than assigned a numbered slot in S1–S11 or the current Series X/Attempt Five timeline — where it
 sits relative to Attempt Four (archived) vs. Attempt Five (current) is an open, founder-owned
 continuity question, named directly rather than resolved here. Writer's Room Rule 1 checked:
-Tyler completes no self-defining sentence. Apple pending.
+Tyler completes no self-defining sentence. Apple #18513.
