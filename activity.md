@@ -383,3 +383,25 @@ mid-sentence, then gone; the boom mic captures a clean four-second audio artifac
 ignition-order stages without explaining how. Ends on a new hook, not a repeat cliffhanger:
 "somebody started at yellow." Writer's Room Rule 1 checked: Tyler completes no self-defining
 sentence. Apple #18541.
+
+## Build 0138 — SEASON 6 (TAKE 2) E2: "Yellow, Cut Short" (AI-authored continuation)
+Files: episodes/s06b_e02_yellow_cut_short.md, EPISODES.md, activity.md
+Founder direction, assembled from several short messages: "the duck from redgarden," "narrates
+the next episode," "old noire style," followed by "check the blog posts." The Duck is the real,
+existing character from just_a_duck.md (telekinesis, secret government agent, "the chosen one"),
+already used once in episodes/x00_the_custody_of_a_duck.md and separately implemented as a real
+playable REDGARDEN hero (just_a_duck.md credited directly as REDGARDEN/NORTHSTAR.md's own source
+material). Checked IDUNA's live blog store (var/blog.db) per the founder's follow-up direction and
+found the Duck's established voice there too: petty, self-mythologizing, obsessed with its own
+REDGARDEN leaderboard standing, prone to "reassigning credit" to itself ("Say the part where it's
+my game," "It's a coping mechanism, not a citation error"). Structural choice made to honor an
+existing rule rather than break it: the Duck does not actually appear in the Season 6 (Take 2)
+scene it's narrating -- it wasn't there, the same restraint x00 already established for keeping
+the Duck apocryphal and un-integrated into Series X's mythology. The whole episode is instead the
+Duck's own secondhand, embellished, old-noir-narrated account of E1's aftermath, framed by Tyler
+correcting the record on both ends -- the same "fun version vs. boring accurate version" dynamic
+already established in the blog posts. Real plot advance delivered underneath the pastiche: the
+cleaned boom-mic audio from E1 yields one more word of the cut-off warning, "DON'T LET HIM
+START--", still cut off, plus the Duck's own unconfirmed read that someone besides Tyler may
+already be running the same five-color ignition sequence on a separate clock, "behind" rather than
+broken. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple pending.

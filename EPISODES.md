@@ -4,21 +4,20 @@
 
 ---
 
-**Total episodes:** 97
+**Total episodes:** 98
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E1
-**Current through:** Build 0137 (SEASON 6 (TAKE 2) E1 — "The Wrong Order"; AI-authored
-continuation resuming E0's cliffhanger mid-scene. Real, load-bearing connections used directly
-rather than invented: the flip-phone "black green red yellow white" text is the same Osaka
-operator ignition order already established in `manuscripts/tyler_book2.md`/`tyler_book0.md`;
-"wrong order again" is the same documented, unexplained AR-glitch phenomenon named in `README.md`'s
-"Cursed Timeline" note, whose Eastwind Owl footnote stays withheld exactly as already established;
-`HQ-CANON-TYLER-105-EPOCH-EXTINCTION.md` Canon Rule 2 ("No character except Tyler may enter the
-seam and return") is used, without violating it, to explain why the residue activates on Tyler
-specifically — framed as the seam bleeding a fragment outward, never as anyone entering and
-returning. The older/alternate Hana from E0 is glimpsed once more, mid-sentence, then gone; a
-clean four-second audio artifact of her voice is captured by the boom mic and not yet played for
-the crew. Ends on a new hook, not a repeat cliffhanger: "somebody started at yellow.")
+E0–E2
+**Current through:** Build 0138 (SEASON 6 (TAKE 2) E2 — "Yellow, Cut Short"; narrated entirely,
+secondhand, by the Duck (`just_a_duck.md`/`episodes/x00_the_custody_of_a_duck.md`/REDGARDEN's
+own playable hero), in old-noir affectation, per founder direction ("the duck from redgarden,"
+"narrates the next episode," "old noire style"). The Duck wasn't present for E1's aftermath and
+says so — its account is explicitly embellished, framed by Tyler correcting the record on both
+ends, matching the established "fun version vs. boring accurate version" dynamic from IDUNA's own
+live "State of the Ecosystem" blog post series (checked directly per follow-up founder direction,
+"check the blog posts"). Real plot advance underneath the pastiche: the cleaned boom-mic audio
+from E1 yields one more word of the cut-off warning — "DON'T LET HIM START—", still cut off —
+raising the possibility someone besides Tyler may have already begun their own run through the
+ignition order, "behind" rather than broken.)
 
 **SEASON 6 (TAKE 2) placement note:** founder, real-time, after NEVER_LAND's own open ending:
 "lets just arbitrarily say next season is season 6." Labeled "(Take 2)" because
@@ -36,6 +35,7 @@ founder-owned continuity question, same as NEVER_LAND's own placement note below
 |---|---|---|---|
 | S6BE00 | "The Residue Test" | 0136 | episodes/s06b_e00_the_residue_test.md |
 | S6BE01 | "The Wrong Order" | 0137 | episodes/s06b_e01_the_wrong_order.md |
+| S6BE02 | "Yellow, Cut Short" | 0138 | episodes/s06b_e02_yellow_cut_short.md |
 
 **S6BE00, "The Residue Test" (founder-authored script):** see placement note above. Founder-
 authored script, saved verbatim, following the same convention as NLE01. Introduces a new
@@ -55,6 +55,22 @@ return" — to explain why the residue singles Tyler out, framed strictly as the
 fragment outward rather than anyone traveling anywhere. The older/alternate Hana from E0 is
 glimpsed once more, cut off mid-sentence; the boom mic captures four clean seconds of her voice,
 not yet played back for the crew. Closes on a new hook: "somebody started at yellow."
+
+**S6BE02, "Yellow, Cut Short" (AI-authored continuation, founder direction assembled from "the
+duck from redgarden," "narrates the next episode," "old noire style," plus a follow-up "check the
+blog posts"):** the whole episode is narrated secondhand, in old-noir affectation, by the Duck —
+the real, existing character from `just_a_duck.md`, already used once in
+`episodes/x00_the_custody_of_a_duck.md`, and separately a real playable REDGARDEN hero. The Duck
+was not present for E1's aftermath and says so up front; its account is explicitly embellished,
+bracketed by a frame where Tyler corrects the record on both ends — the same "fun version vs. the
+boring, accurate version" dynamic already established in IDUNA's live "State of the Ecosystem"
+blog post series (`var/blog.db`), checked directly rather than guessed at. Deliberately does NOT
+have the Duck actually appear in the Season 6 (Take 2) scene or get integrated into that
+continuity's mythology — same restraint `x00` already established for Series X. Real plot advance
+delivered through the unreliable-narrator filter: the cleaned boom-mic audio from E1 yields one
+more word of the cut-off warning, "DON'T LET HIM START—", still cut off, plus the Duck's own
+(unconfirmed) read that someone besides Tyler may already be running the same five-color sequence
+on a separate clock.
 
 **NEVER_LAND placement note:** real, direct continuity link to Hana and the hidden-school Custody
 Office already established in `episodes/s01e02_school.md` (Build 0001) — not a coincidence, not

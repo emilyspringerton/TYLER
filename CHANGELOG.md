@@ -1,3 +1,19 @@
+## 2026-09-08 (8)
+
+- SEASON 6 (TAKE 2) E2 "Yellow, Cut Short" (Build 0138): AI-authored continuation, founder
+  direction assembled from "the duck from redgarden," "narrates the next episode," "old noire
+  style," plus a follow-up "check the blog posts." Narrated entirely, secondhand, by the Duck --
+  the real, existing character from just_a_duck.md, already used once in
+  episodes/x00_the_custody_of_a_duck.md, and separately a real playable REDGARDEN hero. Voice
+  grounded in two real sources: x00's deadpan/never-explained restraint, and IDUNA's live
+  "State of the Ecosystem" blog post series (var/blog.db), checked directly per the founder's
+  follow-up. The Duck wasn't present for E1's aftermath and says so; Tyler corrects the record in
+  a frame on both ends, matching the blog posts' own established "fun version vs. boring accurate
+  version" dynamic. Deliberately keeps the Duck un-integrated into Season 6 (Take 2)'s mythology,
+  same restraint x00 set for Series X. Real plot advance under the pastiche: cleaned boom-mic
+  audio from E1 yields one more word of the cut-off warning, "DON'T LET HIM START--", still cut
+  off. EPISODES.md/activity.md updated. Apple pending.
+
 ## 2026-09-08 (7)
 
 - SEASON 6 (TAKE 2) E1 "The Wrong Order" (Build 0137): AI-authored continuation (founder: "next
