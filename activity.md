@@ -281,4 +281,4 @@ deliberate mechanism given to Tyler's own pre-existing "Green: spreads when witn
 classification from NLE01, not just a repeated label. Episode ends with Tyler and Hana pushing
 together through an unmarked exit door into light that "isn't weather" — the literal first attempt
 at NLE01's own closing vow to run. Writer's Room Rule 1 checked: Tyler completes no self-defining
-sentence. Apple pending.
+sentence. Apple #18516.
