@@ -9,7 +9,7 @@
   Rule 2 ("No character except Tyler may enter the seam and return"), without violating it, to
   explain why the residue singles Tyler out. The older/alternate Hana is glimpsed once more,
   mid-sentence; the boom mic captures four clean seconds of her voice, unplayed. Closes on a new
-  hook: "somebody started at yellow." EPISODES.md/activity.md updated. Apple pending.
+  hook: "somebody started at yellow." EPISODES.md/activity.md updated. Apple #18541.
 
 ## 2026-09-08 (6)
 

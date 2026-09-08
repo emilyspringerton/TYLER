@@ -382,4 +382,4 @@ mid-sentence, then gone; the boom mic captures a clean four-second audio artifac
 12:04:47, not yet played back for the crew. Present-Hana confirms she knows four of the five
 ignition-order stages without explaining how. Ends on a new hook, not a repeat cliffhanger:
 "somebody started at yellow." Writer's Room Rule 1 checked: Tyler completes no self-defining
-sentence. Apple pending.
+sentence. Apple #18541.
