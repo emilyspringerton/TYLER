@@ -360,4 +360,4 @@ revealing Hana already knows about Tyler from "the version that leaks" and that 
 patch's edge "starts indexing." Tyler touches it anyway. The scene peels by a millimeter,
 duplicating the room and showing one single frame of an older/alternate Hana mid-catastrophe,
 already shouting "DON'T LET HIM—" before the cut to black. Writer's Room Rule 1 checked: no
-self-defining sentence from Tyler. Apple pending.
+self-defining sentence from Tyler. Apple #18538.

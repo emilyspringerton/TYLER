@@ -9,7 +9,7 @@
   adhesive" residue that surfaces a live flip-phone text thread between an unseen "the Suit" and
   Hana, revealing Hana already knows him from "the version that leaks." Ends on a cliffhanger:
   Tyler touches the patch's edge and the scene peels, showing one frame of an older/alternate
-  Hana mid-catastrophe. EPISODES.md/activity.md updated. Apple pending.
+  Hana mid-catastrophe. EPISODES.md/activity.md updated. Apple #18538.
 
 ## 2026-09-08 (5)
 
