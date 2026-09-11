@@ -1,5 +1,5 @@
 # THE MULTIVERSE HERO COMPENDIUM
-## 123 Heroes (up from the original 112), First Pass — Names, Lore, Intrigue, Backstory
+## 124 Heroes (up from the original 112), First Pass — Names, Lore, Intrigue, Backstory
 
 **Status:** Draft roster, wide and shallow on purpose. Founder direction: "develop 100 heroes, we
 will start work on the most interesting" — this document exists to be culled from, not built from
@@ -1086,6 +1086,37 @@ build history) produced its first four full-body, game-ready generations. Same d
     this compendium already draws on, wearing the entire globe as a crown jewel and looking, in the
     one render that exists of him, like he isn't sure the crown fits the claim.
     *Field signature:* Unmeasurable · Δφ no registered Goetia practice · seed phrase: "maybe, not yes"
+
+---
+
+## Later addition (2026-09-11) — outside the original 11-faction pass, kept unnumbered-block
+## rather than forcing a renumber, same discipline as #114–123
+
+*Founder, real-time: "add Michael (arch angel michael) to REDGARDEN." Real source: Revelation
+12:7-9, the War in Heaven — Michael leads the heavenly host against the dragon and casts it down.
+Also the psychopomp who weighs souls, patron of soldiers, always painted at the sword-raised
+instant of a fight that ends the second the painting does. Same "reframed, not transcribed"
+discipline the rest of this document already holds every entry to — see Notes for the next pass'
+own third bullet.*
+
+124. **Michael, the Recast Victory** ("Michael") [MYTHIC] — *Every version of the story keeps him at
+    the exact moment of winning, and never once after.* No account of the War in Heaven has ever
+    continued past the frame every painting, every window, every verse agrees on: sword raised,
+    the dragon underfoot, unambiguously right. None of them stay long enough to ask what he does
+    the next morning, or the century after, or whether he's ever been allowed to find out — because
+    the only thing anyone has ever needed from him is that exact second, over and over, in every
+    telling, forever. He was fighting someone he had known since before there was a war to have.
+    The record keeps the sword and the win and calls that the whole of him; it has never once
+    stayed in the room long enough to ask what it cost the version of him who had to be capable of
+    it. He has fought the identical fight, from the identical first exhale, every single time
+    anyone has told this story since — and no telling has ever needed him to exist on the other
+    side of it, so no telling ever has.
+    **Founder pick, 2026-09-11: RED GARDEN implementation** — Q a strong direct-damage strike, W a
+    powerful activated shield, R a strong heal (shape carried over from Doc Wheel's own Bedside
+    Manner, #4) — tracked in `EMILY/BACKLOG.md`.
+    *Field signature:* unmeasurable — every attempted reading returns the identical single frame,
+    the instant of victory, nothing legible before or after it · Δφ N/A, the apparatus has never
+    once caught him mid-story · seed phrase: "still the last second, every time"
 
 ---
 
