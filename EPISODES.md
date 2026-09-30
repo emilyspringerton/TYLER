@@ -4,10 +4,18 @@
 
 ---
 
-**Total episodes:** 98
+**Total episodes:** 99
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2
-**Current through:** Build 0138 (SEASON 6 (TAKE 2) E2 — "Yellow, Cut Short"; narrated entirely,
+E0–E2 + VALHANNA VH01 (pilot cold open, season opening)
+**Current through:** Build 0139 (SEASON VALHANNA, VH01 — "Je Ne Sais Quoi," pilot cold open;
+founder-declared new named season, 2026-09-30, inheriting Hana from Season 6 (Take 2). Tyler and
+Hana dream-wake in a decommissioned 1986 Iceland server room; a printer holds the LO-source for
+"the Mecha Cube"; reading it resolves the long-PENDING Bird Correction; Hana talks him out of it;
+he feeds the printout back into the printer; the whole cold open plays in French until the Duck,
+dreaming it, wakes up in a cold sweat with no memory of French. Bird Correction: still PENDING, by
+choice for the first time on record. See SEASON: VALHANNA below for full placement note.)
+
+**Previous entry — Build 0138 (SEASON 6 (TAKE 2) E2 — "Yellow, Cut Short"; narrated entirely,
 secondhand, by the Duck (`just_a_duck.md`/`episodes/x00_the_custody_of_a_duck.md`/REDGARDEN's
 own playable hero), in old-noir affectation, per founder direction ("the duck from redgarden,"
 "narrates the next episode," "old noire style"). The Duck wasn't present for E1's aftermath and
@@ -170,6 +178,40 @@ Hana discloses she "was sent to decide" whether Tyler is a person or a resource,
 debt... always finds what you love." A charcoal note — "PAY WHAT YOU SAW" — appears in Tyler's
 dorm room unattended. Episode closes on Hana refusing to name what's happening ("Never_Land... a
 refusal") and a shared vow to run if the debt forces the issue.
+
+---
+
+## SEASON: VALHANNA
+
+**Placement note:** founder, real-time, 2026-09-30, same casual/arbitrary season-declaration
+precedent Season 6 (Take 2) itself used ("lets just arbitrarily say next season is season 6"):
+*"we are starting a new season of TYLER; VALHANNA."* Filed as its own named season (same
+convention as NEVER_LAND and Series X) rather than assigned a numbered slot. Inherits **Hana**
+directly from Season 6 (Take 2) (`s06b_e00`–`s06b_e02`, Build 0136–0138, the most recently active
+continuity thread in this repo at time of writing) rather than introducing a new character sharing
+the name. Placement relative to Season 6 (Take 2), NEVER_LAND, Series X, and the numbered S1–S11
+run is left open, same standing convention every prior named season has used.
+
+| Code | Title | Build | File |
+|---|---|---|---|
+| VH01 | "Je Ne Sais Quoi" (Cold Open, Pilot) | 0139 | episodes/vh01_valhanna_coldopen.md |
+
+**VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
+wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still
+running a long printout: the LO-language source for "the Mecha Cube," an artifact that (per Hana)
+doesn't exist yet and won't for centuries. Two thermoses, minestrone and coffee, both still warm,
+both unclaimed (flagged against `characters/the_auditor.md`'s own established signature dish —
+not resolved, not asserted, just noticed). Both of them know that finishing the read resolves the
+**Bird Correction** — PENDING at the end of nearly every season on file, S01 through S11, despite
+two much earlier documents (`_.md` Build 0016, `CITY_OF_LIGHT.md`) having separately declared it
+closed. Hana begs him not to read it, invoking the same older/alternate-Hana-with-blood-on-her-
+sleeve warning Season 6 (Take 2) has never resolved ("DON'T LET HIM START—"). Tyler stops reading
+and feeds the printout back into the printer. Framed, per the show's own coldopen-x2 precedent of
+staging a real production constraint as an in-universe device, as **the Duck's dream** — the whole
+scene plays in French, subtitled, until the Duck wakes up in a cold sweat, in English, with no
+memory of ever knowing French. Bird Correction status at close: still PENDING — for the first time
+on record, by choice rather than by accident. Apple #21435 (founder observation) + completion
+Apple on commit.
 
 ---
 
