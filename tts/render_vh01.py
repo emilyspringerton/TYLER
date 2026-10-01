@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+"""Render VH01 cold-open beats to WAV with Piper (local ONNX TTS) and report hold-fit.
+Usage: render_vh01.py [outdir]   Needs TYLER_TTS_HOME (default ~/.local/share/tyler-tts)."""
+import os, sys, subprocess, wave, json
+home = os.environ.get("TYLER_TTS_HOME", os.path.expanduser("~/.local/share/tyler-tts"))
+out = sys.argv[1] if len(sys.argv) > 1 else os.path.join(home, "out")
+os.makedirs(out, exist_ok=True)
+VOICE = {"tyler": "fr_FR-tom-medium", "hana": "fr_FR-siwis-medium"}
+env = dict(os.environ, PYTHONPATH=os.path.join(home, "pylib"))
+rows, here = [], os.path.dirname(os.path.abspath(__file__))
+for ln in open(os.path.join(here, "vh01_beats.tsv"), encoding="utf-8"):
+    if ln.startswith("#") or not ln.strip(): continue
+    b, actor, hold, text = ln.rstrip("\n").split("\t")
+    f = os.path.join(out, f"beat{int(b)}_{actor}_{len(rows)}.wav")
+    subprocess.run([sys.executable, "-m", "piper", "-m", os.path.join(home, "voices", VOICE[actor] + ".onnx"),
+                    "-f", f], input=text.encode(), env=env, check=True, capture_output=True)
+    w = wave.open(f); ms = round(1000 * w.getnframes() / w.getframerate())
+    rows.append({"beat": int(b), "actor": actor, "hold_ms": int(hold), "clip_ms": ms, "file": f, "text": text})
+json.dump(rows, open(os.path.join(out, "durations.json"), "w"), indent=1, ensure_ascii=False)
+for r in rows: print(f"beat {r['beat']} {r['actor']:5} clip={r['clip_ms']:5}ms hold={r['hold_ms']}ms {'OK' if r['clip_ms'] <= r['hold_ms'] else 'OVER'}")
