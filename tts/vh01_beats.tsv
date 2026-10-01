@@ -1,9 +1,18 @@
-# beat	actor	hold_ms	french (accented, from episodes/vh01_valhanna_coldopen.md; table in SHANKPIT tyler_coldopen.c strips accents for HUD font)
-0	tyler	3000	Bon. Ça, c'est nouveau.
-0	hana	3000	Ne bouge pas. Compte les sorties avant de compter quoi que ce soit d'autre.
-1	hana	2500	On n'est pas au Michigan.
-2	tyler	3000	Le serveur est mort. Mais l'imprimante travaille encore.
-3	hana	2500	Il y a quelqu'un ici. Ou il y avait quelqu'un ici il y a très peu de temps.
-4	tyler	3000	Je ne connais pas ce langage. Et pourtant je le lis. Le code source du Cube Mécanique.
-5	hana	3000	Non. S'il te plaît. Ne le lis pas.
-7	tyler	2000	Je crois qu'on nous regarde.
+# MODE_TYLER cold-open script table -- the ONE source of truth for both the spoken VO (Piper, a LABELED
+# STOPGAP generator -- see render_vh01.py) and the HUD subtitles in SHANKPIT's tyler_coldopen.c.
+# render_vh01.py generates SHANKPIT/packages/simulation/tyler_voice_lines.h (lines table + per-beat clip
+# lengths + subtitle strings) and the committed assets under SHANKPIT/assets/tyler_vo/ from this file.
+# Columns (TAB-separated): beat, actor (tyler | hana | - for a subtitle-only action beat), authored
+# hold_ms, french (accented -- this is exactly what is spoken; the HUD copy is accent-stripped for the
+# engine's ASCII font), english gloss (shown as [EN: ...]; empty for an action beat).
+# Two rows with the same beat are two spoken lines in that beat, played in order with a 300 ms gap.
+# beat	actor	hold_ms	french	english
+0	tyler	3000	Bon. Ça, c'est nouveau.	Okay. This is new.
+0	hana	3000	Ne bouge pas. Compte les sorties avant de compter quoi que ce soit d'autre.	Don't move. Count the exits before you count anything else.
+1	hana	2500	On n'est pas au Michigan.	We're not in Michigan.
+2	tyler	3000	Le serveur est mort. Mais l'imprimante travaille encore.	The server's dead. But the printer's still working.
+3	hana	2500	Il y a quelqu'un ici. Ou il y avait quelqu'un ici il y a très peu de temps.	Someone's here. Or was, very recently.
+4	tyler	3000	Je ne connais pas ce langage. Et pourtant je le lis. Le code source du Cube Mécanique.	I don't know this language. And yet I'm reading it. The source code for the Mecha Cube.
+5	hana	3000	Non. S'il te plaît. Ne le lis pas.	No. Please. Don't read it.
+6	-	2500	(Tyler feeds the printout back into the printer, unread.)	
+7	tyler	2000	Je crois qu'on nous regarde.	I think we're being watched.
