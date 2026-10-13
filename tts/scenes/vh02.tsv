@@ -1,0 +1,19 @@
+# MODE_TYLER scene script table -- the ONE source of truth for the spoken French (Piper, a LABELED
+# STOPGAP generator, run at BUILD time in CI by render_scenes.py -- nothing rendered is committed) and
+# for the HUD subtitles in SHANKPIT's tyler_*_coldopen.c (render_scenes.py fails the build if they drift).
+# Columns (TAB-separated): beat, actor (tyler | hana | - for a silent subtitle-only beat), authored
+# hold_ms, french (accented -- exactly what is spoken), english gloss (shown as [EN: ...]).
+# Two rows with the same beat are two spoken lines in that beat, played in order with a 300 ms gap.
+# "tyler"/"hana" are the scene's TWO SCRIPTED SLOTS, not necessarily those characters (see scene header).
+# beat	actor	hold_ms	french	english
+# SCENE vh02 "Tree SHA": NO Tyler/Hana. slot tyler = CAM (voice fr_FR-siwis), slot hana = THE SOUND GUY
+# (voice fr_FR-tom; also carries the Producer's radio line). render_scenes.py swaps the voices for this scene.
+0	hana	3000	L'ambiance sonore est étrange. Ce n'est pas du silence. C'est retenu.	Room tone's weird. It's not quiet. It's held.
+1	hana	3000	Ne touchez pas aux thermos. Ne provoquez personne. Si quelqu'un arrive, laissez-le parler.	Producer (radio): Don't touch the thermoses. Don't prompt anyone. Let them talk.
+2	tyler	3000	Construction du dépôt.	Repo construct. tree_sha: 9b847859e0399e1d29e96f080aae849aeecf3bb4
+3	hana	2500	C'est quoi, un tree sha ?	What's a tree sha?
+3	tyler	2500	Une empreinte pour tout un dossier. Même sha, même dossier.	A fingerprint for a whole folder. Same sha, same folder.
+4	tyler	3000	Le documentaire n'est jamais appelé un...	The documentary is never called a -- (audio: 1 word removed in post)
+5	tyler	3000	Elle trouverait ça approprié. Il a raison.	She would find this appropriate. It's right. (sealed log, entry 23, not released)
+6	-	3000	(28,7 Hz sous le plancher. La porte tourne, de l'autre côté.)	(28.7 Hz under the floor. The door turns from the other side.)
+7	-	2500	RENCONTRE : l'équipe rencontre	ENCOUNTER: THE CREW MEETS

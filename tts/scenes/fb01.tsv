@@ -1,0 +1,17 @@
+# MODE_TYLER scene script table -- the ONE source of truth for the spoken French (Piper, a LABELED
+# STOPGAP generator, run at BUILD time in CI by render_scenes.py -- nothing rendered is committed) and
+# for the HUD subtitles in SHANKPIT's tyler_*_coldopen.c (render_scenes.py fails the build if they drift).
+# Columns (TAB-separated): beat, actor (tyler | hana | - for a silent subtitle-only beat), authored
+# hold_ms, french (accented -- exactly what is spoken), english gloss (shown as [EN: ...]).
+# Two rows with the same beat are two spoken lines in that beat, played in order with a 300 ms gap.
+# "tyler"/"hana" are the scene's TWO SCRIPTED SLOTS, not necessarily those characters (see scene header).
+# beat	actor	hold_ms	french	english
+# SCENE fb01 "play house": Tyler = slot tyler (tom), Hana = slot hana (siwis).
+0	tyler	3000	On pourrait... juste rester. Comme des gens normaux.	We could just stay in. Like normal people.
+1	hana	2500	Les gens normaux ne disent pas ça à voix haute.	Normal people don't say that sentence out loud.
+2	hana	3000	Qu'est-ce que tu as fait.	What did you do.
+3	hana	2000	Chaussures. Maintenant.	Shoes. Now.
+4	tyler	3000	Tout ceci... c'est une illusion, tu sais. On est en route pour Mars.	This is all an illusion, you know. We're on our way to Mars.
+5	tyler	3000	Tu es Perséphone. Tu es... ma soeur.	You're Persephone. You're... my sister.
+6	hana	2500	Tu as pissé dans mon lit.	You pissed in my bed.
+7	tyler	2500	Ça va tout avoir un sens quand on se réveillera.	It's all going to make sense when we wake up.

@@ -1,0 +1,18 @@
+# MODE_TYLER scene script table -- the ONE source of truth for the spoken French (Piper, a LABELED
+# STOPGAP generator, run at BUILD time in CI by render_scenes.py -- nothing rendered is committed) and
+# for the HUD subtitles in SHANKPIT's tyler_*_coldopen.c (render_scenes.py fails the build if they drift).
+# Columns (TAB-separated): beat, actor (tyler | hana | - for a silent subtitle-only beat), authored
+# hold_ms, french (accented -- exactly what is spoken), english gloss (shown as [EN: ...]).
+# Two rows with the same beat are two spoken lines in that beat, played in order with a 300 ms gap.
+# "tyler"/"hana" are the scene's TWO SCRIPTED SLOTS, not necessarily those characters (see scene header).
+# beat	actor	hold_ms	french	english
+# SCENE e03 "Don't Check": Tyler = slot tyler (tom), Hana = slot hana (siwis).
+0	hana	3000	Petit. C'est comme ça que ça se répand.	Small is how it spreads.
+0	hana	3000	Ne vérifie rien aujourd'hui.	Don't check anything today.
+1	hana	2500	La porte à laquelle tu penses.	The door you're thinking about.
+2	tyler	2500	Rien n'est juste une histoire, maintenant.	Nothing is just a story anymore.
+3	hana	3000	Reste droit devant. Se retourner est plus dangereux.	Stay looking straight ahead. Turning is more dangerous.
+4	tyler	3000	Je veux l'ouvrir. L'univers ne peut pas me commander.	I want to open it. The universe can't boss me around.
+5	hana	2500	ARCHIVISTE. Ce n'était pas dans les recherches.	ARCHIVIST. That wasn't in the background research.
+6	-	2000	(Une main gantée prend la mallette. Aucun visage.)	(A gloved hand takes the case. No face.)
+7	tyler	2000	Ne vérifie pas.	Don't check.
