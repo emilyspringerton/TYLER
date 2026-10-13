@@ -15,7 +15,7 @@
 
 A character document for the Auditor — a supporting player built for the register Alyx Vance occupies in Half-Life 2: not the protagonist, not a mentor who lectures from a safe distance, but the ally who is already fighting the thing you just found out about, who hands you a gadget instead of a speech, and who is visibly having a good time doing something that could get him disappeared. He is introduced here as a Tides of Paradox supporting character, faction unaffiliated with the seven Faction Dossiers in README.md §IV by design — see §IV below for why.
 
-He has not been placed in a specific episode yet. This document establishes who he is so the writer's room can drop him into Series 2 wherever a co-op ally with legitimate infrastructure access and an illegitimate reason to have found the Field first is needed.
+He was first placed in **VALHANNA VH04, "Les Chaises Pliantes"** (Build 0142; see §VIII). Before that this document existed to establish who he is so the writer's room could drop him into Series 2 wherever a co-op ally with legitimate infrastructure access and an illegitimate reason to have found the Field first is needed.
 
 ---
 
@@ -110,5 +110,45 @@ He is not naive about what the factions are. He has read every faction's public 
 He is not finished being underestimated. He would like to stay that way. It's load-bearing.
 
 ---
+
+---
+
+## VIII. PLACEMENTS
+
+**VALHANNA VH04, "Les Chaises Pliantes" (Build 0142, `episodes/vh04_valhanna_les_chaises_pliantes.md`).**
+First appearance in a numbered episode. He comes through the door of the VH01–VH03 server room, on
+the unowned day, carrying a stockpot wider than the doorway and seven folding chairs, with a
+lanyard whose name field is blank. What the episode established, and what it deliberately did not:
+
+*Established:*
+- His **badge** reads `REGIONAL ENERGY AUTHORITY / GRID COMPLIANCE — INSPECTOR / NAME: ——`. The
+  name field is *blank*, not redacted. §II's principle ("title only, on principle") holds on screen.
+- The **list-plus-one rule** (§IV): the guild brings one chair more than the list. "Somebody always
+  turns up." In VH04 the list says six; he brings seven.
+- The **coffee** in the server room's thermos is his. The **soup** is his recipe — nine of ten — with
+  a tenth ingredient *he did not add.* §II's "nine of the ten ingredients" gag is now load-bearing:
+  the missing line on the recipe card is blank, and the thermos recipe is not.
+- His **frequency rig** (§III, built from decommissioned grid-compliance hardware) reads 28.7 Hz,
+  matching the crew's meter to the needle. His gloss: *"not a noise; a remainder; it takes two bodies
+  in the room."* He does not say a remainder *of what.* It is the first reading of 28.7 on an
+  instrument outside any faction's custody (`lore/field_activation_logs.md`, ACTIVATION VH-001).
+- His **mirror ethic** (§IV) is stated by him in one line and put to a test: he will copy what is
+  suppressed and will not copy what its author sealed. *"To suppress is to steal. To seal is to
+  choose."* (Cf. Safiya's seal, S11E03: the archive left it.)
+- The **spare battery** (§V) is the one from his hearing-aid charger and is due Thursday. The day he
+  lends it is not a day of the week. He concludes, correctly, that it is not due.
+- He addresses the **Producer's radio** directly: *"You have a chair too."* The line goes quiet.
+  He does not know that this is not in any protocol, and would not care.
+
+*Not established, by design:*
+- Who added the tenth ingredient.
+- Who the seventh chair is for. He set it facing the door and does not say. (The roster card taped
+  under it, `lore/folding_chair_roster_receipt.md`, records that this is "not my habit.")
+- His name. It is not given in the episode, the lore, or this document.
+- What he thinks is coming through the door. He picks up the ladle.
+
+*Craft note:* the character is played at warmth, not exposition (§V). In VH04 he explains
+nothing he was not asked, answers the PA's questions with chairs and soup, and laughs at the one
+joke in the room that is on him. His French is bad in the way that is a pleasure to listen to.
 
 *End log: THE AUDITOR CHARACTER FILE INSTANTIATED. THE UNCOMPROMISED: GUILD IDENTIFIED, CONVENER FOUND, SYMBOL PINNED TO A GOVERNMENT SHIRT IN PLAIN SIGHT. THE MIRRORS ARE UP. BRING FOLDING CHAIRS.*

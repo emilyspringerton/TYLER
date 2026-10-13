@@ -405,3 +405,27 @@ cleaned boom-mic audio from E1 yields one more word of the cut-off warning, "DON
 START--", still cut off, plus the Duck's own unconfirmed read that someone besides Tyler may
 already be running the same five-color ignition sequence on a separate clock, "behind" rather than
 broken. Writer's Room Rule 1 checked: Tyler completes no self-defining sentence. Apple #18544.
+
+## Build 0142 — VALHANNA VH04: "Les Chaises Pliantes" (cold open) + SHANKPIT MODE_TYLER wiring of VH03/VH04
+Files: episodes/vh04_valhanna_les_chaises_pliantes.md, EPISODES.md, CHANGELOG.md, activity.md,
+characters/the_auditor.md, lore/folding_chair_roster_receipt.md, lore/valhanna_receipts_index.md,
+lore/{eastwind_archive,camera_op_sealed_log,jiangshi_project_memos,shell_parliament_ledger,
+field_activation_logs,day_out_of_time_receipt}.md, tts/scenes/{vh03,vh04}.tsv, tts/render_scenes.py,
+tts/README.md
+Founder real-time (2026-10-13): "go explore the TYLER repo; emulate curiosity and poke around in
+there; then write the next episode of VALHANNA; and THEN add it to SHANKPIT TYLER MODE" and "i would
+love to see more spontaneously added or updated lore receipts." The repo was read in full before
+the script was written (every episode S00-S11, VALHANNA, Series X, NEVER_LAND, all twenty
+manuscripts; the large lore logs only by head/tail and targeted grep -- stated plainly, not
+implied otherwise). The person at the VH02 door was chosen from what the repository already said
+about someone who had never been placed: the Auditor ("remembers whose turn it is to bring
+folding chairs"; nine of ten ingredients; a "spare" battery due Thursday). Callbacks used on
+purpose, each checked against its source file: sealed-log Entry 09 (63 cm), S07E06's Thursday
+people, Tides Book 2's unattended chair, S11E03's seal. Not said: his name, the tenth ingredient's
+author, the seventh chair's occupant, Entry 23's text, Hana's whereabouts. Writer's Room Rules 1,
+2, 21, 22 checked; Subscriber/Chrono-Cube/Emily OS not named. SHANKPIT side (commit 6c4720a):
+VH03 + VH04 wired into the MODE_TYLER play order; make test-tyler-vo 102 pass (76 before) and 447
+with a stand-in Piper generating assets locally (nothing committed, removed after). Lore receipts
+carry a VH- prefix to stay clear of the unbackfilled S11 numbers (see lore/valhanna_receipts_index.md
+§II). Builds 0139-0141 (VH01-VH03) were not logged in this file at the time; their record is
+EPISODES.md and CHANGELOG.md. Kanban card 616. Apple #22254.

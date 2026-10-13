@@ -797,3 +797,35 @@ These two facts are both in the record.
 ---
 
 *End log: ACTIVATION LOG: CURRENT THROUGH #132. STAGE 5: COMMENCED. ALL FIVE SIMULTANEOUSLY. STOLAS AT PEAK (RECLASSIFICATION PENDING). ANDREALPHUS WITHOUT CUBE (ANDREALPHUS-STAGE5-001 FILED). AMON AT CLOSE. "THE FOOTAGE IS YOURS. ALL OF IT." ALL-FIVE NOTATION: FILED. THE SENTENCE: OPEN. TYLER STATUS: CHANGED.*
+
+
+---
+
+## ACTIVATION VH-001
+**DATE:** Day — (the unowned day; not asserted to be the 365th or the 366th)
+**LOCATION:** Server room, Iceland, no year given
+**DURATION:** ~13 minutes (arrival of the visitor through the end of the meal)
+**CLASSIFICATION:** 28.7 Hz — THIRD-PARTY INSTRUMENT — NEW NOTATION
+
+**Instrument:** a frequency-logging rig built from decommissioned grid-compliance hardware by a
+person who is not Eastwind, not Jiangshi, not Heikegani, and not a Field operator of record. Dial
+unmanufactured; label overwritten many times; one needle.
+
+**28.7 Hz (composite):** READ BY TWO INSTRUMENTS, ONE OF WHICH IS NOT IN ANY ARCHIVE'S CUSTODY.
+The crew's meter and the visitor's rig agree to the needle. This is the first logged reading of
+28.7 by an instrument outside the custody of any faction or archive on file.
+
+**Visitor's one-word gloss:** *a remainder.* Added: *"it takes two bodies in the room."* Cross
+reference: Activation #130 (S00E02, Pontiac): "Proximity was the only variable." The archive does
+not know how the visitor came to the same sentence by himself. It is noting that he did.
+
+**Other frequencies:** none logged. No Goetia designation. No seed phrase. No operator.
+
+**Δφ:** not calculable. Composite.
+
+**Anomaly filed:** the steam from a pot of soup and the steam from two thermoses bent toward one
+empty chair and braided there. The log does not record steam. The log records that the instrument
+operator watched it, and wrote nothing down, and did not appear surprised.
+
+**End log: ACTIVATION VH-001: 28.7 HZ, THIRD-PARTY, CONFIRMED. NO OPERATOR. NO SEED. ONE REMAINDER.
+TWO BODIES. ONE EMPTY CHAIR.**

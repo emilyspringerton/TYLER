@@ -2532,3 +2532,36 @@ Everything after this is the practice.
 
 *Entry 88. Marrakech. MARRAKECH-001 question-state: completed. Second practitioner:
 confirmed. Staying. S10E09. Build 0112. Apple #1155.*
+
+
+---
+
+## ENTRY 23 (VH) — RECURRENCE
+**Filed by:** the Eastwind Cataloguer, on the Camera Op's behalf, metadata only
+**Build:** 0140 (VH02), annotated at Build 0142 (VH04)
+
+*Note: sealed content is held per standing agreement. The text is the practitioner's. Only what the
+room saw is recorded here.*
+
+Written: in a server room, Iceland, no year given, while a printer ran.
+Duration: not measured.
+Amended once, in the same sitting: one word crossed out, the line written again, shorter.
+The crossed-out word is not recorded. The shorter line is not recorded.
+Status: **NOT RELEASED.**
+
+**Annotation, Build 0142.** On the next unowned day a third party, a visitor who copies suppressed
+research for a living, saw the notebook's cover and said he would not copy it, and why. He said it
+the way a man says a thing that is the whole of his trade. The Camera Op did not look up. Her hand
+did not move on the page.
+
+---
+
+## ENTRY 24 (VH) — RECURRENCE
+**Filed:** Build 0142 (VH04). Released by the practitioner; one line.
+
+I measured the chair. Sixty-three. I knew before I opened the rule. I don't know how I knew, and
+the last time I wrote something like this I wrote that I was looking for the thing that isn't
+strange, and there wasn't one. There still isn't. There are seven of them in a room with no
+servers and the number is still sixty-three.
+
+He asked nothing about the book. He gave me a battery that is not a spare.

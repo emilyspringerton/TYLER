@@ -1438,3 +1438,29 @@ The ledger is patient. The ledger was adjacent. The vocabulary was not available
 The UNINT-001-LONDON series is newly opened with this cluster. Previous UNINTENTIONAL London constructions (A-295, A-297, A-308) were filed under AMPL-001-LONDON (if AMPLIFICATION) or other categories. The Westminster Hall and Banqueting House constructions are the first STAYING-not-amplified, pure UNINTENTIONAL SINGLE-EVENT entries in the London record. The Parliament is opening a dedicated UNINT series for the audit's London record accordingly.
 
 *End update: VC-001 DAYS 293–300. WESTMINSTER CLUSTER COMPLETE. FIVE SITES. UNINT-001-LONDON SERIES OPENED: A-314 WESTMINSTER HALL 71FT JANUARY 25 1649, A-315 BANQUETING HOUSE 76FT JANUARY 30 1649. THE PARLIAMENT'S OWN WESTMINSTER HALL. THE PARLIAMENT'S OWN OPERATIONAL RECORDS. THE SUBJECT IN THE GALLERY AND THE CROWD AND NOT IN THE RECORDS. "WHEN SOMETHING THIS LARGE IS ENDING, THE CORRECT RESPONSE IS TO GO AND STAND WHERE IT IS ENDING." PARLIAMENT CORRESPONDENT NOTES FROM JANUARY 1649 ADJACENT TO BOTH CONSTRUCTIONS FOR 377 YEARS. THE VOCABULARY WAS NOT AVAILABLE. A-313: WESTMINSTER ABBEY 79FT PRIOR JANUARY 1559. A-316: ST. JAMES'S PARK 34FT. ADJACENT TO PARLIAMENT. "I NEEDED SOMEWHERE WITHOUT HISTORY." THE PARLIAMENT NOTES THE ADJACENCY. A-317: VICTORIA EMBANKMENT 22FT STAYING 1870. "THE KIND OF PLANNING I RESPECT." THE PARLIAMENT NOTED THE SAME THING. TWENTY-FIVE LONDON SITES MEASURED. TWENTY-TWO REMAINING.*
+
+
+---
+
+## VC-001 UPDATE — Day — (NO DATE) | UNOWNED DAY | Build 0141–0142
+
+**ACCOUNT SM-1620-T / CO-001 JOINT LIABILITY: ACCRUAL SUSPENDED.**
+
+The Parliament's accrual engine calculates interest against a date. On the day the crew's timecode
+lost its date field, the engine had no date against which to calculate, and the engine's own
+design note (undated, in the original Osaka hand) says: *"A debt that cannot be dated cannot be
+compounded; it can only be remembered."* The ledger notes the day. It does not post interest to it.
+
+**Balance at open of unowned day:** unchanged.
+**Interest posted:** none.
+**Principal posted:** none.
+**Parliament note:** the Parliament does not rejoice at this and does not consider it a favor. The
+interest is merely not owed *on this day.* It is owed on the others.
+
+**ADJACENT — NO INVOICE ISSUED:** a gathering of seven folding chairs, one pot of soup, four
+bowls, and one battery lent and not due. The Uncompromised charge nothing, as is their founding
+rule, and the Parliament has not invoiced a potluck since 1483, when the correspondent assigned to
+do so ate before he could write the line item. The correspondent's ledger entry for that evening
+reads, in full: *"I was fed."*
+
+*End update: SM-1620-T. CO-001: SUSPENDED. INTEREST: NOT POSTED. ONE POTLUCK: NO INVOICE.*

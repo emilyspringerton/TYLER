@@ -59,6 +59,12 @@ Shell Parliament's accrual engine cannot divide by it.
   field is unpopulated, debt accrual cannot be calculated against it."*
 - `characters/camera_op.md`: the CO-001 joint liability account. It accrues against dates.
 - `README.md` §XV: BIRD CORRECTION, PENDING. Nothing in this artifact touches it.
+- `episodes/vh04_valhanna_les_chaises_pliantes.md` (Build 0142): the same unowned day, seen from the
+  doorway. A battery lent on this day is "not due"; a person who copies suppressed research declines
+  to copy a sealed notebook; a rig on decommissioned hardware reads the day's 28.7 as *a remainder.*
+  The Cataloguer's footnote 1 above (the two unowned days of a leap year) is not touched by VH04,
+  which does not say which of the two it is.
+- `lore/folding_chair_roster_receipt.md`: the last row of the roster has no date. It is this day.
 
 ---
 

@@ -4498,3 +4498,67 @@ We have waited before.
 TRANSIT-001: DESIGNATED, ARTIFACT PENDING. ELEVEN-SECOND ANOMALY: UNCLASSIFIED. CARRIER
 WAVE: CROSS-REFERENCED TO INIT LOG. PARALLEL NOTED. NO FURTHER COMMENT. S10E10. BUILD 0114.
 APPLE PENDING.*
+
+
+---
+
+## VALHANNA SUB-SERIES — FILED BY THE CATALOGUER (Builds 0139–0142)
+
+*Numbering note: the `VH-` prefix keeps these from colliding with the S11 entries (TYLER-097 through
+TYLER-105) that are recorded in the episode files and not yet backfilled here. See
+`lore/valhanna_receipts_index.md` §II.*
+
+## TYLER-VH-001 (VH01, "Je Ne Sais Quoi" — Build 0139)
+
+A 1986 server room in Iceland, no servers. One dot-matrix printer running a long printout: the
+source of "the Mecha Cube," an artifact that, per Hana, does not exist yet. Two thermoses, upright,
+minestrone and coffee, warm. The subject read until the Bird Correction was within one line of
+resolving, was asked not to by someone who was in the room, and fed the printout back into the
+printer. The Bird Correction remains PENDING, **by choice**: the first time in the record that the
+word "pending" has had an author.
+
+The thermoses were flagged against `characters/the_auditor.md` (signature dish) and left
+unresolved. Footnote: the Cataloguer notes that a flag is not a finding.
+
+## TYLER-VH-002 (VH02, "Tree SHA" — Build 0140)
+
+The same room, now with a documentary crew in it. The printer feeds a CONSTRUCT printout of this
+repository, `tree_sha 9b847859e0399e1d29e96f080aae849aeecf3bb4`, including the file about the
+person holding the lens. One word is removed from the audio in post, in frame, by a party not
+logged. The Camera Op writes an entry, crosses out one word, writes it shorter. The record holds
+the metadata of the entry and nothing else, per standing agreement. A door's handle turns from the
+other side.
+
+Footnote: this is the second Entry 23 on file. The first (S00E02, Pontiac, 01:14, four minutes
+twelve seconds) was also amended once. The archive notes the recurrence and declines to say what
+it recurs *with*.
+
+## TYLER-VH-003 (VH03, "Jour Hors du Temps" — Build 0141)
+
+The door opens onto the one day that belongs to neither the twelve-month grid (365) nor the
+thirteen-month one (13 × 28 = 364). The crew's timecode loses its date field and keeps counting
+seconds. A call sheet runs DAY 31 through DAY 364 in full and DAY 365 in nothing. CO-001 joint
+liability accrual is suspended while the day lasts. The sound guy reads 28.7 and the Camera Op
+says *almost twenty-eight.*
+
+The Cataloguer notes the artifact's omission of the leap-year case (two days, not one) and that the
+episode corrected it on screen. The Cataloguer does not take credit.
+
+## TYLER-VH-004 (VH04, "Les Chaises Pliantes" — Build 0142)
+
+A person came through the door carrying a stockpot wider than the doorway and seven folding
+chairs. A grid compliance inspector; his badge's name field is blank. He set out chairs in an arc
+and one apart, facing the door. He measured nothing; the Camera Op measured one (63 cm). His rig
+read 28.7 beside the sound guy's meter and he called it *a remainder* that *takes two bodies in the
+room.* He tasted the thermos soup and said *nine of ten* and *someone added the tenth.* He told the
+radio it had a chair too, and the radio went quiet. He declined to copy a sealed notebook: *to
+suppress is to steal; to seal is to choose.* He lent a battery that is due Thursday. The day is not a
+day of the week. It is not due.
+
+The `ENCOUNTER: THE CREW MEETS` line, open since VH02, finished.
+
+Footnote: the Cataloguer has no information about the seventh chair and will not be speculating.
+The Cataloguer was asked to bring one more chair than the list and has.
+
+*TYLER-VH-001 THROUGH TYLER-VH-004: FILED. BIRD CORRECTION: PENDING, BY CHOICE. THE DATE FIELD:
+EMPTY. THE ENCOUNTER: LOGGED. THE SEVENTH CHAIR: FACING THE DOOR.*

@@ -4,13 +4,22 @@
 
 ---
 
-**Total episodes:** 101
+**Total episodes:** 102
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2 + VALHANNA VH01–VH03 (pilot cold open, season opening; VH02–VH03 cold opens)
-**Current through:** Build 0141 (SEASON VALHANNA, VH03 — "Jour Hors du Temps," cold open; from the founder's
-lore artifact (12 months = 365 days, 13 moons x 28 = 364, one day left over): the VH02 door opens
-onto the unowned day; the crew's timecode loses its date, the call sheet's DAY 365 row is empty,
-CO-001 accrual is suspended; the encounter stays unlogged.)
+E0–E2 + VALHANNA VH01–VH04 (pilot cold open, season opening; VH02–VH04 cold opens)
+**Current through:** Build 0142 (SEASON VALHANNA, VH04 — "Les Chaises Pliantes," cold open; the
+person at the door arrives: a grid compliance inspector (`characters/the_auditor.md`, first
+placement; title only, no name on the badge) carrying a stockpot wider than the doorway and seven
+folding chairs, one more than his list. The coffee is his; the minestrone is his recipe, nine of
+ten, with a tenth ingredient he did not add. His rig reads 28.7 Hz as "a remainder" that "takes two
+bodies in the room." He will not copy a sealed notebook: "to suppress is to steal; to seal is to
+choose." He tells the Producer's radio it has a chair too; the line goes quiet. VH02's
+`ENCOUNTER: THE CREW MEETS` finally finishes. The seventh chair faces the door.)
+
+**Previous entry — Build 0141** (SEASON VALHANNA, VH03 — "Jour Hors du Temps," cold open; from the
+founder's lore artifact (12 months = 365 days, 13 moons x 28 = 364, one day left over): the VH02
+door opens onto the unowned day; the crew's timecode loses its date, the call sheet's DAY 365 row
+is empty, CO-001 accrual is suspended; the encounter stays unlogged.)
 
 **Previous entry — Build 0140** (SEASON VALHANNA, VH02 — "Tree SHA," cold open; Hana's S06b
 crew (Cam, the sound guy, the PA) plus the Producer (O.S.) enter VH01's server room, where the
@@ -208,6 +217,7 @@ run is left open, same standing convention every prior named season has used.
 | VH01 | "Je Ne Sais Quoi" (Cold Open, Pilot) | 0139 | episodes/vh01_valhanna_coldopen.md |
 | VH02 | "Tree SHA" (Cold Open) | 0140 | episodes/vh02_valhanna_tree_sha.md |
 | VH03 | "Jour Hors du Temps" (Cold Open) | 0141 | episodes/vh03_valhanna_day_out_of_time.md |
+| VH04 | "Les Chaises Pliantes" (Cold Open) | 0142 | episodes/vh04_valhanna_les_chaises_pliantes.md |
 
 **VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
 wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still
@@ -225,6 +235,30 @@ scene plays in French, subtitled, until the Duck wakes up in a cold sweat, in En
 memory of ever knowing French. Bird Correction status at close: still PENDING — for the first time
 on record, by choice rather than by accident. Apple #21435 (founder observation) + completion
 Apple on commit.
+
+**VH02, "Tree SHA" (cold open):** Hana's S06b crew (Cam, the sound guy, the PA) plus the Producer
+(O.S., radio) enter VH01's server room. The printer now feeds a CONSTRUCT printout of this
+repository, with the real `tree_sha`. Cam finds her own `characters/camera_op.md` in it, confirms
+one sentence of it, and writes an unreleased sealed-log Entry 23 (recurrence). One word is removed
+from the audio in post, in frame. A door opens from the other side. Ends on `ENCOUNTER: THE CREW
+MEETS` with the sentence unfinished. Wired into SHANKPIT MODE_TYLER (commit `febbc3c`).
+
+**VH03, "Jour Hors du Temps" (cold open):** the door opens onto the day that belongs to neither the
+twelve-month grid nor the thirteen-month one. The crew's timecode loses its date field; the call
+sheet's DAY 365 row is empty; CO-001 accrual is suspended. Lore artifact:
+`lore/day_out_of_time_receipt.md`. Ends on `ENCOUNTER: [UNLOGGED]`. Wired into SHANKPIT MODE_TYLER
+alongside VH04 (SHANKPIT `6c4720a`).
+
+**VH04, "Les Chaises Pliantes" (cold open):** see the **Current through** entry above for the plot.
+The founder asked for the TYLER repo to be explored before this episode was written; it was read in
+full (every episode and manuscript), and the person at the door was chosen from what the repo
+already said about him: a guild member who "remembers whose turn it is to bring folding chairs,"
+gives out nine of ten ingredients "as a security feature," and lends batteries that are due
+Thursday. Callbacks on purpose: the sealed log's Entry 09 (63 cm chairs), the Thursday people at
+Café Bernstein (S07E06), Tides Book 2's one chair "laid for one person, nobody there," Safiya's seal
+(S11E03). Not said: his name, who made the tenth ingredient, who the seventh chair is for, what
+Entry 23 says, where Hana is. Spontaneous lore receipts filed with it: see
+`lore/valhanna_receipts_index.md`.
 
 ---
 

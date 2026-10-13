@@ -1,0 +1,15 @@
+# SCENE vh03 "Jour Hors du Temps": NO Tyler/Hana. slot tyler = CAM (voice fr_FR-siwis), slot hana = THE SOUND GUY
+# (voice fr_FR-tom; also carries the PA's arithmetic and the Producer's radio line -- one body, one voice, a named stopgap).
+# beat	actor	hold_ms	french	english
+0	-	3000	(Le Canard compte treize pages. Ce n'est pas comme ça que le mois passe.)	(The Duck counts thirteen pages. That's not how the month goes.)
+1	hana	5000	L'horloge a perdu la date.	The clock lost the date.
+1	tyler	5000	Elle ne l'a pas perdue. Il n'y en a pas.	It didn't lose it. There isn't one.
+2	hana	5500	Douze mois. Trente et un, vingt-huit, trente et un... trois cent soixante-cinq.	Twelve months. Thirty-one, twenty-eight, thirty-one... three hundred sixty-five.
+3	hana	5000	Treize fois vingt-huit. Trois cent soixante-quatre. Il en reste un.	Thirteen of twenty-eight. Three hundred sixty-four. There's one left over.
+4	hana	4000	Et les années bissextiles ?	And in a leap year?
+4	tyler	4000	Alors il y en a deux.	Then there are two.
+5	hana	6500	Pas de repos dans une production. Continuez à tourner.	Producer (radio): No rest in a production. Keep rolling.
+5	hana	6500	Il n'a rien prévu pour aujourd'hui.	He has no plan for today. (DAY 365 --)
+6	hana	4500	Je capte vingt-huit virgule sept.	I'm getting twenty-eight point seven.
+6	tyler	4500	C'est presque vingt-huit.	That's almost twenty-eight.
+7	-	3000	Aujourd'hui n'est pas un jour de la semaine. RENCONTRE : [non consignée]	TODAY IS NOT A DAY OF THE WEEK. ENCOUNTER: [UNLOGGED]

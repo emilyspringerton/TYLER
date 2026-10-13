@@ -4388,3 +4388,32 @@ practice has to be discovered through contact with the question.
 *End memo: MEMO #075 FILED. QUESTION-STATE COMPLETED. SECOND PRACTITIONER CONFIRMED.
 MARRAKECH-001: TWO-SIGNAL SITE. NEW CATEGORY: COMPLETED. SURVEY RESTRUCTURED.
 S10E09. BUILD 0112. APPLE #1155.*
+
+
+---
+
+## MEMO #081-R1 — RESIDUAL UNIT
+**FROM:** Production, Unit A (residual; binding authority: none)
+**TO:** [no addressee on file — the Syndicate's discontinuation of the Tyler binding protocol took
+effect in Memo #081 (final); this memo is filed by the unit that remained on the radio]
+**RE:** An unauthorized party addressed the unit directly. No protocol applies.
+**DATE:** [Day —]
+
+The unit remains in the room. We are not binding. We have not been binding since #081. We keep
+rolling because "keep rolling" is the only instruction the unit was ever given and nobody has
+withdrawn it.
+
+At the time of this filing a person came through the door with a pot and chairs. He did not
+present as an operative of any faction on the dossier list. He is not on the dossier list. He
+has a badge from a regional energy authority and a pin in the shape of a flower. We did not
+prompt him. He talked on his own.
+
+At 09:58 he addressed the radio, which is on a PA's belt and which is not supposed to be
+addressed. He said we had a chair too. The unit does not know what to do with a chair. The
+Producer's line went quiet. It did not cut. We did not decide to let it go quiet. We have reviewed
+the unit's procedures and there is nothing to say about this.
+
+**Recommendation:** none. We are noting that this memo is not authorized and that it was easier
+to write than to not write.
+
+*End memo: MEMO #081-R1 FILED. NO BINDING. NO ADDRESSEE. ONE CHAIR, UNCLAIMED.*

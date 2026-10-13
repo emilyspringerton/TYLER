@@ -25,6 +25,8 @@ SCENES = [  # id, tsv, SHANKPIT C file that carries the subtitles, voice per scr
     dict(id="e03",  c="tyler_e03_coldopen.c",    voices={"tyler": V_TOM,   "hana": V_SIWIS}),
     dict(id="fb01", c="tyler_fb01_coldopen.c",   voices={"tyler": V_TOM,   "hana": V_SIWIS}),
     dict(id="vh02", c="tyler_vh02_coldopen.c",   voices={"tyler": V_SIWIS, "hana": V_TOM}),  # Cam / the sound guy
+    dict(id="vh03", c="tyler_vh03_coldopen.c",   voices={"tyler": V_SIWIS, "hana": V_TOM}),  # Cam / the sound guy (+PA, +radio)
+    dict(id="vh04", c="tyler_vh04_coldopen.c",   voices={"tyler": V_SIWIS, "hana": V_TOM}),  # Cam / the Auditor
 ]
 SPEAKER_ENUM = {"tyler": "TYLER_ACTOR_TYLER", "hana": "TYLER_ACTOR_HANA"}
 
