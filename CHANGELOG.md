@@ -1,3 +1,7 @@
+## 2026-10-13
+
+- VALHANNA VH02, "Tree SHA" (Build 0140, `episodes/vh02_valhanna_tree_sha.md`). Founder real-time: "lets have it wrap back in on itself... continue valhanna bringing in the documentary crew for the meta narrative... they find the tyler repo and then they have an encounter with..." (sentence unfinished by the founder; the script leaves the encounter staged but unnamed). Answers VH01's last line ("I think we're being watched"): Hana's S06b crew + the Producer (O.S.) enter the same Iceland server room, where the printer now emits a CONSTRUCT of this repo. The `tree_sha` on screen is the real HEAD tree SHA. Cam finds `characters/camera_op.md` in the printout, writes SEALED LOG Entry 23 (unreleased); a door unlocks from the far side; cut on `ENCOUNTER: THE CREW MEETS`. Open: who/what is at the door, whose thermoses, Hana's absence, whether Cam == the Camera Op. EPISODES.md registry updated (99→100). Posted via `emily observe`. (sess-20261009-1745-ee80b668)
+
 ## 2026-09-30
 
 - `scripts/mpt_batch.py`: sequential, resumable MoneyPrinterTurbo batch runner over `episodes/*.md` (real MPT API on :8990, `/videos` + `/tasks/<id>`, disk guard, per-episode `compiled/<stem>/mpt_state.json`, optional `narration.txt` → `video_script`). Not yet run live (dry-run only, 118 episodes). Also found: `compiled/mpt_episode_trigger.sh` targets :8080 (IDUNA) and a nonexistent `/videos/<id>` status shape — superseded, left in place. `tts/render_vh01.py` now also emits the beat-clip header SHANKPIT consumes.

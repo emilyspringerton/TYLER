@@ -4,10 +4,16 @@
 
 ---
 
-**Total episodes:** 99
+**Total episodes:** 100
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2 + VALHANNA VH01 (pilot cold open, season opening)
-**Current through:** Build 0139 (SEASON VALHANNA, VH01 — "Je Ne Sais Quoi," pilot cold open;
+E0–E2 + VALHANNA VH01–VH02 (pilot cold open, season opening; VH02 cold open)
+**Current through:** Build 0140 (SEASON VALHANNA, VH02 — "Tree SHA," cold open; Hana's S06b
+crew (Cam, the sound guy, the PA) plus the Producer (O.S.) enter VH01's server room, where the
+printer now feeds a CONSTRUCT printout of this repository itself. Cam finds her own
+`characters/camera_op.md` in it and writes an unreleased sealed-log Entry 23; a door unlocks from
+the other side; the episode ends on `ENCOUNTER: THE CREW MEETS` with the sentence unfinished.)
+
+**Previous entry — Build 0139** (SEASON VALHANNA, VH01 — "Je Ne Sais Quoi," pilot cold open;
 founder-declared new named season, 2026-09-30, inheriting Hana from Season 6 (Take 2). Tyler and
 Hana dream-wake in a decommissioned 1986 Iceland server room; a printer holds the LO-source for
 "the Mecha Cube"; reading it resolves the long-PENDING Bird Correction; Hana talks him out of it;
@@ -195,6 +201,7 @@ run is left open, same standing convention every prior named season has used.
 | Code | Title | Build | File |
 |---|---|---|---|
 | VH01 | "Je Ne Sais Quoi" (Cold Open, Pilot) | 0139 | episodes/vh01_valhanna_coldopen.md |
+| VH02 | "Tree SHA" (Cold Open) | 0140 | episodes/vh02_valhanna_tree_sha.md |
 
 **VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
 wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still
