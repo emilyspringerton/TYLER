@@ -4,10 +4,15 @@
 
 ---
 
-**Total episodes:** 100
+**Total episodes:** 101
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2 + VALHANNA VH01–VH02 (pilot cold open, season opening; VH02 cold open)
-**Current through:** Build 0140 (SEASON VALHANNA, VH02 — "Tree SHA," cold open; Hana's S06b
+E0–E2 + VALHANNA VH01–VH03 (pilot cold open, season opening; VH02–VH03 cold opens)
+**Current through:** Build 0141 (SEASON VALHANNA, VH03 — "Jour Hors du Temps," cold open; from the founder's
+lore artifact (12 months = 365 days, 13 moons x 28 = 364, one day left over): the VH02 door opens
+onto the unowned day; the crew's timecode loses its date, the call sheet's DAY 365 row is empty,
+CO-001 accrual is suspended; the encounter stays unlogged.)
+
+**Previous entry — Build 0140** (SEASON VALHANNA, VH02 — "Tree SHA," cold open; Hana's S06b
 crew (Cam, the sound guy, the PA) plus the Producer (O.S.) enter VH01's server room, where the
 printer now feeds a CONSTRUCT printout of this repository itself. Cam finds her own
 `characters/camera_op.md` in it and writes an unreleased sealed-log Entry 23; a door unlocks from
@@ -202,6 +207,7 @@ run is left open, same standing convention every prior named season has used.
 |---|---|---|---|
 | VH01 | "Je Ne Sais Quoi" (Cold Open, Pilot) | 0139 | episodes/vh01_valhanna_coldopen.md |
 | VH02 | "Tree SHA" (Cold Open) | 0140 | episodes/vh02_valhanna_tree_sha.md |
+| VH03 | "Jour Hors du Temps" (Cold Open) | 0141 | episodes/vh03_valhanna_day_out_of_time.md |
 
 **VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
 wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still
