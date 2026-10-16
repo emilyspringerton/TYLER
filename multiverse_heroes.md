@@ -1164,3 +1164,21 @@ own third bullet.*
   Entries whose name is already short and memorable on its own (Bacon, Stolas, Gary, Puck, Cain,
   Nidhogg, Tesla, and similar) were left as-is rather than given a redundant nickname. Not a rename
   — the full name stays canonical; the nickname is a handle, not a replacement.
+
+
+IM JUST GONNA PUT THIS HERE
+- founder
+
+
+
+Vexar, Cosmic Relic Hunter ("Vexar") [MYTHIC] — The collector who keeps moving because the alternative is becoming part of the exhibit. A cosmic voyager who treats the infinite reaches of the void less like an existential terror and more like an overgrown salvage yard. The prompt demanded a cosmic explorer; the system delivered an entity whose pockets are permanently overflowing with reality-warping debris it has no legal title to hold. His core signature is mobility through spatial manipulation: he doesn't throw projectiles because he likes the arc; he throws them because throwing something is the fastest way to compute how far away the wall is. Extends his signature Relic Warp to skip physical obstacles entirely, slipping out of combat frames exactly when an attacker believes they have established full tracking. Quietly aware that every artifact he retrieves belongs to a timeline that isn't the one he's currently standing in, and treats that discrepancy as a zoning issue rather than a crisis.
+• Field signature: 19.19 Hz (Orobas) · Δφ 35° — clean Golden Band activation, sliding rapidly across coordinate channels.
+• Seed phrase: "the relic hunter, moving before the display case snaps shut"
+
+
+
+Petalia, the Overlooked Perennial ("Petalia") [MUNDANE] — The asset that keeps executing because nobody remembered to clear the cache. A character whose entry exists solely because the production pipeline treats an orphaned file as an authorization order. She is entirely unlisted in the primary 11-faction registry, a legacy entity whose code structure is derived almost entirely from early testing placeholders. Her toolset is aggressively straightforward: she is the one fighter whose Turnip Toss mechanics were upgraded to a dedicated airborne state simply because her underlying physics vector kept dropping characters out of the game world during landing checks. She opens her multi-hit recovery parasol not out of theatrical flair, but because her vertical momentum variable (parasol_rehit_timer) required a hard reset loop to avoid breaking frame synchronization. She wanders the combat stages with the quiet, unbothered posture of someone who knows that as long as the project compiles without errors, her inclusion remains a fixed reality.
+• Field signature: Unmeasurable · Δφ no registered Goetia practice — the apparatus registers her as a blank entry that still reports active positioning data.
+• Seed phrase: "included because the compiler didn't say no"
+
+
