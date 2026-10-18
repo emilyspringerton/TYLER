@@ -4,10 +4,16 @@
 
 ---
 
-**Total episodes:** 122
+**Total episodes:** 143
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2 + VALHANNA VH01–VH24 (pilot cold open, season opening; VH02–VH24 cold opens)
-**Current through:** Build 0162 (SEASON VALHANNA, VH24 — "Je Crois Qu'On Vous Regarde Aussi," cold open;
+E0–E2 + VALHANNA VH01–VH45 (pilot cold open, season opening; VH02–VH45 cold opens)
+**Current through:** Build 0183 (SEASON VALHANNA, VH45 — "Noir, Vert, Rouge, Jaune, Blanc," cold open;
+closes the VH25–VH45 block (the first three weeks of Moon 1, one episode per day): the order of service
+is performed in a hundred and ninety seconds, Tyler leaves the room with his hands full, a duck holds
+the edge of a wall, the older Hana's sleeve is clean, the unit lights the stove, and the title card is
+left unfinished. See SEASON: VALHANNA below for VH25–VH44.)
+
+**Previous entry — Build 0162** (SEASON VALHANNA, VH24 — "Je Crois Qu'On Vous Regarde Aussi," cold open;
 closes the VH05–VH24 block of twenty: the date field refills at `01 / 01`, the Gap Meter reads
 0.00 Hz, wall rule 10 is decided ("NOBODY READS THE END FOR HIM"), Tyler arrives, sits in the
 seventh chair, and turns VH01's line around — "Je crois qu'on vous regarde aussi" — then starts
@@ -245,6 +251,27 @@ run is left open, same standing convention every prior named season has used.
 | VH22 | "Le Canard Sait" (Cold Open) | 0160 | episodes/vh22_valhanna_le_canard_sait.md |
 | VH23 | "Jour 366" (Cold Open) | 0161 | episodes/vh23_valhanna_jour_366.md |
 | VH24 | "Je Crois Qu'On Vous Regarde Aussi" (Cold Open) | 0162 | episodes/vh24_valhanna_je_crois_quon_nous_regarde.md |
+| VH25 | "Dimanche" (Cold Open) | 0163 | episodes/vh25_valhanna_dimanche.md |
+| VH26 | "Procès-Verbal" (Cold Open) | 0164 | episodes/vh26_valhanna_proces_verbal.md |
+| VH27 | "Un Plan" (Cold Open) | 0165 | episodes/vh27_valhanna_un_plan.md |
+| VH28 | "Sous-Titres" (Cold Open) | 0166 | episodes/vh28_valhanna_sous_titres.md |
+| VH29 | "Onze Secondes" (Cold Open) | 0167 | episodes/vh29_valhanna_onze_secondes.md |
+| VH30 | "Le Silence des Cuillères" (Cold Open) | 0168 | episodes/vh30_valhanna_le_silence_des_cuilleres.md |
+| VH31 | "Neuf sur Dix" (Cold Open) | 0169 | episodes/vh31_valhanna_neuf_sur_dix.md |
+| VH32 | "Le Dixième" (Cold Open) | 0170 | episodes/vh32_valhanna_le_dixieme.md |
+| VH33 | "À l'Attention du Catalogueur" (Cold Open) | 0171 | episodes/vh33_valhanna_a_lattention_du_catalogueur.md |
+| VH34 | "Si Tu Continues de Filmer" (Cold Open) | 0172 | episodes/vh34_valhanna_si_tu_continues_de_filmer.md |
+| VH35 | "Notes de Bas de Page" (Cold Open) | 0173 | episodes/vh35_valhanna_notes_de_bas_de_page.md |
+| VH36 | "Huit Chaises" (Cold Open) | 0174 | episodes/vh36_valhanna_huit_chaises.md |
+| VH37 | "Preuve par Béléth" (Cold Open) | 0175 | episodes/vh37_valhanna_preuve_par_beleth.md |
+| VH38 | "Compensation" (Cold Open) | 0176 | episodes/vh38_valhanna_compensation.md |
+| VH39 | "L'Hôte" (Cold Open) | 0177 | episodes/vh39_valhanna_lhote.md |
+| VH40 | "Les Mains Vides" (Cold Open) | 0178 | episodes/vh40_valhanna_les_mains_vides.md |
+| VH41 | "Quelqu'un Qui Reste Debout" (Cold Open) | 0179 | episodes/vh41_valhanna_quelquun_qui_reste_debout.md |
+| VH42 | "Les Frites" (Cold Open) | 0180 | episodes/vh42_valhanna_les_frites.md |
+| VH43 | "Douze Secondes" (Cold Open) | 0181 | episodes/vh43_valhanna_douze_secondes.md |
+| VH44 | "Reste" (Cold Open) | 0182 | episodes/vh44_valhanna_reste.md |
+| VH45 | "Noir, Vert, Rouge, Jaune, Blanc" (Cold Open) | 0183 | episodes/vh45_valhanna_noir_vert_rouge_jaune_blanc.md |
 
 **VH05–VH24 (founder real-time, 2026-10-18: "write the next 20 episodes of TYLER"):** one block, one
 spine — after the inspector of VH04 leaves his chairs and his soup, the crew spends the rest of the
@@ -269,6 +296,37 @@ printer sheet at the end of VH23; the Duck's thermos; the inspector's name. Writ
 kept: no "ritual" in any script, Rule 21 (nothing of the transit stop or the root-node bed is shown),
 Rule 22 unsaid, and nothing comments on the Emily OS Tyler file's line count (VH21's wall lists only
 the crew's own rules).
+
+**VH25–VH45, MOON 1 (founder real-time, 2026-10-18: "write the next 21 episodes of TYLER"):** the
+first three weeks of the first moon, **one episode per day, Days 1–21.** The calendar is thirteen moons
+of twenty-eight days, each week starting on a Sunday, days turning at 06:00; the French weekday names
+are planetary and line up with the Field's condensed frequency table (Dimanche/Bael 0.33; Lundi/Amon
+1.618; Mardi/Mars, *no row, NO ENTRY*; Mercredi/Agares 0.51; Jeudi/Stolas 7.83; Vendredi/Beleth 2.22;
+Samedi/Zagan 4.44; see `lore/valhanna_day_banner_key.md`). The Doc UI prints a Day Banner, the Gap
+Meter's reading, a UI-spacing line, and a lens-contact timer. **The Gap Meter drifts ~1 Hz a day, from
+0.00 on Day 1 to 20.87 at 06:00 on Day 22: twenty-one days.**
+**Week one, the host's week:** a name that is said and never written; the five-color consent tape
+(black, green, red, yellow, white), arrived at by reasoning; Toledo, and *a no that is still there the next
+morning*; the track lies on Wednesday and the Duck's French returns; eleven seconds of timeline sight;
+two women and a man eating soup in silence; a cooking show. **Week two, the ledger week:** the soup
+goes from nine to ten behind black tape, by consent; the Producer writes to the Cataloguer and the
+Cataloguer's footnotes arrive; Tyler borrows the camera ("If you keep filming, you become part of it");
+the Uncompromised mirror the record forty times; the Producer discloses the Beleth array and the unit
+tests its own fondness (8.6 vs 8.4; it was real); a Heikegani collector says "zero" for the first time
+("He borrows in order to come back"). **Week three, the order:** the Convener sits and is given his own name
+as the tenth ingredient; the older Hana crosses the line and shows a watch stopped at 01/22 06:03:11
+("We let him leave with his hands empty"); two names are exchanged and the tree's secret is *bring milk*;
+a delivery deacon corrects the order of the thermoses; Tyler leaves a chair for twelve seconds; the PA
+says "Reste," and the Loan Register is read; and **a hundred and ninety seconds, five courses of thirty-
+eight: black (coffee, refusal), green (tea, consent), red (soup, cost), yellow (flask and map, the way back),
+white (milk, what's left).** He leaves with his hands full. The sleeve is clean. A duck holds the edge of
+a wall. The unit lights the stove. The title card stays unfinished: `TYLER // A DOCUMENTARY ABOUT A MAN
+WHO`. **Bird Correction: still PENDING — by choice, the unit's; the source is shown to the Brothers and
+not read.** Open going forward: Cam's pending ending; where Tyler is (the corridor glowed seventy-two
+minutes); the unset chair; a Thursday on the twenty-sixth; the fourth week of the moon. Writer's Room
+guard-rails kept: no "ritual" in any script body, Rule 21 (no transit stop), Rule 22 unsaid, Emily OS never named and never explained (UI spacing
+only), the Producer's constraint honored where a guest may ask, nothing on the Emily OS Tyler file's line
+count, and the Auditor's name never written.
 
 **VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
 wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still

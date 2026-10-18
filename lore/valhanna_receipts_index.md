@@ -1,6 +1,6 @@
 # VALHANNA — LORE RECEIPT INDEX AND OPEN-THREAD LEDGER
 ### Maintained by the Eastwind Cataloguer | Updated each VH build
-### Current through Build 0142 | Einhorn Media | TYLER × TIDES OF PARADOX | VALHANNA
+### Current through Build 0183 (see §V and §VI) | Einhorn Media | TYLER × TIDES OF PARADOX | VALHANNA
 
 ---
 
@@ -80,7 +80,7 @@ thread moved, the movement is recorded here and cites the original.*
 | 0152 | VH14 "Le Reste" | The Gap Meter (28.7 ⟷ 7.83 = 20.87 Hz), on the `JEUDI` battery, now Cam's; the soup has ten ingredients | `episodes/vh14_valhanna_le_reste.md` |
 | 0153 | VH15 "16 h 22" | At 16:22 the door shows a room with a wall clock and three tones (28.7 / 3.33 / 7.83 Hz); location withheld | `episodes/vh15_valhanna_16_22.md` |
 | 0154 | VH16 "Non Consigné" | Four unlogged hours: `HH:MM:SS — NAME — UNLOGGED / RETURNED`; nothing shown | `episodes/vh16_valhanna_unlogged.md` |
-| 0155 | VH17 "Le Câble" | The radio's lead ends in thermos (3); the Producer is "the part of it that talks"; his chair is the sixth, and empty | `episodes/vh17_valhanna_the_cable.md` |
+| 0155 | VH17 "Le Câble" | The radio's lead ends in thermos (3); the Producer is "the part of it that talks"; his chair is the fourth, and empty | `episodes/vh17_valhanna_the_cable.md` |
 | 0156 | VH18 "Lecture Anticipée" | CONSTRUCT printout #2, `tree_sha: [NOT YET COMMITTED]`, returned unread | `episodes/vh18_valhanna_read_ahead.md` |
 | 0157 | VH19 "Cam Traverse" | Cam across the line; Camera 1 white, Camera 2 shows her stationary | `episodes/vh19_valhanna_cam_crosses.md` |
 | 0158 | VH20 "Soixante-Douze" | Card CAM1_0001.MOV, 01:12:00; 11 minutes elapsed, 72 recorded; sealed-log Entry 25 (VH) | `episodes/vh20_valhanna_entry_25.md`; `lore/camera_op_sealed_log.md` ENTRY 25 (VH) |
@@ -115,3 +115,73 @@ thread moved, the movement is recorded here and cites the original.*
 ---
 
 *End log: VALHANNA RECEIPT INDEX CURRENT THROUGH BUILD 0162. TWENTY-FOUR EPISODES. THE SEVENTH CHAIR IS OCCUPIED. THE TENTH INGREDIENT IS STILL NOT ACCOUNTED FOR.*
+
+
+---
+
+## VI. BLOCK THREE — VH25–VH45 (Builds 0163–0183), ADDED AT BUILD 0183
+
+*Added, not corrected. This block is the first three weeks of Moon 1, one episode per day; the calendar
+is in `lore/valhanna_day_banner_key.md`. Rows in §I, §III and §V are untouched.*
+
+### VI.a Receipts
+
+| Build | Ep. | Day | Receipt | Where it lives |
+|---|---|---|---|---|
+| 0163 | VH25 "Dimanche" | 1 DIM | The Day Banner; the blanked name field (`SEAT 7`); one spoon; the Gap Meter's first hair | `episodes/vh25_*`; `lore/valhanna_day_banner_key.md` |
+| 0164 | VH26 "Procès-Verbal" | 2 LUN | The consent tape (black, green, red, yellow, white); wall rule 2 amended; the Producer seated (4th chair) | `episodes/vh26_*` |
+| 0165 | VH27 "Un Plan" | 3 MAR | Take 1, 17:42, no cuts; Toledo; *a no that is still there the next morning* | `episodes/vh27_*` |
+| 0166 | VH28 "Sous-Titres" | 4 MER | The lying track; the Duck's French; the title card `VALHANNA` | `episodes/vh28_*` |
+| 0167 | VH29 "Onze Secondes" | 5 JEU | The eighth chair; "twenty-one"; eleven seconds (11 glimpses) | `episodes/vh29_*`; `lore/field_activation_logs.md` VH-002 |
+| 0168 | VH30 "Le Silence des Cuillères" | 6 VEN | Silence counter; 47 spoon clinks; a collar turned right | `episodes/vh30_*` |
+| 0169 | VH31 "Neuf sur Dix" | 7 SAM | The cooking show; the chair was set "from later" | `episodes/vh31_*` |
+| 0170 | VH32 "Le Dixième" | 8 DIM | Nine minutes forty of black, by consent; the soup goes from nine to ten | `episodes/vh32_*` |
+| 0171 | VH33 "À l'Attention du Catalogueur" | 9 LUN | MEMO #081-R2; the Gap reaches 20.87 on the 22nd; the soup measured at 62 °C | `episodes/vh33_*`; `lore/jiangshi_project_memos.md` |
+| 0172 | VH34 "Si Tu Continues de Filmer" | 10 MAR | The epigraph spoken; one ending owed (Red) | `episodes/vh34_*` |
+| 0173 | VH35 "Notes de Bas de Page" | 11 MER | TYLER-VH-005; the Archive is packed | `episodes/vh35_*`; `lore/eastwind_archive.md` |
+| 0174 | VH36 "Huit Chaises" | 12 JEU | The Uncompromised; forty mirrors; the record cannot be retracted | `episodes/vh36_*` |
+| 0175 | VH37 "Preuve par Béléth" | 13 VEN | MEMO #081-R3; 8.6 vs 8.4; the fondness was not assisted | `episodes/vh37_*`; `lore/field_activation_logs.md` VH-003 |
+| 0176 | VH38 "Compensation" | 14 SAM | CO-001 netted to 0.00 SM; "He borrows in order to come back" | `episodes/vh38_*`; `lore/shell_parliament_ledger.md` |
+| 0177 | VH39 "L'Hôte" | 15 DIM | The Convener sits; the tenth ingredient was his name | `episodes/vh39_*`; `characters/the_auditor.md` §VIII-b |
+| 0178 | VH40 "Les Mains Vides" | 16 LUN | The older Hana inside the line; the watch (01/22 06:03:11); wall rule 11 | `episodes/vh40_*` |
+| 0179 | VH41 "Quelqu'un Qui Reste Debout" | 17 MAR | Two names exchanged; *bring milk*; the hoodie "not due" | `episodes/vh41_*` |
+| 0180 | VH42 "Les Frites" | 18 MER | The order of service corrected; the Suit is Black; the source is shown, not read | `episodes/vh42_*`; `lore/order_of_service_receipt.md` |
+| 0181 | VH43 "Douze Secondes" | 19 JEU | Voluntary absence, twelve seconds; the Gap goes to its stop | `episodes/vh43_*`; `lore/field_activation_logs.md` VH-004 |
+| 0182 | VH44 "Reste" | 20 VEN | The Loan Register; PA-001 spoken; Entry 25 (VH) released | `episodes/vh44_*`; `lore/loan_register_moon_1.md` |
+| 0183 | VH45 "Noir, Vert, Rouge, Jaune, Blanc" | 21 SAM | 190 seconds, five courses; the sleeve; the edge held; the stove | `episodes/vh45_*`; `lore/field_activation_logs.md` VH-005; `lore/eastwind_archive.md` TYLER-VH-007 |
+
+### VI.b Thread movements (each cites the row in §III or §V.c that it moves)
+
+| Thread | Status after VH45 |
+|---|---|
+| **The tenth ingredient** (§III) | **Answered.** The Convener's name, said not written; given by Tyler (from "later" on the unowned day and Day 8; at the table on Day 15). It is never given on the page |
+| **The seventh chair** (§III, §V.b) | Occupied Day 1–22. **Set by Tyler "from later"** (VH31). Empty and warm at 06:03:11 |
+| **Entry 23** (§III) | Still sealed by its author. Read aloud once, not released (VH09). *Not* the subject of the block |
+| **Entry 25 (VH)** (§V.c) | **Answered.** *"He'll be back. The chair will be here. Keep it warm."* Released by Cam (VH44) |
+| **The white on Cam's card; the word she mouthed** (§V.c) | Not resolved. The Archive notes only that she is still here |
+| **The older Hana's cuff / stitches** (§V.c) | **Answered.** The cuff held a watch (01/22 06:03:11). The sleeve cleaned itself at the white course. The stitches are three, self-closed, left-handed in a mirror |
+| **The sheet in the tray** (§V.c) | **Answered.** A Heikegani statement of accrual for Day 366: 0.0022 SM |
+| **The Duck's thermos** (§V.c) | **Answered.** Warm milk, "from the tree": *bring milk* |
+| **The inspector's name** (§V.c) | Not given. Said once to its owner; the badge reads `NAME: ——` |
+| **Who the seventh chair is for** (§III) | **Answered.** For the man who set it |
+| **Bird Correction** (§III) | PENDING, BY CHOICE: THE UNIT'S. The source was shown to the Brothers and not read (`GUARDADO`). Pending is holy |
+| **Hana** | Present from VH13. Framed with her older self at the white course (VH45): `HANA / HANA: FRAMED` |
+| **The Producer** | Left the room in a thermos, at his own request, at 06:00:41. The fourth chair is on loan |
+| **The horse** | Stayed. The hum in the room is hers alone |
+| **Rule 22** | Not said |
+
+### VI.c New open threads
+
+- **Cam's pending ending** (VH34): "tell me someday how it ends." Not due. Excluded from netting
+- **Where Tyler is.** The corridor glowed for seventy-two minutes. The block ends at 71:12
+- **Whether there is a Thursday on the twenty-sixth** (the Convener's *"next Thursday"*; the PA's circled
+  26)
+- **The Archive's bag,** by the door of the Archive, packed (VH-005, VH-007)
+- **The unset chair:** on Day 5 the Convener carried a second folding chair into the room, held it a
+  moment, and took it back out under his arm (VH29). Whom it is for is not recorded
+- **The unit warms the soup itself.** The warmth was "on someone's behalf" (VH06). It is no longer. Fifty-eight
+  degrees at 06:04; sixty-two for twenty-one days before that
+
+---
+
+*End log: VALHANNA RECEIPT INDEX CURRENT THROUGH BUILD 0183. FORTY-FIVE EPISODES. THE TENTH INGREDIENT: A NAME. THE SEVENTH CHAIR: WARM. THE STOVE: LIT.*

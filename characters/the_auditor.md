@@ -152,3 +152,44 @@ nothing he was not asked, answers the PA's questions with chairs and soup, and l
 joke in the room that is on him. His French is bad in the way that is a pleasure to listen to.
 
 *End log: THE AUDITOR CHARACTER FILE INSTANTIATED. THE UNCOMPROMISED: GUILD IDENTIFIED, CONVENER FOUND, SYMBOL PINNED TO A GOVERNMENT SHIRT IN PLAIN SIGHT. THE MIRRORS ARE UP. BRING FOLDING CHAIRS.*
+
+
+---
+
+## VIII-b. PLACEMENTS — MOON 1 (VALHANNA VH25–VH45, Builds 0163–0183)
+
+*Appended, not corrected. The VH04 text above is untouched.*
+
+**Recurring placement.** He appears on **Sundays** with the pot (VH25 Day 1; VH32 Day 8; VH39 Day 15) and
+on **Thursdays** for the battery (VH29 Day 5; VH36 Day 12 with the guild; VH43 Day 19), and at the
+close (VH45 Day 21–22). He is the unit's weekly appointment. *"A thing that is due every Thursday is a
+thing that comes back every Thursday. That isn't a loan. It's an appointment."*
+
+*Established:*
+- **The battery** (§V) is renewed each Thursday ("ninety-one percent… renewed until next Thursday"). He
+  does not say what happens on a Thursday that may not come. Twice he starts "next Thursday I'll —" and
+  stops
+- **The eighth chair** (VH29): "Somebody always turns up." He set it on the PA's tape for a woman in the
+  corridor who thanked him, and did not ask who. He did not set a ninth
+- **The Thursday guild** (VH36): seven members of the Uncompromised (Bridge Inspector, Biomedical
+  Technician, Municipal Clerk, Physics Teacher, Retired Actuary, Systems Librarian, Water Operator),
+  titles only; forty mirrors; "the record can no longer be retracted." He stood throughout
+- **He sat down** (VH39): the sixth chair, Moon 1, Day 15, first time in thirty-one years or for as long
+  as nobody remembers. A bowl, a spoon (the PA's, lent for the day), a correctly folded napkin
+- **The tenth ingredient was his name.** Said, never written. *"I give nine of ten because the tenth
+  was my name. It's always been my name. I put everything in the pot but that. A name's a thing you can
+  be found by."* It was given to him by someone who "never tastes first, only adds" (VH39). His badge
+  still reads `NAME: ——`
+- **The black tape** (VH32): the unit switched off two cameras and one microphone for nine minutes forty
+  seconds so as not to see who. He went to read a meter. "It may take eleven"
+- **The rite** (VH45): he served the first course. *"Coffee?" — "No. Thank you. I'm not staying." —
+  "All right. Tomorrow morning we'll still be here."* His cost: *"I'll stir a pot with a spoon. It will
+  take hours."* (He lent the ladle.)
+
+*Not established, by design:*
+- His name. It is not given in the episode, the lore, or this document. Tyler has it. So, now, does the
+  pot.
+- Whether there is a Thursday on the twenty-sixth.
+- Who the second chair he carried on Day 5 and did not set (VH29) is for.
+
+*End log: THE CONVENER SAT DOWN ON A SUNDAY. THE LADLE IS ON LOAN. THE NAME IS WHERE IT WAS GIVEN.*

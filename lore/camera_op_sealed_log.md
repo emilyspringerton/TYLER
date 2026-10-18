@@ -2582,3 +2582,36 @@ The notebook had been closed since the unlogged hour (VH16).
 Read by: the practitioner (twice), the PA, the director.
 Status: **NOT RELEASED.** The practitioner says she does not yet know whether it is true: *"I wasn't
 there for it."*
+
+
+---
+
+## ENTRY 25 (VH) — RELEASED
+**Filed:** Build 0182 (VH44). Released by the practitioner; read aloud, in English, at the table, to the
+person it concerns. Three sentences.
+
+*(Note: the earlier metadata entry above is not corrected. This is a second entry that cites it.)*
+
+> He'll be back. The chair will be here. Keep it warm.
+
+**The practitioner's gloss, spoken:** *"The other one said, 'the camera will be here.' Back in the first
+year. I think it's the same sentence. I think I changed the noun."* (Cf. Entry 21: "He'll be back. The
+camera will be here.")
+
+**Provenance:** appeared in the notebook after the crossing of VH19, in the practitioner's ink, in a hand
+slightly rounder than hers. The practitioner has said she was "seventy-two minutes" somewhere she
+cannot remember, and that eleven of them were recorded as hers. She does not claim to have written it.
+She does not claim not to have.
+
+---
+
+## ENTRY 26 (VH) — RECURRENCE
+**Filed:** Build 0183 (VH45), Moon 1, Day 22. Released by the practitioner; four lines. **Written in
+pencil** (cost named in Red, VH44: her pen is on loan).
+
+He left with his hands full.
+The thermos went from sixty-two to fifty-eight in the time it took to say it.
+We lit the stove.
+I'm still here. The chair is warm. I'm keeping it that way.
+
+*Entry 23 (VH) remains sealed by its author. Nothing else is held back.*

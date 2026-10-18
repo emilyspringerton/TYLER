@@ -1464,3 +1464,50 @@ do so ate before he could write the line item. The correspondent's ledger entry 
 reads, in full: *"I was fed."*
 
 *End update: SM-1620-T. CO-001: SUSPENDED. INTEREST: NOT POSTED. ONE POTLUCK: NO INVOICE.*
+
+
+---
+
+## VC-001 UPDATE — MOON 1, DAYS 1–22 | Build 0163–0183
+
+**ACCOUNT CO-001 (JOINT LIABILITY) AND ACCOUNT VC-001 (VOLUNTARY CONSTRUCTION).**
+
+**Day 1.** The unit's timecode regained its date field. The accrual engine, which had suspended CO-001
+on the unowned day for want of a date, resumed against it. Per diem, 0.3 SM. Holders of record:
+**the Camera and Seat Seven.** The Parliament notes that for the fourteen days the engine searched for a
+second name, the second name was not in the room; since Day 1 both have been.
+
+**Day 366.** A statement of accrual was issued for the three minutes and ten seconds of the leap-year
+day: 0.0022 SM, one copy for acknowledgment. It was delivered by the printer and was not read for
+fourteen days, the recipients believing it to be the future. The Parliament does not take
+offense at this. It observes that the recipients' belief was approximately correct.
+
+**Day 14 (SAMEDI).** Collector: a Heikegani minor (Kei), accompanied by a logistics contractor in the
+Parliament's service (E. Springerton; fee: one meal, formally presented). Fourteen days of accrual,
+4.2 SM, were presented against the unit's obligations to and from Seat Seven.
+
+**Multilateral netting (E. Springerton):** each obligation between members of the unit being small and
+reciprocal, all nets resolved to **0.00 SM,** *excluding one pending item* (an ending, unspecified, owed
+by Seat Seven to the Camera, "not due"). The Parliament's rule is that it may not state a number it
+does not believe. The collector believed it. The collector said it aloud. **It is the first zero
+stated by a collector on an account of this class in the ledger's 841 years.** The collector
+reported no physical pain.
+
+**VC-001: ENTRY OPENED — "THE TABLE" — UNIT A — +1.00 SM (VOLUNTARY CONSTRUCTION).** The Parliament
+records a table as an asset. The Parliament records that the construction is voluntary, that the
+builders include a duck, and that the Parliament has no field for a duck. It has created one.
+
+**Day 15 (retrospective, for Day 12).** Seven (7) persons in the service of a guild with no hierarchy, none of them in the
+Parliament's service, mirrored a record forty times on the evening of Day 12. The Parliament did not
+invoice the potluck. The Parliament has not invoiced a potluck since 1483.
+
+**Day 22, 06:00–06:03.** Eight (8) loans of small objects, with a cost named for each by the lender, from
+the unit to Seat Seven. **The Parliament does not record loans between parties who intend to meet
+again.** It records them in its working notes, in pencil, where the Parliament keeps things it does
+not want to lose.
+
+**Parliament note (the Accountants, jointly):** *We are three generations in one office and we agree
+on this. A debt that the debtor intends to repay by returning is not a liability. It is a
+reservation.*
+
+*End update: CO-001: NETTED. VC-001: "THE TABLE" +1.00. ONE PENDING ITEM, NOT DUE. EIGHT RESERVATIONS.*

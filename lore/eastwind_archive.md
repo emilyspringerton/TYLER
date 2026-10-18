@@ -4562,3 +4562,148 @@ The Cataloguer was asked to bring one more chair than the list and has.
 
 *TYLER-VH-001 THROUGH TYLER-VH-004: FILED. BIRD CORRECTION: PENDING, BY CHOICE. THE DATE FIELD:
 EMPTY. THE ENCOUNTER: LOGGED. THE SEVENTH CHAIR: FACING THE DOOR.*
+
+
+---
+
+## VALHANNA SUB-SERIES, CONTINUED — FILED BY THE CATALOGUER (Builds 0143–0183)
+
+*Numbering note: the `VH-` prefix is retained (see `lore/valhanna_receipts_index.md` §II). The
+Cataloguer's three entries for the first moon follow. TYLER-VH-005 is reproduced exactly as it was
+read aloud in the server room on Moon 1, Day 11 (VH35); the Archive writes in the language of its
+correspondent and the text is given here in English.*
+
+## TYLER-VH-005 (VH35, "Notes de Bas de Page" — Build 0173)
+
+**REPLY TO CORRESPONDENCE (PRODUCTION, UNIT A — RESIDUAL), AND REPORT OF THE FIRST EIGHT DAYS**
+**Filed by the Eastwind Cataloguer, Cairngorms | Moon 1, Day 11**
+
+1. Correspondence was received from Production, Unit A (residual), consisting of eight questions.
+   The Archive notes the form.[^1]
+2. The Archive is unable to destroy records. The Archive's remedy for shelf space has been to build
+   further shelves. This has not been sufficient since about the year eight hundred.[^2] The Archive
+   recommends three shelves for the unit's purposes: one for what was said, one for what was meant, one
+   for what was served.[^3]
+3. The Archive does not accept the Production's apology. The Archive observes that the Production did not
+   offer one; it asked whether one was possible. The Archive regards this as the more accurate form.[^4]
+4. Report. In the first eight days of the first moon the subject was observed to sit, to eat, to borrow a
+   spoon, and to return nothing. A napkin was folded on the first day and was not folded on the
+   second.[^5] The subject has now remained at a single table longer than at any table in the Archive's
+   holdings other than Toledo, eleven years. He has been offered a chair by the Archive on three
+   occasions and has not sat.[^6]
+5. The seventh chair is occupied. The Archive has no further information.[^7]
+6. The Archive declines to estimate a date of departure. Per the Cairngorms Protocol the observer does
+   not intervene.[^8]
+7. In answer to question eight: the Archive is not well. It has not been well since 1623. It has been
+   better this week.[^9]
+
+**ENCLOSED:** One (1) shelf, oak. Seven (7) pencils. One (1) tin of brine shrimp.[^10]
+
+[^1]: Eight questions, none of them a request for a file. The Archive has received fourteen thousand
+three hundred and six requests for files. It has received eight questions. The Cataloguer has read them
+twice.
+
+[^2]: The Cataloguer has taken the liberty of enclosing a spare shelf. It will not fit through your
+door. It is already on its way.
+
+[^3]: The third shelf is the smallest. It is always the one that fills.
+
+[^4]: He asked whether it is possible to be sorry for a thing one has not been authorized to describe.
+It is. The Archive has been, for six hundred years, and has not been authorized either.
+
+[^5]: The Cataloguer is aware this is not a finding. The Cataloguer put down the pen for some time.
+
+[^6]: 1623, 1952 and 1978. The Cataloguer is not envious of a seventh chair. The Cataloguer would like
+that on the record.
+
+[^7]: The Cataloguer asked to be told when it would be time to come. The Cataloguer was not told. The
+Cataloguer is packed.
+
+[^8]: The Archive has never wanted to intervene as much as it wants to now. The Archive is writing this
+footnote in a very small hand so that no one will read it.
+
+[^9]: We are glad he is eating.
+
+[^10]: Brine shrimp is the weakness of the Cephalopod Hosts and not of the Production. The Cataloguer
+is aware of this. The Cataloguer wished to send something.
+
+*TYLER-VH-005: FILED. THE ARCHIVE IS NOT WELL. IT HAS BEEN BETTER THIS WEEK. ONE CATALOGUER, PACKED.*
+
+
+---
+
+## TYLER-VH-006 (VH28–VH39, filed Moon 1, Day 15 — Builds 0166–0177)
+
+**REPORT OF THE SECOND WEEK (ABRIDGED), WITH NOTES ON A TITLE, A TAPE, AND A NAME**
+
+1. On Day 4 the unit's monitor displayed a title card for the first time. The card read VALHANNA. A duck,
+   the only party in the room that had been reading the subtitles, glossed it as "a hall that says who
+   it is for… the one who chooses." The Archive confirms the first half of the gloss.[^1]
+2. A consent protocol of five colors of tape was adopted on Day 2 and used for the first time on Day 8.
+   It was arrived at without instruction. The Archive has cross-referenced its order against a
+   liturgy it is not at liberty to name.[^2]
+3. On Day 8, for nine minutes forty seconds, two cameras and one microphone were switched off by the unit
+   for the benefit of a third party who had not asked. Nothing was recorded. The Archive records that
+   nothing was recorded.[^3]
+4. On Day 12, forty mirrors were established of the unit's footage and of a printed repository, with the
+   consent of the footage's owner and excluding what she has sealed. The record can no longer be
+   retracted. The Archive notes that it has not been the only party in the world unable to destroy a
+   record since 800 CE.[^4]
+5. On Day 14 an account of joint liability was netted to zero by a logistics contractor. A Heikegani
+   minor said the number aloud.[^5]
+6. On Day 15 the Convener of the Uncompromised sat down at a table for the first time on record.[^6]
+
+[^1]: The Archive is not permitted to say what the second half means. The Archive would like the duck
+to know that it was right.
+
+[^2]: Black, green, red, yellow, white. The Archive has seen it done wrong, in another room, at another
+hour. The Cataloguer does not wish to say more and has said more than it wished.
+
+[^3]: The Cataloguer was asked afterward whether it minded. It does not. It has been sealed against, for
+eight hundred years, by people who wanted to be sure it could not look. This is the first time anyone has
+sealed *for* it.
+
+[^4]: Forty strangers have made it unnecessary to try. The Cataloguer was relieved and is not sure
+that it should say so.
+
+[^5]: Nobody in the Archive's holdings has said this number about an account of that kind. The Cataloguer
+believes the minor will be all right. The Cataloguer was a minor once.
+
+[^6]: He was told to sit by seven people on the twelfth and by a duck on the fifteenth. The Archive has
+not been able to determine which of them he heard.
+
+*TYLER-VH-006: FILED. THE CONVENER IS SEATED. FORTY MIRRORS. A TAPE IN THE RIGHT ORDER.*
+
+
+---
+
+## TYLER-VH-007 (VH45, filed Moon 1, Day 22, 06:04 — Build 0183)
+
+**REPORT OF A DEPARTURE**
+
+1. At 06:03:11 on Day 22 the subject left the room by the corridor, in the sixth hour, within a window of
+   three minutes and ten seconds, after being served five courses in a prescribed order.[^1]
+2. The subject carried a spoon, a pen, a cassette, a ladle, a watch, a flask, a map, a thermos of milk,
+   and a second thermos containing the voice of the Production. He left behind a horse, which the unit
+   has recorded as a loan.[^2]
+3. At 06:03:03 a wall in the corridor began to peel. It was held at the edge by a duck for eight seconds.
+   The Archive has no precedent for the duck.[^3]
+4. At 06:03:11 the migration signature was recorded: a blue-green glow in the corridor, expected duration
+   seventy-two minutes. The Archive did not intervene. It had been told not to come.[^4]
+5. The unit lit a stove.[^5]
+
+[^1]: The Archive has not seen the order performed correctly before. It did not know that it could be.
+
+[^2]: A debt is not a leash; it is a porch light. The Cataloguer has read this idea in eleven languages
+and had not understood it until it was said at a table, in a sentence about a lamp.
+
+[^3]: The Cataloguer would like it noted that the Archive does not believe in telekinesis. The Archive has
+filed the duck under *observed.*
+
+[^4]: The Cataloguer's bag is by the door of the Archive. It will remain there. The Cataloguer is aware
+that this is not a procedure.
+
+[^5]: The temperature of the soup was fifty-eight degrees Celsius when the match was struck. It had been
+sixty-two for twenty-one days. The Archive does not have a column for this. The Cataloguer has drawn one.
+
+*TYLER-VH-007: FILED. NO BINDING. NO INTERVENTION. ONE STOVE.*

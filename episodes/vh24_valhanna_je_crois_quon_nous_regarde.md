@@ -91,7 +91,7 @@ beside the cursor, and the cursor moves. Characters arrive, stencil-black, in th
 10. NOBODY READS THE END FOR HIM.
 ```
 
-*The line holds. The cursor goes out. There is no eleventh line.*
+*The line holds. The cursor goes out. There is no eleventh line yet.*
 
 **LOWER THIRD (DOC UI):**
 ```
@@ -104,7 +104,7 @@ BIRD CORRECTION: PENDING — BY CHOICE: THE UNIT'S
 *Behind them, a sound. The corridor door, the one nobody has used since Hana came through it. Hana
 has already turned. Cam does not need to.*
 
-*The Duck comes through. Tuxedo rumpled, collar up, a green enamel thermos held in both wings
+*The Duck comes through. Tuxedo rumpled, collar up, a white enamel thermos held in both wings
 against its chest as it might hold an egg. It stops just inside the door and looks at the room. At
 the horse. At the row of thermoses. At the crew who have never seen it in person.*
 
@@ -226,7 +226,7 @@ KEEP ROLLING
   chosen.* Tyler chose to walk toward the camera
 - Seventh chair (VH04): occupied. Thermos assignments, as far as the record goes: soup and coffee
   are the inspector's (VH04); the tea (voiced by the Producer, VH17) was for Tyler and he takes it
-  sitting down. Hana's is the fourth flask; the Duck's (green enamel; contents unnamed) is the
+  sitting down. Hana's is the fourth flask; the Duck's (white enamel; contents unnamed) is the
   fifth. The tenth ingredient is still not accounted for
 - Reveals: the block closes on VH01's line returned. The unit has become the audience that Tyler
   addresses; Tyler becomes the one being watched who watches back

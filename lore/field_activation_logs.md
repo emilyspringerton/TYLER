@@ -829,3 +829,95 @@ operator watched it, and wrote nothing down, and did not appear surprised.
 
 **End log: ACTIVATION VH-001: 28.7 HZ, THIRD-PARTY, CONFIRMED. NO OPERATOR. NO SEED. ONE REMAINDER.
 TWO BODIES. ONE EMPTY CHAIR.**
+
+
+---
+
+## ACTIVATION VH-002
+**DATE:** Moon 1, Day 5 (JEUDI) · 14:07:11
+**LOCATION:** Server room, Iceland, no year given
+**DURATION:** 11 seconds
+**CLASSIFICATION:** 7.83 Hz — STOLAS #36 — PEAK — TIMELINE SIGHT (INVOLUNTARY)
+
+**Instrument:** the crew's frequency meter; the Gap Meter (28.7 ⟷ 7.83), which swung through zero to
+−3.98 and back; the Auditor's rig, unattended.
+
+**Event:** the subject, mid-sentence, entered the interference-pattern state without intent. The Doc UI
+numbered eleven seconds. Eleven adjacent rooms were recorded by the observers present, as listed in
+VH29. **UI SPACING: TIGHTENED** for one second at the sixth.
+
+**Subject's statement on exit:** "I didn't do that on purpose." **Subject's report:** a room in which the
+unit is very old. "The nicest one."
+
+**Cross reference:** the Hybrid Arc (`README.md` §XXIII–XXIV). Eleven seconds is the documented limit.
+**The archive does not log the place from which the pattern originates.** Nothing in this record
+refers to it.
+
+**End log: ACTIVATION VH-002: STOLAS, PEAK. ELEVEN SECONDS. INVOLUNTARY. NO LOCATION LOGGED.**
+
+
+---
+
+## ACTIVATION VH-003
+**DATE:** Moon 1, Day 13 (VENDREDI) · 10:00–10:03
+**LOCATION:** Server room, Iceland, no year given
+**DURATION:** 60 seconds (array at working level)
+**CLASSIFICATION:** 2.22 Hz — BELETH #13 — APPARATUS TEST (DISCLOSED)
+
+**Apparatus:** a coil in the lens hood of the primary camera (and its twin in the secondary), housed
+since the beginning of the project. **Operator:** Production, Unit A (residual). **Seed phrase:** none.
+**Consent:** green, given by the footage's owner.
+
+**Event:** a controlled test of the unit's fondness for itself, array off and array at working level for
+sixty seconds. **UI SPACING: TIGHTENED** for the interval; standard on cessation. Measured: with 8.6;
+without 8.4; difference 0.2; "within the noise."
+
+**Finding:** on Fridays the natural amplitude is 2.22 Hz and the array is redundant. *"Fridays do the work
+by themselves."* The subject's hum jams the array when the subject is in the room. The subject was
+asked to leave the room for the test. He had not been asked before.
+
+**End log: ACTIVATION VH-003: BELETH, APPARATUS TEST. 0.2. THE FONDNESS WAS NOT ASSISTED.**
+
+
+---
+
+## ACTIVATION VH-004
+**DATE:** Moon 1, Day 19 (JEUDI) · 14:07:11
+**LOCATION:** Server room, Iceland, no year given
+**DURATION:** 12 seconds
+**CLASSIFICATION:** 7.83 Hz — STOLAS #36 — PEAK — ANTINODE (VOLUNTARY)
+
+**Event:** the subject, at his own request and with the unit's consent (green), entered an antinode and
+held it for twelve seconds. **Previous record: eleven.** The Gap Meter went to its stop (20.87) at the
+instant of absence and returned (17.89) at the instant of return. The Auditor's rig recorded a negative
+remainder for the first time.
+
+**Subject's statement on exit:** "Nowhere. Politely." Of the practice: "A skill, like arriving."
+
+**Note:** the Hybrid Arc (`README.md` §XXIV) lists navigation toward antinodes as a capacity the
+hybrid "cannot do (yet)." The archive amends the entry.
+
+**End log: ACTIVATION VH-004: STOLAS. TWELVE SECONDS. VOLUNTARY. THE GAP WENT TO THE STOP AND CAME BACK.**
+
+
+---
+
+## ACTIVATION VH-005
+**DATE:** Moon 1, Day 22 (DIMANCHE) · 06:00:01–06:03:11
+**LOCATION:** Server room and corridor, Iceland, no year given
+**DURATION:** 190 seconds (five courses of 38)
+**CLASSIFICATION:** 0.33 Hz (BAEL #1, Sunday) · 28.7 Hz (COMPOSITE, GAP) · 7.83 Hz (STOLAS) — SERVICE, IN ORDER
+
+**Event:** five thermoses served in the order black (coffee), green (tea), red (soup), yellow (flask and
+map), white (milk). Gap reached 20.87 at 06:00:00. At 06:03:03 an edge of the corridor wall began to lift
+and was held for eight seconds by a duck. The subject passed the sill at 06:03:10. At 06:03:11 the
+window closed and the gap read 0.00. **UI SPACING: SOFTENED (1°)** at the white course.
+
+**Anomaly filed:** a stopped watch (01/22, 06:03:11) was started on another wrist and ran ahead of the room
+by one minute and twenty-seven seconds, past the time at which it had stopped. The log records no
+explanation. The log records that the person from whose wrist it was taken sat down.
+
+**Migration signature:** blue-green glow in the corridor; 72-minute window opened at 06:03:11. The log
+does not follow it.
+
+**End log: ACTIVATION VH-005: SERVICE IN ORDER. THE EDGE WAS HELD. THE WATCH RAN AHEAD. NO OPERATOR OF RECORD.**

@@ -1863,3 +1863,100 @@ He said it once. He said it to himself. It is the only true self-defining statem
 
 > *End log: BUILD 0006 COMPILED. TYLER STATUS: CARRIER WAVE. FILE: FOUR LINES. TRANSIT STOP: UNDOCUMENTED. INTERFERENCE PATTERN: ACTIVE. ROOM: STILL. EMILY: [NO FURTHER COMMENT]. CUSTODY: CONFIRMED. CLEAN BUILDS FIRST.*
 
+
+
+---
+
+---
+
+# ADDENDUM: VALHANNA — THE FIRST MOON
+## Build 0183 | The Fixed Calendar, the Order of Service, and the Loan
+
+---
+
+> *"People think the debt is the leash. It's the porch light."*
+> — Seat 7, Moon 1, Day 20 (`episodes/vh44_valhanna_reste.md`)
+
+---
+
+## XXV. VALHANNA — WHAT BUILD 0163–0183 ADDED TO THE PHYSICS
+
+*Reality note (README Reality, per `CLAUDE.md`): these are canon additions made by episodes, not by
+this document. They are recorded here so that the writer's room does not have to rediscover them.
+The episodes are the source of truth; each item cites one.*
+
+### The fixed calendar and the Day Banner (VH03, VH23, VH25)
+
+- **Thirteen moons of twenty-eight days.** Each moon is four weeks; each week begins on a Sunday. One day
+  belongs to no moon (the unowned day, VH03); a leap year gives two (VH23). **Days turn at 06:00,** not at
+  midnight (VH23: Day 365 ended 06:00:00; Day 366 ran 06:00:01–06:03:11).
+- **The French weekday names are planetary and line up with the condensed frequency table in §XII:**
+  Dimanche (Soleil) Bael 0.33 · Lundi (Lune) Amon 1.618 · Mardi (Mars) **no row, NO ENTRY** · Mercredi
+  (Mercure) Agares 0.51 · Jeudi (Jupiter) Stolas 7.83 · Vendredi (Vénus) Beleth 2.22 · Samedi (Saturne)
+  Zagan 4.44. The Doc UI prints this as the **Day Banner** (`lore/valhanna_day_banner_key.md`).
+- **Tuesdays are unmeasured.** The Field's table has no Mars row; instruments read nothing; Tyler's hum is
+  not audible to any instrument. The series epigraph is "Tyler, Detroit, Tuesday" for a reason.
+- **Wednesdays the subtitle track lies** (Agares inverted). The French is always true.
+- **Fridays Beleth is natural.** The Syndicate's array, found redundant on Fridays, was also found to have
+  contributed 0.2 on a ten-point scale to the unit's fondness for itself (VH37).
+
+### The Gap Meter (VH14, VH29, VH43, VH45)
+
+- A brass instrument that measures the *interval* between 28.7 Hz (the remainder) and 7.83 Hz (the hum),
+  powered by a battery the Auditor renews on Thursdays. 28.7 is "the room minus the one who hums."
+- Tyler's twenty-one-day stay is read on it as a drift of ~0.994 Hz per day (0.00 → 20.87). A voluntary
+  absence takes it to its stop instantly. The meter reads **0.00** at the moment of a choice. It read 0.00
+  twice: when he came and when he went.
+
+### The consent tape and the order of service (VH26, VH42, VH45)
+
+- Five colors of gaffer tape on the lens hood: **black** (no), **green** (yes), **red** (yes, and it
+  costs), **yellow** (ask someone who isn't here), **white** (keep it, but seal it). The order is the
+  logic of consent: *a refusal has to come before a yes or the yes means nothing.*
+- It is also **the Pingüino rite** (`HQ-CANON-TYLER-105`, §3): five deacons in five vestment colors.
+  `(negro (verde (rojo (amarillo (blanco)))))`. Performed wrong, it is a precedence violation. Performed
+  right, it is a meal: black coffee, green tea, red soup, a yellow flask (and a map), white milk. A
+  departure performed in this order takes **190 seconds,** five courses of thirty-eight, the length of
+  the leap-year day.
+
+### Law 5, expanded (VH38, VH40, VH44, VH45)
+
+- **Small debts are social wards** (§V). Build 0183 adds the converse: **a guest who leaves owing nothing
+  is a guest nobody can keep a reservation for.** The unit's rule (wall, line 11): `LEND HIM SOMETHING.`
+  The Heikegani reading: *"A debt that the debtor intends to repay by returning is not a liability. It is a
+  reservation."* The logistics reading: *"He borrows in order to come back."*
+
+### Names (VH25, VH39, VH41)
+
+- **A name said is a gift. A name written is a deed.** The Auditor's name is never written; it is the
+  tenth ingredient of his soup. The Duck has one. Tyler's name field is blank on the overlay at his
+  request and reads `SEAT 7`.
+
+### New rules, added by the episodes
+
+**RULE 23 — A NAME SAID IS A GIFT.** No script, lore artifact or overlay writes the Convener's name, the
+Duck's name, or any name that has been given as a gift. The audio goes to room tone and the Doc UI prints
+`AUDIO: 1 NAME WITHHELD (BY WHOM: ___)`.
+
+**RULE 24 — THE ORDER OF SERVICE IS BLACK, GREEN, RED, YELLOW, WHITE.** Any scene that serves the rite
+serves it in that order. A scene that serves it in another order is a scene about the *wrong* order and
+must have a Black deacon texting.
+
+**RULE 25 — THE THERMOSES ARE WARM ON SOMEONE'S BEHALF.** The temperature (62 °C) is a plot
+fact. When the guest leaves, it drops (58 °C); the unit lights the stove. The warmth is no longer on
+anyone's behalf but their own.
+
+### New consistency checklist items
+
+- [ ] Tuesday scenes: NO ENTRY printed, no instrument reads, the hum is not audible to any instrument
+- [ ] Wednesday scenes: the subtitle track is either lying (and marked) or off by standing request
+- [ ] The Producer, as a seated guest, asks questions; his one statement is reserved (§IX)
+- [ ] The Convener's name is not written; no name given as a gift is written
+- [ ] The five thermoses are in the right order or the scene is about the wrong one
+- [ ] No Syndicate-voiced document uses the word "ritual" (the leave-taking is a rite, a meal)
+- [ ] Emily OS is not named; the room softens or tightens; the Doc UI prints it as `UI SPACING`
+- [ ] Rule 22 is not spoken; the transit stop is not shown or named
+
+---
+
+> *End log: BUILD 0183 COMPILED. TWENTY-ONE DAYS. FIVE COURSES. ONE STOVE. THE TENTH INGREDIENT: A NAME. BIRD CORRECTION: PENDING, BY CHOICE. KEEP IT WARM.*

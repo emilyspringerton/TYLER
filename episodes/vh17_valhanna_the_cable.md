@@ -117,10 +117,10 @@ C'est — gentil. Je n'ai besoin de rien.
 L'inspecteur a dit que vous aviez une chaise aussi.
 
 **PRODUCER (O.S., from the thermos)**
-*(French; SUBTITLED: "I do. The sixth. I'm not in it.")*
-Oui. La sixième. Je n'y suis pas.
+*(French; SUBTITLED: "I do. The fourth. I'm not in it.")*
+Oui. La quatrième. Je n'y suis pas.
 
-*Hana's eyes go, without her permission, to the sixth folding chair in the arc. Empty. A thin line of
+*Hana's eyes go, without her permission, to the fourth folding chair in the arc. Empty. A thin line of
 steam stands on its seat, as if something had just been set down on it and taken back.*
 
 **HANA**

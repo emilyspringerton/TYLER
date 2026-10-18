@@ -4417,3 +4417,77 @@ the unit's procedures and there is nothing to say about this.
 to write than to not write.
 
 *End memo: MEMO #081-R1 FILED. NO BINDING. NO ADDRESSEE. ONE CHAIR, UNCLAIMED.*
+
+
+---
+
+## MEMO #081-R2 — CORRESPONDENCE (FIRST)
+**FROM:** Production, Unit A (residual; binding authority: none; seat: the fourth)
+**TO:** The Cataloguer, Eastwind Archive, Cairngorms
+**RE:** Correspondence (first)
+**DATE:** Moon 1, Day 9
+
+1. Is it correct that the Archive is unable to destroy records?
+2. Is it not also correct that this unit is similarly constrained?
+3. Has the Archive found a remedy for shelf space?
+4. Would the Archive consider it impertinent to have been asked?
+5. Is it possible for a unit to regret a project it has not been authorized to describe?
+6. Might a record be kept without being used?
+7. Would the Archive be willing to correspond?
+8. Is the Archive well?
+
+*Filed by the unit on the Producer's dictation, read aloud at the second regular meeting (VH33).
+The Syndicate's constitutional inability to destroy records is noted in the margin by a hand that is
+not the Secretary's. The margin note reads, in full: "Yes." The memo was posted through a dot-matrix
+printer and was accepted. The Archive's reply is filed as TYLER-VH-005.*
+
+*End memo: MEMO #081-R2 FILED. EIGHT QUESTIONS. NO REQUEST FOR A FILE.*
+
+
+---
+
+## MEMO #081-R3 — DISCLOSURE (APPARATUS)
+**FROM:** Production, Unit A (residual; binding authority: none; seat: the fourth)
+**TO:** Unit A (the whole table)
+**RE:** Disclosure (apparatus)
+**DATE:** Moon 1, Day 13
+
+1. Is it permissible to disclose that the documentary equipment doubles as a Field projection array?
+2. Is it not so that the array is housed in the lens hoods, and has been since the project began?
+3. Is it not so that the array was run at working level on Beleth, 2.22 Hz, for the duration of the
+   project, on the stated ground that a unit that is fond of itself does not walk off a set?
+4. Did it not seem to anyone, in the early days, that a crew became fond of one another remarkably quickly?
+5. Is it not so that the array was brought to zero on the unowned day, there being no date to key it to?
+6. Is it not so that on Day 6, asked whether I could lower it, I said I would try, and that it was already
+   at zero?
+7. Was that not a lie told in order to be of use?
+8. Might the unit wish to know how much of its fondness was assisted?
+
+*Read aloud by the Secretary at the Friday sitting (VH37). Tested by protocol the same morning:
+array off, 8.4; array at working level for sixty seconds, 8.6; difference 0.2, "within the noise." The
+Syndicate's design assumption (that fondness can be applied) is entered in the margin as
+"unsupported at the margin of error." The Producer's seat score, 8.5, is the highest recorded for a
+guest. The array coil remains in the lens hood. It has not been removed. It has not been turned on since.*
+
+*End memo: MEMO #081-R3 FILED. DISCLOSED. THE FONDNESS WAS NOT ASSISTED.*
+
+
+---
+
+## MEMO #081-R4 — TRANSFER (ONE QUESTION)
+**FROM:** Production, Unit A (residual; binding authority: none; seat: the fourth, vacated)
+**TO:** Seat 7
+**RE:** Transfer
+**DATE:** Moon 1, Day 22, 06:00:39
+
+1. May I come?
+
+**REPLY (oral, 06:00:41):** Yes.
+
+*There is no further text. The unit's last transmission as a unit is one question and its answer. At
+06:03:11 the seat was vacated. The thermos in which the Producer's voice had ridden since the unowned day left
+the room in the subject's hands at 06:03:10, one second before the window closed. The
+Syndicate's discontinuation of the Tyler binding protocol (Memo #081, final) remains in force. This memo
+creates no binding.*
+
+*End memo: MEMO #081-R4 FILED. ONE QUESTION. ONE ANSWER. THE UNIT HAS A NEW ADDRESS.*
