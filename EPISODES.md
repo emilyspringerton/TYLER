@@ -387,6 +387,17 @@ interludes (x00-x04, listed with SEASON 1 below historically but shelved togethe
 side content), are published to `okemily.com/tyler/`. Series X is now fully represented in the
 reading room; the numbered S01-S11 season episodes are not.
 
+**Reading room status (2026-10-18): everything is published.** All 162 episode scripts in `episodes/`
+(S00, S01-S11, S06b, Series X, the New Line, VALHANNA VH00-VH45, and the experimental variants) are live at
+`okemily.com/tyler/<slug>/`, newest first. `scripts/publish_reading_room.py` did it: it strips each file's
+header block, keeps the body byte for byte (a `--selftest` re-renders the ten episodes that were already live and
+compares them), posts through IDUNA's create-only `POST /api/v1/tyler/episodes` as an agent holding
+`tyler.write`, skips slugs that are already live (so it can be re-run or resumed), and with `--verify-public`
+fetches each page from the real site and checks the title. x05-x07 and the experimental variants carry their
+"NOT CANON UNLESS PROMOTED" tag in the reading-room title. Not published: `lore/`, `characters/`, `manuscripts/`
+(artifacts, not episodes). **The room has no update or delete API**, so later edits to an episode file do not
+propagate; the index is flat and newest-first (a series-grouped index is a small IDUNA template change).
+
 † **S00E-1 is a bridge episode.** Story chronology places it FIRST — June 18–21, 2026, between Jiangshi Final Memo #081 (S11E08, Fez, "the Syndicate will make its own determination") and the Pontiac ground state (S00E00, June 27). Production order places it after S00E03 (Build 0128, written after Build 0127). It dramatizes the determination session: Attempt Four archived, Attempt Five authorized, "the oscillation is the subject" adopted, NOOR-1 dispatched to the Michigan corridor.
 
 **Series X note:** New continuity. Not a continuation of Attempt Four (archived S1–S11). Attempt Five begins. Carrier wave ground state: hum precedes Jiangshi operations. Tyler natal chart + Camera Op natal chart + 28.7 Hz + Jupiter Cancer egress fully integrated. STINKIES COMMISSAIRE Store 0 (Pontiac, MI) established as diegetic location.
