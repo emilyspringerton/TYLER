@@ -4,10 +4,17 @@
 
 ---
 
-**Total episodes:** 102
+**Total episodes:** 122
 **Seasons complete:** S1–S11 + S00 (Series X ground state) + NEVER_LAND E1–E5 + SEASON 6 (TAKE 2)
-E0–E2 + VALHANNA VH01–VH04 (pilot cold open, season opening; VH02–VH04 cold opens)
-**Current through:** Build 0142 (SEASON VALHANNA, VH04 — "Les Chaises Pliantes," cold open; the
+E0–E2 + VALHANNA VH01–VH24 (pilot cold open, season opening; VH02–VH24 cold opens)
+**Current through:** Build 0162 (SEASON VALHANNA, VH24 — "Je Crois Qu'On Vous Regarde Aussi," cold open;
+closes the VH05–VH24 block of twenty: the date field refills at `01 / 01`, the Gap Meter reads
+0.00 Hz, wall rule 10 is decided ("NOBODY READS THE END FOR HIM"), Tyler arrives, sits in the
+seventh chair, and turns VH01's line around — "Je crois qu'on vous regarde aussi" — then starts
+one sentence, "Je suis l'homme qui —", that is not finished. See SEASON: VALHANNA below for
+VH05–VH23.)
+
+**Previous entry — Build 0142** (SEASON VALHANNA, VH04 — "Les Chaises Pliantes," cold open; the
 person at the door arrives: a grid compliance inspector (`characters/the_auditor.md`, first
 placement; title only, no name on the badge) carrying a stockpot wider than the doorway and seven
 folding chairs, one more than his list. The coffee is his; the minestrone is his recipe, nine of
@@ -218,6 +225,50 @@ run is left open, same standing convention every prior named season has used.
 | VH02 | "Tree SHA" (Cold Open) | 0140 | episodes/vh02_valhanna_tree_sha.md |
 | VH03 | "Jour Hors du Temps" (Cold Open) | 0141 | episodes/vh03_valhanna_day_out_of_time.md |
 | VH04 | "Les Chaises Pliantes" (Cold Open) | 0142 | episodes/vh04_valhanna_les_chaises_pliantes.md |
+| VH05 | "Le Seuil" (Cold Open) | 0143 | episodes/vh05_valhanna_le_seuil.md |
+| VH06 | "Inventaire" (Cold Open) | 0144 | episodes/vh06_valhanna_thermos_three.md |
+| VH07 | "Silence Radio" (Cold Open) | 0145 | episodes/vh07_valhanna_dead_air.md |
+| VH08 | "Taux Journalier" (Cold Open) | 0146 | episodes/vh08_valhanna_day_rate.md |
+| VH09 | "Entrée 23" (Cold Open) | 0147 | episodes/vh09_valhanna_entry_23.md |
+| VH10 | "Le Cheval" (Cold Open) | 0148 | episodes/vh10_valhanna_le_cheval.md |
+| VH11 | "Le Canard Prend la Journée" (Cold Open) | 0149 | episodes/vh11_valhanna_the_duck_takes_the_day.md |
+| VH12 | "La Manche" (Cold Open) | 0150 | episodes/vh12_valhanna_hanas_sleeve.md |
+| VH13 | "Le Plan à Deux" (Cold Open) | 0151 | episodes/vh13_valhanna_two_shot.md |
+| VH14 | "Le Reste" (Cold Open) | 0152 | episodes/vh14_valhanna_le_reste.md |
+| VH15 | "16 h 22" (Cold Open) | 0153 | episodes/vh15_valhanna_16_22.md |
+| VH16 | "Non Consigné" (Cold Open) | 0154 | episodes/vh16_valhanna_unlogged.md |
+| VH17 | "Le Câble" (Cold Open) | 0155 | episodes/vh17_valhanna_the_cable.md |
+| VH18 | "Lecture Anticipée" (Cold Open) | 0156 | episodes/vh18_valhanna_read_ahead.md |
+| VH19 | "Cam Traverse" (Cold Open) | 0157 | episodes/vh19_valhanna_cam_crosses.md |
+| VH20 | "Soixante-Douze" (Cold Open) | 0158 | episodes/vh20_valhanna_entry_25.md |
+| VH21 | "Le Mur" (Cold Open) | 0159 | episodes/vh21_valhanna_le_mur.md |
+| VH22 | "Le Canard Sait" (Cold Open) | 0160 | episodes/vh22_valhanna_le_canard_sait.md |
+| VH23 | "Jour 366" (Cold Open) | 0161 | episodes/vh23_valhanna_jour_366.md |
+| VH24 | "Je Crois Qu'On Vous Regarde Aussi" (Cold Open) | 0162 | episodes/vh24_valhanna_je_crois_quon_nous_regarde.md |
+
+**VH05–VH24 (founder real-time, 2026-10-18: "write the next 20 episodes of TYLER"):** one block, one
+spine — after the inspector of VH04 leaves his chairs and his soup, the crew spends the rest of the
+Day Out of Time in a room set for guests, facing a door, and decides what to do about it. Beats:
+the PA's gaffer-tape rule, which the steam from VH04 obeys, and a third (tea) thermos (VH05–06); the
+Producer is only a carrier on the room's 7.83 Hz (VH07) and the radio's cable ends in the tea
+(VH17); the Shell Parliament's accrual engine fails six times to bill a day with no date (VH08);
+Cam's Entry 23 (VH) read aloud, one line withheld, and PA-001 (VH09); the Icelandic horse from
+Toledo crosses the tape and is the hum (VH10); the Duck's noir account (VH11) and its one French
+sentence (VH22); the older/alternate Hana's sleeve, whose S06b warning is corrected from "start"
+to "**stop**" (VH12); the camera refuses a Hana two-shot until she says "now" (VH13, VH23); the
+inspector returns and hands over the Gap Meter, on the `JEUDI` battery: 28.7 Hz is "the room minus
+the one who hums" (VH14); at 16:22 the door shows the root node (location withheld, 28.7/3.33/7.83 Hz)
+(VH15); four unlogged hours (VH16); the repo printout returns as `tree_sha: [NOT YET COMMITTED]`
+and is sent back unread (VH18); Cam crosses and returns 11 minutes later with 72 on her card and an
+Entry 25 (VH) not in her hand (VH19–20); the wall that dictated the Producer's rules is a mirror of the
+crew's own decisions (VH21); Day 365 ends 06:00:00, Day 366 lasts 3 min 10 s (VH23); Tyler arrives and
+takes the seventh chair (VH24). **Bird Correction: still PENDING — now by the unit's choice.** Open
+going forward: the tenth ingredient (the soup went from nine to ten between VH04 and VH14); Entry 25
+(VH)'s author; the white on Cam's card; the word Cam mouthed (VH19); the older Hana's cuff; the
+printer sheet at the end of VH23; the Duck's thermos; the inspector's name. Writer's Room guard-rails
+kept: no "ritual" in any script, Rule 21 (nothing of the transit stop or the root-node bed is shown),
+Rule 22 unsaid, and nothing comments on the Emily OS Tyler file's line count (VH21's wall lists only
+the crew's own rules).
 
 **VH01, "Je Ne Sais Quoi" (founder-directed cold open, pilot for the new season):** Tyler and Hana
 wake in an abandoned 1986 server room in Iceland — all servers gone, one dot-matrix printer still

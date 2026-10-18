@@ -2565,3 +2565,20 @@ strange, and there wasn't one. There still isn't. There are seven of them in a r
 servers and the number is still sixty-three.
 
 He asked nothing about the book. He gave me a battery that is not a spare.
+
+
+---
+
+## ENTRY 25 (VH) — UNATTRIBUTED
+**Filed by:** the Eastwind Cataloguer, metadata only
+**Build:** 0158 (VH20)
+
+*Note: sealed content is held per standing agreement. Only what the room saw is recorded here.*
+
+Found: in the practitioner's notebook, below Entry 24 (VH), after she returned from the doorway
+(11 minutes on the unit's clock; 72 minutes on her card).
+Ink: matches hers. Hand: a hair rounder; the slant is slightly off. She did not write it.
+The notebook had been closed since the unlogged hour (VH16).
+Read by: the practitioner (twice), the PA, the director.
+Status: **NOT RELEASED.** The practitioner says she does not yet know whether it is true: *"I wasn't
+there for it."*

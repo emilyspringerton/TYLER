@@ -56,3 +56,62 @@ renumbered in place.
 
 *End log: VALHANNA RECEIPT INDEX CURRENT THROUGH BUILD 0142. FOUR EPISODES. NINE OPEN THREADS. ONE
 ANSWERED OUTRIGHT. ONE CHAIR, FACING THE DOOR.*
+
+---
+
+## V. BLOCK TWO — VH05–VH24 (Builds 0143–0162), ADDED AT BUILD 0162
+
+*Added, not corrected (standing rule 2). Rows in sections I and III above are untouched; where a
+thread moved, the movement is recorded here and cites the original.*
+
+### V.a Receipts
+
+| Build | Episode | Receipt | Where it lives |
+|---|---|---|---|
+| 0143 | VH05 "Le Seuil" | Gaffer tape in front of the seventh chair, "the only rule we've got"; steam that stops at it; thermos (3), green enamel, tea | `episodes/vh05_valhanna_le_seuil.md` |
+| 0144 | VH06 "Inventaire" | The PA's inventory: soup (his recipe), coffee (his), tea (not); a row of six cups and flasks | `episodes/vh06_valhanna_thermos_three.md` |
+| 0145 | VH07 "Silence Radio" | The Producer's voice rides a held 7.83 Hz bar; with the voice stripped, the carrier remains | `episodes/vh07_valhanna_dead_air.md` |
+| 0146 | VH08 "Taux Journalier" | Shell Parliament statement of accrual, CO-001: six retries, "Thank you for your patience" | `episodes/vh08_valhanna_day_rate.md` |
+| 0147 | VH09 "Entrée 23" | Entry 23 (VH) read aloud, one line, withheld by Cam; PA-001, one word | `episodes/vh09_valhanna_entry_23.md` |
+| 0148 | VH10 "Le Cheval" | One Icelandic horse; hoofprint in the tape; 7.83 Hz attributed to her | `episodes/vh10_valhanna_le_cheval.md` |
+| 0149 | VH11 "Le Canard Prend la Journée" | The Duck's noir account; a folding chair against its wall; the calendar off its nail | `episodes/vh11_valhanna_the_duck_takes_the_day.md` |
+| 0150 | VH12 "La Manche" | An olive canvas sleeve, blood dried to the elbow; the S06b warning corrected from *start* to *stop* | `episodes/vh12_valhanna_hanas_sleeve.md` |
+| 0151 | VH13 "Le Plan à Deux" | Hana back; the fifth chair's bowl still hot; the Doc UI refuses a two-shot | `episodes/vh13_valhanna_two_shot.md` |
+| 0152 | VH14 "Le Reste" | The Gap Meter (28.7 ⟷ 7.83 = 20.87 Hz), on the `JEUDI` battery, now Cam's; the soup has ten ingredients | `episodes/vh14_valhanna_le_reste.md` |
+| 0153 | VH15 "16 h 22" | At 16:22 the door shows a room with a wall clock and three tones (28.7 / 3.33 / 7.83 Hz); location withheld | `episodes/vh15_valhanna_16_22.md` |
+| 0154 | VH16 "Non Consigné" | Four unlogged hours: `HH:MM:SS — NAME — UNLOGGED / RETURNED`; nothing shown | `episodes/vh16_valhanna_unlogged.md` |
+| 0155 | VH17 "Le Câble" | The radio's lead ends in thermos (3); the Producer is "the part of it that talks"; his chair is the sixth, and empty | `episodes/vh17_valhanna_the_cable.md` |
+| 0156 | VH18 "Lecture Anticipée" | CONSTRUCT printout #2, `tree_sha: [NOT YET COMMITTED]`, returned unread | `episodes/vh18_valhanna_read_ahead.md` |
+| 0157 | VH19 "Cam Traverse" | Cam across the line; Camera 1 white, Camera 2 shows her stationary | `episodes/vh19_valhanna_cam_crosses.md` |
+| 0158 | VH20 "Soixante-Douze" | Card CAM1_0001.MOV, 01:12:00; 11 minutes elapsed, 72 recorded; sealed-log Entry 25 (VH) | `episodes/vh20_valhanna_entry_25.md`; `lore/camera_op_sealed_log.md` ENTRY 25 (VH) |
+| 0159 | VH21 "Le Mur" | The north wall: a stencil of the crew's own rules, a delay behind what they say | `episodes/vh21_valhanna_le_mur.md` |
+| 0160 | VH22 "Le Canard Sait" | One French sentence crosses between the Duck's dream and the room | `episodes/vh22_valhanna_le_canard_sait.md` |
+| 0161 | VH23 "Jour 366" | Day 365 ends 06:00:00; Day 366 runs 3 min 10 s; the first Hana two-shot | `episodes/vh23_valhanna_jour_366.md` |
+| 0162 | VH24 "Je Crois Qu'On Vous Regarde Aussi" | Date field refilled at `01 / 01`; Gap Meter 0.00 Hz; wall rule 10; the seventh chair occupied | `episodes/vh24_valhanna_je_crois_quon_nous_regarde.md` |
+
+### V.b Thread movements (each cites the row in §III it moves)
+
+| Thread (§III) | Status after VH24 |
+|---|---|
+| **Bird Correction** | PENDING. Since VH24 by the unit's decision, recorded as wall rule 10: *nobody reads the end for him.* VH12's correction of the S06b warning (*stop*, not *start*) is the argument for it |
+| **The seventh chair** | Occupied at VH24 (Tyler). Facing the door throughout |
+| **Hana** | Present from VH13. A second Hana, older, hand and sleeve in VH12, face in VH23; she did not come in |
+| **The tenth ingredient** | Still open. The soup had nine on VH04 and ten on VH14; the inspector did not add it and "would hire" whoever did. Nobody has seen it added |
+| **Entry 23** | Still sealed by its author. Read aloud once (VH09), content withheld by Cam herself. A line, not a word |
+| **28.7 vs 28** | Answered in the inspector's terms (VH14): the room minus the one who hums; 7.83 Hz is the hum, attributed to the horse (VH10). Reaches 0.00 at VH24 |
+| **Whose thermoses** | Soup and coffee: the inspector's (VH04). Tea: made for someone, voiced by the Producer (VH17), poured for Tyler (VH24). Hana's, then the Duck's, make five |
+| **Rule 22** | Not said |
+
+### V.c New open threads
+
+- Sealed-log **Entry 25 (VH)**, written in a hand a hair rounder than Cam's, in her ink, in a notebook
+  that had been closed
+- The word Cam mouthed in the doorway (VH19)
+- The sheet the printer produced at the end of VH23
+- The older Hana's cuff, and the three stitches on her temple
+- The inspector's name (blank on his badge; still blank)
+- What is in the Duck's thermos
+
+---
+
+*End log: VALHANNA RECEIPT INDEX CURRENT THROUGH BUILD 0162. TWENTY-FOUR EPISODES. THE SEVENTH CHAIR IS OCCUPIED. THE TENTH INGREDIENT IS STILL NOT ACCOUNTED FOR.*
